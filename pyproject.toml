@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ctf-ratings"
+version = "0.1.0"
+description = ""
+authors = ["theoremoon <theoldmoon0602@gmail.com>"]
+license = "Apache 2.0"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.25.1"
+beautifulsoup4 = "^4.9.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
