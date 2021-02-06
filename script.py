@@ -2,14 +2,17 @@ import argparse
 import sys
 import json
 import os
+from datetime import datetime
 from lib.ctfd import CTFdScraper
+from lib.justctf import JustCTFScraper
 from lib.perf import PerfomanceCalculator
 
-PLATFORMS = {"ctfd": CTFdScraper}
+PLATFORMS = {"ctfd": CTFdScraper, "justctf": JustCTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("name")
+    parser.add_argument("date")
     parser.add_argument("url")
     parser.add_argument("--platform", default="ctfd")
 
@@ -18,6 +21,7 @@ def main():
         print("Currently supported platforms are: {}".format(PLATFORMS.keys()), file=sys.stderr)
         quit(1)
 
+    date = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
     scraper = PLATFORMS[args.platform](args.url)
     teams, challenges = scraper.teams_chals()
 
@@ -25,7 +29,7 @@ def main():
         with open("./ctf.json", "r") as f:
             ctf = json.load(f)
     else:
-        ctf = {"teams": {}, "challenges": []}
+        ctf = {"teams": {}, "events": []}
 
     team_standings = [t[0] for t in sorted(teams.items(), key=lambda x: len(x[1]), reverse=True)]
 
@@ -36,20 +40,21 @@ def main():
         p = team_perfs[i]
         rating = perf.calc_new_rating(t, p)
         if t not in ctf["teams"]:
-            ctf["teams"][t] = {
-                "events": [],
-                "performances": [],
-                "ratings": [],
-                "solves": [],
-                "standings": [],
-            }
-        ctf["teams"][t]["events"].append(args.name)
-        ctf["teams"][t]["performances"].append(p)
-        ctf["teams"][t]["ratings"].append(rating)
-        ctf["teams"][t]["solves"].append(teams[t])
-        ctf["teams"][t]["standings"].append(i)
+            ctf["teams"][t] = []
 
-    ctf["challenges"].append(challenges)
+        ctf["teams"][t].append({
+            "event": args.name,
+            "performance": p,
+            "rating": rating,
+            "solves": teams[t],
+            "rank": i+1,
+        })
+
+    ctf["events"].append({
+        "name": args.name,
+        "date": date,
+        "challenges": challenges,
+    })
     with open("./ctf.json", "w") as f:
         json.dump(ctf, f, ensure_ascii=False)
 

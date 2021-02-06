@@ -9,7 +9,7 @@ class PerfomanceCalculator():
         if team not in self.teams:
             return [1000.0] # initial performance of each team
 
-        return self.teams[team]["performances"]
+        return [e["performance"] for e in self.teams[team]]
 
     def get_perticipant_times(self, team: str) -> int:
         """

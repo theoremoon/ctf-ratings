@@ -1,8 +1,9 @@
 import requests
 import time
 from urllib.parse import urljoin
+from lib.scraper import IScraper
 
-class CTFdScraper():
+class CTFdScraper(IScraper):
     def __init__(self, url):
         self.url = url
 
@@ -35,7 +36,7 @@ class CTFdScraper():
         for t, cs in team_chals.items():
             ids = [c["challenge_id"] for c in cs]
             team_ids[t] = ids
-            challenges.update({c["challenge_id"]:{"name": c["challenge"]["name"], "category": c["challenge"]["category"]} for c in cs})
+            challenges.update({c["challenge_id"]:{"name": c["challenge"]["name"], "categories": [c["challenge"]["category"]]} for c in cs})
 
         return team_ids, challenges
 
