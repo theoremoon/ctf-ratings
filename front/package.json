@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "nuxt": "^2.14.12"
+  },
+  "name": "CTF-ratings",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  }
+}
