@@ -1,10 +1,6 @@
 <template>
     <div class="challenges">
-        <div v-for="(c, c_id) in challenges" :key="c.name">
-            <h3 class="challenge-name"><NuxtLink :to="{name: 'event-name-id', params: {name: eventname, id: c_id}}">{{ c.name }}</NuxtLink></h3>
-            <div class="challenge-body">
-            </div>
-        </div>
+        <challengepanel :challengeid="c_id" :challenge="c" :eventname="eventname" v-for="(c, c_id) in challenges" :key="c_id" />
     </div>
 </template>
 

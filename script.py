@@ -7,6 +7,7 @@ from lib.ctfd import CTFdScraper
 from lib.justctf import JustCTFScraper
 from lib.xctf import XCTFScraper
 from lib.perf import PerfomanceCalculator
+from lib.difficulty import calc_difficulty
 
 PLATFORMS = {"ctfd": CTFdScraper, "justctf": JustCTFScraper, "xctf": XCTFScraper}
 
@@ -37,20 +38,29 @@ def main():
 
     perf = PerfomanceCalculator(ctf["teams"])
     team_perfs = perf.calc_performance(team_standings)
+
+    team_updates = {}
     for i in range(len(team_standings)):
         t = team_standings[i]
         p = team_perfs[i]
         rating = perf.calc_new_rating(t, p)
-        if t not in ctf["teams"]:
-            ctf["teams"][t] = []
-
-        ctf["teams"][t].append({
+        team_updates[t] = {
             "event": args.name,
             "performance": p,
             "rating": rating,
             "solves": teams[t],
             "rank": i+1,
-        })
+        }
+
+    for t, update in team_updates.items():
+        if t not in ctf["teams"]:
+            ctf["teams"][t] = []
+
+        ctf["teams"][t].append(update)
+
+    for c_id in challenges.keys():
+        diff = calc_difficulty(c_id, [t for t in team_updates.values()])
+        challenges[c_id]["difficulty"] = diff
 
     ctf["events"].append({
         "name": args.name,

@@ -1,5 +1,6 @@
 import json
 from lib.perf import PerfomanceCalculator
+from lib.difficulty import calc_difficulty
 from typing import List
 
 
@@ -18,20 +19,27 @@ def main():
         perf = PerfomanceCalculator(cur_data["teams"])
         team_perfs = perf.calc_performance(team_standings)
 
+        team_updates = {}
         for i in range(len(team_standings)):
             t = team_standings[i]
             p = team_perfs[i]
             rating = perf.calc_new_rating(t, p)
-            if t not in cur_data["teams"]:
-                cur_data["teams"][t] = []
-
-            cur_data["teams"][t].append({
+            team_updates[t] = {
                 "event": ev["name"],
                 "performance": p,
                 "rating": rating,
                 "solves": team_solves[t],
                 "rank": i+1,
-            })
+            }
+
+        for c_id in ev["challenges"].keys():
+            diff = calc_difficulty(c_id, [t for t in team_updates.values()])
+            ev["challenges"][c_id]["difficulty"] = diff
+
+        for t, update in team_updates.items():
+            if t not in cur_data["teams"]:
+                cur_data["teams"][t] = []
+            cur_data["teams"][t].append(update)
 
         cur_data["events"].append(ev)
 

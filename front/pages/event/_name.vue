@@ -23,13 +23,7 @@
             <div>
                 <NuxtChild />
                 <div class="challenges">
-                    <div v-for="c in challenges">
-                        <h3 class="challenge-name"><NuxtLink :to="{name: 'event-name-id', params: {name: eventname, id: c.id}}">{{ c.name }}</NuxtLink></h3>
-                        <div class="challenge-body">
-                            <div><span style="font-size: 1.5rem;">{{ c.solves.length }}</span> solves</div>
-                            <div class="challenge-categories"><span v-for="cat in c.categories">{{ cat }}</span></div>
-                        </div>
-                    </div>
+                    <challengepanel :challenge="c" :challengeid="c.id" :eventname="eventname" v-for="c in challenges" :key="c.id"/>
                 </div>
             </div>
         </div>
@@ -86,37 +80,4 @@ export default {
     display: flex;
     flex-wrap: wrap;
 }
-.challenges>div {
-    max-width: 15rem;
-    min-width: 10rem;
-    background-color: #eeeeee;
-    margin: 1rem;
-    border-radius: 5px;
-}
-.challenge-name {
-    border-radius: 5px 5px 0 0;
-    margin: 0;
-    padding: 0.25rem 0.5rem;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    background-color: #dddddd;
-}
-.challenge-body {
-    padding: 0.25rem;
-    height: 5rem;
-    position: relative;
-}
-.challenge-categories {
-    position: absolute;
-    bottom: 0;
-}
-.challenge-categories>span {
-    display: inline-block;
-    background-color: #aaaaaa;
-    border-radius: 2px;
-    margin: 0.25rem;
-    padding: 0 0.25rem;
-}
-
 </style>
