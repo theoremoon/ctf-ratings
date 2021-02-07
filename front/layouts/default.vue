@@ -17,6 +17,7 @@
 html, body {
     padding: 0;
     margin: 0;
+    font-family: arial,sans-serif;
 }
 header {
     display: flex;
