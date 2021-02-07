@@ -2,14 +2,16 @@ import argparse
 import sys
 import json
 import os
+from typing import List
 from datetime import datetime
 from lib.ctfd import CTFdScraper
 from lib.justctf import JustCTFScraper
 from lib.xctf import XCTFScraper
+from lib.rctf import RCTFScraper
 from lib.perf import PerfomanceCalculator
 from lib.difficulty import calc_difficulty
 
-PLATFORMS = {"ctfd": CTFdScraper, "justctf": JustCTFScraper, "xctf": XCTFScraper}
+PLATFORMS = {"ctfd": CTFdScraper, "justctf": JustCTFScraper, "xctf": XCTFScraper, "rctf": RCTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
@@ -32,9 +34,9 @@ def main():
         with open("./ctf.json", "r") as f:
             ctf = json.load(f)
     else:
-        ctf = {"teams": {}, "events": []}
+        ctf = {"teams": {}, "events": {}}
 
-    team_standings = [t[0] for t in sorted(teams.items(), key=lambda x: len(x[1]), reverse=True)]
+    team_standings: List[str] = sorted([t for t in teams.keys()], key=lambda x: len(teams[x]), reverse=True)
 
     perf = PerfomanceCalculator(ctf["teams"])
     team_perfs = perf.calc_performance(team_standings)
@@ -54,19 +56,19 @@ def main():
 
     for t, update in team_updates.items():
         if t not in ctf["teams"]:
-            ctf["teams"][t] = []
-
-        ctf["teams"][t].append(update)
+            ctf["teams"][t] = {"name": t, "events": {}, "rating": 0}
+        ctf["teams"][t]["events"][args.name] = update
+        ctf["teams"][t]["rating"] = update["rating"]
 
     for c_id in challenges.keys():
         diff = calc_difficulty(c_id, [t for t in team_updates.values()])
         challenges[c_id]["difficulty"] = diff
 
-    ctf["events"].append({
+    ctf["events"][args.name] = {
         "name": args.name,
         "date": date,
         "challenges": challenges,
-    })
+    }
     with open("./ctf.json", "w") as f:
         json.dump(ctf, f, ensure_ascii=False)
 

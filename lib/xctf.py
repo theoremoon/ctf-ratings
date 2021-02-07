@@ -43,8 +43,8 @@ class XCTFScraper(IScraper):
 
 
     def teams_chals(self):
-        team_ids = {t["obj_name"]:[k for k, v in t.items() if _is_solveditem(v)] for t in self._scoreboard()}
-        tasks = {t["id"]:{"categories":[t["category_name"]], "name":t["task"]["title"]} for cat in self._tasks().values() for t in cat}
+        team_ids = {t["obj_name"]:[str(k) for k, v in t.items() if _is_solveditem(v)] for t in self._scoreboard()}
+        tasks = {str(t["id"]):{"categories":[t["category_name"]], "name":t["task"]["title"]} for cat in self._tasks().values() for t in cat}
 
         return team_ids, tasks
 

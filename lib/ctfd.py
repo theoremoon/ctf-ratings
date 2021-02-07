@@ -34,9 +34,9 @@ class CTFdScraper(IScraper):
         challenges = {}
         used_ids = set()
         for t, cs in team_chals.items():
-            ids = [c["challenge_id"] for c in cs]
+            ids = [str(c["challenge_id"]) for c in cs]
             team_ids[t] = ids
-            challenges.update({c["challenge_id"]:{"name": c["challenge"]["name"], "categories": [c["challenge"]["category"]]} for c in cs})
+            challenges.update({str(c["challenge_id"]):{"name": c["challenge"]["name"], "categories": [c["challenge"]["category"]]} for c in cs})
 
         return team_ids, challenges
 

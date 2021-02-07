@@ -2,14 +2,14 @@ import math
 from typing import List, Dict
 
 class PerfomanceCalculator():
-    def __init__(self, teams: Dict):
+    def __init__(self, teams: Dict[str, Dict]):
         self.teams = teams
 
     def get_past_perfs(self, team: str) -> List[float]:
         if team not in self.teams:
             return [1000.0] # initial performance of each team
 
-        return [e["performance"] for e in self.teams[team]]
+        return [e["performance"] for e in self.teams[team]["events"].values()]
 
     def get_perticipant_times(self, team: str) -> int:
         """

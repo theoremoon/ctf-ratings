@@ -1,6 +1,6 @@
 from sklearn.linear_model import LogisticRegression
 
-def calc_difficulty(challenge_id, teams):
+def calc_difficulty(challenge_id: str, teams):
     """
     問題のdifficultyを推定する
     問題のdifficultyがX = performance Xのチームが90%の確率でそれを解ける
@@ -9,7 +9,7 @@ def calc_difficulty(challenge_id, teams):
     中身はロジスティック回帰
     """
     perfs = [[t["performance"]] for t in teams]
-    solved = [1 if int(challenge_id) in map(int, t["solves"]) else 0 for t in teams]
+    solved = [1 if challenge_id in t["solves"] else 0 for t in teams]
 
     if all([s == 1 for s in solved]):
         return -10000

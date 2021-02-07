@@ -20,8 +20,8 @@ class JustCTFScraper(IScraper):
         return data
 
     def teams_chals(self):
-        team_ids = {t["team"]["name"]:[task["id"] for task in t["team"]["task_solved"]] for t in self._scoreboard()}
-        challenges = {task["id"]:{"name":task["name"], "categories":task["categories"]} for task in self._task()}
+        team_ids = {t["team"]["name"]:[str(task["id"]) for task in t["team"]["task_solved"]] for t in self._scoreboard()}
+        challenges = {str(task["id"]):{"name":task["name"], "categories":task["categories"]} for task in self._task()}
 
         return team_ids, challenges
 
