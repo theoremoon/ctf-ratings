@@ -5,9 +5,10 @@ import os
 from datetime import datetime
 from lib.ctfd import CTFdScraper
 from lib.justctf import JustCTFScraper
+from lib.xctf import XCTFScraper
 from lib.perf import PerfomanceCalculator
 
-PLATFORMS = {"ctfd": CTFdScraper, "justctf": JustCTFScraper}
+PLATFORMS = {"ctfd": CTFdScraper, "justctf": JustCTFScraper, "xctf": XCTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
@@ -15,6 +16,7 @@ def main():
     parser.add_argument("date")
     parser.add_argument("url")
     parser.add_argument("--platform", default="ctfd")
+    parser.add_argument("--session")
 
     args = parser.parse_args()
     if args.platform not in PLATFORMS:
@@ -22,7 +24,7 @@ def main():
         quit(1)
 
     date = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
-    scraper = PLATFORMS[args.platform](args.url)
+    scraper = PLATFORMS[args.platform](args.url, session=args.session)
     teams, challenges = scraper.teams_chals()
 
     if os.path.exists("./ctf.json"):
