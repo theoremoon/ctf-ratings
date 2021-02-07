@@ -11,7 +11,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr v-for="(t, i) in teams" :key="t.name">
+                    <tr v-for="(t, i) in playedTeams" :key="t.name">
                         <td style="text-align: right; padding-right: 1rem;">{{ i + 1 }}</td>
                         <td><NuxtLink :to="{name: 'team-name', params: {name: t.name}}"><ratecolor :rating="t.performance">{{ t.name }}</ratecolor></NuxtLink></td>
                         <td>{{ t.performance }}</td>
@@ -45,30 +45,21 @@ export default {
         }
     },
     computed: {
-        ...mapGetters(['teamList', 'eventMap', 'solveMap']),
+        ...mapGetters(['teams', 'events', 'solveMap']),
         eventname() {
             return this.$route.params.name;
         },
         event() {
-            return this.eventMap[this.eventname];
+            return this.events[this.eventname];
         },
-        teams() {
-            const ts = this.teamList.flatMap(t => (
-                t.history.filter(h => h.event == this.eventname).map(e => ({
-                    ...e,
-                    name: t.name,
-                }))
-            ))
+        playedTeams() {
+            const ts = Object.values(this.teams).filter(t=> t.events.hasOwnProperty(this.eventname)).map(t => ({name: t.name, ...t.events[this.eventname]}));
             ts.sort((a, b) => b.performance - a.performance)
             return ts;
         },
         challenges() {
-            const cs = Object.entries(this.event.challenges).map(c => ({
-                ...c[1],
-                id: c[0],
-                solves: this.solves(c[0]),
-            }))
-            cs.sort((a, b) => a.solves.length - b.solves.length);
+            const cs = Object.entries(this.event.challenges).map(c => ({...c[1], solves: this.solves(c[0]), id: c[0]}));
+            cs.sort((a, b) => b.difficulty - a.difficulty);
             return cs;
         }
     }

@@ -8,7 +8,7 @@
 import {mapGetters} from "vuex";
 export default {
     computed: {
-        ...mapGetters(['teams', 'eventMap']),
+        ...mapGetters(['teams', 'events']),
         eventname() {
             return this.$route.params.ctf;
         },
@@ -16,7 +16,7 @@ export default {
             if (!this.eventname) {
                 return [];
             }
-            return this.eventMap[this.eventname].challenges;
+            return this.events[this.eventname].challenges;
         },
     }
 }

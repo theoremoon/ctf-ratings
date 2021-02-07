@@ -28,12 +28,12 @@ export default {
         }
     },
     computed: {
-        ...mapGetters(['events', 'teamList', 'solveMap']),
+        ...mapGetters(['teams', 'events']),
         events_by_date() {
             if (!this.events) {
                 return [];
             }
-            let es = this.events.slice();
+            let es = Object.values(this.events);
             es.sort((a, b) => b.date - a.date);
             return es;
         },

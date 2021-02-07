@@ -13,7 +13,7 @@
         </thead>
         <tbody>
             <tr v-for="ev in history">
-                <td><date :date="eventMap[ev.event].date" /></td>
+                <td><date :date="events[ev.event].date" /></td>
                 <td><NuxtLink :to="{name: 'team-name-ctf', params:{ name: teamname, ctf: ev.event} }">{{ ev.event }}</NuxtLink></td>
                 <td>{{ ev.rank }}</td>
                 <td><ratecolor :rating="ev.performance">{{ ev.performance }}</ratecolor></td>
@@ -37,7 +37,7 @@ export default {
         }
     },
     computed: {
-        ...mapGetters(['teams', 'eventMap']),
+        ...mapGetters(['teams', 'events']),
         team() {
             return this.teams[this.teamname]
         },
@@ -45,8 +45,8 @@ export default {
             return this.$route.params.name;
         },
         history() {
-            const history = this.team.slice();
-            history.sort((a, b) => this.eventMap[b.event].date - this.eventMap[a.event].date);
+            const history = Object.values(this.team.events);
+            history.sort((a, b) => this.events[b.event].date - this.events[a.event].date);
 
             return history;
         },

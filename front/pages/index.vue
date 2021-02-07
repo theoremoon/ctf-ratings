@@ -26,12 +26,12 @@ export default {
         }
     },
     computed: {
-        ...mapGetters(['teamList']),
+        ...mapGetters(['teams']),
         teams_by_rating() {
-            if (!this.teamList) {
+            if (!this.teams) {
                 return [];
             }
-            let ts = this.teamList.slice();
+            let ts = Object.values(this.teams);
             ts.sort((a, b) => b.rating - a.rating);
             return ts;
         },
