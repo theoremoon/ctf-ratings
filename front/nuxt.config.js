@@ -1,3 +1,6 @@
 export default {
-    components: true
+    components: true,
+    head: {
+        titleTemplate: 'CTF-Ratings'
+    }
 }
