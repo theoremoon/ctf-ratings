@@ -36,8 +36,8 @@ def main():
     else:
         ctf = {"teams": {}, "events": {}}
 
-    perf = PerfomanceCalculator(ctf["teams"])
-    team_perfs = perf.calc_performance(team_standings)
+    perf = PerfomanceCalculator(ctf["teams"], ctf["events"])
+    team_perfs = perf.calc_performance(team_standings,)
 
     team_updates = {}
     for i in range(len(team_standings)):

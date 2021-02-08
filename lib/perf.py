@@ -2,14 +2,19 @@ import math
 from typing import List, Dict
 
 class PerfomanceCalculator():
-    def __init__(self, teams: Dict[str, Dict]):
+    def __init__(self, teams: Dict[str, Dict], events: Dict[str, Dict]):
         self.teams = teams
+        self.events = events
 
     def get_past_perfs(self, team: str) -> List[float]:
+        """
+        過去のeventでのperformanceを返す。最新のeventのperformanceが[0]
+        """
         if team not in self.teams:
             return [1000.0] # initial performance of each team
 
-        return [e["performance"] for e in self.teams[team]["events"].values()]
+        es = sorted([e for e in self.teams[team]["events"].values()], key=lambda x: self.events[x["event"]]["date"], reverse=True)
+        return [e["performance"] for e in es]
 
     def get_perticipant_times(self, team: str) -> int:
         """
@@ -18,15 +23,14 @@ class PerfomanceCalculator():
         if team not in self.teams:
             return 0
 
-        return len(self.get_past_perfs(team))
+        return len(self.teams[team]["events"])
 
     def get_avg_perf(self, team: str) -> float:
         """
         get average of past perfomances
-        note: AtCoder式では新しいパフォーマンスを優先しているが、こちらはそうしないので加重平均ではなく単なる平均をとっている
         """
         perfs = self.get_past_perfs(team)
-        return sum(perfs) / len(perfs)
+        return sum([p*0.9**(i+1) for i, p in enumerate(perfs)]) / sum(0.9**(i+1) for i in range(len(perfs)))
 
     def calc_performance(self, teams: List[str]) -> List[float]:
         """
@@ -64,7 +68,7 @@ class PerfomanceCalculator():
         perf: 今回のパフォーマンス
         returns: new rating
 
-        note: 新しいコンテストの結果を重視と、初心者への慈悲を導入してない
+        note: 初心者への慈悲を導入してない
         """
         def adjust(rating: float, n: int) -> float:
             """参加回数が少ないと正確に値が出ないので補正するらしい
@@ -77,7 +81,7 @@ class PerfomanceCalculator():
             return rating - (f_n - f_inf) / (f_1 - f_inf) * 1200
 
         n = self.get_perticipant_times(team) + 1
-        exp_perf_sum = sum(2.0 ** (p / 800) for p in self.get_past_perfs(team) + [perf])
-        rating = 800 * math.log2(exp_perf_sum / n)
+        exp_perf_sum = sum(2.0 ** (p / 800) * 0.9**(i+1) for i, p in enumerate([perf] + self.get_past_perfs(team)))
+        rating = 800 * math.log2(exp_perf_sum / sum(0.9**(i+1) for i in range(n)))
         return adjust(rating, n)
 
