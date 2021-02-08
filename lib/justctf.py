@@ -4,7 +4,7 @@ from urllib.parse import urljoin
 from lib.scraper import IScraper
 
 class JustCTFScraper(IScraper):
-    def __init__(self, url):
+    def __init__(self, url, **kwargs):
         self.url = url
 
     def _scoreboard(self):
@@ -20,8 +20,10 @@ class JustCTFScraper(IScraper):
         return data
 
     def teams_chals(self):
-        team_ids = {t["team"]["name"]:[str(task["id"]) for task in t["team"]["task_solved"]] for t in self._scoreboard()}
+        scoreboard = self._scoreboard()
+        team_standings = [t["team"]["name"] for t in scoreboard]
+        team_ids = {t["team"]["name"]:[str(task["id"]) for task in t["team"]["task_solved"]] for t in scoreboard}
         challenges = {str(task["id"]):{"name":task["name"], "categories":task["categories"]} for task in self._task()}
 
-        return team_ids, challenges
+        return team_standings, team_ids, challenges
 

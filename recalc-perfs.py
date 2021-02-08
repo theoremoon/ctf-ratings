@@ -14,7 +14,7 @@ def main():
         print("[+]", "Recalculating about {}".format(ev["name"]))
         eventname= ev["name"]
         team_solves = {t["name"]:t["events"][eventname]["solves"] for t in ctf["teams"].values() if eventname in t["events"]}
-        team_standings: List[str] = sorted([t for t in team_solves.keys()], key=lambda x: len(team_solves[x]), reverse=True)
+        team_standings: List[str] = sorted([t for t in team_solves.keys()], key=lambda x: ctf["teams"][x]["events"][eventname]["rank"])
 
         perf = PerfomanceCalculator(cur_data["teams"])
         team_perfs = perf.calc_performance(team_standings)

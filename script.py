@@ -28,15 +28,13 @@ def main():
 
     date = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
     scraper = PLATFORMS[args.platform](args.url, session=args.session)
-    teams, challenges = scraper.teams_chals()
+    team_standings, teams, challenges = scraper.teams_chals()
 
     if os.path.exists("./ctf.json"):
         with open("./ctf.json", "r") as f:
             ctf = json.load(f)
     else:
         ctf = {"teams": {}, "events": {}}
-
-    team_standings: List[str] = sorted([t for t in teams.keys()], key=lambda x: len(teams[x]), reverse=True)
 
     perf = PerfomanceCalculator(ctf["teams"])
     team_perfs = perf.calc_performance(team_standings)

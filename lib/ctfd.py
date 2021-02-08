@@ -4,7 +4,7 @@ from urllib.parse import urljoin
 from lib.scraper import IScraper
 
 class CTFdScraper(IScraper):
-    def __init__(self, url):
+    def __init__(self, url, **kwargs):
         self.url = url
 
     def _teams(self):
@@ -21,6 +21,9 @@ class CTFdScraper(IScraper):
 
     def teams_chals(self):
         teams = self._teams()
+        team_standings = [t["name"] for t in teams]
+
+
         team_chals = {}
         for i in range(len(teams)):
             if i % 10 == 0:
@@ -38,5 +41,5 @@ class CTFdScraper(IScraper):
             team_ids[t] = ids
             challenges.update({str(c["challenge_id"]):{"name": c["challenge"]["name"], "categories": [c["challenge"]["category"]]} for c in cs})
 
-        return team_ids, challenges
+        return team_standings, team_ids, challenges
 
