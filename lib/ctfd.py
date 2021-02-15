@@ -6,15 +6,28 @@ from lib.scraper import IScraper
 class CTFdScraper(IScraper):
     def __init__(self, url, **kwargs):
         self.url = url
+        self.session = None
+        if 'session' in kwargs:
+            self.session = kwargs["session"] # type: str|None
+        self.mode = 'teams'
+        if 'mode' in kwargs:
+            self.mode = kwargs["mode"] # type: str
+
 
     def _teams(self):
-        r = requests.get(urljoin(self.url, "/api/v1/scoreboard"))
+        if self.session:
+            r = requests.get(urljoin(self.url, "/api/v1/scoreboard"), cookies={'session': self.session})
+        else:
+            r = requests.get(urljoin(self.url, "/api/v1/scoreboard"))
         r.raise_for_status()
         data = r.json()
         return data["data"]
 
     def _team_solves(self, team: int):
-        r = requests.get(urljoin(self.url, "/api/v1/teams/{}/solves".format(team)))
+        if self.session:
+            r = requests.get(urljoin(self.url, "/api/v1/{}/{}/solves".format(self.mode, team)), cookies={'session': self.session})
+        else:
+            r = requests.get(urljoin(self.url, "/api/v1/{}/{}/solves".format(self.mode, team)))
         r.raise_for_status()
         data = r.json()
         return data["data"]

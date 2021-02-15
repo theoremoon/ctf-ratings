@@ -20,6 +20,7 @@ def main():
     parser.add_argument("url")
     parser.add_argument("--platform", default="ctfd")
     parser.add_argument("--session")
+    parser.add_argument("--mode", default="teams")
 
     args = parser.parse_args()
     if args.platform not in PLATFORMS:
@@ -27,7 +28,7 @@ def main():
         quit(1)
 
     date = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
-    scraper = PLATFORMS[args.platform](args.url, session=args.session)
+    scraper = PLATFORMS[args.platform](args.url, session=args.session, mode=args.mode)
     team_standings, teams, challenges = scraper.teams_chals()
 
     if os.path.exists("./ctf.json"):
