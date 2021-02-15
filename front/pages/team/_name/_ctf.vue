@@ -12,11 +12,15 @@ export default {
         eventname() {
             return this.$route.params.ctf;
         },
+        teamname() {
+            return this.$route.params.name;
+        },
         challenges() {
             if (!this.eventname) {
                 return [];
             }
-            return this.events[this.eventname].challenges;
+
+            return Object.fromEntries(this.teams[this.teamname].events[this.eventname].solves.map(cid => [cid, this.events[this.eventname].challenges[cid]]));
         },
     }
 }
