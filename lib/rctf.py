@@ -6,9 +6,9 @@ import re
 from typing import Tuple, List
 
 class RCTFScraper(IScraper):
-    def __init__(self, url, session):
+    def __init__(self, url, **kwargs):
         self.base = url
-        self.token = session
+        self.token = kwargs['session']
 
     def _scoreboard(self):
         total = 0
