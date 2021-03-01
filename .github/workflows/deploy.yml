@@ -1,0 +1,24 @@
+name: deploy
+on:
+  push:
+    branches:
+      - main
+
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '15'
+      - run: yarn && yarn build && yarn generate
+        working-directory: ./front
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./front/dist
+
+
+
