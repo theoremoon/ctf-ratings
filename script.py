@@ -5,13 +5,14 @@ import os
 from typing import List
 from datetime import datetime
 from lib.ctfd import CTFdScraper
+from lib.ctfd_legacy import CTFdLegacyScraper
 from lib.justctf import JustCTFScraper
 from lib.xctf import XCTFScraper
 from lib.rctf import RCTFScraper
 from lib.perf import PerfomanceCalculator
 from lib.difficulty import calc_difficulty
 
-PLATFORMS = {"ctfd": CTFdScraper, "justctf": JustCTFScraper, "xctf": XCTFScraper, "rctf": RCTFScraper}
+PLATFORMS = {"ctfd": CTFdScraper, "ctfd-legacy": CTFdLegacyScraper, "justctf": JustCTFScraper, "xctf": XCTFScraper, "rctf": RCTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
