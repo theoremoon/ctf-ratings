@@ -68,6 +68,7 @@ for e in es:
     # save event
     events.append(Event(e["name"], e["date"], {t["name"]:t["difficulty"] for t in tasks}))
 
+teams = sorted(teams, key=lambda x: x.history[-1].new_rating, reverse=True)
 with open("ctf.json", "w") as f:
     json.dump({
         "teams": teams,

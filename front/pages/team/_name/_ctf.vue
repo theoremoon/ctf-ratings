@@ -28,3 +28,9 @@ export default {
     }
 }
 </script>
+
+<style>
+.challenges {
+    display: flex;
+}
+</style>
