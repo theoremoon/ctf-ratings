@@ -1,0 +1,7034 @@
+{
+  "tasks": [
+    "Sanity Check",
+    "debug_me_if_you_can",
+    "reklest",
+    "REmap",
+    "Remote Password Manager",
+    "Baby CSP",
+    "qmail",
+    "D0cker",
+    "25519",
+    "Rusty",
+    "Go-fs",
+    "Oracles",
+    "PDF is broken, and so is this file",
+    "njs",
+    "ABNF: grammar is fun",
+    "MyLittlePwny",
+    "That's not crypto",
+    "Forgotten name",
+    "Pinata",
+    "Computeration",
+    "Computeration Fixed",
+    "Steganography 2.0",
+    "PainterHell",
+    "The survey"
+  ],
+  "standings": [
+    {
+      "pos": 3,
+      "team": "0ops",
+      "taskStats": {
+        "The survey": null,
+        "REmap": null,
+        "qmail": null,
+        "Rusty": null,
+        "ABNF: grammar is fun": null,
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "debug_me_if_you_can": null,
+        "njs": null,
+        "25519": null,
+        "Remote Password Manager": null,
+        "reklest": null,
+        "Go-fs": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "Balsn",
+      "taskStats": {
+        "D0cker": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "Super Guesser",
+      "taskStats": {
+        "Computeration Fixed": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Baby CSP": null,
+        "njs": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "Go-fs": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "Ph0t1n1a",
+      "taskStats": {
+        "Forgotten name": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "Crusaders of Rust",
+      "taskStats": {
+        "The survey": null,
+        "D0cker": null,
+        "debug_me_if_you_can": null,
+        "Baby CSP": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "reklest": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Go-fs": null,
+        "Forgotten name": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "Defenit",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "bi0s",
+      "taskStats": {
+        "The survey": null,
+        "qmail": null,
+        "ABNF: grammar is fun": null,
+        "Computeration Fixed": null,
+        "debug_me_if_you_can": null,
+        "D0cker": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "Go-fs": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "zer0pts",
+      "taskStats": {
+        "The survey": null,
+        "Rusty": null,
+        "Go-fs": null,
+        "ABNF: grammar is fun": null,
+        "debug_me_if_you_can": null,
+        "qmail": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "ROIS",
+      "taskStats": {
+        "debug_me_if_you_can": null,
+        "Forgotten name": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "p0fs",
+      "taskStats": {
+        "debug_me_if_you_can": null,
+        "Sanity Check": null,
+        "25519": null,
+        "reklest": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "n0n$la$",
+      "taskStats": {
+        "Go-fs": null,
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "ABNF: grammar is fun": null,
+        "Rusty": null,
+        "Sanity Check": null,
+        "That's not crypto": null,
+        "25519": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "ALLES!",
+      "taskStats": {
+        "The survey": null,
+        "qmail": null,
+        "Computeration Fixed": null,
+        "debug_me_if_you_can": null,
+        "njs": null,
+        "Computeration": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "D0cker": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "ARESx",
+      "taskStats": {
+        "The survey": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "Organizers",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "Shitpography",
+      "taskStats": {
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "pwnthenope",
+      "taskStats": {
+        "The survey": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 324,
+      "team": "m1t0",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "kasiatutej",
+      "taskStats": {
+        "25519": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "AntiBuddies",
+      "taskStats": {
+        "reklest": null,
+        "That's not crypto": null,
+        "REmap": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "HuntsvilleTechSupport",
+      "taskStats": {
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "Inner Savages",
+      "taskStats": {
+        "The survey": null,
+        "D0cker": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 654,
+      "team": "UCSD",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 607,
+      "team": "Niubi_team",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "N0Named",
+      "taskStats": {
+        "25519": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "GRAIL TEAM",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 641,
+      "team": "Slab Allocator",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "onotch",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "Wanna.One",
+      "taskStats": {
+        "Go-fs": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "25519": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "noraneco",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 486,
+      "team": "Team_Matrix",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "MonkOnMars",
+      "taskStats": {
+        "Go-fs": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 325,
+      "team": "Pynard",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "irNoobs",
+      "taskStats": {
+        "The survey": null,
+        "Remote Password Manager": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 643,
+      "team": "RKTEAM",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 602,
+      "team": "CarpeDien",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": "0xL4ugh",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "SU",
+      "taskStats": {
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 537,
+      "team": "GanSw",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "Antivirus",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 464,
+      "team": "The_Slayers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 619,
+      "team": "dokko",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "stankc",
+      "taskStats": {
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "Unicorn Team",
+      "taskStats": {
+        "reklest": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 384,
+      "team": "Terminal Cats",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "bootplug",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "Bruh",
+      "taskStats": {
+        "That's not crypto": null,
+        "25519": null
+      }
+    },
+    {
+      "pos": 295,
+      "team": "dcua",
+      "taskStats": {
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "AlphaSeal",
+      "taskStats": {
+        "reklest": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "DarkArmy",
+      "taskStats": {
+        "reklest": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "efiens",
+      "taskStats": {
+        "D0cker": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "REmap": null,
+        "Computeration": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "25519": null,
+        "Go-fs": null,
+        "debug_me_if_you_can": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 306,
+      "team": "K3RN3L4RMY",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "DiceGang",
+      "taskStats": {
+        "Steganography 2.0": null,
+        "The survey": null,
+        "qmail": null,
+        "ABNF: grammar is fun": null,
+        "Pinata": null,
+        "debug_me_if_you_can": null,
+        "Computeration Fixed": null,
+        "reklest": null,
+        "Oracles": null,
+        "D0cker": null,
+        "njs": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Go-fs": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "b01lers",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "RootLee",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "coldboots",
+      "taskStats": {
+        "Rusty": null,
+        "Go-fs": null,
+        "The survey": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "skiddies",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "25519": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "VietCongSoldiers",
+      "taskStats": {
+        "Go-fs": null,
+        "ABNF: grammar is fun": null,
+        "Rusty": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 393,
+      "team": "I am a cat",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "PiratesSyndicate",
+      "taskStats": {
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "EvilBunnyWrote",
+      "taskStats": {
+        "reklest": null,
+        "That's not crypto": null,
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 365,
+      "team": "CTF.SG",
+      "taskStats": {
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "HsVcs",
+      "taskStats": {
+        "ABNF: grammar is fun": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 477,
+      "team": "crypt0nite",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "bluehens",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "d4rkc0de",
+      "taskStats": {
+        "REmap": null,
+        "MyLittlePwny": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "TeamC8",
+      "taskStats": {
+        "That's not crypto": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "burner_herz0g",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "Vox Dei",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 317,
+      "team": "TeamWBH",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "BinaryBears",
+      "taskStats": {
+        "Computeration": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Go-fs": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 338,
+      "team": "L10n5",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "freak",
+      "taskStats": {
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "Red Knights",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "meraxes",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 294,
+      "team": "0d12245589",
+      "taskStats": {
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "c0d3_h4cki05_",
+      "taskStats": {
+        "Remote Password Manager": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "[  ]",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "reklest": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Go-fs": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 591,
+      "team": "asdasd123",
+      "taskStats": {
+        "Go-fs": null,
+        "Computeration": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "TWC",
+      "taskStats": {
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 362,
+      "team": "uallerhack",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "RPCA Cyber Club",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 557,
+      "team": "PiedPiper",
+      "taskStats": {
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 608,
+      "team": "MentalHospital",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 322,
+      "team": "acdwas",
+      "taskStats": {
+        "The survey": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 327,
+      "team": "Sieberrsec",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 287,
+      "team": "ByteForc3",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "fr334aks",
+      "taskStats": {
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "Zepto",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 341,
+      "team": "SOL_INVICTUS",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "0xDoge",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 456,
+      "team": "Crib_Warrior",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "room2042",
+      "taskStats": {
+        "That's not crypto": null,
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 579,
+      "team": "PwnLand",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 685,
+      "team": "Zyrfex",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 599,
+      "team": "jetj",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 600,
+      "team": "Hamad",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 535,
+      "team": "OverDover",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 349,
+      "team": "N30Z30N",
+      "taskStats": {
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "Byte Lounge",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 427,
+      "team": "newb#101",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 669,
+      "team": "SW AVES",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 462,
+      "team": "dfoo",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 506,
+      "team": "STeam",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 328,
+      "team": "No_Pwn_Intended",
+      "taskStats": {
+        "Sanity Check": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 1,
+      "team": "AlPray",
+      "taskStats": {
+        "The survey": null,
+        "Remote Password Manager": null,
+        "Baby CSP": null,
+        "REmap": null,
+        "qmail": null,
+        "njs": null,
+        "ABNF: grammar is fun": null,
+        "debug_me_if_you_can": null,
+        "D0cker": null,
+        "Computeration": null,
+        "25519": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Rusty": null,
+        "Forgotten name": null,
+        "reklest": null,
+        "Go-fs": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "Yakitori",
+      "taskStats": {
+        "Rusty": null,
+        "qmail": null,
+        "Steganography 2.0": null,
+        "Remote Password Manager": null,
+        "The survey": null,
+        "REmap": null,
+        "ABNF: grammar is fun": null,
+        "Go-fs": null,
+        "D0cker": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "Oracles": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "reklest": null,
+        "njs": null,
+        "Forgotten name": null,
+        "Baby CSP": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "hxp",
+      "taskStats": {
+        "The survey": null,
+        "REmap": null,
+        "njs": null,
+        "qmail": null,
+        "reklest": null,
+        "debug_me_if_you_can": null,
+        "That's not crypto": null,
+        "Rusty": null,
+        "MyLittlePwny": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "c0r3dump",
+      "taskStats": {
+        "REmap": null,
+        "qmail": null,
+        "Go-fs": null,
+        "Computeration Fixed": null,
+        "ABNF: grammar is fun": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "reklest": null,
+        "debug_me_if_you_can": null,
+        "25519": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "GatorSheavesMutably",
+      "taskStats": {
+        "D0cker": null,
+        "ABNF: grammar is fun": null,
+        "reklest": null,
+        "Go-fs": null,
+        "Oracles": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "The Flat Network Society",
+      "taskStats": {
+        "debug_me_if_you_can": null,
+        "ABNF: grammar is fun": null,
+        "Computeration Fixed": null,
+        "PDF is broken, and so is this file": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "reklest": null,
+        "Baby CSP": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "ELT",
+      "taskStats": {
+        "qmail": null,
+        "Rusty": null,
+        "reklest": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "25519": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "KalmarUnionen",
+      "taskStats": {
+        "The survey": null,
+        "Pinata": null,
+        "Oracles": null,
+        "25519": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Go-fs": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "p4",
+      "taskStats": {
+        "ABNF: grammar is fun": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "debug_me_if_you_can": null,
+        "That's not crypto": null,
+        "REmap": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "CyKor",
+      "taskStats": {
+        "Rusty": null,
+        "ABNF: grammar is fun": null,
+        "PDF is broken, and so is this file": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Go-fs": null,
+        "reklest": null,
+        "debug_me_if_you_can": null,
+        "Forgotten name": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "RedRocket",
+      "taskStats": {
+        "qmail": null,
+        "That's not crypto": null,
+        "Remote Password Manager": null,
+        "25519": null,
+        "reklest": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "#C0FFEE",
+      "taskStats": {
+        "debug_me_if_you_can": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "reklest": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null,
+        "Go-fs": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "KITCTF",
+      "taskStats": {
+        "reklest": null,
+        "D0cker": null,
+        "Remote Password Manager": null,
+        "That's not crypto": null,
+        "debug_me_if_you_can": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "LosFuzzys",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "REmap": null,
+        "Go-fs": null,
+        "MyLittlePwny": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Remote Password Manager": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "L3H_Sec",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "reklest": null,
+        "Rusty": null,
+        "That's not crypto": null,
+        "Oracles": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "Cyber Erudites",
+      "taskStats": {
+        "reklest": null,
+        "Computeration": null,
+        "Remote Password Manager": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "D0cker": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "Goburin'",
+      "taskStats": {
+        "Computeration": null,
+        "ABNF: grammar is fun": null,
+        "That's not crypto": null,
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "Ox002147",
+      "taskStats": {
+        "Forgotten name": null,
+        "ABNF: grammar is fun": null,
+        "debug_me_if_you_can": null,
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "reklest": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "Radboud Institute of Pwning",
+      "taskStats": {
+        "The survey": null,
+        "debug_me_if_you_can": null,
+        "25519": null,
+        "reklest": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Go-fs": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "Segphault",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "ABNF: grammar is fun": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "Oracles": null,
+        "That's not crypto": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "mode13h",
+      "taskStats": {
+        "ABNF: grammar is fun": null,
+        "reklest": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Oracles": null,
+        "Sanity Check": null,
+        "25519": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "RootMeUpBeforeYouGoGo",
+      "taskStats": {
+        "Remote Password Manager": null,
+        "Computeration": null,
+        "D0cker": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "Hypertext Markup Protocol",
+      "taskStats": {
+        "That's not crypto": null,
+        "ABNF: grammar is fun": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "break main",
+      "taskStats": {
+        "The survey": null,
+        "debug_me_if_you_can": null,
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "Rusty": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "FAUST",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "D0cker": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Sanity Check": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "Go-fs": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "BambooFox",
+      "taskStats": {
+        "Go-fs": null,
+        "njs": null,
+        "ABNF: grammar is fun": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "Itemize",
+      "taskStats": {
+        "reklest": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "Go-fs": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "Shellphish",
+      "taskStats": {
+        "Forgotten name": null,
+        "Computeration": null,
+        "debug_me_if_you_can": null,
+        "D0cker": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "thegoonies",
+      "taskStats": {
+        "reklest": null,
+        "D0cker": null,
+        "Computeration": null,
+        "Go-fs": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "skateboarding dog",
+      "taskStats": {
+        "Oracles": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "SaturnX",
+      "taskStats": {
+        "reklest": null,
+        "MyLittlePwny": null,
+        "D0cker": null,
+        "That's not crypto": null,
+        "debug_me_if_you_can": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "SUS",
+      "taskStats": {
+        "Computeration": null,
+        "Computeration Fixed": null,
+        "reklest": null,
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "Watch4Hack",
+      "taskStats": {
+        "The survey": null,
+        "Computeration": null,
+        "Forgotten name": null,
+        "Remote Password Manager": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "D0cker": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "Mayas",
+      "taskStats": {
+        "Computeration": null,
+        "D0cker": null,
+        "Go-fs": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "WeAreScientists",
+      "taskStats": {
+        "D0cker": null,
+        "Remote Password Manager": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "dumdum",
+      "taskStats": {
+        "The survey": null,
+        "reklest": null,
+        "Computeration": null,
+        "ABNF: grammar is fun": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "daninnm",
+      "taskStats": {
+        "Forgotten name": null,
+        "The survey": null,
+        "MyLittlePwny": null,
+        "25519": null,
+        "D0cker": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "Sharkzwithlazers",
+      "taskStats": {
+        "Baby CSP": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "bakasatang",
+      "taskStats": {
+        "reklest": null,
+        "Computeration": null,
+        "Go-fs": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "5ca5dd",
+      "taskStats": {
+        "The survey": null,
+        "Remote Password Manager": null,
+        "That's not crypto": null,
+        "25519": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "BawlSec",
+      "taskStats": {
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "Rusty": null,
+        "debug_me_if_you_can": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "fomaedo",
+      "taskStats": {
+        "The survey": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null,
+        "That's not crypto": null,
+        "Go-fs": null,
+        "D0cker": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "Contrail",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "black_pinker",
+      "taskStats": {
+        "ABNF: grammar is fun": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "reklest": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "C4T BuT S4D",
+      "taskStats": {
+        "Go-fs": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "LAIT",
+      "taskStats": {
+        "The survey": null,
+        "Rusty": null,
+        "D0cker": null,
+        "Go-fs": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "4hsl33p",
+      "taskStats": {
+        "D0cker": null,
+        "Forgotten name": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "xtal",
+      "taskStats": {
+        "reklest": null,
+        "Forgotten name": null,
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "Apotekarnes",
+      "taskStats": {
+        "Go-fs": null,
+        "Computeration Fixed": null,
+        "25519": null,
+        "Forgotten name": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "******",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "D0cker": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "Scavenger Security",
+      "taskStats": {
+        "reklest": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "Just1FlagPlz",
+      "taskStats": {
+        "Go-fs": null,
+        "Forgotten name": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "reklest": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "luftenshjaltar",
+      "taskStats": {
+        "ABNF: grammar is fun": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "xSTF",
+      "taskStats": {
+        "Go-fs": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "Lights of Pineapples",
+      "taskStats": {
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "D0cker": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "We_0wn_Y0u",
+      "taskStats": {
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "FrenchRoomba",
+      "taskStats": {
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "reklest": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "Sam.Ninja",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "The survey": null,
+        "reklest": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "sequence",
+      "taskStats": {
+        "The survey": null,
+        "Computeration Fixed": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "Ba Sing Sec",
+      "taskStats": {
+        "Computeration": null,
+        "Go-fs": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "0x90skids",
+      "taskStats": {
+        "25519": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "cntr0llz",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "0x4c6f6c7a",
+      "taskStats": {
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "D0cker": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "HackingForSoju",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "reklest": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "qwq",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "D0cker": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "Forkbenders",
+      "taskStats": {
+        "Computeration": null,
+        "reklest": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "Bricked Tech",
+      "taskStats": {
+        "The survey": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "reklest": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "Corax",
+      "taskStats": {
+        "25519": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "ntropy",
+      "taskStats": {
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "The survey": null,
+        "25519": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "pappo",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "25519": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "1337B01S",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "ONO",
+      "taskStats": {
+        "The survey": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "TahSec",
+      "taskStats": {
+        "The survey": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "nevivurn",
+      "taskStats": {
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "Ganesh",
+      "taskStats": {
+        "Forgotten name": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "Yoshikage Kira",
+      "taskStats": {
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "Bulba Hackers",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "HackPack",
+      "taskStats": {
+        "The survey": null,
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "eddy",
+      "taskStats": {
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "MIT-TEAM",
+      "taskStats": {
+        "reklest": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "Satoooon",
+      "taskStats": {
+        "reklest": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "urchin",
+      "taskStats": {
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "3g",
+      "taskStats": {
+        "Go-fs": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "Team ZeaLabs",
+      "taskStats": {
+        "Go-fs": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "CCCrypto",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "25519": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "the3000",
+      "taskStats": {
+        "That's not crypto": null,
+        "Computeration": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "TheMax",
+      "taskStats": {
+        "Remote Password Manager": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "#KapiSec",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "D0cker": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "Server Side Validation",
+      "taskStats": {
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "hanakin",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "PolyHx-1",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "0FA",
+      "taskStats": {
+        "Computeration": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "The Few Chosen",
+      "taskStats": {
+        "The survey": null,
+        "Forgotten name": null,
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "Liquid Team",
+      "taskStats": {
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "0xd",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Computeration": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "srdnlen",
+      "taskStats": {
+        "reklest": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "mb i am a weeb",
+      "taskStats": {
+        "That's not crypto": null,
+        "D0cker": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "\u0007",
+      "taskStats": {
+        "That's not crypto": null,
+        "D0cker": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "Echidna",
+      "taskStats": {
+        "debug_me_if_you_can": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "Odyctf",
+      "taskStats": {
+        "reklest": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "TeamShakti",
+      "taskStats": {
+        "reklest": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "y12uN",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "25519": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "dex",
+      "taskStats": {
+        "Computeration": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "BinaryBear",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "Pirates247",
+      "taskStats": {
+        "The survey": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "fierceBadRabbits",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "inTheShell_",
+      "taskStats": {
+        "The survey": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "Silence Mayday",
+      "taskStats": {
+        "The survey": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "NavETS",
+      "taskStats": {
+        "The survey": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "flaggermeister",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "etc",
+      "taskStats": {
+        "Computeration": null,
+        "The survey": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "giladify",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "0xPolpettOwn",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "Knights of the Routing Table",
+      "taskStats": {
+        "D0cker": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "413 Payload Too Large",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "OyuSec",
+      "taskStats": {
+        "reklest": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "StackOtter",
+      "taskStats": {
+        "That's not crypto": null,
+        "reklest": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "pattern",
+      "taskStats": {
+        "The survey": null,
+        "reklest": null,
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "CYberMouflons",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Computeration": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "00414247",
+      "taskStats": {
+        "The survey": null,
+        "Go-fs": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "monky",
+      "taskStats": {
+        "Computeration": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": "galferahs",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "5h4rk",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "HATS SG",
+      "taskStats": {
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null,
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "ZombieBot",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "ShroomZ",
+      "taskStats": {
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "L1T",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "Jim's Hacking",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "<3 WAYYYYANG",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "RISC",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "Jamie's Angels",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "S4RVAr_TEAM",
+      "taskStats": {
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "NR010",
+      "taskStats": {
+        "D0cker": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "Manzara's Magpies",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "WRUBLE",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "HouVast",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "KUICS",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "Maple Bacon",
+      "taskStats": {
+        "Forgotten name": null,
+        "Computeration": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "PPP",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "Born-on-21st",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "MorningLightMountain",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "0xdef12e",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "fiord",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "SSAT",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "ducks0ci3ty",
+      "taskStats": {
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "kza",
+      "taskStats": {
+        "That's not crypto": null,
+        "reklest": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "physicube",
+      "taskStats": {
+        "reklest": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "lil_duckie",
+      "taskStats": {
+        "25519": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "Spirit",
+      "taskStats": {
+        "25519": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "qwerty_man_team",
+      "taskStats": {
+        "Computeration": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "atom",
+      "taskStats": {
+        "Forgotten name": null,
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "reamb",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "s0lid4rity",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "RATF",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "Netrunners",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "kermitliver",
+      "taskStats": {
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "OneManArmy",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "1337KH",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "Omaviat",
+      "taskStats": {
+        "The survey": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "FrogTurtleGrasshopper",
+      "taskStats": {
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "4NOM4LY",
+      "taskStats": {
+        "Sanity Check": null,
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "Krosse Flagge",
+      "taskStats": {
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "yelpbutforpoops",
+      "taskStats": {
+        "Sanity Check": null,
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "Weakness",
+      "taskStats": {
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "Metal Muscle",
+      "taskStats": {
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "Ganofins",
+      "taskStats": {
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": "ctf{Alex}",
+      "taskStats": {
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "Immortals",
+      "taskStats": {
+        "Forgotten name": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "/dev/hell.zip",
+      "taskStats": {
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "polarity_express",
+      "taskStats": {
+        "Sanity Check": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "Kucyki Security",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "AquafallDefenseSquad",
+      "taskStats": {
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "Game Stop Stocks",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "SIGSEGV",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "orz",
+      "taskStats": {
+        "njs": null,
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "ctfChallengers",
+      "taskStats": {
+        "Sanity Check": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "com_science17",
+      "taskStats": {
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "Terminal Cult",
+      "taskStats": {
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "flib",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "Team Steam Stream",
+      "taskStats": {
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "Gateway",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "ISwearIGoogledIt",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "FreshBakedCyberGeeks",
+      "taskStats": {
+        "The survey": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "frazy",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "Unknow",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "C Flat",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "U+180E",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "Rainbow Unicorns",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "aarons-angels",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "RGBsec",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "Hacklava",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "PATO-QL",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "oH5U4No",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "Area{51}",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "paulie",
+      "taskStats": {
+        "The survey": null,
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "ROKHong",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": "ouowowuwu",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "Thirst",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "FreeWiFi",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "LE37",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "The Cyb3rpunk Squad",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "eladport",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "SaudiPwners",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "TestTeamDoNotJoin",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "toor97",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "PallasAthenaCTF",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "SNOT",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "OctaC0re",
+      "taskStats": {
+        "Remote Password Manager": null,
+        "reklest": null,
+        "D0cker": null,
+        "25519": null,
+        "Oracles": null,
+        "Go-fs": null,
+        "debug_me_if_you_can": null,
+        "REmap": null,
+        "Computeration": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "The survey": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "accio",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "cyberflex",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "BleuBytes",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "avavavavavaaaaa",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "VTeam",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "poppopret",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "InnotecLabs",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "e^ipi+1day",
+      "taskStats": {
+        "Sanity Check": null,
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "DK Kr3w",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "olhalhi",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "gameraiders",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "CSI",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "Dude1",
+      "taskStats": {
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "TopWing",
+      "taskStats": {
+        "Computeration": null
+      }
+    },
+    {
+      "pos": 288,
+      "team": "DBFC",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 289,
+      "team": "AIE CTF",
+      "taskStats": {
+        "The survey": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 290,
+      "team": "Team Theta",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 291,
+      "team": "get_in_loser_we're_going_pwning",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 292,
+      "team": "Sophisticated Society of Delinquents",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 293,
+      "team": "0xops",
+      "taskStats": {
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 296,
+      "team": "lvl0",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 297,
+      "team": "Crackchester",
+      "taskStats": {
+        "Sanity Check": null,
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 298,
+      "team": "n9t1pHoUr",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 299,
+      "team": "Omega",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 300,
+      "team": "ssh@uzl",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 301,
+      "team": "om3ga",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 302,
+      "team": "Les Art'Insa'keurs",
+      "taskStats": {
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 303,
+      "team": "YabbaDoo",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 304,
+      "team": "oystub",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 305,
+      "team": "Void* Vikings",
+      "taskStats": {
+        "The survey": null,
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 307,
+      "team": "c1rcu5_w0lv35",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 308,
+      "team": "Kruimeldieven",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 309,
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 310,
+      "team": "coffeee",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 311,
+      "team": "Cyber Chicken",
+      "taskStats": {
+        "The survey": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 312,
+      "team": "Stevens Cyber Defense Team",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 313,
+      "team": "S4DG3",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 314,
+      "team": "GameStonk",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 315,
+      "team": "Rootless",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 316,
+      "team": "AbsoluteZero",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 318,
+      "team": "AwesomeAvocado",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 319,
+      "team": "test1234",
+      "taskStats": {
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 320,
+      "team": "Podpivkovichi",
+      "taskStats": {
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 321,
+      "team": "hollowOwls",
+      "taskStats": {
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 323,
+      "team": "Zoomers",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 326,
+      "team": "slapnuts",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 329,
+      "team": "NAZCA",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 330,
+      "team": "EffectRenan",
+      "taskStats": {
+        "Forgotten name": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 331,
+      "team": "Deadlock_Team",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 332,
+      "team": "Pwnie Island",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 333,
+      "team": "PARSECT",
+      "taskStats": {
+        "Sanity Check": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 334,
+      "team": "The Additional Payphones",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 335,
+      "team": "Wani Hackase",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 336,
+      "team": "x2w",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 337,
+      "team": "overthewire",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 339,
+      "team": "Qwerty",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 340,
+      "team": "penguing27",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 342,
+      "team": "nana",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 343,
+      "team": "poigiatre",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 344,
+      "team": "FuZZers",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 345,
+      "team": "I like your funny tasks, magic taskboard",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 346,
+      "team": "Pixels",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 347,
+      "team": "DayMon",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 348,
+      "team": "bot3310",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 350,
+      "team": "9ed1515819dec61fd361d5fdabb57f41ecce1a5fe1fe263b98c0d6943b9b232e",
+      "taskStats": {
+        "Sanity Check": null,
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 351,
+      "team": "w1ldc4t",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 352,
+      "team": "Sky2Pwn",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 353,
+      "team": "h0lysh1t",
+      "taskStats": {
+        "Forgotten name": null,
+        "PDF is broken, and so is this file": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 354,
+      "team": "urchin2",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 355,
+      "team": "0xH4CK3D",
+      "taskStats": {
+        "The survey": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 356,
+      "team": "rr34",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 357,
+      "team": "Raise the Flag",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 358,
+      "team": "FalseFlag",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 359,
+      "team": "0x0d1\\n",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 360,
+      "team": "ikbal vult",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 361,
+      "team": "cr@ckBit",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "The survey": null,
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 363,
+      "team": "D4TAFR4ME",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 364,
+      "team": "Mystiko",
+      "taskStats": {
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 366,
+      "team": "leeloo_sp",
+      "taskStats": {
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 367,
+      "team": "lowprivshighhopes_",
+      "taskStats": {
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 368,
+      "team": "shellphish",
+      "taskStats": {
+        "Forgotten name": null
+      }
+    },
+    {
+      "pos": 369,
+      "team": "c0m0d0",
+      "taskStats": {
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 370,
+      "team": "Bat Squad",
+      "taskStats": {
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 371,
+      "team": "bobsleigh",
+      "taskStats": {
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 372,
+      "team": "S_A_C",
+      "taskStats": {
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 373,
+      "team": "7h35qu4d",
+      "taskStats": {
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 374,
+      "team": "wiechu",
+      "taskStats": {
+        "PDF is broken, and so is this file": null
+      }
+    },
+    {
+      "pos": 375,
+      "team": "0n3P01nt",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 376,
+      "team": "nothinghere",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 377,
+      "team": "Purple Rain",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 378,
+      "team": "T3H4",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 379,
+      "team": "subrsp0x27",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 380,
+      "team": "NavyBlue",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 381,
+      "team": "xrzhev",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 382,
+      "team": "BUET Rejects",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 383,
+      "team": "digipentesters",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 385,
+      "team": "Soul Society",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 386,
+      "team": "Flags as a Service",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 387,
+      "team": "ELA",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 388,
+      "team": "Zeynarz",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 389,
+      "team": "HackLabGirls",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 390,
+      "team": "rm -rf /*",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 391,
+      "team": "Colonial White Hats",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 392,
+      "team": "eppooo",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 394,
+      "team": "huydoppa",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 395,
+      "team": "PatanjaliHacks",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 396,
+      "team": "ru7ynk4",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 397,
+      "team": "Lan",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 398,
+      "team": "aGl0c3o",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 399,
+      "team": "cosmicgoat",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 400,
+      "team": "F03v3ryY0ung",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 401,
+      "team": "T34M1",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 402,
+      "team": "0x41626279",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 403,
+      "team": "ItWasPlanned",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 404,
+      "team": "UIT.SoloQ",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 405,
+      "team": "Cyberheros",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 406,
+      "team": "cykorji",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 407,
+      "team": "HITCONGRILS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 408,
+      "team": "alimadodo",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 409,
+      "team": "The_First_Galactic_Empire_AUX",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 410,
+      "team": "MysticalValor",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 411,
+      "team": "Eeels",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 412,
+      "team": "(mendung)10^6",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 413,
+      "team": "popko",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 414,
+      "team": "Cyber Blob Force",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 415,
+      "team": "Expl0r3_Ev1d3nCe5",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 416,
+      "team": "Winner!",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 417,
+      "team": "c00kiem0nster",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 418,
+      "team": "the_fellas",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 419,
+      "team": "Tarn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 420,
+      "team": "p3rplex3d",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 421,
+      "team": "h4m5t",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 422,
+      "team": "T3n4ci0us",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 423,
+      "team": "BisonHackers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 424,
+      "team": "hase",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 425,
+      "team": "p0x82s",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 426,
+      "team": "NU93B34CH",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 428,
+      "team": "tnkdkndkn92",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 429,
+      "team": "Blue Dragon.",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 430,
+      "team": "EDGE-Lords",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 431,
+      "team": "WeSux",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 432,
+      "team": "jueygrace",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 433,
+      "team": "GGWP",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 434,
+      "team": "WeSux2.0",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 435,
+      "team": "join4fun",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 436,
+      "team": "sgwr",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 437,
+      "team": "PUSH_EBP",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 438,
+      "team": "FuckUpASystem",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 439,
+      "team": "Am4z0n3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 440,
+      "team": "H4CKF0RLIF3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 441,
+      "team": "xqcL?",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 442,
+      "team": "Cla55N0tF0und",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 443,
+      "team": "BackMoon",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 444,
+      "team": "noSF",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Forgotten name": null,
+        "Go-fs": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 445,
+      "team": "CVE-COV19",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 446,
+      "team": "0XC",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 447,
+      "team": "hazagi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 448,
+      "team": "Cat Is All I Need",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 449,
+      "team": "Cucaracha",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 450,
+      "team": "Entropy",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 451,
+      "team": "AySighT",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 452,
+      "team": "aaaaaaaaaaaaaaaaaaaaaaa",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 453,
+      "team": "h4ck3rz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 454,
+      "team": "0u0",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 455,
+      "team": "outOfCheese",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 457,
+      "team": "study_h0rd",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 458,
+      "team": "__TW_QQ__",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 459,
+      "team": "Y-4-R",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 460,
+      "team": "AySight",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 461,
+      "team": "Gerda",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 463,
+      "team": "Pa0x73cal",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 465,
+      "team": "Karruption",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 466,
+      "team": "h4x0r",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 467,
+      "team": "glixth",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 468,
+      "team": "l3u9",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 469,
+      "team": "condition Race",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 470,
+      "team": "Bleh",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 471,
+      "team": "CesiCTF",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 472,
+      "team": "DarkEventHorizn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 473,
+      "team": "booba",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 474,
+      "team": "SPRUSH",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 475,
+      "team": "H4F",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 476,
+      "team": "KXTI_13",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 478,
+      "team": "PwningAuthority",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 479,
+      "team": "Stout Boys",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 480,
+      "team": "JayT",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 481,
+      "team": "V0hZPw",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 482,
+      "team": "PizzaPunks",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 483,
+      "team": "Qui APT?",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 484,
+      "team": "wlp3s0",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 485,
+      "team": "Luna",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 487,
+      "team": "k0kos",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 488,
+      "team": "CallBoys",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 489,
+      "team": "AMATEUR_HOUR_HACKING",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 490,
+      "team": "4141414141",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 491,
+      "team": "Mystique",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 492,
+      "team": "DSCKIIT",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 493,
+      "team": "CryptoCat",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 494,
+      "team": "MAGS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 495,
+      "team": "Sam",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 496,
+      "team": "GeeseWithTeeth",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 497,
+      "team": "Alonymous",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 498,
+      "team": "sqdsqdqsd",
+      "taskStats": {
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 499,
+      "team": "APA Razi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 500,
+      "team": "Corgi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 501,
+      "team": "GetPwndN00b",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 502,
+      "team": "CaptureTheFrancesinha",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 503,
+      "team": "De vissertjes",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 504,
+      "team": "shellpwn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 505,
+      "team": "Syntax Error;",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 507,
+      "team": "N0_Name",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 508,
+      "team": "FalseBinary",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 509,
+      "team": "fzhshzh",
+      "taskStats": {
+        "D0cker": null,
+        "MyLittlePwny": null,
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 510,
+      "team": "LeeSongKimAn",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 511,
+      "team": "triHACKING",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 512,
+      "team": "LeeYuJungPark",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 513,
+      "team": "whitehathcker8181",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 514,
+      "team": "Akerbeltz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 515,
+      "team": "keksd0se",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 516,
+      "team": "CacheD",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 517,
+      "team": "ESIEA",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 518,
+      "team": "Esiea",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 519,
+      "team": "d35tr0y",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 520,
+      "team": "WaletSec",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 521,
+      "team": "Rouryu",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 522,
+      "team": "W4z3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 523,
+      "team": "lxf42",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 524,
+      "team": "Seal_spirit",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 525,
+      "team": "wUMrm",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 526,
+      "team": "K&P",
+      "taskStats": {
+        "Go-fs": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 527,
+      "team": "Stack",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 528,
+      "team": "hack",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 529,
+      "team": "don's team",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 530,
+      "team": "LazyOctopus",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 531,
+      "team": "Pillars",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 532,
+      "team": "InfernoSAlex",
+      "taskStats": {
+        "Computeration": null,
+        "Go-fs": null,
+        "Forgotten name": null,
+        "That's not crypto": null,
+        "PDF is broken, and so is this file": null,
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 533,
+      "team": "PEQUI_ctf",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 534,
+      "team": "CH1NW1Y4",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 536,
+      "team": "malmoeware",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 538,
+      "team": "F4ckSoc1eTy",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 539,
+      "team": "objdump",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 540,
+      "team": "jin4wook",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 541,
+      "team": "TrifetaApex",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 542,
+      "team": "H@kulty",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 543,
+      "team": "Nabuchodonosaur",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 544,
+      "team": "KyaEH",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 545,
+      "team": "ex0gen",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 546,
+      "team": "Class3E",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 547,
+      "team": "Z3Ro",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 548,
+      "team": "S0l0Act",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 549,
+      "team": "mug1nf33t",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 550,
+      "team": "arthollow",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 551,
+      "team": "Tinfoil Hats",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 552,
+      "team": "ccccc",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 553,
+      "team": "exzettabyte",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 554,
+      "team": "MonkeyClicker Team",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 555,
+      "team": "1",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 556,
+      "team": "GetALife",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 558,
+      "team": "lepur",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 559,
+      "team": "McAvoys",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 560,
+      "team": "Cornil",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 561,
+      "team": "YonPog",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 562,
+      "team": "justice",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 563,
+      "team": "SEEYA",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 564,
+      "team": "redrabbit",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 565,
+      "team": "Hammerandsickle",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 566,
+      "team": "ElFamoso",
+      "taskStats": {
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 567,
+      "team": "Jump_3sp",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 568,
+      "team": "Almost CCNA",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 569,
+      "team": "BTC_FR",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 570,
+      "team": "subnormals",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 571,
+      "team": "dnzc",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 572,
+      "team": "test888",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 573,
+      "team": "karipap",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 574,
+      "team": "Pizz'hack",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 575,
+      "team": "Gatsby-de3d",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 576,
+      "team": "MagicPizzaBox",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 577,
+      "team": "Tzion",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 578,
+      "team": "v1770r14n1",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 580,
+      "team": "mikejam",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 581,
+      "team": "hackers231",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 582,
+      "team": "AJIN",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 583,
+      "team": "summa kizhi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 584,
+      "team": "Gokturk-1923",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 585,
+      "team": "0xdeadbeef",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 586,
+      "team": "turbo-d",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 587,
+      "team": "Lap1d\\0",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 588,
+      "team": "MrCoconut",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 589,
+      "team": "krastsislau",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 590,
+      "team": "HTsP Junior",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 592,
+      "team": "TeamDragon",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 593,
+      "team": "burgerbob",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 594,
+      "team": "R0B0T",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 595,
+      "team": "Strix Goldhorn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 596,
+      "team": "Fulminati",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 597,
+      "team": "LucynSec",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 598,
+      "team": "W3rni0",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 601,
+      "team": "GoForTheGlold",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 603,
+      "team": "Shell_hunters",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 604,
+      "team": "Well just me",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 605,
+      "team": "3LZ@RP3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 606,
+      "team": "Devil Tudors",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 609,
+      "team": "Goofy Goobers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 610,
+      "team": "Papyrus",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 611,
+      "team": "darkOrder",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 612,
+      "team": "Noob",
+      "taskStats": {
+        "Computeration": null,
+        "Baby CSP": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 613,
+      "team": "the goofy goobers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 614,
+      "team": "Alternative_Success",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 615,
+      "team": "ocd",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 616,
+      "team": "zion",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 617,
+      "team": "r5",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 618,
+      "team": "The sunny club",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 620,
+      "team": "$MN4E$",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 621,
+      "team": "765production",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 622,
+      "team": "teddySMI",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 623,
+      "team": "DoggoDev",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 624,
+      "team": "psych0social_engin33ring",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 625,
+      "team": "a11k15",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 626,
+      "team": "dongdong",
+      "taskStats": {
+        "That's not crypto": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 627,
+      "team": "adamwalker",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 628,
+      "team": "Lumensec",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 629,
+      "team": "DerpGusta",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 630,
+      "team": "EvilRoot",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 631,
+      "team": "nondescript",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 632,
+      "team": "BagTheFlag",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 633,
+      "team": "EMPTY_",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 634,
+      "team": "n00b_m@st3r",
+      "taskStats": {
+        "Forgotten name": null,
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 635,
+      "team": "v1c7",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 636,
+      "team": "BOKO",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 637,
+      "team": "noone",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 638,
+      "team": "Batson",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 639,
+      "team": "easy_p",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 640,
+      "team": "PatanjaliHax",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 642,
+      "team": "Barnabiel",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 644,
+      "team": "Disconn3ted",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 645,
+      "team": "knoxrm",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 646,
+      "team": "SkidSociety",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 647,
+      "team": "rus",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 648,
+      "team": "Ekip",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 649,
+      "team": "Real Small Malware",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 650,
+      "team": "COFFEEE",
+      "taskStats": {
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 651,
+      "team": "Alonymous1",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 652,
+      "team": "hxers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 653,
+      "team": "ZaIPEK",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 655,
+      "team": "Robot",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 656,
+      "team": "only_me",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 657,
+      "team": "H4CKSN0W",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 658,
+      "team": "/bin/bash",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 659,
+      "team": "JohnPwnJones",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 660,
+      "team": "N0p",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 661,
+      "team": "quitebored",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 662,
+      "team": "RedSteel77",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 663,
+      "team": "Born2Hack",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 664,
+      "team": "Just-me",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 665,
+      "team": "Cyber Dragons",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 666,
+      "team": "OrderofShadows",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 667,
+      "team": "lejaybii",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 668,
+      "team": "n00b43v3r",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 670,
+      "team": "ideaengine007",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 671,
+      "team": "Lucky",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 672,
+      "team": "CTD Elite",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 673,
+      "team": "exntrc",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 674,
+      "team": "DoR",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 675,
+      "team": "NiceWay",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 676,
+      "team": "Beginner",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 677,
+      "team": "nomnom",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 678,
+      "team": "guildzero",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 679,
+      "team": "Faceless",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 680,
+      "team": "dajeff",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 681,
+      "team": "whereisstone",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 682,
+      "team": "gents",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 683,
+      "team": "HS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 684,
+      "team": "Keeper",
+      "taskStats": {
+        "Computeration": null,
+        "That's not crypto": null,
+        "MyLittlePwny": null,
+        "PDF is broken, and so is this file": null,
+        "Go-fs": null,
+        "Baby CSP": null,
+        "Forgotten name": null,
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 686,
+      "team": "RIP edwin",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 687,
+      "team": "g3n3rhell",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 688,
+      "team": "Pr4yAndP1ng",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 689,
+      "team": "cryptic_breaker",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 690,
+      "team": "rose",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 691,
+      "team": "dczia",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 692,
+      "team": "n0t34m",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 693,
+      "team": "Blitz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 694,
+      "team": "NoOb",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 695,
+      "team": "MentengCyber",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 696,
+      "team": "litchi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 697,
+      "team": "Power Overwhelming",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 698,
+      "team": "3xpl0itTh3W0rld",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 699,
+      "team": "haxpower",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 700,
+      "team": "Team RiverR4tz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 701,
+      "team": "JazzyScav",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 702,
+      "team": "qwe",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 703,
+      "team": "c3d",
+      "taskStats": {
+        "PDF is broken, and so is this file": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 704,
+      "team": "roloroll",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 705,
+      "team": "Kuro",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 706,
+      "team": "lablabi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 707,
+      "team": "HashSlingingHackers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 708,
+      "team": "Asmolia",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 709,
+      "team": "pwnalone",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 710,
+      "team": "ACTU",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 711,
+      "team": "EternalWater",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 712,
+      "team": "N19hT_0w1$",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 713,
+      "team": "GH",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 714,
+      "team": "M4lw4r3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 715,
+      "team": "nonono",
+      "taskStats": {
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 716,
+      "team": "WooT",
+      "taskStats": {
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 717,
+      "team": "badsctr",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 718,
+      "team": "Delta Squad Zero",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 719,
+      "team": "something clever",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 720,
+      "team": "watchdogs",
+      "taskStats": {
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 721,
+      "team": "johnburn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 722,
+      "team": "Eupeptic",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 723,
+      "team": "Ifliss",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 724,
+      "team": "JustLooking4Win",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 725,
+      "team": "UTRGV CSC",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 726,
+      "team": "Z3R0",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 727,
+      "team": "hawks",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 728,
+      "team": "ToR",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 729,
+      "team": "exo",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 730,
+      "team": "BlueTeamRD",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 731,
+      "team": "oyusec",
+      "taskStats": {
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 732,
+      "team": "rosie slips on a spliff",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 733,
+      "team": "Super_Chario",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 734,
+      "team": "l3ft_3dg3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 735,
+      "team": "Devil_Land",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 736,
+      "team": "z3r0",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 737,
+      "team": "!god!",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 738,
+      "team": "karsa",
+      "taskStats": {
+        "Go-fs": null,
+        "Forgotten name": null,
+        "Computeration": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 739,
+      "team": "RFGhost",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 740,
+      "team": "Hootoh",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 741,
+      "team": "exploit.py",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 742,
+      "team": "Saggins",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 743,
+      "team": "binanNo.1",
+      "taskStats": {
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 744,
+      "team": "Cornell Hacking Club",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 745,
+      "team": "lalala0x",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 746,
+      "team": "Skavenger2",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 747,
+      "team": "Stuff and things",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 748,
+      "team": "ajc",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 749,
+      "team": "Fanshawe CTF",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 750,
+      "team": "NCTOP",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 751,
+      "team": "JustBil",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 752,
+      "team": "waybie",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 753,
+      "team": "sec.hanik",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 754,
+      "team": "Mioz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 755,
+      "team": "interlude",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 756,
+      "team": "PAPEU",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 757,
+      "team": "Pwning From 127::1",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 758,
+      "team": "ashut",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 759,
+      "team": "Just for Random Things",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 760,
+      "team": "GoonD4LA",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 761,
+      "team": "Dubidubab",
+      "taskStats": {
+        "That's not crypto": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 762,
+      "team": "sl0ck",
+      "taskStats": {
+        "The survey": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 763,
+      "team": "SlyHer",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 764,
+      "team": "Hacklabor",
+      "taskStats": {
+        "That's not crypto": null
+      }
+    },
+    {
+      "pos": 765,
+      "team": "kuchbhi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 766,
+      "team": "Argo",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 767,
+      "team": "sekyurity",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 768,
+      "team": "tequreq",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 769,
+      "team": "Loafers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 770,
+      "team": "deadrobin",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 771,
+      "team": "CangHaiWraINd",
+      "taskStats": {
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 772,
+      "team": "SiBears",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 773,
+      "team": "0x55434c",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 774,
+      "team": "sixcks",
+      "taskStats": {
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 775,
+      "team": "m00m",
+      "taskStats": {
+        "Computeration": null,
+        "Forgotten name": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 776,
+      "team": "Ricky",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 777,
+      "team": "Maas-terMinds",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 778,
+      "team": "Sp1der",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 779,
+      "team": "jackdaw",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 780,
+      "team": "s3c_g33k",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 781,
+      "team": "ethteck",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 782,
+      "team": "zzzzzzzz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 783,
+      "team": "only_salzEK",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 784,
+      "team": "vang3lis",
+      "taskStats": {
+        "MyLittlePwny": null
+      }
+    },
+    {
+      "pos": 785,
+      "team": "Hidiot",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 786,
+      "team": "penquins",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 787,
+      "team": "ravenclaw",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 788,
+      "team": "Pand",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 789,
+      "team": "Ziad",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 790,
+      "team": "seemsy",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 791,
+      "team": "Slonser",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 792,
+      "team": "SecurityFirst",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 793,
+      "team": "ente_2",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 794,
+      "team": "nananana",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 795,
+      "team": "technopig",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 796,
+      "team": "DrProfessorPatrick",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 797,
+      "team": "wei_NaN",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 798,
+      "team": "qwertyqwert",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 799,
+      "team": "Dark Dot Defect",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 800,
+      "team": "Rand00m",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 801,
+      "team": "LemonPrefect",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 802,
+      "team": "Codenname",
+      "taskStats": {
+        "MyLittlePwny": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 803,
+      "team": "Zoomerz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 804,
+      "team": "HUn75M4n",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    }
+  ],
+  "name": "justCTF [*] 2020",
+  "date": 1611932400
+}

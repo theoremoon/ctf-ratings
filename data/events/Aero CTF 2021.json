@@ -1,0 +1,712 @@
+{
+  "tasks": [
+    "House Builder",
+    "Shell Master",
+    "Shell Master 2",
+    "Localization is hard",
+    "horcrux",
+    "phoenix",
+    "Dummyper",
+    "Not received prize",
+    "boggart",
+    "custom",
+    "Target Attack",
+    "Scheme",
+    "BashD00R"
+  ],
+  "standings": [
+    {
+      "pos": 1,
+      "team": "Super Guesser",
+      "taskStats": {
+        "House Builder": null,
+        "Shell Master": null,
+        "Shell Master 2": null,
+        "Localization is hard": null,
+        "horcrux": null,
+        "phoenix": null,
+        "Dummyper": null,
+        "Not received prize": null,
+        "boggart": null,
+        "custom": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "bi0s",
+      "taskStats": {
+        "House Builder": null,
+        "Localization is hard": null,
+        "Not received prize": null,
+        "Shell Master": null,
+        "Shell Master 2": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "1eq0and1ne0",
+      "taskStats": {
+        "Not received prize": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "STT",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "n0n$la$",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "ARESx",
+      "taskStats": {
+        "House Builder": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "m1t0",
+      "taskStats": {
+        "Shell Master": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "N0Named",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "Kernel Sanders",
+      "taskStats": {
+        "Not received prize": null,
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "KUDoS",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "Fword",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "dcua",
+      "taskStats": {
+        "House Builder": null,
+        "Shell Master": null,
+        "Shell Master 2": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "5h4d0wb10k3r",
+      "taskStats": {
+        "Dummyper": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "DarkArmy",
+      "taskStats": {
+        "Dummyper": null,
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "efiens",
+      "taskStats": {
+        "Dummyper": null,
+        "phoenix": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "Kalmarunionen",
+      "taskStats": {
+        "House Builder": null,
+        "Not received prize": null,
+        "Shell Master": null,
+        "Localization is hard": null,
+        "Shell Master 2": null,
+        "Scheme": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "skiddies",
+      "taskStats": {
+        "House Builder": null,
+        "Shell Master": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "jt",
+      "taskStats": {
+        "House Builder": null,
+        "Shell Master": null,
+        "Shell Master 2": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "HsVcs",
+      "taskStats": {
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "BinaryBears",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "Red Knights",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "0x8Layer",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "Zepto",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "e^iπ+1day",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "c0r3dump",
+      "taskStats": {
+        "Dummyper": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "ELT",
+      "taskStats": {
+        "Localization is hard": null,
+        "House Builder": null,
+        "Shell Master": null,
+        "Not received prize": null,
+        "Shell Master 2": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "CyKor",
+      "taskStats": {
+        "Dummyper": null,
+        "Localization is hard": null,
+        "Shell Master": null,
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "RedRocket",
+      "taskStats": {
+        "House Builder": null,
+        "Shell Master": null,
+        "Shell Master 2": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "mode13h",
+      "taskStats": {
+        "BashD00R": null,
+        "Dummyper": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "RootMeUpBeforeYouGoGo",
+      "taskStats": {
+        "Shell Master": null,
+        "Localization is hard": null,
+        "Shell Master 2": null,
+        "House Builder": null,
+        "Dummyper": null,
+        "Target Attack": null,
+        "Not received prize": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "FAUST",
+      "taskStats": {
+        "Not received prize": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "BambooFox",
+      "taskStats": {
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "Itemize",
+      "taskStats": {
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "Shellphish",
+      "taskStats": {
+        "Scheme": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "skateboarding dog",
+      "taskStats": {
+        "phoenix": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "Mayas",
+      "taskStats": {
+        "House Builder": null,
+        "Shell Master": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "Contrail",
+      "taskStats": {
+        "Not received prize": null,
+        "House Builder": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "C4T BuT S4D",
+      "taskStats": {
+        "Shell Master": null,
+        "Shell Master 2": null,
+        "House Builder": null,
+        "Localization is hard": null,
+        "Target Attack": null,
+        "Dummyper": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "Scavenger Security",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "srdnlen",
+      "taskStats": {
+        "House Builder": null,
+        "Shell Master": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "ShroomZ",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "flib",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "CSI",
+      "taskStats": {
+        "Not received prize": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "SPRUSH",
+      "taskStats": {
+        "House Builder": null,
+        "Localization is hard": null,
+        "Dummyper": null,
+        "Shell Master": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "Black Bauhinia",
+      "taskStats": {
+        "horcrux": null,
+        "boggart": null,
+        "phoenix": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "meltdown",
+      "taskStats": {
+        "Dummyper": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "Nupakachi",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "beerpwn",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "TEAM0001",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "ret2school",
+      "taskStats": {
+        "BashD00R": null,
+        "Dummyper": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "cew",
+      "taskStats": {
+        "Dummyper": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "./Vespiary",
+      "taskStats": {
+        "Not received prize": null,
+        "House Builder": null,
+        "Shell Master": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "just4fun",
+      "taskStats": {
+        "Dummyper": null,
+        "phoenix": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "TheGoonies",
+      "taskStats": {
+        "Shell Master": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "Keyboard Monkeys",
+      "taskStats": {
+        "Scheme": null,
+        "phoenix": null,
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "CeSeNA_Ulisse",
+      "taskStats": {
+        "Dummyper": null,
+        "Not received prize": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "Enumerati",
+      "taskStats": {
+        "Not received prize": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "VztekOverflow",
+      "taskStats": {
+        "Dummyper": null,
+        "House Builder": null,
+        "Shell Master": null,
+        "Shell Master 2": null,
+        "custom": null,
+        "Localization is hard": null,
+        "Target Attack": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "h4ck0c10ck",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "ripp3rs",
+      "taskStats": {
+        "Not received prize": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "born2scan",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "BuddiesTeam",
+      "taskStats": {
+        "House Builder": null,
+        "Localization is hard": null,
+        "Shell Master": null,
+        "Shell Master 2": null,
+        "Not received prize": null,
+        "Dummyper": null,
+        "custom": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "10sec",
+      "taskStats": {
+        "Localization is hard": null,
+        "Not received prize": null,
+        "House Builder": null,
+        "Shell Master": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "Pentahex and some other skids",
+      "taskStats": {
+        "Not received prize": null,
+        "House Builder": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "flagbot",
+      "taskStats": {
+        "Dummyper": null,
+        "Shell Master": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "Demon",
+      "taskStats": {
+        "Not received prize": null,
+        "House Builder": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "ptm",
+      "taskStats": {
+        "phoenix": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "SHRECS",
+      "taskStats": {
+        "Not received prize": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "Bushwhackers",
+      "taskStats": {
+        "Not received prize": null,
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "Maher",
+      "taskStats": {
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "Echo",
+      "taskStats": {
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "softliberalhands",
+      "taskStats": {
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "contrail",
+      "taskStats": {
+        "House Builder": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "LSE",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "MadrHacks",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "mdisec_unofficial",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "BunG",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "이사하는 중",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "day_is_bright_and_without_errors",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "sztykiryki",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "Red Cadets",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "Hyp3rFlow",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "0x01d5",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "SqU4dR0n",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "Not The PPP",
+      "taskStats": {
+        "Localization is hard": null
+      }
+    }
+  ],
+  "name": "Aero CTF 2021",
+  "date": 1614351600
+}

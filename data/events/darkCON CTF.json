@@ -1,0 +1,6346 @@
+{
+  "tasks": [
+    "Read",
+    "ezpz",
+    "DMM",
+    "WTF PHP",
+    "Web+Crypto",
+    "(Not) Easy",
+    "Fs-1",
+    "Meme_Stash",
+    "Take It Easy",
+    "Disguised Wordlets",
+    "Mr.Wolf Darkest Secret",
+    "Easy PHP",
+    "Capture the Meme",
+    "Do you know them ?",
+    "Wrong Location",
+    "DarkCON Challs",
+    "MITM",
+    "Travel to the home",
+    "Sanity Check",
+    "Pixelify",
+    "Tony And James",
+    "NO-OUTPUT",
+    "Warmup",
+    "Figuring Out The Past",
+    "Camouflage",
+    "Easy-ROP",
+    "The Reporter",
+    "Scattered Pieces",
+    "Too Much",
+    "VKL_SQL",
+    "House of the rising sun",
+    "XXX - The Return of Mr. X",
+    "PokePark - Raising New Generation",
+    "Risk Security Analyst Alice Vs Eve",
+    "Rookie's_Choice_4_you",
+    "CyberDark_0x02: Installer",
+    "CyberDark0x01: ShitComp",
+    "FS-2",
+    "fire in the androiddd",
+    "Find the location",
+    "Find her Boyfriend",
+    "Feedback"
+  ],
+  "standings": [
+    {
+      "pos": 29,
+      "team": "TMU",
+      "taskStats": {
+        "Find the location": null,
+        "Easy-ROP": null,
+        "Feedback": null,
+        "Do you know them ?": null,
+        "Pixelify": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "Read": null,
+        "Too Much": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "Volcano",
+      "taskStats": {
+        "Easy-ROP": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "Tony And James": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "Shitpography",
+      "taskStats": {
+        "Warmup": null,
+        "Too Much": null,
+        "Scattered Pieces": null,
+        "Tony And James": null,
+        "Read": null,
+        "ezpz": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "Easy-ROP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "AntiBuddies",
+      "taskStats": {
+        "Find the location": null,
+        "DarkCON Challs": null,
+        "Feedback": null,
+        "Capture the Meme": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Scattered Pieces": null,
+        "Warmup": null,
+        "Take It Easy": null,
+        "Easy-ROP": null,
+        "Read": null,
+        "Camouflage": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "x6C6F747573",
+      "taskStats": {
+        "Sanity Check": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "PokePark - Raising New Generation": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "MITM": null
+      }
+    },
+    {
+      "pos": 454,
+      "team": "Niubi_team",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 445,
+      "team": "r00t",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "N0Named",
+      "taskStats": {
+        "Feedback": null,
+        "Do you know them ?": null,
+        "Scattered Pieces": null,
+        "Warmup": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "onotch",
+      "taskStats": {
+        "Feedback": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "CodWer",
+      "taskStats": {
+        "DMM": null,
+        "Feedback": null,
+        "DarkCON Challs": null,
+        "Pixelify": null,
+        "Rookie's_Choice_4_you": null,
+        "Warmup": null,
+        "Too Much": null,
+        "Capture the Meme": null,
+        "Tony And James": null,
+        "Figuring Out The Past": null,
+        "ezpz": null,
+        "Scattered Pieces": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Take It Easy": null,
+        "Easy-ROP": null,
+        "Sanity Check": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Read": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "KUDoS",
+      "taskStats": {
+        "WTF PHP": null,
+        "Warmup": null,
+        "Sanity Check": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "noraneco",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "Fword",
+      "taskStats": {
+        "Easy-ROP": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Scattered Pieces": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "RKTEAM",
+      "taskStats": {
+        "The Reporter": null,
+        "Too Much": null,
+        "Pixelify": null,
+        "ezpz": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 486,
+      "team": "All Your Flags",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 342,
+      "team": "0xL4ugh",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 530,
+      "team": "GanSw",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "Antivirus",
+      "taskStats": {
+        "DMM": null,
+        "Find the location": null,
+        "Feedback": null,
+        "Travel to the home": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "stankc",
+      "taskStats": {
+        "Find her Boyfriend": null,
+        "Feedback": null,
+        "ezpz": null,
+        "The Reporter": null,
+        "Take It Easy": null,
+        "Figuring Out The Past": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 363,
+      "team": "Bytersec_Squad",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 562,
+      "team": "0xipr0xy",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "dcua",
+      "taskStats": {
+        "DarkCON Challs": null,
+        "Mr.Wolf Darkest Secret": null,
+        "Find the location": null,
+        "Feedback": null,
+        "Capture the Meme": null,
+        "DMM": null,
+        "FS-2": null,
+        "CyberDark_0x02: Installer": null,
+        "fire in the androiddd": null,
+        "Fs-1": null,
+        "CyberDark0x01: ShitComp": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Web+Crypto": null,
+        "Do you know them ?": null,
+        "Rookie's_Choice_4_you": null,
+        "Too Much": null,
+        "Travel to the home": null,
+        "NO-OUTPUT": null,
+        "Pixelify": null,
+        "The Reporter": null,
+        "Scattered Pieces": null,
+        "Figuring Out The Past": null,
+        "Easy PHP": null,
+        "ezpz": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Tony And James": null,
+        "Meme_Stash": null,
+        "Warmup": null,
+        "Easy-ROP": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "AlphaSeal",
+      "taskStats": {
+        "Feedback": null,
+        "Rookie's_Choice_4_you": null,
+        "Disguised Wordlets": null,
+        "Too Much": null,
+        "DarkCON Challs": null,
+        "DMM": null,
+        "VKL_SQL": null,
+        "Capture the Meme": null,
+        "Easy-ROP": null,
+        "Tony And James": null,
+        "ezpz": null,
+        "Read": null,
+        "Take It Easy": null,
+        "Meme_Stash": null,
+        "Camouflage": null,
+        "Easy PHP": null,
+        "Pixelify": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "WreckTheLine",
+      "taskStats": {
+        "fire in the androiddd": null,
+        "Find the location": null,
+        "Feedback": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "DarkCON Challs": null,
+        "DMM": null,
+        "VKL_SQL": null,
+        "Do you know them ?": null,
+        "Web+Crypto": null,
+        "Capture the Meme": null,
+        "(Not) Easy": null,
+        "CyberDark_0x02: Installer": null,
+        "CyberDark0x01: ShitComp": null,
+        "Too Much": null,
+        "Rookie's_Choice_4_you": null,
+        "PokePark - Raising New Generation": null,
+        "Warmup": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Pixelify": null,
+        "Scattered Pieces": null,
+        "Disguised Wordlets": null,
+        "Easy-ROP": null,
+        "MITM": null,
+        "Tony And James": null,
+        "ezpz": null,
+        "Figuring Out The Past": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 1,
+      "team": "AmpunBangJago",
+      "taskStats": {
+        "XXX - The Return of Mr. X": null,
+        "Mr.Wolf Darkest Secret": null,
+        "Feedback": null,
+        "Find her Boyfriend": null,
+        "Find the location": null,
+        "CyberDark_0x02: Installer": null,
+        "MITM": null,
+        "Web+Crypto": null,
+        "CyberDark0x01: ShitComp": null,
+        "fire in the androiddd": null,
+        "DarkCON Challs": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "DMM": null,
+        "NO-OUTPUT": null,
+        "VKL_SQL": null,
+        "Fs-1": null,
+        "PokePark - Raising New Generation": null,
+        "Rookie's_Choice_4_you": null,
+        "Do you know them ?": null,
+        "Too Much": null,
+        "Capture the Meme": null,
+        "(Not) Easy": null,
+        "Warmup": null,
+        "Easy-ROP": null,
+        "Travel to the home": null,
+        "Pixelify": null,
+        "The Reporter": null,
+        "ezpz": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Read": null,
+        "Tony And James": null,
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Figuring Out The Past": null,
+        "Scattered Pieces": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "K3RN3L4RMY",
+      "taskStats": {
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "skiddies",
+      "taskStats": {
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Rookie's_Choice_4_you": null,
+        "Warmup": null,
+        "Easy-ROP": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "Team ForFun",
+      "taskStats": {
+        "DMM": null,
+        "Sanity Check": null,
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "zh3r0",
+      "taskStats": {
+        "CyberDark0x01: ShitComp": null,
+        "Wrong Location": null,
+        "MITM": null,
+        "VKL_SQL": null,
+        "Feedback": null,
+        "Find her Boyfriend": null,
+        "FS-2": null,
+        "Pixelify": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "House of the rising sun": null,
+        "Do you know them ?": null,
+        "Fs-1": null,
+        "PokePark - Raising New Generation": null,
+        "Rookie's_Choice_4_you": null,
+        "Too Much": null,
+        "Capture the Meme": null,
+        "Tony And James": null,
+        "Scattered Pieces": null,
+        "Travel to the home": null,
+        "Warmup": null,
+        "The Reporter": null,
+        "ezpz": null,
+        "Figuring Out The Past": null,
+        "NO-OUTPUT": null,
+        "Easy-ROP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "HsVcs",
+      "taskStats": {
+        "Too Much": null,
+        "Feedback": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "d4rkc0de",
+      "taskStats": {
+        "Disguised Wordlets": null,
+        "The Reporter": null,
+        "Capture the Meme": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "MITM": null,
+        "DarkCON Challs": null,
+        "PokePark - Raising New Generation": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Meme_Stash": null,
+        "Easy-ROP": null,
+        "Easy PHP": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 629,
+      "team": "burner_herz0g",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 495,
+      "team": "L10n5",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "Red Knights",
+      "taskStats": {
+        "DMM": null,
+        "Feedback": null,
+        "DarkCON Challs": null,
+        "Too Much": null,
+        "Meme_Stash": null,
+        "The Reporter": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "Read": null,
+        "Figuring Out The Past": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 643,
+      "team": "_HBM",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "xof5566",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 291,
+      "team": "Aztec Dragons",
+      "taskStats": {
+        "Sanity Check": null,
+        "The Reporter": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "RPCA Cyber Club",
+      "taskStats": {
+        "Too Much": null,
+        "Feedback": null,
+        "Meme_Stash": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "The Reporter": null,
+        "Read": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "acdwas",
+      "taskStats": {
+        "Too Much": null,
+        "Read": null,
+        "Sanity Check": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "Sieberrsec",
+      "taskStats": {
+        "WTF PHP": null,
+        "NO-OUTPUT": null,
+        "The Reporter": null,
+        "Take It Easy": null,
+        "Warmup": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "fr334aks",
+      "taskStats": {
+        "Feedback": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Easy-ROP": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "noob-atbash",
+      "taskStats": {
+        "Find her Boyfriend": null,
+        "Feedback": null,
+        "Pixelify": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "Sanity Check": null,
+        "Read": null
+      }
+    },
+    {
+      "pos": 615,
+      "team": "Crib_Warrior",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "room2042",
+      "taskStats": {
+        "Scattered Pieces": null,
+        "The Reporter": null,
+        "Easy-ROP": null,
+        "Tony And James": null,
+        "Meme_Stash": null,
+        "Take It Easy": null,
+        "Read": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "H0j3n",
+      "taskStats": {
+        "The Reporter": null,
+        "Take It Easy": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null,
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 646,
+      "team": "NotHotdog",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 364,
+      "team": "Pwning from 127::1",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "OverDover",
+      "taskStats": {
+        "Read": null,
+        "Find the location": null,
+        "Easy PHP": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "ri5e",
+      "taskStats": {
+        "Too Much": null,
+        "Read": null,
+        "Easy-ROP": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "N30Z30N",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null,
+        "Take It Easy": null,
+        "Risk Security Analyst Alice Vs Eve": null
+      }
+    },
+    {
+      "pos": 336,
+      "team": "oscuro6879",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "Byte Lounge",
+      "taskStats": {
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 307,
+      "team": ":D",
+      "taskStats": {
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "etherknot",
+      "taskStats": {
+        "Easy-ROP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "STeam",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 589,
+      "team": "No_Pwn_Intended",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "c0r3dump",
+      "taskStats": {
+        "Find her Boyfriend": null,
+        "Feedback": null,
+        "DMM": null,
+        "CyberDark_0x02: Installer": null,
+        "CyberDark0x01: ShitComp": null,
+        "Do you know them ?": null,
+        "Too Much": null,
+        "Rookie's_Choice_4_you": null,
+        "(Not) Easy": null,
+        "Tony And James": null,
+        "Warmup": null,
+        "Scattered Pieces": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Pixelify": null,
+        "Figuring Out The Past": null,
+        "ezpz": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "Itemize",
+      "taskStats": {
+        "The Reporter": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "ezpz": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "SaturnX",
+      "taskStats": {
+        "DarkCON Challs": null,
+        "DMM": null,
+        "fire in the androiddd": null,
+        "CyberDark0x01: ShitComp": null,
+        "Too Much": null,
+        "Take It Easy": null,
+        "Easy-ROP": null,
+        "(Not) Easy": null,
+        "The Reporter": null,
+        "ezpz": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null,
+        "Read": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "Watch4Hack",
+      "taskStats": {
+        "DarkCON Challs": null,
+        "Find her Boyfriend": null,
+        "Rookie's_Choice_4_you": null,
+        "Capture the Meme": null,
+        "Easy-ROP": null,
+        "ezpz": null,
+        "Tony And James": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Pixelify": null,
+        "Take It Easy": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "cntr0llz",
+      "taskStats": {
+        "DMM": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "Capture the Meme": null,
+        "Easy-ROP": null,
+        "Read": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "0x4c6f6c7a",
+      "taskStats": {
+        "The Reporter": null,
+        "Figuring Out The Past": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "HackingForSoju",
+      "taskStats": {
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "Corax",
+      "taskStats": {
+        "Travel to the home": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "ONO",
+      "taskStats": {
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Find the location": null,
+        "VKL_SQL": null,
+        "Capture the Meme": null,
+        "Easy-ROP": null,
+        "Disguised Wordlets": null,
+        "Rookie's_Choice_4_you": null,
+        "Too Much": null,
+        "Travel to the home": null,
+        "ezpz": null,
+        "Tony And James": null,
+        "The Reporter": null,
+        "Figuring Out The Past": null,
+        "Take It Easy": null,
+        "Pixelify": null,
+        "Scattered Pieces": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "MIT-TEAM",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "srdnlen",
+      "taskStats": {
+        "XXX - The Return of Mr. X": null,
+        "Rookie's_Choice_4_you": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Find the location": null,
+        "Feedback": null,
+        "Find her Boyfriend": null,
+        "Figuring Out The Past": null,
+        "Capture the Meme": null,
+        "Do you know them ?": null,
+        "Tony And James": null,
+        "Too Much": null,
+        "Pixelify": null,
+        "Easy-ROP": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Warmup": null,
+        "Take It Easy": null,
+        "NO-OUTPUT": null,
+        "Easy PHP": null,
+        "ezpz": null,
+        "Meme_Stash": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "Silence Mayday",
+      "taskStats": {
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "OyuSec",
+      "taskStats": {
+        "Feedback": null,
+        "Too Much": null,
+        "Tony And James": null,
+        "NO-OUTPUT": null,
+        "Warmup": null,
+        "Easy-ROP": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "CYberMouflons",
+      "taskStats": {
+        "Pixelify": null,
+        "Scattered Pieces": null,
+        "The Reporter": null,
+        "Find the location": null,
+        "MITM": null,
+        "Travel to the home": null,
+        "Rookie's_Choice_4_you": null,
+        "ezpz": null,
+        "Easy-ROP": null,
+        "Capture the Meme": null,
+        "Meme_Stash": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "RISC",
+      "taskStats": {
+        "Feedback": null,
+        "Find the location": null,
+        "Easy PHP": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "KUICS",
+      "taskStats": {
+        "Take It Easy": null,
+        "Too Much": null,
+        "Rookie's_Choice_4_you": null,
+        "Meme_Stash": null,
+        "Feedback": null,
+        "Read": null,
+        "The Reporter": null,
+        "Warmup": null,
+        "ezpz": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Tony And James": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 331,
+      "team": "0xdef12e",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 480,
+      "team": "s0lid4rity",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "Omaviat",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "ctf{Alex}",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "Gateway",
+      "taskStats": {
+        "Tony And James": null,
+        "Capture the Meme": null,
+        "Take It Easy": null,
+        "The Reporter": null,
+        "Sanity Check": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 639,
+      "team": "FreshBakedCyberGeeks",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "Area{51}",
+      "taskStats": {
+        "XXX - The Return of Mr. X": null,
+        "Find her Boyfriend": null,
+        "Read": null,
+        "Feedback": null,
+        "Take It Easy": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 659,
+      "team": "SNOT",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "Sophisticated Society of Delinquents",
+      "taskStats": {
+        "Take It Easy": null,
+        "Feedback": null,
+        "Find the location": null,
+        "Rookie's_Choice_4_you": null,
+        "Find her Boyfriend": null,
+        "DarkCON Challs": null,
+        "DMM": null,
+        "Too Much": null,
+        "Capture the Meme": null,
+        "Figuring Out The Past": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Read": null,
+        "Easy-ROP": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "0xops",
+      "taskStats": {
+        "Pixelify": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 350,
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 459,
+      "team": "NAZCA",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "EffectRenan",
+      "taskStats": {
+        "Easy PHP": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 654,
+      "team": "PARSECT",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "The Additional Payphones",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "w1ldc4t",
+      "taskStats": {
+        "Warmup": null,
+        "Easy-ROP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "h0lysh1t",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "Raise the Flag",
+      "taskStats": {
+        "Easy PHP": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "Soul Society",
+      "taskStats": {
+        "Find the location": null,
+        "Find her Boyfriend": null,
+        "The Reporter": null,
+        "Sanity Check": null,
+        "Travel to the home": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "eppooo",
+      "taskStats": {
+        "Feedback": null,
+        "Take It Easy": null,
+        "Read": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "huydoppa",
+      "taskStats": {
+        "VKL_SQL": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "UIT.SoloQ",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 519,
+      "team": "alimadodo",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 450,
+      "team": "(mendung)10^6",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 338,
+      "team": "p0x82s",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 388,
+      "team": "H4CKF0RLIF3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 351,
+      "team": "BackMoon",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 627,
+      "team": "DarkEventHorizn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 451,
+      "team": "shellpwn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "FalseBinary",
+      "taskStats": {
+        "Find the location": null,
+        "Feedback": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "fzhshzh",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "K&P",
+      "taskStats": {
+        "Capture the Meme": null,
+        "Feedback": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 550,
+      "team": "ex0gen",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 375,
+      "team": "Class3E",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 323,
+      "team": "Tinfoil Hats",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 293,
+      "team": "exzettabyte",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 396,
+      "team": "subnormals",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 359,
+      "team": "karipap",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 329,
+      "team": "mikejam",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 321,
+      "team": "darkOrder",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 625,
+      "team": "psych0social_engin33ring",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "PatanjaliHax",
+      "taskStats": {
+        "Feedback": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 425,
+      "team": "SkidSociety",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 649,
+      "team": "Robot",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "exntrc",
+      "taskStats": {
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 496,
+      "team": "NCTOP",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "Samurai",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "Feedback": null,
+        "Easy PHP": null,
+        "Warmup": null,
+        "Take It Easy": null,
+        "Easy-ROP": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null,
+        "NO-OUTPUT": null,
+        "Read": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "kalmarunionen",
+      "taskStats": {
+        "Too Much": null,
+        "Warmup": null,
+        "Easy-ROP": null,
+        "Take It Easy": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "csictf",
+      "taskStats": {
+        "Travel to the home": null,
+        "ezpz": null,
+        "Easy-ROP": null,
+        "Feedback": null,
+        "The Reporter": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "Dashu",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "ezpz": null,
+        "Sanity Check": null,
+        "Too Much": null,
+        "Read": null
+      }
+    },
+    {
+      "pos": 309,
+      "team": "hamayanhamayan",
+      "taskStats": {
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "Deadlock Team",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "Cyber Security Leaks",
+      "taskStats": {
+        "VKL_SQL": null,
+        "Sanity Check": null,
+        "WTF PHP": null,
+        "Meme_Stash": null,
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "Serokell",
+      "taskStats": {
+        "Feedback": null,
+        "Too Much": null,
+        "Disguised Wordlets": null,
+        "DarkCON Challs": null,
+        "DMM": null,
+        "XXX - The Return of Mr. X": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Find her Boyfriend": null,
+        "MITM": null,
+        "Capture the Meme": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Camouflage": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Pixelify": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "Easy-ROP": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "tiangeng",
+      "taskStats": {
+        "WTF PHP": null,
+        "Warmup": null,
+        "Sanity Check": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "TEAM0001",
+      "taskStats": {
+        "Feedback": null,
+        "ezpz": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Easy-ROP": null,
+        "Meme_Stash": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "as3617",
+      "taskStats": {
+        "DMM": null,
+        "Sanity Check": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "reKeyzen",
+      "taskStats": {
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Read": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 481,
+      "team": "Anemone",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "antooro",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "rmrfslash",
+      "taskStats": {
+        "The Reporter": null,
+        "Capture the Meme": null,
+        "ezpz": null,
+        "Too Much": null,
+        "Pixelify": null,
+        "Rookie's_Choice_4_you": null,
+        "Easy-ROP": null,
+        "Meme_Stash": null,
+        "Tony And James": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "DeltaHeap",
+      "taskStats": {
+        "Feedback": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "void* vikings",
+      "taskStats": {
+        "Easy-ROP": null,
+        "Feedback": null,
+        "Tony And James": null,
+        "Rookie's_Choice_4_you": null,
+        "Take It Easy": null,
+        "WTF PHP": null,
+        "The Reporter": null,
+        "Too Much": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "CBF",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "Too Much": null,
+        "Feedback": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Sanity Check": null,
+        "Easy-ROP": null,
+        "Read": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "Sechack",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "cby234",
+      "taskStats": {
+        "Meme_Stash": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "h4ck7u5",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 575,
+      "team": "babar",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 534,
+      "team": "Unchosen",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "Flaggermeister",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 620,
+      "team": "UMDCSEC",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 628,
+      "team": "KapiSec",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 346,
+      "team": "kanyewest",
+      "taskStats": {
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "Mental Hospital",
+      "taskStats": {
+        "WTF PHP": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "LJB",
+      "taskStats": {
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 559,
+      "team": "ViperCTF",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "lost+found",
+      "taskStats": {
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 611,
+      "team": "teacup",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "Kza",
+      "taskStats": {
+        "ezpz": null,
+        "Sanity Check": null,
+        "Read": null
+      }
+    },
+    {
+      "pos": 305,
+      "team": "HowsWeather",
+      "taskStats": {
+        "Feedback": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 605,
+      "team": "PersianCats",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "etc0202",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "CTF Community",
+      "taskStats": {
+        "Find the location": null,
+        "Find her Boyfriend": null,
+        "Feedback": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Too Much": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Travel to the home": null,
+        "Read": null,
+        "Take It Easy": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 576,
+      "team": "KingofmyQueen",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 504,
+      "team": "The Cryptors",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "D4rk Sid3",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "ezpz": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 483,
+      "team": "cyb3rL4b5",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "XploiT",
+      "taskStats": {
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 538,
+      "team": "ikeario",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "JetJ",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 391,
+      "team": "Qu3tz4lc04tl",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 644,
+      "team": "We Got This",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "AsturiesCTF",
+      "taskStats": {
+        "Feedback": null,
+        "Rookie's_Choice_4_you": null,
+        "The Reporter": null,
+        "Capture the Meme": null,
+        "ezpz": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "GruberliOPENCTF",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 553,
+      "team": "b00t_Error1890",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 647,
+      "team": "Ammas_Hackers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 499,
+      "team": "The Keepers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 658,
+      "team": "KOREASEXYASS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 602,
+      "team": "Hopefully",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 373,
+      "team": "PeakyBlinders",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "MuchWow",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "b1rds_of_pr3y",
+      "taskStats": {
+        "The Reporter": null,
+        "ezpz": null,
+        "Warmup": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "LIT LOGIN",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 440,
+      "team": "4k3l4rr3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 467,
+      "team": "HayatoY",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 581,
+      "team": "croucroute",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 560,
+      "team": "0b1ivi0n",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 304,
+      "team": "erikkabir",
+      "taskStats": {
+        "Feedback": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 638,
+      "team": "Josh",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 497,
+      "team": "Team Freeze",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "Hextraditables",
+      "taskStats": {
+        "Pixelify": null,
+        "Rookie's_Choice_4_you": null,
+        "WTF PHP": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 563,
+      "team": "Pengg0damn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 353,
+      "team": "Les_Enfants_terribles",
+      "taskStats": {
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "IamIn",
+      "taskStats": {
+        "The Reporter": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 633,
+      "team": "3xpl01tTh3W0rld",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "warlock_rootx",
+      "taskStats": {
+        "DarkCON Challs": null,
+        "Find the location": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Feedback": null,
+        "CyberDark0x01: ShitComp": null,
+        "DMM": null,
+        "fire in the androiddd": null,
+        "Do you know them ?": null,
+        "Capture the Meme": null,
+        "Rookie's_Choice_4_you": null,
+        "Too Much": null,
+        "Travel to the home": null,
+        "Tony And James": null,
+        "ezpz": null,
+        "The Reporter": null,
+        "Pixelify": null,
+        "Scattered Pieces": null,
+        "Easy-ROP": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "Figuring Out The Past": null,
+        "Read": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "vulnfreak",
+      "taskStats": {
+        "Feedback": null,
+        "Take It Easy": null,
+        "Rookie's_Choice_4_you": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "noone...",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "Disguised Wordlets": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": "w01verines",
+      "taskStats": {
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 549,
+      "team": "EchoSec",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "SCIST",
+      "taskStats": {
+        "Feedback": null,
+        "Warmup": null,
+        "ezpz": null,
+        "Easy-ROP": null,
+        "Capture the Meme": null,
+        "Too Much": null,
+        "DMM": null,
+        "Read": null,
+        "Sanity Check": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Take It Easy": null
+      }
+    },
+    {
+      "pos": 301,
+      "team": "13u9",
+      "taskStats": {
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "(!!--(UFO)--!!)",
+      "taskStats": {
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "NaijaSecForce",
+      "taskStats": {
+        "Take It Easy": null,
+        "Tony And James": null,
+        "Rookie's_Choice_4_you": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 541,
+      "team": "Wisky",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "StrixGoldhorn",
+      "taskStats": {
+        "Feedback": null,
+        "Read": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "The Cyber Grabs",
+      "taskStats": {
+        "Find her Boyfriend": null,
+        "Feedback": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "Hope'*'me",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 636,
+      "team": "Matte kudasai",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 527,
+      "team": "whitehathacker8181",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 600,
+      "team": "algeria",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": "blue_faang",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 387,
+      "team": "KXTI_LND",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 607,
+      "team": "KXTI_TSTANclan",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 598,
+      "team": "Angry Beavers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 546,
+      "team": "darkside",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 292,
+      "team": "0x02B375",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "AcidKitty",
+      "taskStats": {
+        "ezpz": null,
+        "Take It Easy": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "Pire_Mote",
+      "taskStats": {
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 422,
+      "team": "Myscc",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 637,
+      "team": "TheZakMan",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 390,
+      "team": "sourcreamx",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "pseudoivy",
+      "taskStats": {
+        "WTF PHP": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 572,
+      "team": "InterWeb 101",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 653,
+      "team": "CRUSADERS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 466,
+      "team": "team101",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 645,
+      "team": "Reloaded",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 416,
+      "team": "yonikal56",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 510,
+      "team": "alert",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 474,
+      "team": "tebirox",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 492,
+      "team": "KeoBongGon",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 354,
+      "team": "UnAnonymous",
+      "taskStats": {
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 369,
+      "team": "Kings",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 642,
+      "team": "likethis",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "army_of_one",
+      "taskStats": {
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "KXTI_NF",
+      "taskStats": {
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "Rick_Squad",
+      "taskStats": {
+        "Find the location": null,
+        "Mr.Wolf Darkest Secret": null,
+        "DMM": null,
+        "Feedback": null,
+        "Travel to the home": null,
+        "(Not) Easy": null,
+        "DarkCON Challs": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "MITM": null,
+        "CyberDark_0x02: Installer": null,
+        "PokePark - Raising New Generation": null,
+        "CyberDark0x01: ShitComp": null,
+        "Capture the Meme": null,
+        "Rookie's_Choice_4_you": null,
+        "ezpz": null,
+        "Too Much": null,
+        "Do you know them ?": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Scattered Pieces": null,
+        "Figuring Out The Past": null,
+        "Pixelify": null,
+        "Read": null,
+        "Take It Easy": null,
+        "Sanity Check": null,
+        "Easy-ROP": null,
+        "Warmup": null,
+        "Tony And James": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "Keyboard Monkeys",
+      "taskStats": {
+        "Easy-ROP": null,
+        "Pixelify": null,
+        "MITM": null,
+        "Feedback": null,
+        "Camouflage": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Find the location": null,
+        "Find her Boyfriend": null,
+        "CyberDark_0x02: Installer": null,
+        "Do you know them ?": null,
+        "CyberDark0x01: ShitComp": null,
+        "Rookie's_Choice_4_you": null,
+        "Too Much": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Tony And James": null,
+        "Travel to the home": null,
+        "ezpz": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "CeSeNA_Ulisse",
+      "taskStats": {
+        "Feedback": null,
+        "Disguised Wordlets": null,
+        "NO-OUTPUT": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Do you know them ?": null,
+        "Too Much": null,
+        "Scattered Pieces": null,
+        "Rookie's_Choice_4_you": null,
+        "Travel to the home": null,
+        "Tony And James": null,
+        "Easy-ROP": null,
+        "Take It Easy": null,
+        "Warmup": null,
+        "The Reporter": null,
+        "Pixelify": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "ezpz": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "redcode",
+      "taskStats": {
+        "Capture the Meme": null,
+        "DMM": null,
+        "Feedback": null,
+        "DarkCON Challs": null,
+        "Pixelify": null,
+        "Warmup": null,
+        "Rookie's_Choice_4_you": null,
+        "Scattered Pieces": null,
+        "Travel to the home": null,
+        "Take It Easy": null,
+        "The Reporter": null,
+        "Easy-ROP": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "CCUG",
+      "taskStats": {
+        "Figuring Out The Past": null,
+        "Do you know them ?": null,
+        "Rookie's_Choice_4_you": null,
+        "Travel to the home": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Meme_Stash": null,
+        "The Reporter": null,
+        "Warmup": null,
+        "Read": null,
+        "Easy-ROP": null,
+        "Scattered Pieces": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "r00tstici",
+      "taskStats": {
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Too Much": null,
+        "Rookie's_Choice_4_you": null,
+        "Meme_Stash": null,
+        "ezpz": null,
+        "Easy-ROP": null,
+        "Tony And James": null,
+        "Pixelify": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "megad00mer",
+      "taskStats": {
+        "Feedback": null,
+        "Find the location": null,
+        "Take It Easy": null,
+        "Find her Boyfriend": null,
+        "Rookie's_Choice_4_you": null,
+        "Camouflage": null,
+        "The Reporter": null,
+        "ezpz": null,
+        "Tony And James": null,
+        "Easy PHP": null,
+        "Pixelify": null,
+        "Travel to the home": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "Shellogg's",
+      "taskStats": {
+        "Feedback": null,
+        "Find the location": null,
+        "DarkCON Challs": null,
+        "DMM": null,
+        "Find her Boyfriend": null,
+        "Capture the Meme": null,
+        "Take It Easy": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "ezpz": null,
+        "Read": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "Hack In Provence",
+      "taskStats": {
+        "Do you know them ?": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Rookie's_Choice_4_you": null,
+        "Take It Easy": null,
+        "Tony And James": null,
+        "ezpz": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Travel to the home": null,
+        "Read": null,
+        "Easy PHP": null,
+        "Pixelify": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "BullSoc",
+      "taskStats": {
+        "Read": null,
+        "DarkCON Challs": null,
+        "Feedback": null,
+        "DMM": null,
+        "Capture the Meme": null,
+        "Too Much": null,
+        "Easy-ROP": null,
+        "Pixelify": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "c2FibG9fcHJlc3Rpego=",
+      "taskStats": {
+        "XXX - The Return of Mr. X": null,
+        "Find her Boyfriend": null,
+        "Feedback": null,
+        "Find the location": null,
+        "Travel to the home": null,
+        "Take It Easy": null,
+        "Read": null,
+        "Rookie's_Choice_4_you": null,
+        "Meme_Stash": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "unkn0wn",
+      "taskStats": {
+        "Capture the Meme": null,
+        "Take It Easy": null,
+        "Scattered Pieces": null,
+        "Travel to the home": null,
+        "Read": null,
+        "The Reporter": null,
+        "NO-OUTPUT": null,
+        "Figuring Out The Past": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "xyz",
+      "taskStats": {
+        "The Reporter": null,
+        "DarkCON Challs": null,
+        "Feedback": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "ezpz": null,
+        "Meme_Stash": null,
+        "Pixelify": null,
+        "Read": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "KSZK-SecurITeam",
+      "taskStats": {
+        "Feedback": null,
+        "Read": null,
+        "Capture the Meme": null,
+        "MITM": null,
+        "Rookie's_Choice_4_you": null,
+        "Pixelify": null,
+        "Easy PHP": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null,
+        "Take It Easy": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "sunjung",
+      "taskStats": {
+        "Too Much": null,
+        "Feedback": null,
+        "DMM": null,
+        "Pixelify": null,
+        "Take It Easy": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Warmup": null,
+        "Read": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "Numinous Episcopate",
+      "taskStats": {
+        "fire in the androiddd": null,
+        "Feedback": null,
+        "Travel to the home": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "Too Much": null,
+        "The Reporter": null,
+        "Read": null,
+        "ezpz": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "5LYTH3RIN",
+      "taskStats": {
+        "Feedback": null,
+        "Find her Boyfriend": null,
+        "Find the location": null,
+        "Easy PHP": null,
+        "Too Much": null,
+        "WTF PHP": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Take It Easy": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "LOCKE",
+      "taskStats": {
+        "Feedback": null,
+        "Take It Easy": null,
+        "Too Much": null,
+        "ezpz": null,
+        "Pixelify": null,
+        "Easy PHP": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "CyberErudites",
+      "taskStats": {
+        "Read": null,
+        "Rookie's_Choice_4_you": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Tony And James": null,
+        "Take It Easy": null,
+        "Pixelify": null,
+        "Easy-ROP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "Lorem Ipsec",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Feedback": null,
+        "Too Much": null,
+        "Rookie's_Choice_4_you": null,
+        "Take It Easy": null,
+        "Tony And James": null,
+        "Read": null,
+        "ezpz": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "LockForRoot",
+      "taskStats": {
+        "Take It Easy": null,
+        "Read": null,
+        "Feedback": null,
+        "Find the location": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Scattered Pieces": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "Hex2Text",
+      "taskStats": {
+        "Feedback": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "ezpz": null,
+        "Capture the Meme": null,
+        "Easy-ROP": null,
+        "Read": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "LeagueOfShad0ws",
+      "taskStats": {
+        "Feedback": null,
+        "Mr.Wolf Darkest Secret": null,
+        "Easy-ROP": null,
+        "Travel to the home": null,
+        "Easy PHP": null,
+        "Tony And James": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "CobraKai",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Too Much": null,
+        "Easy PHP": null,
+        "Pixelify": null,
+        "Easy-ROP": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "over_9000!",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "Find her Boyfriend": null,
+        "Take It Easy": null,
+        "Feedback": null,
+        "DarkCON Challs": null,
+        "Too Much": null,
+        "Figuring Out The Past": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "hackbuster",
+      "taskStats": {
+        "DMM": null,
+        "WTF PHP": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Figuring Out The Past": null,
+        "Take It Easy": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "v:screw",
+      "taskStats": {
+        "Feedback": null,
+        "Travel to the home": null,
+        "Pixelify": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Read": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "frickari",
+      "taskStats": {
+        "Feedback": null,
+        "Pixelify": null,
+        "Easy-ROP": null,
+        "Take It Easy": null,
+        "Read": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "'--; DROP TABLE teams",
+      "taskStats": {
+        "Tony And James": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "Travel to the home": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "AndiMandiSandi",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Too Much": null,
+        "Take It Easy": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "ksociety",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "MITM": null,
+        "Pixelify": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null,
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "CyberTerun",
+      "taskStats": {
+        "VKL_SQL": null,
+        "Rookie's_Choice_4_you": null,
+        "Read": null,
+        "ezpz": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "Ravens_Nest",
+      "taskStats": {
+        "XXX - The Return of Mr. X": null,
+        "Find her Boyfriend": null,
+        "The Reporter": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Pixelify": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "keyemvik",
+      "taskStats": {
+        "Feedback": null,
+        "Capture the Meme": null,
+        "Travel to the home": null,
+        "Easy PHP": null,
+        "Read": null,
+        "Sanity Check": null,
+        "Meme_Stash": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "B34R5HELL-RED",
+      "taskStats": {
+        "Find the location": null,
+        "Do you know them ?": null,
+        "WTF PHP": null,
+        "Travel to the home": null,
+        "Read": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "SazerVex",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Too Much": null,
+        "Pixelify": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "log_you_out",
+      "taskStats": {
+        "Feedback": null,
+        "Find the location": null,
+        "Rookie's_Choice_4_you": null,
+        "Easy PHP": null,
+        "The Reporter": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "Jakom",
+      "taskStats": {
+        "Read": null,
+        "Capture the Meme": null,
+        "Easy-ROP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "IrNoobs",
+      "taskStats": {
+        "Scattered Pieces": null,
+        "Read": null,
+        "Take It Easy": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "Secret Squirrels",
+      "taskStats": {
+        "Travel to the home": null,
+        "Easy-ROP": null,
+        "Too Much": null,
+        "Read": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "AdAstra",
+      "taskStats": {
+        "WTF PHP": null,
+        "ezpz": null,
+        "Read": null,
+        "Take It Easy": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "HorowitzTeam",
+      "taskStats": {
+        "The Reporter": null,
+        "ezpz": null,
+        "Easy-ROP": null,
+        "Read": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "abk",
+      "taskStats": {
+        "Feedback": null,
+        "DarkCON Challs": null,
+        "Capture the Meme": null,
+        "Easy PHP": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "hackappatoi",
+      "taskStats": {
+        "Find her Boyfriend": null,
+        "The Reporter": null,
+        "Pixelify": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "734m.745c0",
+      "taskStats": {
+        "Pixelify": null,
+        "The Reporter": null,
+        "Read": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "Cachupin",
+      "taskStats": {
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Too Much": null,
+        "WTF PHP": null,
+        "ezpz": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "Team name",
+      "taskStats": {
+        "Read": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "unicorns&magic",
+      "taskStats": {
+        "The Reporter": null,
+        "Read": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "SegFault",
+      "taskStats": {
+        "Feedback": null,
+        "Too Much": null,
+        "Travel to the home": null,
+        "Pixelify": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "Team Invisible",
+      "taskStats": {
+        "Find her Boyfriend": null,
+        "Find the location": null,
+        "The Reporter": null,
+        "Sanity Check": null,
+        "Travel to the home": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "Death_Aesthetics",
+      "taskStats": {
+        "Take It Easy": null,
+        "ezpz": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "penetr4t1v3bits",
+      "taskStats": {
+        "Capture the Meme": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "Lol",
+      "taskStats": {
+        "Capture the Meme": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "DSC KIIT",
+      "taskStats": {
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "Miskit",
+      "taskStats": {
+        "Feedback": null,
+        "Easy PHP": null,
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "TriHacking",
+      "taskStats": {
+        "Travel to the home": null,
+        "Read": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "ANSII-CODE1337",
+      "taskStats": {
+        "Easy PHP": null,
+        "Too Much": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "HugsForBugs",
+      "taskStats": {
+        "Take It Easy": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "B34R5H3LL-PURPLE",
+      "taskStats": {
+        "Easy PHP": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "Br0k3nSp0k3s",
+      "taskStats": {
+        "Travel to the home": null,
+        "Easy PHP": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "solomio",
+      "taskStats": {
+        "Capture the Meme": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "N00B_4rMY",
+      "taskStats": {
+        "The Reporter": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "UdagawaWhiteBears",
+      "taskStats": {
+        "Rookie's_Choice_4_you": null,
+        "Risk Security Analyst Alice Vs Eve": null,
+        "Feedback": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "DINS",
+      "taskStats": {
+        "The Reporter": null,
+        "Easy PHP": null,
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "stuxn3t",
+      "taskStats": {
+        "Do you know them ?": null,
+        "Scattered Pieces": null,
+        "Figuring Out The Past": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "ADDVulcan",
+      "taskStats": {
+        "Feedback": null,
+        "Read": null,
+        "Do you know them ?": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "human_consumption",
+      "taskStats": {
+        "ezpz": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "Cyb3r_Ph0en1X",
+      "taskStats": {
+        "Feedback": null,
+        "Rookie's_Choice_4_you": null,
+        "Tony And James": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "Mission_Root",
+      "taskStats": {
+        "Take It Easy": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "toktok",
+      "taskStats": {
+        "Read": null,
+        "The Reporter": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "Enumerati",
+      "taskStats": {
+        "Figuring Out The Past": null,
+        "WTF PHP": null,
+        "Sanity Check": null,
+        "Read": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "#!/bin/bash",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "HaS_CTF",
+      "taskStats": {
+        "Tony And James": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "pwnstars",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Read": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "sarma",
+      "taskStats": {
+        "WTF PHP": null,
+        "Take It Easy": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "OnePiece",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": "eiPi1day",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "nhienit",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "core_dumped",
+      "taskStats": {
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "OShiBen",
+      "taskStats": {
+        "Sanity Check": null,
+        "Meme_Stash": null,
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "sniper",
+      "taskStats": {
+        "Travel to the home": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "Berugichimu",
+      "taskStats": {
+        "The Reporter": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "lrjball",
+      "taskStats": {
+        "The Reporter": null,
+        "Travel to the home": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "solarwinds123",
+      "taskStats": {
+        "The Reporter": null,
+        "Take It Easy": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "r4t5_",
+      "taskStats": {
+        "Read": null,
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "B34R5HELL B1U3",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "Cash0n1y",
+      "taskStats": {
+        "Capture the Meme": null,
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "Whisky7",
+      "taskStats": {
+        "Easy PHP": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "dklfjdf",
+      "taskStats": {
+        "Easy PHP": null,
+        "Easy-ROP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "0MN1SC13NT5",
+      "taskStats": {
+        "Feedback": null,
+        "Easy-ROP": null,
+        "Too Much": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "team team",
+      "taskStats": {
+        "Easy-ROP": null,
+        "Warmup": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "M57-4puP",
+      "taskStats": {
+        "Pixelify": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "/=1xm3",
+      "taskStats": {
+        "Read": null,
+        "ezpz": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "PackerHackers",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "SudoArmy",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "S@n!t!z3r",
+      "taskStats": {
+        "Feedback": null,
+        "Take It Easy": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "Andrew Bae",
+      "taskStats": {
+        "Easy PHP": null,
+        "Sanity Check": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "ElikBelik77",
+      "taskStats": {
+        "Warmup": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "whoamiT",
+      "taskStats": {
+        "Warmup": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "stdnoerr",
+      "taskStats": {
+        "Warmup": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "WALUIGI",
+      "taskStats": {
+        "The Reporter": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "BofaMountain",
+      "taskStats": {
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "Cypher",
+      "taskStats": {
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "CyberWarriors",
+      "taskStats": {
+        "Travel to the home": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "lmaowtf",
+      "taskStats": {
+        "Too Much": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "3to2",
+      "taskStats": {
+        "The Reporter": null,
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "Test_dev",
+      "taskStats": {
+        "The Reporter": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "RageQuit",
+      "taskStats": {
+        "The Reporter": null,
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "AD",
+      "taskStats": {
+        "Capture the Meme": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "n00b13",
+      "taskStats": {
+        "Meme_Stash": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "Its4xCC",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "iamabanana",
+      "taskStats": {
+        "Take It Easy": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "flag{is_empty}",
+      "taskStats": {
+        "Take It Easy": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "Neme$is",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "Nan Solo",
+      "taskStats": {
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "Locked_Lego_Character",
+      "taskStats": {
+        "Read": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "testaaaa",
+      "taskStats": {
+        "Read": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "flagb0ts",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "Dongyeon1201",
+      "taskStats": {
+        "Easy PHP": null,
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "anonop",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "minion",
+      "taskStats": {
+        "Sanity Check": null,
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "Elias",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "() { :;}; echo vulnerable",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "98237F11",
+      "taskStats": {
+        "Sanity Check": null,
+        "WTF PHP": null,
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "bq",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "cdb_team",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "TheLoneGunmen",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "Knight Squad",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "syk3",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "alonevsloneliness",
+      "taskStats": {
+        "The Reporter": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "Computer_Addicts",
+      "taskStats": {
+        "Meme_Stash": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "derp",
+      "taskStats": {
+        "WTF PHP": null,
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "adholokam1",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "Nijkstral",
+      "taskStats": {
+        "Easy PHP": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "PSEmpire",
+      "taskStats": {
+        "Feedback": null,
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "dwild",
+      "taskStats": {
+        "Capture the Meme": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "thumperfuzzy",
+      "taskStats": {
+        "ezpz": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": "CyberSpaceX",
+      "taskStats": {
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "junnnnn",
+      "taskStats": {
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "Neo2854",
+      "taskStats": {
+        "Travel to the home": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "little_boy",
+      "taskStats": {
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "wild force",
+      "taskStats": {
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "knittingirl",
+      "taskStats": {
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "Bristol Hackers",
+      "taskStats": {
+        "Easy-ROP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "0x435446",
+      "taskStats": {
+        "Sanity Check": null,
+        "Take It Easy": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "hack_king",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "Eternal",
+      "taskStats": {
+        "Take It Easy": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "Wickedwick",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "11BinaryBishops",
+      "taskStats": {
+        "Feedback": null,
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "chickenwarriors",
+      "taskStats": {
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "kalpitk",
+      "taskStats": {
+        "Read": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "REPTR",
+      "taskStats": {
+        "Easy PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "Sy_Zer\\0",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "lolIdontHack",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "Indura",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "ShadowX",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "TGDocs807",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "HashBash",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "Bit by bit",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 287,
+      "team": "StraightSauce69",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 288,
+      "team": "SeaJay",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 289,
+      "team": "Sc4reCr0w",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 290,
+      "team": "JHDiscord",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 294,
+      "team": "Pejuang Yuran USIM",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 295,
+      "team": "Digipentester",
+      "taskStats": {
+        "The Reporter": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 296,
+      "team": "bm7",
+      "taskStats": {
+        "Tony And James": null
+      }
+    },
+    {
+      "pos": 297,
+      "team": "fibonhack",
+      "taskStats": {
+        "Too Much": null
+      }
+    },
+    {
+      "pos": 298,
+      "team": "OSINT_Master",
+      "taskStats": {
+        "Travel to the home": null
+      }
+    },
+    {
+      "pos": 299,
+      "team": "masteryeeter",
+      "taskStats": {
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 300,
+      "team": "konoha",
+      "taskStats": {
+        "Easy-ROP": null
+      }
+    },
+    {
+      "pos": 302,
+      "team": "hexagon.school",
+      "taskStats": {
+        "Feedback": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 303,
+      "team": "ChipsInElder",
+      "taskStats": {
+        "Feedback": null,
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 306,
+      "team": "licon",
+      "taskStats": {
+        "Read": null
+      }
+    },
+    {
+      "pos": 308,
+      "team": "aaaa",
+      "taskStats": {
+        "Easy PHP": null
+      }
+    },
+    {
+      "pos": 310,
+      "team": "WHOISbinit",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 311,
+      "team": "Team_Black",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 312,
+      "team": "Merona Hunters",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 313,
+      "team": "ProQsec",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 314,
+      "team": "Cruel_MEtr0poli_plug",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 315,
+      "team": "Noam",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 316,
+      "team": "CrisisBrigade",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 317,
+      "team": "dies_irae",
+      "taskStats": {
+        "Sanity Check": null,
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 318,
+      "team": "eXfilPr4tik",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 319,
+      "team": "theak",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 320,
+      "team": "Intrud3r5",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 322,
+      "team": "TH4KUR",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 324,
+      "team": "unknown00",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 325,
+      "team": "Newbie3viLc063s",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 326,
+      "team": "h16",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 327,
+      "team": "_batch20_",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 328,
+      "team": "007",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 330,
+      "team": "Dark Lord",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 332,
+      "team": "belgareth",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 333,
+      "team": "nietowl",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 334,
+      "team": "InspiV",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 335,
+      "team": "kietu",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 337,
+      "team": "Angel_Dust",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 339,
+      "team": "th3_n00bs",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 340,
+      "team": "FR13NDS!",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 341,
+      "team": "violet",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 343,
+      "team": "S1cP4rv15",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 344,
+      "team": "Cybertea",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 345,
+      "team": "Black",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 347,
+      "team": "JustATeam",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 348,
+      "team": "Test2232",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 349,
+      "team": "xaonan44",
+      "taskStats": {
+        "WTF PHP": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 352,
+      "team": "jametindonesia",
+      "taskStats": {
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 355,
+      "team": "PTITA",
+      "taskStats": {
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 356,
+      "team": "tienpa99dz",
+      "taskStats": {
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 357,
+      "team": "h@cking1sFun",
+      "taskStats": {
+        "WTF PHP": null
+      }
+    },
+    {
+      "pos": 358,
+      "team": "FaLLenGuY",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 360,
+      "team": "Brute Force Attack",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 361,
+      "team": "Retr00",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 362,
+      "team": "Ck9823",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 365,
+      "team": "Unkn0wn-m31r5",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 366,
+      "team": "UnKnown_neng",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 367,
+      "team": "Su7h4r",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 368,
+      "team": "Cyber Defecers",
+      "taskStats": {
+        "Feedback": null,
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 370,
+      "team": "One of the Dummiest",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 371,
+      "team": "Team Blue",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 372,
+      "team": "Mehtas",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 374,
+      "team": "Raphiel",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 376,
+      "team": "Team Secret",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 377,
+      "team": "Inveteck",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 378,
+      "team": "cheems",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 379,
+      "team": "n0ctis",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 380,
+      "team": "Warwick Mains",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 381,
+      "team": "Ravikumaryadav",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 382,
+      "team": "PwnAge",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 383,
+      "team": "KXTI_SSGS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 384,
+      "team": "c0mr4d3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 385,
+      "team": "win",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 386,
+      "team": "4ll3gu3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 389,
+      "team": "CSFNinjas",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 392,
+      "team": "haktheplanet",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 393,
+      "team": "GenesiS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 394,
+      "team": "CryptoKnight",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 395,
+      "team": "sp4rk",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 397,
+      "team": "aaron",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 398,
+      "team": "TechXploit",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 399,
+      "team": "itamarmaouda101@gmail.com",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 400,
+      "team": "iseng_doang",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 401,
+      "team": "Bl4ckF!re",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 402,
+      "team": "3rk1n",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 403,
+      "team": "Meu_Sec",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 404,
+      "team": "P33PP33P",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 405,
+      "team": "soloZubr",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 406,
+      "team": "IdukK1_g0ld",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 407,
+      "team": "N00B_H4CK3RS_COMMUNITY",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 408,
+      "team": "_Gyy__",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 409,
+      "team": "OEOW",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 410,
+      "team": "JHacks",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 411,
+      "team": "VoMaKu",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 412,
+      "team": "kxti_qwr",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 413,
+      "team": "T34M_4LIG4T0RZ",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 414,
+      "team": "L0gicb0mb3r",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 415,
+      "team": "noob_hackers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 417,
+      "team": "Naughty",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 418,
+      "team": "MIT-Unoff",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 419,
+      "team": "purple_peso",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 420,
+      "team": "error404-passwd",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 421,
+      "team": "tENGHDol",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 423,
+      "team": "MSB",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 424,
+      "team": "brainless",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 426,
+      "team": "Department of SmackedNCracked",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 427,
+      "team": "Hacx",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 428,
+      "team": "Bigdrea6",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 429,
+      "team": "bhaitabahi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 430,
+      "team": "0xdude",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 431,
+      "team": "dash",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 432,
+      "team": "trtd",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 433,
+      "team": "ITPWNS - Intergalactic Team of PWNers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 434,
+      "team": "KING_OF_MONSTERS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 435,
+      "team": "Cyber V",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 436,
+      "team": "LocalHost",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 437,
+      "team": "taaaaak",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 438,
+      "team": "TeamAWESOME",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 439,
+      "team": "allFun",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 441,
+      "team": "julji",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 442,
+      "team": "darkest1",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 443,
+      "team": "D0P3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 444,
+      "team": "Dteam",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 446,
+      "team": "DIGITAL",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 447,
+      "team": "0xrdaaa",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 448,
+      "team": "Allmighty babu",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 449,
+      "team": "yu$sha",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 452,
+      "team": "dbfc",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 453,
+      "team": "984564678",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 455,
+      "team": "Superthevenin",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 456,
+      "team": "trinity",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 457,
+      "team": "FER",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 458,
+      "team": "Abid Gul Shahid",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 460,
+      "team": "XDDD",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 461,
+      "team": "Mystic",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 462,
+      "team": "huntingrabbits",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 463,
+      "team": "t34mInveteck",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 464,
+      "team": "ouillle",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 465,
+      "team": "Satan",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 468,
+      "team": "yehbhthikhai!",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 469,
+      "team": "sp_noobs",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 470,
+      "team": "Tech@NM",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 471,
+      "team": "nullbaka",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 472,
+      "team": "hackboiz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 473,
+      "team": "HackersWithAttitude",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 475,
+      "team": "K33p_Qu!34",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 476,
+      "team": "BustedBit",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 477,
+      "team": "learning",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 478,
+      "team": "KXTI_MAKHUS",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 479,
+      "team": "lonelyMe",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 482,
+      "team": "STAS_EXEC",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 484,
+      "team": "Un1c0rn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 485,
+      "team": "WildCard",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 487,
+      "team": "kaipulla",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 488,
+      "team": "@artharezkyy",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 489,
+      "team": "Anonymous",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 490,
+      "team": "SoulReapers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 491,
+      "team": "chase",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 493,
+      "team": "jarp01",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 494,
+      "team": "CyberDatum",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 498,
+      "team": "tester",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 500,
+      "team": "single",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 501,
+      "team": "DeimosInvokers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 502,
+      "team": "goodra",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 503,
+      "team": "Cyber_Crew",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 505,
+      "team": "1K6@L_VUL7",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 506,
+      "team": "Raydd",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 507,
+      "team": "n00b_3lli0t",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 508,
+      "team": "Tokyo Bush Vipers",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 509,
+      "team": "Mr_Robot",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 511,
+      "team": "MeMyselfAndI",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 512,
+      "team": "consnop",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 513,
+      "team": "the black riders",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 514,
+      "team": "AbhiC7721",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 515,
+      "team": "HoundinEu",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 516,
+      "team": "Sixpacks",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 517,
+      "team": "PaisaBarbaad",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 518,
+      "team": "Th3_N3rds",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 520,
+      "team": "snick",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 521,
+      "team": "Trinozz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 522,
+      "team": "CuBocan",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 523,
+      "team": "Wolf",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 524,
+      "team": "IM_TEAM",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 525,
+      "team": "Predators",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 526,
+      "team": "NHC",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 528,
+      "team": "CCQK",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 529,
+      "team": "Andrewyuantw",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 531,
+      "team": "Components543",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 532,
+      "team": "oX",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 533,
+      "team": "D4RK_@RMY",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 535,
+      "team": "mtphil",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 536,
+      "team": "Kuality-3rd",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 537,
+      "team": "F055il215",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 539,
+      "team": "Panchvaktraya",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 540,
+      "team": "NO PWN NO FUN",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 542,
+      "team": "justanoob",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 543,
+      "team": "MissHoshi",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 544,
+      "team": "New Roamer",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 545,
+      "team": "buichiminh.cntt@gmail.com",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 547,
+      "team": "091238",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 548,
+      "team": "kimnatsau",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 551,
+      "team": "guillermoom",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 552,
+      "team": "PEN15 club",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 554,
+      "team": "Hacking Help",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 555,
+      "team": "Yarninator",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 556,
+      "team": "imitators",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 557,
+      "team": "NISHKARSH",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 558,
+      "team": "TheStars",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 561,
+      "team": "newbie",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 564,
+      "team": "beans",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 565,
+      "team": "Tredecillion",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 566,
+      "team": "mad",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 567,
+      "team": "Patelisback",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 568,
+      "team": "r00t3d",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 569,
+      "team": "levi squad",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 570,
+      "team": "singlemanctf",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 571,
+      "team": "foxbot",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 573,
+      "team": "Cyrptor",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 574,
+      "team": "Venom - Lpu",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 577,
+      "team": "O.P.T.I.M",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 578,
+      "team": "10_IQ__SQUAD",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 579,
+      "team": "narcdawn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 580,
+      "team": "Dndnerdz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 582,
+      "team": "AwesomePeople",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 583,
+      "team": "D3ar4n0n",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 584,
+      "team": "Victor viki",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 585,
+      "team": "fu2tian2",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 586,
+      "team": "JC253",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 587,
+      "team": "Roasted Sunflower Seeds (Extra Salted)",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 588,
+      "team": "atlantis",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 590,
+      "team": "dead_inside",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 591,
+      "team": "0040",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 592,
+      "team": "doddle",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 593,
+      "team": "TeamX",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 594,
+      "team": "kyztike",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 595,
+      "team": "Rylynn",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 596,
+      "team": "ExploitEverything",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 597,
+      "team": "bigcit",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 599,
+      "team": "dragonslayer",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 601,
+      "team": "Bu11D0gs",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 603,
+      "team": "th3f00l",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 604,
+      "team": "L34Rn3R",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 606,
+      "team": "TebbaaX",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 608,
+      "team": "SiemBiotic",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 609,
+      "team": "Dynamik",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 610,
+      "team": "bitddeveloper",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 612,
+      "team": "the garhads",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 613,
+      "team": "Jinxtrr",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 614,
+      "team": "zoltar",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 616,
+      "team": "JustForKnowledge",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 617,
+      "team": "Solucan.Exe",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 618,
+      "team": "nopdata",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 619,
+      "team": "Mhanx7net",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 621,
+      "team": "ichwill",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 622,
+      "team": "CyR0se",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 623,
+      "team": "TurboSYN",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 624,
+      "team": "slzwz",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 626,
+      "team": "siraak@protonmail.com",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 630,
+      "team": "DCO",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 631,
+      "team": "Shabby Jerkin",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 632,
+      "team": "JustDavid",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 634,
+      "team": "Thats What I Call Music",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 635,
+      "team": "45p3n",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 640,
+      "team": "hoho9",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 641,
+      "team": "afds",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 648,
+      "team": "Sp33d_0f_T1m3",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 650,
+      "team": "Team MR.",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 651,
+      "team": "Rreeee",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 652,
+      "team": "Rasser",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 655,
+      "team": "anonWeb",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 656,
+      "team": "rebel47",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 657,
+      "team": "change_this",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 660,
+      "team": "curveball",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 661,
+      "team": "cedric-ryo",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 662,
+      "team": "ant",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    },
+    {
+      "pos": 663,
+      "team": "2Cr4Sh",
+      "taskStats": {
+        "Sanity Check": null
+      }
+    }
+  ],
+  "name": "darkCON CTF",
+  "date": 1613833200
+}

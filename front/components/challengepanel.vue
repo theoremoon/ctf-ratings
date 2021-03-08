@@ -1,17 +1,27 @@
 <template>
     <div class="challenge">
-        <h3 class="challenge-name"><NuxtLink :to="{name: 'event-name-id', params: {name: eventname, id: challengeid}}">{{ challenge.name }}</NuxtLink></h3>
+        <h3 class="challenge-name">{{ challenge }}</h3>
         <div class="challenge-body">
-            <div v-if="'solves' in challenge"><span style="font-size: 1.5rem;">{{ challenge.solves.length }}</span> solves</div>
-            <div>difficulty:<span style="font-size: 1.5rem;"><ratecolor :rating="challenge.difficulty">{{ challenge.difficulty }}</ratecolor></span></div>
-            <div class="challenge-categories"><span v-for="cat in challenge.categories">{{ cat }}</span></div>
+            <div><span style="font-size: 1.5rem;">{{ solveCount }}</span> solves</div>
+            <div>difficulty:<span style="font-size: 1.5rem;"><ratecolor :rating="difficulty">{{ difficulty }}</ratecolor></span></div>
         </div>
     </div>
 </template>
 
 <script>
+import {mapGetters} from "vuex";
 export default {
-    props: ['challenge', 'eventname', 'challengeid']
+    props: ['challenge', 'eventname'],
+    computed: {
+        ...mapGetters(['teams', 'events']),
+        solveCount() {
+            return this.teams.flatMap(t => t.history.filter(e => e.event === this.eventname)).filter(e => e.tasks.includes(this.challenge)).length;
+        },
+        difficulty() {
+            return this.events.filter(e => e.name === this.eventname)[0].tasks[this.challenge];
+        }
+    }
+
 }
 </script>
 

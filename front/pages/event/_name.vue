@@ -13,8 +13,8 @@
                 <tbody>
                     <tr v-for="(t, i) in playedTeams" :key="t.name">
                         <td style="text-align: right; padding-right: 1rem;">{{ i + 1 }}</td>
-                        <td><NuxtLink :to="{name: 'team-name', params: {name: t.name}}"><ratecolor :rating="t.performance">{{ t.name }}</ratecolor></NuxtLink></td>
-                        <td>{{ t.performance }}</td>
+                        <td><NuxtLink :to="{name: 'team-name', params: {name: t.name}}"><ratecolor :rating="t.perf">{{ t.name }}</ratecolor></NuxtLink></td>
+                        <td>{{ t.perf }}</td>
                     </tr>
                 </tbody>
             </table>
@@ -23,7 +23,7 @@
             <div>
                 <NuxtChild />
                 <div class="challenges">
-                    <challengepanel :challenge="c" :challengeid="c.id" :eventname="eventname" v-for="c in challenges" :key="c.id"/>
+                    <challengepanel :challenge="c.name" :eventname="eventname" v-for="c in challenges" :key="c.name"/>
                 </div>
             </div>
         </div>
@@ -45,20 +45,22 @@ export default {
         }
     },
     computed: {
-        ...mapGetters(['teams', 'events', 'solveMap']),
+        ...mapGetters(['teams', 'events']),
         eventname() {
             return this.$route.params.name;
         },
         event() {
-            return this.events[this.eventname];
+            return this.events.filter(e => e.name === this.eventname)[0];
         },
         playedTeams() {
-            const ts = Object.values(this.teams).filter(t=> t.events.hasOwnProperty(this.eventname)).map(t => ({name: t.name, ...t.events[this.eventname]}));
-            ts.sort((a, b) => b.performance - a.performance)
+            const ts = this.teams.
+                filter(t => t.history.filter(e => e.event === this.eventname).length > 0).
+                map(t => ({name: t.name, ...( t.history.filter(e => e.event === this.eventname)[0] )}));
+            ts.sort((a, b) => b.perf - a.perf)
             return ts;
         },
         challenges() {
-            const cs = Object.entries(this.event.challenges).map(c => ({...c[1], solves: this.solves(c[0]), id: c[0]}));
+            const cs = Object.entries(this.event.tasks).map(([k,v]) => ({name: k, difficulty: v}))
             cs.sort((a, b) => b.difficulty - a.difficulty);
             return cs;
         }

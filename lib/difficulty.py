@@ -1,6 +1,7 @@
 from sklearn.linear_model import LogisticRegression
+from typing import List
 
-def calc_difficulty(challenge_id: str, teams):
+def calc_difficulty(solve_team_perfs: List[float], unsolve_team_perfs: List[float])->float:
     """
     問題のdifficultyを推定する
     問題のdifficultyがX = performance Xのチームが90%の確率でそれを解ける
@@ -8,17 +9,15 @@ def calc_difficulty(challenge_id: str, teams):
 
     中身はロジスティック回帰
     """
-    perfs = [[t["performance"]] for t in teams]
-    solved = [1 if challenge_id in t["solves"] else 0 for t in teams]
 
-    if all([s == 1 for s in solved]):
-        return -10000
-
-    if all([s == 0 for s in solved]):
+    if len(solve_team_perfs) == 0:
         return 10000
 
+    if len(unsolve_team_perfs) == 0:
+        return -10000
+
     lr = LogisticRegression()
-    lr.fit(perfs, solved)
+    lr.fit([[x] for x in solve_team_perfs + unsolve_team_perfs], [1]*len(solve_team_perfs) + [0]*len(unsolve_team_perfs))
 
     h = 10000
     l = -10000

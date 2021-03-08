@@ -1,6 +1,6 @@
 <template>
     <div class="challenges">
-        <challengepanel :challengeid="c_id" :challenge="c" :eventname="eventname" v-for="(c, c_id) in challenges" :key="c_id" />
+        <challengepanel :challenge="c" :eventname="eventname" v-for="c in challenges" :key="c" />
     </div>
 </template>
 
@@ -15,12 +15,15 @@ export default {
         teamname() {
             return this.$route.params.name;
         },
+        team() {
+            return this.teams.filter(t => t.name === this.teamname)[0];
+        },
         challenges() {
             if (!this.eventname) {
                 return [];
             }
 
-            return Object.fromEntries(this.teams[this.teamname].events[this.eventname].solves.map(cid => [cid, this.events[this.eventname].challenges[cid]]));
+            return this.team.history.filter(e => e.event === this.eventname)[0].tasks;
         },
     }
 }

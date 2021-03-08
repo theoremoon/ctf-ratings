@@ -31,7 +31,7 @@ export default {
             if (!this.teams) {
                 return [];
             }
-            let ts = Object.values(this.teams);
+            let ts = this.teams.slice();
             ts.sort((a, b) => b.rating - a.rating);
             return ts;
         },

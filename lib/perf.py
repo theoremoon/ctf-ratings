@@ -1,87 +1,67 @@
 import math
 from typing import List, Dict
+from lib.types import Team
 
-class PerfomanceCalculator():
-    def __init__(self, teams: Dict[str, Dict], events: Dict[str, Dict]):
-        self.teams = teams
-        self.events = events
+INITIAL_PERF = 1000.0
 
-    def get_past_perfs(self, team: str) -> List[float]:
+def _avg_perf(perfs: List[float]) -> float:
+    """
+    get average of past perfomances
+    """
+    if len(perfs) == 0:
+        perfs = [INITIAL_PERF]
+    return sum([p*0.9**(i+1) for i, p in enumerate(perfs)]) / sum(0.9**(i+1) for i in range(len(perfs)))
+
+def calc_performance(team_perfs: List[List[float]]) -> List[float]:
+    """
+    teams: 参加したチームの過去のパフォーマンス。今回の順位に昇順にソートされている
+    avg_perfs = [_avg_perf(p) for t in team_perfs]
+    """
+    avg_perfs = [_avg_perf(p) for p in team_perfs]
+    def f(x: int) -> float:
         """
-        過去のeventでのperformanceを返す。最新のeventのperformanceが[0]
+        あるチームがi位のとき、 f(x) = i - 0.5 を満たすxがそのチームのパフォーマンス
+        この関数はxの値に対して単調減少する
         """
-        if team not in self.teams:
-            return [1000.0] # initial performance of each team
+        perf = 0
+        for a_perf in avg_perfs:
+            perf += 1 / (1 + (6 ** ((x - a_perf) / 400)))
+        return perf
 
-        es = sorted([e for e in self.teams[team]["events"].values()], key=lambda x: self.events[x["event"]]["date"], reverse=True)
-        return [e["performance"] for e in es]
+    perfs = []
+    # i位のチームのパフォーマンスを二分探索で求める
+    for i in range(len(team_perfs)):
+        l, h = -10000, 10000
+        while abs(h - l) > 1:
+            m = (l + h) // 2
+            perf = f(m)
+            if perf < (i + 1) - 0.5:
+                h = m
+            else:
+                l = m
+        perfs.append(l)
+    return perfs
 
-    def get_perticipant_times(self, team: str) -> int:
+def calc_new_rating(past_perfs: List[float], perf: float) -> float:
+    """
+    past_perfs: 過去のパフォーマンス
+    perf: 今回のパフォーマンス
+    returns: new rating
+    """
+    def adjust(rating: float, n: int) -> float:
+        """参加回数が少ないと正確に値が出ないので補正するらしい
+        n: 参加回数
+        https://github.com/kenkoooo/AtCoderProblems/blob/d4c125df495d4ebbbab507f024fccc5744768ad6/lambda-functions/time-estimator/rating.py#L25
         """
-        teamの出場回数を返す
-        """
-        if team not in self.teams:
-            return 0
+        f_1 = 1.0
+        f_inf = 1 / (19 ** 0.5)
+        f_n = ((1 - 0.81 ** n) ** 0.5) / ((19 ** 0.5) * (1 - 0.9 ** n))
+        return rating - (f_n - f_inf) / (f_1 - f_inf) * 1200
 
-        return len(self.teams[team]["events"])
-
-    def get_avg_perf(self, team: str) -> float:
-        """
-        get average of past perfomances
-        """
-        perfs = self.get_past_perfs(team)
-        return sum([p*0.9**(i+1) for i, p in enumerate(perfs)]) / sum(0.9**(i+1) for i in range(len(perfs)))
-
-    def calc_performance(self, teams: List[str]) -> List[float]:
-        """
-        teams: 順位に昇順にソートされている
-        https://qiita.com/anqooqie/items/92005e337a0d2569bdbd#%E5%86%85%E9%83%A8%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%AE%E7%AE%97%E5%87%BA
-        """
-        avg_perfs = [self.get_avg_perf(t) for t in teams]
-        def f(x: int) -> float:
-            """
-            あるチームがi位のとき、 f(x) = i - 0.5 を満たすxがそのチームのパフォーマンス
-            この関数はxの値に対して単調減少する
-            """
-            perf = 0
-            for a_perf in avg_perfs:
-                perf += 1 / (1 + (6 ** ((x - a_perf) / 400)))
-            return perf
-
-        perfs = []
-        # i位のチームのパフォーマンスを二分探索で求める
-        for i in range(len(teams)):
-            l, h = -10000, 10000
-            while abs(h - l) > 1:
-                m = (l + h) // 2
-                perf = f(m)
-                if perf < (i + 1) - 0.5:
-                    h = m
-                else:
-                    l = m
-            perfs.append(l)
-        return perfs
-
-    def calc_new_rating(self, team: str, perf: float) -> float:
-        """
-        team: チーム名
-        perf: 今回のパフォーマンス
-        returns: new rating
-
-        note: 初心者への慈悲を導入してない
-        """
-        def adjust(rating: float, n: int) -> float:
-            """参加回数が少ないと正確に値が出ないので補正するらしい
-            n: 参加回数
-            https://github.com/kenkoooo/AtCoderProblems/blob/d4c125df495d4ebbbab507f024fccc5744768ad6/lambda-functions/time-estimator/rating.py#L25
-            """
-            f_1 = 1.0
-            f_inf = 1 / (19 ** 0.5)
-            f_n = ((1 - 0.81 ** n) ** 0.5) / ((19 ** 0.5) * (1 - 0.9 ** n))
-            return rating - (f_n - f_inf) / (f_1 - f_inf) * 1200
-
-        n = self.get_perticipant_times(team) + 1
-        exp_perf_sum = sum(2.0 ** (p / 800) * 0.9**(i+1) for i, p in enumerate([perf] + self.get_past_perfs(team)))
-        rating = 800 * math.log2(exp_perf_sum / sum(0.9**(i+1) for i in range(n)))
-        return adjust(rating, n)
+    if len(past_perfs) == 0:
+        past_perfs = [INITIAL_PERF]
+    n = len(past_perfs) + 1
+    exp_perf_sum = sum(2.0 ** (p / 800) * 0.9**(i+1) for i, p in enumerate([perf] + past_perfs))
+    rating = 800 * math.log2(exp_perf_sum / sum(0.9**(i+1) for i in range(n)))
+    return adjust(rating, n)
 

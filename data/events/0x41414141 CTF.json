@@ -1,0 +1,4333 @@
+{
+  "tasks": [
+    "graphed 2.0",
+    "sanity check",
+    "factorize",
+    "maze",
+    "secure enclave",
+    "x and or",
+    "0x414141",
+    "pyjail",
+    "optimizer",
+    "hackme",
+    "Ware",
+    "hash",
+    "eazy RSA",
+    "Delegate wallet",
+    "staple AES",
+    "WrongDownload",
+    "Cage",
+    "Backupkeys",
+    "Special Order pt2",
+    "Faking till you're Making",
+    "Return Of The ROPs",
+    "crackme.sol",
+    "crypto casino",
+    "waffed",
+    "cliBrowser",
+    "echo",
+    "The Pwn Inn",
+    "external",
+    "Moving signals",
+    "FakeCoin",
+    "firstapp",
+    "Soul's Permutation Network",
+    "Encrypt0r",
+    "file reader",
+    "Shjail",
+    "RICH CLUB",
+    "Babyheap",
+    "battleroad"
+  ],
+  "standings": [
+    {
+      "pos": 41,
+      "team": "Venom",
+      "taskStats": {
+        "x and or": null,
+        "hash": null,
+        "Moving signals": null,
+        "external": null,
+        "factorize": null,
+        "staple AES": null,
+        "sanity check": null,
+        "optimizer": null,
+        "Delegate wallet": null,
+        "The Pwn Inn": null,
+        "Ware": null,
+        "eazy RSA": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Return Of The ROPs": null,
+        "Backupkeys": null,
+        "cliBrowser": null,
+        "Faking till you're Making": null,
+        "echo": null,
+        "hackme": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "Super Guesser",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "staple AES": null,
+        "hash": null,
+        "Moving signals": null,
+        "factorize": null,
+        "external": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "hackme": null,
+        "Faking till you're Making": null,
+        "0x414141": null,
+        "echo": null,
+        "Delegate wallet": null,
+        "The Pwn Inn": null,
+        "waffed": null,
+        "Ware": null,
+        "Return Of The ROPs": null,
+        "WrongDownload": null,
+        "Special Order pt2": null,
+        "eazy RSA": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "cliBrowser": null,
+        "firstapp": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "Soul's Permutation Network": null,
+        "FakeCoin": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "RICH CLUB": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "mugi",
+      "taskStats": {
+        "staple AES": null,
+        "factorize": null,
+        "graphed 2.0": null,
+        "sanity check": null,
+        "maze": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "eazy RSA": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "Special Order pt2": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "ARESx",
+      "taskStats": {
+        "Moving signals": null,
+        "sanity check": null,
+        "factorize": null,
+        "staple AES": null,
+        "graphed 2.0": null,
+        "external": null,
+        "optimizer": null,
+        "x and or": null,
+        "hash": null,
+        "secure enclave": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "pyjail": null,
+        "Faking till you're Making": null,
+        "Return Of The ROPs": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Backupkeys": null,
+        "Ware": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "WrongDownload": null,
+        "0x414141": null,
+        "Cage": null,
+        "maze": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "waffed": null,
+        "firstapp": null,
+        "cliBrowser": null,
+        "FakeCoin": null,
+        "Soul's Permutation Network": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "Shitpography",
+      "taskStats": {
+        "factorize": null,
+        "eazy RSA": null,
+        "optimizer": null,
+        "external": null,
+        "The Pwn Inn": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "m1t0",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "x and or": null,
+        "factorize": null,
+        "staple AES": null,
+        "hash": null,
+        "optimizer": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "Ware": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Encrypt0r": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "kasiatutej",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "AntiBuddies",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "0x414141": null,
+        "graphed 2.0": null,
+        "x and or": null,
+        "hackme": null,
+        "pyjail": null,
+        "secure enclave": null,
+        "eazy RSA": null,
+        "Special Order pt2": null,
+        "waffed": null,
+        "hash": null,
+        "staple AES": null,
+        "Ware": null,
+        "Delegate wallet": null,
+        "maze": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "WrongDownload": null,
+        "firstapp": null,
+        "Moving signals": null,
+        "cliBrowser": null,
+        "crackme.sol": null,
+        "external": null,
+        "Return Of The ROPs": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "HuntsvilleTechSupport",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "factorize": null,
+        "pyjail": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "Inner Savages",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "staple AES": null,
+        "pyjail": null,
+        "Shjail": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "INF",
+      "taskStats": {
+        "factorize": null,
+        "optimizer": null,
+        "sanity check": null,
+        "x and or": null,
+        "eazy RSA": null,
+        "pyjail": null,
+        "staple AES": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "Niubi_team",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "Ginkgo",
+      "taskStats": {
+        "Moving signals": null,
+        "echo": null,
+        "optimizer": null,
+        "eazy RSA": null,
+        "factorize": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "graphed 2.0": null,
+        "Return Of The ROPs": null,
+        "hackme": null,
+        "maze": null,
+        "Special Order pt2": null,
+        "Faking till you're Making": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "trancoso_rules",
+      "taskStats": {
+        "x and or": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "N0Named",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "optimizer": null,
+        "Moving signals": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "external": null,
+        "x and or": null,
+        "0x414141": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "hash": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "Kernel Sanders",
+      "taskStats": {
+        "factorize": null,
+        "staple AES": null,
+        "x and or": null,
+        "Moving signals": null,
+        "sanity check": null,
+        "optimizer": null,
+        "hash": null,
+        "graphed 2.0": null,
+        "Ware": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "Delegate wallet": null,
+        "waffed": null,
+        "eazy RSA": null,
+        "Backupkeys": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "secure enclave": null,
+        "crypto casino": null,
+        "crackme.sol": null,
+        "0x414141": null,
+        "hackme": null,
+        "maze": null,
+        "Special Order pt2": null,
+        "cliBrowser": null,
+        "pyjail": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "firstapp": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "onotch",
+      "taskStats": {
+        "factorize": null,
+        "x and or": null,
+        "optimizer": null,
+        "hash": null,
+        "Ware": null,
+        "WrongDownload": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "5upernova",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "x and or": null,
+        "staple AES": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "secure enclave": null,
+        "hash": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "0x414141": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "Moving signals": null,
+        "hackme": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "Delegate wallet": null,
+        "Return Of The ROPs": null,
+        "echo": null,
+        "Faking till you're Making": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "noraneco",
+      "taskStats": {
+        "staple AES": null,
+        "optimizer": null,
+        "factorize": null,
+        "sanity check": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Moving signals": null,
+        "external": null,
+        "pyjail": null,
+        "x and or": null,
+        "Ware": null,
+        "Encrypt0r": null,
+        "file reader": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "MonkOnMars",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "0x414141": null,
+        "staple AES": null,
+        "x and or": null,
+        "hackme": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "Den1ed",
+      "taskStats": {
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "All Your Flags",
+      "taskStats": {
+        "hash": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "0xL4ugh",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "factorize": null,
+        "optimizer": null,
+        "hash": null,
+        "Cage": null,
+        "Ware": null,
+        "Moving signals": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "hackme": null,
+        "secure enclave": null,
+        "WrongDownload": null,
+        "Backupkeys": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "GanSw",
+      "taskStats": {
+        "factorize": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "$Dark_Warrior$",
+      "taskStats": {
+        "sanity check": null,
+        "Cage": null,
+        "0x414141": null,
+        "crackme.sol": null,
+        "factorize": null,
+        "graphed 2.0": null,
+        "eazy RSA": null,
+        "pyjail": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "The_Slayers",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "stankc",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "Terminal Cats",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 1,
+      "team": "bootplug",
+      "taskStats": {
+        "graphed 2.0": null,
+        "sanity check": null,
+        "factorize": null,
+        "maze": null,
+        "secure enclave": null,
+        "x and or": null,
+        "0x414141": null,
+        "pyjail": null,
+        "optimizer": null,
+        "hackme": null,
+        "Ware": null,
+        "hash": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "staple AES": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "Special Order pt2": null,
+        "Faking till you're Making": null,
+        "Return Of The ROPs": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "waffed": null,
+        "cliBrowser": null,
+        "echo": null,
+        "The Pwn Inn": null,
+        "external": null,
+        "Moving signals": null,
+        "FakeCoin": null,
+        "firstapp": null,
+        "Soul's Permutation Network": null,
+        "Encrypt0r": null,
+        "file reader": null,
+        "Shjail": null,
+        "RICH CLUB": null,
+        "Babyheap": null,
+        "battleroad": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "Bruh",
+      "taskStats": {
+        "x and or": null,
+        "hash": null,
+        "factorize": null,
+        "optimizer": null,
+        "staple AES": null,
+        "graphed 2.0": null,
+        "external": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Delegate wallet": null,
+        "Cage": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "maze": null,
+        "Moving signals": null,
+        "cliBrowser": null,
+        "Soul's Permutation Network": null,
+        "Return Of The ROPs": null,
+        "pyjail": null,
+        "hackme": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "Faking till you're Making": null,
+        "Special Order pt2": null,
+        "The Pwn Inn": null,
+        "waffed": null,
+        "firstapp": null,
+        "echo": null,
+        "FakeCoin": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "RICH CLUB": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "YoloSw4g",
+      "taskStats": {
+        "sanity check": null,
+        "staple AES": null,
+        "factorize": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "x and or": null,
+        "pyjail": null,
+        "waffed": null,
+        "Special Order pt2": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "hash": null,
+        "eazy RSA": null,
+        "hackme": null,
+        "Moving signals": null,
+        "0x414141": null,
+        "external": null,
+        "firstapp": null,
+        "crackme.sol": null,
+        "Faking till you're Making": null,
+        "The Pwn Inn": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "crypto casino": null,
+        "Cage": null,
+        "Delegate wallet": null,
+        "cliBrowser": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "FakeCoin": null,
+        "file reader": null,
+        "Shjail": null,
+        "Encrypt0r": null,
+        "Soul's Permutation Network": null,
+        "RICH CLUB": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "dcua",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "x and or": null,
+        "hash": null,
+        "optimizer": null,
+        "staple AES": null,
+        "sanity check": null,
+        "factorize": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "Cage": null,
+        "The Pwn Inn": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Faking till you're Making": null,
+        "echo": null,
+        "Backupkeys": null,
+        "pyjail": null,
+        "0x414141": null,
+        "cliBrowser": null,
+        "Return Of The ROPs": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "secure enclave": null,
+        "crackme.sol": null,
+        "Special Order pt2": null,
+        "waffed": null,
+        "firstapp": null,
+        "FakeCoin": null,
+        "crypto casino": null,
+        "file reader": null,
+        "Shjail": null,
+        "Encrypt0r": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "AlphaSeal",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "maze": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "staple AES": null,
+        "factorize": null,
+        "secure enclave": null,
+        "crypto casino": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "pyjail": null,
+        "firstapp": null,
+        "crackme.sol": null,
+        "Special Order pt2": null,
+        "hash": null,
+        "Moving signals": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "waffed": null,
+        "hackme": null,
+        "FakeCoin": null,
+        "echo": null,
+        "The Pwn Inn": null,
+        "cliBrowser": null,
+        "Return Of The ROPs": null,
+        "external": null,
+        "Faking till you're Making": null,
+        "file reader": null,
+        "Shjail": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "5h4d0wb10k3r",
+      "taskStats": {
+        "x and or": null,
+        "hash": null,
+        "Moving signals": null,
+        "external": null,
+        "factorize": null,
+        "optimizer": null,
+        "staple AES": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "graphed 2.0": null,
+        "Ware": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "0x414141": null,
+        "pyjail": null,
+        "cliBrowser": null,
+        "maze": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "Soul's Permutation Network": null,
+        "Special Order pt2": null,
+        "waffed": null,
+        "firstapp": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "corruptedpwnis",
+      "taskStats": {
+        "staple AES": null,
+        "x and or": null,
+        "factorize": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "hash": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "Moving signals": null,
+        "crackme.sol": null,
+        "Ware": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "crypto casino": null,
+        "WrongDownload": null,
+        "Delegate wallet": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "maze": null,
+        "0x414141": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "waffed": null,
+        "cliBrowser": null,
+        "firstapp": null,
+        "file reader": null,
+        "FakeCoin": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "WreckTheLine",
+      "taskStats": {
+        "Moving signals": null,
+        "factorize": null,
+        "sanity check": null,
+        "x and or": null,
+        "staple AES": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "hash": null,
+        "external": null,
+        "secure enclave": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "0x414141": null,
+        "The Pwn Inn": null,
+        "pyjail": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "Return Of The ROPs": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "echo": null,
+        "Faking till you're Making": null,
+        "hackme": null,
+        "waffed": null,
+        "Special Order pt2": null,
+        "cliBrowser": null,
+        "firstapp": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "Bobby Tables",
+      "taskStats": {
+        "x and or": null,
+        "factorize": null,
+        "staple AES": null,
+        "sanity check": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "Moving signals": null,
+        "secure enclave": null,
+        "maze": null,
+        "external": null,
+        "hash": null,
+        "Ware": null,
+        "Delegate wallet": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "0x414141": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "waffed": null,
+        "Special Order pt2": null,
+        "hackme": null,
+        "Backupkeys": null,
+        "firstapp": null,
+        "echo": null,
+        "cliBrowser": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "fernetInjection",
+      "taskStats": {
+        "x and or": null,
+        "hash": null,
+        "maze": null,
+        "optimizer": null,
+        "sanity check": null,
+        "Moving signals": null,
+        "secure enclave": null,
+        "Ware": null,
+        "external": null,
+        "WrongDownload": null,
+        "pyjail": null,
+        "factorize": null,
+        "cliBrowser": null,
+        "Cage": null,
+        "echo": null,
+        "The Pwn Inn": null,
+        "Backupkeys": null,
+        "0x414141": null,
+        "waffed": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "staple AES": null,
+        "Special Order pt2": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "hackme": null,
+        "firstapp": null,
+        "Delegate wallet": null,
+        "graphed 2.0": null,
+        "eazy RSA": null,
+        "file reader": null,
+        "Shjail": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "as with children",
+      "taskStats": {
+        "Moving signals": null,
+        "factorize": null,
+        "optimizer": null,
+        "sanity check": null,
+        "graphed 2.0": null,
+        "The Pwn Inn": null,
+        "external": null,
+        "x and or": null,
+        "Ware": null,
+        "hash": null,
+        "WrongDownload": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "pyjail": null,
+        "0x414141": null,
+        "staple AES": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "eazy RSA": null,
+        "Backupkeys": null,
+        "Delegate wallet": null,
+        "Cage": null,
+        "firstapp": null,
+        "waffed": null,
+        "secure enclave": null,
+        "maze": null,
+        "file reader": null,
+        "cliBrowser": null,
+        "Encrypt0r": null,
+        "Shjail": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "DarkArmy",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "hash": null,
+        "secure enclave": null,
+        "x and or": null,
+        "staple AES": null,
+        "Moving signals": null,
+        "external": null,
+        "graphed 2.0": null,
+        "Cage": null,
+        "The Pwn Inn": null,
+        "Ware": null,
+        "Backupkeys": null,
+        "WrongDownload": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "0x414141": null,
+        "Faking till you're Making": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "pyjail": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "file reader": null,
+        "maze": null,
+        "FakeCoin": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "TeamRocketIst",
+      "taskStats": {
+        "x and or": null,
+        "sanity check": null,
+        "Moving signals": null,
+        "graphed 2.0": null,
+        "factorize": null,
+        "optimizer": null,
+        "maze": null,
+        "external": null,
+        "secure enclave": null,
+        "staple AES": null,
+        "The Pwn Inn": null,
+        "pyjail": null,
+        "hackme": null,
+        "Return Of The ROPs": null,
+        "firstapp": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Special Order pt2": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "hash": null,
+        "Delegate wallet": null,
+        "0x414141": null,
+        "crackme.sol": null,
+        "Faking till you're Making": null,
+        "crypto casino": null,
+        "waffed": null,
+        "echo": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "efiens",
+      "taskStats": {
+        "staple AES": null,
+        "sanity check": null,
+        "factorize": null,
+        "x and or": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "external": null,
+        "Moving signals": null,
+        "hash": null,
+        "secure enclave": null,
+        "Ware": null,
+        "The Pwn Inn": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "echo": null,
+        "crackme.sol": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "Soul's Permutation Network": null,
+        "WrongDownload": null,
+        "pyjail": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "hackme": null,
+        "cliBrowser": null,
+        "maze": null,
+        "crypto casino": null,
+        "Encrypt0r": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "AmpunBangJago",
+      "taskStats": {
+        "graphed 2.0": null,
+        "staple AES": null,
+        "x and or": null,
+        "factorize": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "Ware": null,
+        "hash": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "cliBrowser": null,
+        "hackme": null,
+        "maze": null,
+        "Special Order pt2": null,
+        "crackme.sol": null,
+        "firstapp": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "0x414141": null,
+        "optimizer": null,
+        "crypto casino": null,
+        "file reader": null,
+        "Shjail": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "Kalmarunionen",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "optimizer": null,
+        "x and or": null,
+        "Moving signals": null,
+        "factorize": null,
+        "hash": null,
+        "staple AES": null,
+        "external": null,
+        "secure enclave": null,
+        "crackme.sol": null,
+        "Ware": null,
+        "crypto casino": null,
+        "hackme": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "Faking till you're Making": null,
+        "0x414141": null,
+        "Return Of The ROPs": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Backupkeys": null,
+        "Special Order pt2": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "admin'",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "x and or": null,
+        "hackme": null,
+        "factorize": null,
+        "staple AES": null,
+        "eazy RSA": null,
+        "pyjail": null,
+        "optimizer": null,
+        "Moving signals": null,
+        "0x414141": null,
+        "external": null,
+        "secure enclave": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "Ware": null,
+        "hash": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "Delegate wallet": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "WrongDownload": null,
+        "Faking till you're Making": null,
+        "echo": null,
+        "waffed": null,
+        "Shjail": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "K3RN3L4RMY",
+      "taskStats": {
+        "x and or": null,
+        "sanity check": null,
+        "factorize": null,
+        "hash": null,
+        "secure enclave": null,
+        "optimizer": null,
+        "staple AES": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Moving signals": null,
+        "Backupkeys": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "graphed 2.0": null,
+        "0x414141": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "pyjail": null,
+        "maze": null,
+        "echo": null,
+        "waffed": null,
+        "hackme": null,
+        "FakeCoin": null,
+        "firstapp": null,
+        "Special Order pt2": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "LuftensHjaltar",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "staple AES": null,
+        "x and or": null,
+        "hash": null,
+        "hackme": null,
+        "pyjail": null,
+        "secure enclave": null,
+        "0x414141": null,
+        "Ware": null,
+        "crypto casino": null,
+        "WrongDownload": null,
+        "crackme.sol": null,
+        "Backupkeys": null,
+        "Moving signals": null,
+        "Delegate wallet": null,
+        "factorize": null,
+        "maze": null,
+        "Cage": null,
+        "cliBrowser": null,
+        "The Pwn Inn": null,
+        "Special Order pt2": null,
+        "external": null,
+        "file reader": null,
+        "Encrypt0r": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "DiceGang",
+      "taskStats": {
+        "staple AES": null,
+        "graphed 2.0": null,
+        "factorize": null,
+        "maze": null,
+        "sanity check": null,
+        "x and or": null,
+        "hash": null,
+        "Moving signals": null,
+        "optimizer": null,
+        "external": null,
+        "secure enclave": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "Delegate wallet": null,
+        "pyjail": null,
+        "0x414141": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Soul's Permutation Network": null,
+        "eazy RSA": null,
+        "crypto casino": null,
+        "crackme.sol": null,
+        "Faking till you're Making": null,
+        "Return Of The ROPs": null,
+        "hackme": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "b01lers",
+      "taskStats": {
+        "x and or": null,
+        "Moving signals": null,
+        "factorize": null,
+        "sanity check": null,
+        "staple AES": null,
+        "hash": null,
+        "optimizer": null,
+        "Ware": null,
+        "Delegate wallet": null,
+        "pyjail": null,
+        "0x414141": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "echo": null,
+        "The Pwn Inn": null,
+        "external": null,
+        "eazy RSA": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "secure enclave": null,
+        "hackme": null,
+        "graphed 2.0": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "MİT-TEAM",
+      "taskStats": {
+        "factorize": null,
+        "hash": null,
+        "x and or": null,
+        "optimizer": null,
+        "Moving signals": null,
+        "external": null,
+        "graphed 2.0": null,
+        "Cage": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "sanity check": null,
+        "echo": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "Backupkeys": null,
+        "pyjail": null,
+        "Special Order pt2": null,
+        "hackme": null,
+        "file reader": null,
+        "FakeCoin": null,
+        "Delegate wallet": null,
+        "staple AES": null,
+        "Babyheap": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "TeamAardvark",
+      "taskStats": {
+        "x and or": null,
+        "graphed 2.0": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "optimizer": null,
+        "factorize": null,
+        "pyjail": null,
+        "staple AES": null,
+        "maze": null,
+        "Special Order pt2": null,
+        "FakeCoin": null,
+        "eazy RSA": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "waffed": null,
+        "Delegate wallet": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "hackme": null,
+        "file reader": null,
+        "Shjail": null,
+        "hash": null,
+        "Encrypt0r": null,
+        "0x414141": null,
+        "firstapp": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "RootLee",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "secure enclave": null,
+        "graphed 2.0": null,
+        "crackme.sol": null,
+        "eazy RSA": null,
+        "crypto casino": null,
+        "optimizer": null,
+        "staple AES": null,
+        "pyjail": null,
+        "0x414141": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "maze": null,
+        "x and or": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "hash": null,
+        "Cage": null,
+        "file reader": null,
+        "FakeCoin": null,
+        "Shjail": null,
+        "RICH CLUB": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "coldboots",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "secure enclave": null,
+        "x and or": null,
+        "factorize": null,
+        "optimizer": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Ware": null,
+        "hash": null,
+        "pyjail": null,
+        "maze": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "staple AES": null,
+        "WrongDownload": null,
+        "hackme": null,
+        "cliBrowser": null,
+        "Special Order pt2": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "firstapp": null,
+        "file reader": null,
+        "waffed": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "skiddies",
+      "taskStats": {
+        "x and or": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "Moving signals": null,
+        "pyjail": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "Ware": null,
+        "hackme": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "staple AES": null,
+        "factorize": null,
+        "WrongDownload": null,
+        "crackme.sol": null,
+        "hash": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "Encrypt0r": null,
+        "file reader": null,
+        "Shjail": null,
+        "optimizer": null,
+        "0x414141": null,
+        "crypto casino": null,
+        "RICH CLUB": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "coredmp",
+      "taskStats": {
+        "x and or": null,
+        "optimizer": null,
+        "sanity check": null,
+        "factorize": null,
+        "staple AES": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "hash": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "Moving signals": null,
+        "echo": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "0x414141": null,
+        "cliBrowser": null,
+        "hackme": null,
+        "file reader": null,
+        "Shjail": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "nyahello",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "x and or": null,
+        "staple AES": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Moving signals": null,
+        "external": null,
+        "graphed 2.0": null,
+        "hackme": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Special Order pt2": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "pyjail": null,
+        "secure enclave": null,
+        "crypto casino": null,
+        "crackme.sol": null,
+        "Encrypt0r": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "Debugmen",
+      "taskStats": {
+        "external": null,
+        "Moving signals": null,
+        "x and or": null,
+        "sanity check": null,
+        "factorize": null,
+        "secure enclave": null,
+        "hash": null,
+        "The Pwn Inn": null,
+        "Ware": null,
+        "echo": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "pyjail": null,
+        "Return Of The ROPs": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "Faking till you're Making": null,
+        "hackme": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "0x414141": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "Team ForFun",
+      "taskStats": {
+        "graphed 2.0": null,
+        "Moving signals": null,
+        "x and or": null,
+        "Ware": null,
+        "hash": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "cliBrowser": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "pyjail": null,
+        "Return Of The ROPs": null,
+        "echo": null,
+        "Faking till you're Making": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "eazy RSA": null,
+        "maze": null,
+        "staple AES": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "IrisSec",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "pyjail": null,
+        "0x414141": null,
+        "graphed 2.0": null,
+        "x and or": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "Moving signals": null,
+        "optimizer": null,
+        "Ware": null,
+        "secure enclave": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "hash": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "file reader": null,
+        "Shjail": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "The WinRaRs",
+      "taskStats": {
+        "staple AES": null,
+        "factorize": null,
+        "Moving signals": null,
+        "optimizer": null,
+        "sanity check": null,
+        "x and or": null,
+        "hash": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "external": null,
+        "secure enclave": null,
+        "0x414141": null,
+        "echo": null,
+        "pyjail": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "The Pwn Inn": null,
+        "Faking till you're Making": null,
+        "Return Of The ROPs": null,
+        "Soul's Permutation Network": null,
+        "file reader": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "what's CTF?",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "staple AES": null,
+        "secure enclave": null,
+        "x and or": null,
+        "hash": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Ware": null,
+        "0x414141": null,
+        "crypto casino": null,
+        "crackme.sol": null,
+        "graphed 2.0": null,
+        "Moving signals": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "maze": null,
+        "file reader": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "flagHunters",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "factorize": null,
+        "Moving signals": null,
+        "secure enclave": null,
+        "staple AES": null,
+        "x and or": null,
+        "hash": null,
+        "Ware": null,
+        "Delegate wallet": null,
+        "Backupkeys": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "pyjail": null,
+        "0x414141": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "eazy RSA": null,
+        "hackme": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "Mail.ru",
+      "taskStats": {
+        "staple AES": null,
+        "Moving signals": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "factorize": null,
+        "0x414141": null,
+        "x and or": null,
+        "external": null,
+        "optimizer": null,
+        "sanity check": null,
+        "hash": null,
+        "Ware": null,
+        "The Pwn Inn": null,
+        "maze": null,
+        "pyjail": null,
+        "graphed 2.0": null,
+        "Return Of The ROPs": null,
+        "hackme": null,
+        "Encrypt0r": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "cold_root",
+      "taskStats": {
+        "graphed 2.0": null,
+        "x and or": null,
+        "maze": null,
+        "sanity check": null,
+        "staple AES": null,
+        "Moving signals": null,
+        "secure enclave": null,
+        "hackme": null,
+        "pyjail": null,
+        "0x414141": null,
+        "waffed": null,
+        "Ware": null,
+        "hash": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "echo": null,
+        "factorize": null,
+        "eazy RSA": null,
+        "FakeCoin": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "VietCongSoldiers",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "optimizer": null,
+        "hackme": null,
+        "x and or": null,
+        "Moving signals": null,
+        "external": null,
+        "Ware": null,
+        "The Pwn Inn": null,
+        "hash": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "graphed 2.0": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "Faking till you're Making": null,
+        "echo": null,
+        "staple AES": null,
+        "Return Of The ROPs": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "hack the planet",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "hackme": null,
+        "0x414141": null,
+        "secure enclave": null,
+        "factorize": null,
+        "maze": null,
+        "Special Order pt2": null,
+        "waffed": null,
+        "eazy RSA": null,
+        "firstapp": null,
+        "FakeCoin": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "pyjail": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "Gulag Gang",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "echo": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "factorize": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "staple AES": null,
+        "optimizer": null,
+        "pyjail": null,
+        "Soul's Permutation Network": null,
+        "graphed 2.0": null,
+        "sanity check": null,
+        "Encrypt0r": null,
+        "file reader": null,
+        "Babyheap": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "jt",
+      "taskStats": {
+        "external": null,
+        "Moving signals": null,
+        "x and or": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "echo": null,
+        "graphed 2.0": null,
+        "factorize": null,
+        "hackme": null,
+        "Ware": null,
+        "hash": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "cliBrowser": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "zh3r0",
+      "taskStats": {
+        "factorize": null,
+        "Moving signals": null,
+        "external": null,
+        "staple AES": null,
+        "sanity check": null,
+        "x and or": null,
+        "optimizer": null,
+        "hash": null,
+        "secure enclave": null,
+        "graphed 2.0": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "crypto casino": null,
+        "crackme.sol": null,
+        "Return Of The ROPs": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Faking till you're Making": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "WolvSec",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "waffed": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "Ware": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "hash": null,
+        "x and or": null,
+        "Special Order pt2": null,
+        "cliBrowser": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "I am a cat",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "staple AES": null,
+        "factorize": null,
+        "external": null,
+        "Moving signals": null,
+        "maze": null,
+        "graphed 2.0": null,
+        "hash": null,
+        "secure enclave": null,
+        "optimizer": null,
+        "pyjail": null,
+        "hackme": null,
+        "waffed": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "Special Order pt2": null,
+        "firstapp": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "DSGS4T",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "x and or": null,
+        "hash": null,
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "staple AES": null,
+        "secure enclave": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Faking till you're Making": null,
+        "Return Of The ROPs": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Backupkeys": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "MLCTF",
+      "taskStats": {
+        "x and or": null,
+        "hash": null,
+        "factorize": null,
+        "sanity check": null,
+        "staple AES": null,
+        "optimizer": null,
+        "0x414141": null,
+        "graphed 2.0": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "cliBrowser": null,
+        "hackme": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "PiratesSyndicate",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "graphed 2.0": null,
+        "The Pwn Inn": null,
+        "x and or": null,
+        "Return Of The ROPs": null,
+        "echo": null,
+        "Ware": null,
+        "hash": null,
+        "Faking till you're Making": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "WrongDownload": null,
+        "pyjail": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "propio",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "x and or": null,
+        "hash": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "Backupkeys": null,
+        "secure enclave": null,
+        "factorize": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "Return Of The ROPs": null,
+        "Moving signals": null,
+        "Faking till you're Making": null,
+        "echo": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "WannaOne",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "staple AES": null,
+        "graphed 2.0": null,
+        "x and or": null,
+        "Delegate wallet": null,
+        "hash": null,
+        "hackme": null,
+        "eazy RSA": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "external": null,
+        "Moving signals": null,
+        "Special Order pt2": null,
+        "maze": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "EvilBunnyWrote",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "factorize": null,
+        "x and or": null,
+        "hash": null,
+        "staple AES": null,
+        "Ware": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Moving signals": null,
+        "file reader": null,
+        "Shjail": null,
+        "hackme": null,
+        "pyjail": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "CTF.SG",
+      "taskStats": {
+        "x and or": null,
+        "graphed 2.0": null,
+        "sanity check": null,
+        "factorize": null,
+        "staple AES": null,
+        "Moving signals": null,
+        "secure enclave": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "echo": null,
+        "external": null,
+        "pyjail": null,
+        "Delegate wallet": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "HsVcs",
+      "taskStats": {
+        "x and or": null,
+        "sanity check": null,
+        "factorize": null,
+        "hash": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "staple AES": null,
+        "Ware": null,
+        "Moving signals": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "Cage": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "crypt0nite",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "x and or": null,
+        "optimizer": null,
+        "staple AES": null,
+        "The Pwn Inn": null,
+        "Faking till you're Making": null,
+        "Return Of The ROPs": null,
+        "sanity check": null,
+        "echo": null,
+        "factorize": null,
+        "Cage": null,
+        "Delegate wallet": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "bluehens",
+      "taskStats": {
+        "staple AES": null,
+        "external": null,
+        "factorize": null,
+        "Delegate wallet": null,
+        "The Pwn Inn": null,
+        "Moving signals": null,
+        "Return Of The ROPs": null,
+        "eazy RSA": null,
+        "echo": null,
+        "Faking till you're Making": null,
+        "x and or": null,
+        "optimizer": null,
+        "sanity check": null,
+        "Encrypt0r": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "SKR",
+      "taskStats": {
+        "factorize": null,
+        "x and or": null,
+        "sanity check": null,
+        "staple AES": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "eazy RSA": null,
+        "Ware": null,
+        "pyjail": null,
+        "Moving signals": null,
+        "Encrypt0r": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "d4rkc0de",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "factorize": null,
+        "x and or": null,
+        "staple AES": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "Moving signals": null,
+        "pyjail": null,
+        "secure enclave": null,
+        "file reader": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "TeamC8",
+      "taskStats": {
+        "staple AES": null,
+        "optimizer": null,
+        "Moving signals": null,
+        "graphed 2.0": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "x and or": null,
+        "factorize": null,
+        "Encrypt0r": null,
+        "Soul's Permutation Network": null,
+        "file reader": null,
+        "Ware": null,
+        "hash": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "Conus",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "x and or": null,
+        "maze": null,
+        "Ware": null,
+        "hackme": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "burner_herz0g",
+      "taskStats": {
+        "Moving signals": null,
+        "factorize": null,
+        "optimizer": null,
+        "pyjail": null,
+        "0x414141": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "file reader": null,
+        "x and or": null,
+        "echo": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "Vox Dei",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "factorize": null,
+        "x and or": null,
+        "optimizer": null,
+        "staple AES": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "crackme.sol": null,
+        "Delegate wallet": null,
+        "crypto casino": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "TLS",
+      "taskStats": {
+        "x and or": null,
+        "factorize": null,
+        "Moving signals": null,
+        "eazy RSA": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "external": null,
+        "staple AES": null,
+        "Delegate wallet": null,
+        "sanity check": null,
+        "pyjail": null,
+        "hackme": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "👁👅👁",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "factorize": null,
+        "hash": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "Moving signals": null,
+        "maze": null,
+        "staple AES": null,
+        "secure enclave": null,
+        "pyjail": null,
+        "external": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "Asuri",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "Moving signals": null,
+        "0x414141": null,
+        "x and or": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "pyjail": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "TeamWBH",
+      "taskStats": {
+        "x and or": null,
+        "hash": null,
+        "optimizer": null,
+        "factorize": null,
+        "sanity check": null,
+        "Backupkeys": null,
+        "WrongDownload": null,
+        "secure enclave": null,
+        "eazy RSA": null,
+        "Ware": null,
+        "Cage": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "SIGPwny",
+      "taskStats": {
+        "optimizer": null,
+        "0x414141": null,
+        "Moving signals": null,
+        "factorize": null,
+        "Delegate wallet": null,
+        "pyjail": null,
+        "x and or": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "sanity check": null,
+        "Faking till you're Making": null,
+        "hackme": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "BinaryBears",
+      "taskStats": {
+        "x and or": null,
+        "Ware": null,
+        "hash": null,
+        "optimizer": null,
+        "0x414141": null,
+        "WrongDownload": null,
+        "pyjail": null,
+        "Cage": null,
+        "cliBrowser": null,
+        "graphed 2.0": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "L10n5",
+      "taskStats": {
+        "factorize": null,
+        "optimizer": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "Moving signals": null,
+        "x and or": null,
+        "0x414141": null,
+        "external": null,
+        "Ware": null,
+        "hash": null,
+        "graphed 2.0": null,
+        "The Pwn Inn": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "Orion_square",
+      "taskStats": {
+        "x and or": null,
+        "factorize": null,
+        "sanity check": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "staple AES": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Encrypt0r": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "ARCSIN",
+      "taskStats": {
+        "graphed 2.0": null,
+        "sanity check": null,
+        "factorize": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "optimizer": null,
+        "staple AES": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "pyjail": null,
+        "x and or": null,
+        "Moving signals": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "freak",
+      "taskStats": {
+        "Moving signals": null,
+        "optimizer": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "hackme": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "factorize": null,
+        "Delegate wallet": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "VN_MSEC",
+      "taskStats": {
+        "x and or": null,
+        "Moving signals": null,
+        "factorize": null,
+        "hash": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Cage": null,
+        "optimizer": null,
+        "staple AES": null,
+        "sanity check": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "n00bz",
+      "taskStats": {
+        "x and or": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Backupkeys": null,
+        "0x414141": null,
+        "hash": null,
+        "Cage": null,
+        "factorize": null,
+        "graphed 2.0": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "0x194",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "optimizer": null,
+        "staple AES": null,
+        "graphed 2.0": null,
+        "secure enclave": null,
+        "maze": null,
+        "pyjail": null,
+        "hackme": null,
+        "x and or": null,
+        "The Pwn Inn": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "Redhats",
+      "taskStats": {
+        "x and or": null,
+        "sanity check": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "0x414141": null,
+        "pyjail": null,
+        "factorize": null,
+        "Moving signals": null,
+        "hackme": null,
+        "secure enclave": null,
+        "Ware": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "CatsDoCTF",
+      "taskStats": {
+        "Ware": null,
+        "x and or": null,
+        "optimizer": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "factorize": null,
+        "file reader": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "Red Knights",
+      "taskStats": {
+        "sanity check": null,
+        "Cage": null,
+        "0x414141": null,
+        "crackme.sol": null,
+        "factorize": null,
+        "graphed 2.0": null,
+        "eazy RSA": null,
+        "optimizer": null,
+        "maze": null,
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "meraxes",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "maze": null,
+        "pyjail": null,
+        "0x414141": null,
+        "factorize": null,
+        "hackme": null,
+        "file reader": null,
+        "Shjail": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "MATE",
+      "taskStats": {
+        "x and or": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "factorize": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "Encrypt0r": null,
+        "staple AES": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "D4nt3",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "x and or": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "secure enclave": null,
+        "0x414141": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "Friendly Hacks",
+      "taskStats": {
+        "optimizer": null,
+        "sanity check": null,
+        "factorize": null,
+        "eazy RSA": null,
+        "pyjail": null,
+        "graphed 2.0": null,
+        "x and or": null,
+        "Ware": null,
+        "hackme": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "0d12245589",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "pyjail": null,
+        "0x414141": null,
+        "eazy RSA": null,
+        "file reader": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "Delegate wallet": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "c0d3_h4cki05_",
+      "taskStats": {
+        "factorize": null,
+        "hash": null,
+        "graphed 2.0": null,
+        "sanity check": null,
+        "0x414141": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "eazy RSA": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "OSUSEC",
+      "taskStats": {
+        "optimizer": null,
+        "0x414141": null,
+        "pyjail": null,
+        "factorize": null,
+        "sanity check": null,
+        "Moving signals": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "_HBM",
+      "taskStats": {
+        "Moving signals": null,
+        "optimizer": null,
+        "external": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null,
+        "Ware": null,
+        "x and or": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "3webdogs",
+      "taskStats": {
+        "graphed 2.0": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "factorize": null,
+        "x and or": null,
+        "maze": null,
+        "pyjail": null,
+        "hackme": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "negativ",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "factorize": null,
+        "optimizer": null,
+        "staple AES": null,
+        "pyjail": null,
+        "0x414141": null,
+        "hash": null,
+        "Ware": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "bruteforcer69",
+      "taskStats": {
+        "optimizer": null,
+        "sanity check": null,
+        "factorize": null,
+        "secure enclave": null,
+        "graphed 2.0": null,
+        "0x414141": null,
+        "Delegate wallet": null,
+        "hackme": null,
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "Linkbynet Cybersecurity",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "0x414141": null,
+        "secure enclave": null,
+        "graphed 2.0": null,
+        "x and or": null,
+        "hackme": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "AmazingHorse",
+      "taskStats": {
+        "graphed 2.0": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "factorize": null,
+        "x and or": null,
+        "hackme": null,
+        "optimizer": null,
+        "0x414141": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "Haar",
+      "taskStats": {
+        "factorize": null,
+        "staple AES": null,
+        "x and or": null,
+        "sanity check": null,
+        "optimizer": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "m0chi",
+      "taskStats": {
+        "x and or": null,
+        "optimizer": null,
+        "factorize": null,
+        "hash": null,
+        "Ware": null,
+        "Cage": null,
+        "WrongDownload": null,
+        "Backupkeys": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "badfirmware",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "x and or": null,
+        "The Pwn Inn": null,
+        "echo": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "[  ]",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "staple AES": null,
+        "graphed 2.0": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "hackme": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "0x8Layer",
+      "taskStats": {
+        "Moving signals": null,
+        "graphed 2.0": null,
+        "x and or": null,
+        "The Pwn Inn": null,
+        "external": null,
+        "Ware": null,
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "gitak",
+      "taskStats": {
+        "x and or": null,
+        "factorize": null,
+        "eazy RSA": null,
+        "Ware": null,
+        "hash": null,
+        "Backupkeys": null,
+        "Cage": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "\\nls",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "secure enclave": null,
+        "0x414141": null,
+        "hackme": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "xof5566",
+      "taskStats": {
+        "graphed 2.0": null,
+        "maze": null,
+        "sanity check": null,
+        "optimizer": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "asdasd123",
+      "taskStats": {
+        "graphed 2.0": null,
+        "maze": null,
+        "hackme": null,
+        "Special Order pt2": null,
+        "waffed": null,
+        "firstapp": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "Boombang",
+      "taskStats": {
+        "optimizer": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "hackme": null,
+        "sanity check": null,
+        "pyjail": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "WeekEndHackR",
+      "taskStats": {
+        "eazy RSA": null,
+        "Moving signals": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null,
+        "staple AES": null,
+        "Delegate wallet": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "bluecat",
+      "taskStats": {
+        "staple AES": null,
+        "factorize": null,
+        "sanity check": null,
+        "Delegate wallet": null,
+        "eazy RSA": null,
+        "x and or": null,
+        "hash": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "TWC",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "0x414141": null,
+        "Delegate wallet": null,
+        "firstapp": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "Slow Coders",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "staple AES": null,
+        "graphed 2.0": null,
+        "hackme": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "PUN15H_5QU4D",
+      "taskStats": {
+        "factorize": null,
+        "x and or": null,
+        "hash": null,
+        "Ware": null,
+        "WrongDownload": null,
+        "Cage": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "Turing - ITBA",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "optimizer": null,
+        "x and or": null,
+        "factorize": null,
+        "secure enclave": null,
+        "crackme.sol": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "Porg Pwn Platoon",
+      "taskStats": {
+        "x and or": null,
+        "optimizer": null,
+        "sanity check": null,
+        "graphed 2.0": null,
+        "factorize": null,
+        "staple AES": null,
+        "Delegate wallet": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "wasd",
+      "taskStats": {
+        "graphed 2.0": null,
+        "factorize": null,
+        "staple AES": null,
+        "eazy RSA": null,
+        "Delegate wallet": null,
+        "Encrypt0r": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "toastedsteaksandwich",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "factorize": null,
+        "crackme.sol": null,
+        "crypto casino": null,
+        "RICH CLUB": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "uallerhack",
+      "taskStats": {
+        "x and or": null,
+        "optimizer": null,
+        "sanity check": null,
+        "hackme": null,
+        "0x414141": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "ZuluSec",
+      "taskStats": {
+        "sanity check": null,
+        "Moving signals": null,
+        "factorize": null,
+        "x and or": null,
+        "hash": null,
+        "Cage": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "shellDONs",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "maze": null,
+        "pyjail": null,
+        "factorize": null,
+        "staple AES": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "Sophisticated Society Of Delinquents",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "secure enclave": null,
+        "factorize": null,
+        "external": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "やわらかめレモンシンポジウム",
+      "taskStats": {
+        "optimizer": null,
+        "factorize": null,
+        "eazy RSA": null,
+        "staple AES": null,
+        "Delegate wallet": null,
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "Aztec Dragons",
+      "taskStats": {
+        "optimizer": null,
+        "factorize": null,
+        "sanity check": null,
+        "staple AES": null,
+        "pyjail": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "t3n4ci0us",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "pyjail": null,
+        "eazy RSA": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "RPCA Cyber Club",
+      "taskStats": {
+        "factorize": null,
+        "optimizer": null,
+        "pyjail": null,
+        "sanity check": null,
+        "secure enclave": null,
+        "hackme": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "PiedPiper",
+      "taskStats": {
+        "sanity check": null,
+        "Moving signals": null,
+        "x and or": null,
+        "external": null,
+        "factorize": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "QSFH",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "factorize": null,
+        "hackme": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "MentalHospital",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "staple AES": null,
+        "factorize": null,
+        "Delegate wallet": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "Astra",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "Cage": null,
+        "0x414141": null,
+        "crackme.sol": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "vccolombo",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "graphed 2.0": null,
+        "secure enclave": null,
+        "optimizer": null,
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "exitzero",
+      "taskStats": {
+        "factorize": null,
+        "x and or": null,
+        "sanity check": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "acdwas",
+      "taskStats": {
+        "x and or": null,
+        "factorize": null,
+        "Moving signals": null,
+        "Return Of The ROPs": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "Sieberrsec",
+      "taskStats": {
+        "Moving signals": null,
+        "factorize": null,
+        "external": null,
+        "graphed 2.0": null,
+        "x and or": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "Nope_Sled",
+      "taskStats": {
+        "factorize": null,
+        "maze": null,
+        "sanity check": null,
+        "file reader": null,
+        "Special Order pt2": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "Good Team Name",
+      "taskStats": {
+        "optimizer": null,
+        "factorize": null,
+        "x and or": null,
+        "Ware": null,
+        "hash": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "MSG in the Ghc",
+      "taskStats": {
+        "staple AES": null,
+        "factorize": null,
+        "optimizer": null,
+        "secure enclave": null,
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "Burgersss",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "eazy RSA": null,
+        "hackme": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "oioki",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "eazy RSA": null,
+        "staple AES": null,
+        "Delegate wallet": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "n01c3",
+      "taskStats": {
+        "x and or": null,
+        "hash": null,
+        "Ware": null,
+        "Cage": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "B3llyJ1ngle",
+      "taskStats": {
+        "graphed 2.0": null,
+        "maze": null,
+        "Special Order pt2": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "IIT(BHU)CyberSec",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "secure enclave": null,
+        "staple AES": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "ByteForc3",
+      "taskStats": {
+        "factorize": null,
+        "graphed 2.0": null,
+        "sanity check": null,
+        "staple AES": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "BITSkrieg",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "factorize": null,
+        "optimizer": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "a",
+      "taskStats": {
+        "sanity check": null,
+        "crypto casino": null,
+        "crackme.sol": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "阿姨我不想打站了",
+      "taskStats": {
+        "graphed 2.0": null,
+        "maze": null,
+        "optimizer": null,
+        "hackme": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "MazeDeNero",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "factorize": null,
+        "x and or": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "fr334aks",
+      "taskStats": {
+        "factorize": null,
+        "Moving signals": null,
+        "The Pwn Inn": null,
+        "Return Of The ROPs": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "noob-atbash",
+      "taskStats": {
+        "factorize": null,
+        "x and or": null,
+        "optimizer": null,
+        "sanity check": null,
+        "Moving signals": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": ";echo\"hacked\"",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "pyjail": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": "Team Bagel",
+      "taskStats": {
+        "optimizer": null,
+        "factorize": null,
+        "x and or": null,
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "Cat",
+      "taskStats": {
+        "graphed 2.0": null,
+        "sanity check": null,
+        "maze": null,
+        "Special Order pt2": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "0verflow_0utlaw5",
+      "taskStats": {
+        "sanity check": null,
+        "hash": null,
+        "x and or": null,
+        "Moving signals": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "Zowie",
+      "taskStats": {
+        "factorize": null,
+        "staple AES": null,
+        "x and or": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "bad@hacking",
+      "taskStats": {
+        "optimizer": null,
+        "Moving signals": null,
+        "external": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "Zepto",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "secure enclave": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "SOL_INVICTUS",
+      "taskStats": {
+        "Moving signals": null,
+        "Return Of The ROPs": null,
+        "Babyheap": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "choucrouteFTW",
+      "taskStats": {
+        "factorize": null,
+        "optimizer": null,
+        "graphed 2.0": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "die_",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null,
+        "The Pwn Inn": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "e^iπ+1day",
+      "taskStats": {
+        "graphed 2.0": null,
+        "hackme": null,
+        "Special Order pt2": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "shits",
+      "taskStats": {
+        "Moving signals": null,
+        "graphed 2.0": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "get_f4cked_pin_seekers",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "factorize": null,
+        "file reader": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "0xDoge",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "hhro",
+      "taskStats": {
+        "sanity check": null,
+        "x and or": null,
+        "graphed 2.0": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "Day&Night",
+      "taskStats": {
+        "optimizer": null,
+        "factorize": null,
+        "sanity check": null,
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "nhy",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "factorize": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "Thebois",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "optimizer": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "hash test dummies",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "secure enclave": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "Crib_Warrior",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "optimizer": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "WUHU!",
+      "taskStats": {
+        "factorize": null,
+        "Return Of The ROPs": null,
+        "Faking till you're Making": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "patates",
+      "taskStats": {
+        "graphed 2.0": null,
+        "maze": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "CTF party",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "piwpiw",
+      "taskStats": {
+        "graphed 2.0": null,
+        "optimizer": null,
+        "hackme": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "room2042",
+      "taskStats": {
+        "factorize": null,
+        "pyjail": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "asdf",
+      "taskStats": {
+        "factorize": null,
+        "graphed 2.0": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "prgma",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "uetctf",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "Crawler",
+      "taskStats": {
+        "optimizer": null,
+        "0x414141": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "PwnLand",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "Moving signals": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "Koxinga",
+      "taskStats": {
+        "optimizer": null,
+        "factorize": null,
+        "staple AES": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "asdfasdfasdf",
+      "taskStats": {
+        "firstapp": null,
+        "waffed": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "Zyrfex",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "define0411",
+      "taskStats": {
+        "x and or": null,
+        "optimizer": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "Yisumi",
+      "taskStats": {
+        "The Pwn Inn": null,
+        "external": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "Councilium Solum",
+      "taskStats": {
+        "maze": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "SilentNoir",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "TTTT",
+      "taskStats": {
+        "Moving signals": null,
+        "external": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "senyumsemangat",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "i dont miss",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "coolguys",
+      "taskStats": {
+        "graphed 2.0": null,
+        "maze": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "dmawhwhd",
+      "taskStats": {
+        "maze": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "H0j3n",
+      "taskStats": {
+        "sanity check": null,
+        "graphed 2.0": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "85846967",
+      "taskStats": {
+        "graphed 2.0": null,
+        "factorize": null,
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "NOAR",
+      "taskStats": {
+        "Moving signals": null,
+        "x and or": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "micromaster",
+      "taskStats": {
+        "Moving signals": null,
+        "x and or": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "Anthlone",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "islanders",
+      "taskStats": {
+        "optimizer": null,
+        "sanity check": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "CORE_DUMPED",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "jetj",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "Hamad",
+      "taskStats": {
+        "factorize": null,
+        "optimizer": null,
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "NotHotdog",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "0x01DA",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "Pwning from 127::1",
+      "taskStats": {
+        "optimizer": null,
+        "sanity check": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "everything is made up",
+      "taskStats": {
+        "x and or": null,
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": "OverDover",
+      "taskStats": {
+        "sanity check": null,
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "Digital Doodles",
+      "taskStats": {
+        "sanity check": null,
+        "staple AES": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "ri5e",
+      "taskStats": {
+        "factorize": null,
+        "eazy RSA": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "N30Z30N",
+      "taskStats": {
+        "eazy RSA": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "Hackerzz",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "mystique",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "VIVA PPQ",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "neocatz",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "oscuro6879",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "f0xSquad",
+      "taskStats": {
+        "sanity check": null,
+        "secure enclave": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "OneSungI",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "Byte Lounge",
+      "taskStats": {
+        "sanity check": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "mckfc",
+      "taskStats": {
+        "factorize": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "killswitch",
+      "taskStats": {
+        "factorize": null,
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "CLK_TCK",
+      "taskStats": {
+        "optimizer": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "doudoudedi",
+      "taskStats": {
+        "echo": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "PantherSec",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "Cyberus",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "Подпивковичи",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "ErrorSheet",
+      "taskStats": {
+        "factorize": null,
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "newb#101",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "ReverseEntropy",
+      "taskStats": {
+        "sanity check": null,
+        "factorize": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "yuno",
+      "taskStats": {
+        "external": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "HappyNewzir",
+      "taskStats": {
+        "external": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "FF15",
+      "taskStats": {
+        "0x414141": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "pter",
+      "taskStats": {
+        "hackme": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "0lddave_on_his_own",
+      "taskStats": {
+        "hackme": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "secjunior",
+      "taskStats": {
+        "staple AES": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "aye",
+      "taskStats": {
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "guess",
+      "taskStats": {
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "waassh",
+      "taskStats": {
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "OpenToAll",
+      "taskStats": {
+        "pyjail": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "Toleb",
+      "taskStats": {
+        "x and or": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "5GG",
+      "taskStats": {
+        "x and or": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": ":D",
+      "taskStats": {
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "ch40sm0nk3y",
+      "taskStats": {
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "SYN0014",
+      "taskStats": {
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "A12",
+      "taskStats": {
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "etherknot",
+      "taskStats": {
+        "graphed 2.0": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "pragmattic",
+      "taskStats": {
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "SW AVES",
+      "taskStats": {
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "leo",
+      "taskStats": {
+        "optimizer": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "Ky_Dong_Day_Song",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "Black Aces",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "W3b54f3",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "llllllllllll",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "RmonSec",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "brokenWHL",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "Lacznosc Przyszlosc",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "wtfsh",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "TheNoobs",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "F|@g_G₹€¶¶€₹$",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "iamastudent",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "c0nfusedtrashbear",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "pbenoit",
+      "taskStats": {
+        "sanity check": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "Live2Hack",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "eggshellz",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "vitamin_water",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "no_name",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "dfoo",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "Shore",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "STeam",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "P00pM3t4",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "bhartiya_janta_pwning",
+      "taskStats": {
+        "factorize": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "No_Pwn_Intended",
+      "taskStats": {
+        "factorize": null
+      }
+    }
+  ],
+  "name": "0x41414141 CTF",
+  "date": 1611414000
+}

@@ -1,0 +1,4833 @@
+{
+  "tasks": [
+    "signin",
+    "puzzle",
+    "MineGame",
+    "little tricks",
+    "chess",
+    "Feedback",
+    "stream",
+    "1rep",
+    "ChineseGame",
+    "wherekey",
+    "RL_Env",
+    "Favourite Architecture flag0",
+    "MyCurve",
+    "MyEnc",
+    "GuessKey",
+    "little case",
+    "GuessKey2",
+    "babyheap",
+    "babypac",
+    "babyxv6",
+    "Favourite Architecture flag1",
+    "Favourite Architecture flag2",
+    "babygame",
+    "oh-my-bet",
+    "oh-my-note",
+    "lottery again",
+    "oh-my-socket",
+    "StArNDBOX"
+  ],
+  "standings": [
+    {
+      "pos": 1,
+      "team": "0ops",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "1rep": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-bet": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "babyxv6": null,
+        "RL_Env": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "Favourite Architecture flag2": null,
+        "babygame": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "Redbud",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "1rep": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "chess": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "RL_Env": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "Favourite Architecture flag2": null,
+        "babygame": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "天璇Merak",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "1rep": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "Balsn",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "babyxv6": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "Favourite Architecture flag2": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "AAA",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "1rep": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "babygame": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "V&N",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "babygame": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "Kap0K",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag1": null,
+        "babygame": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "L3H Sec",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-bet": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "perfect blue",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-bet": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "Favourite Architecture flag2": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "L",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-bet": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag1": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "Venom",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "babygame": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "星盟ctf战队",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "babygame": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "Super Guesser",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-bet": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "NeSE",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "Favourite Architecture flag2": null,
+        "GuessKey2": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "Nu1L",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "wherekey": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "babygame": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "Ph0t1n1a",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "babypac": null,
+        "babygame": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "Xp0int",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "wherekey": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "Favourite Architecture flag2": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "EDISEC",
+      "taskStats": {
+        "signin": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "little case": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "0RAYS",
+      "taskStats": {
+        "signin": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "天枢",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag1": null,
+        "babygame": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "SUS_2019",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "wherekey": null,
+        "puzzle": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "LLO",
+      "taskStats": {
+        "signin": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "little case": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "De1ta",
+      "taskStats": {
+        "signin": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "Nepnep",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "StArNDBOX": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "Syclover",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "tempteam",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "ChineseGame": null,
+        "puzzle": null,
+        "MineGame": null,
+        "chess": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "C4M31",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "MineGame": null,
+        "little tricks": null,
+        "babypac": null,
+        "babygame": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "Ph.D Lin",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "wherekey": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "D0g3",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "little case": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "Lilac",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "Crusaders of Rust",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "little tricks": null,
+        "oh-my-bet": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag1": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "Defenit",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "Favourite Architecture flag1": null,
+        "GuessKey2": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "bi0s",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "wherekey": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag1": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "凝聚网安工作室",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "ChineseGame": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "Favourite Architecture flag0": null,
+        "little case": null,
+        "oh-my-socket": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "Firebasky后援团",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "1eq0and1ne0",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-bet": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "红色代码",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "四桶饭",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "TimeKeeper",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null,
+        "GuessKey2": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "Timeline Sec",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "lastsward",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "oh-my-socket": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "STT",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "Lslcg",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "little tricks": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "NOAR_",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "babyheap": null,
+        "wherekey": null,
+        "babypac": null,
+        "Favourite Architecture flag1": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "mugi",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "oh-my-socket": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "Zh3r0_0ffici4l",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "babypac": null,
+        "Favourite Architecture flag1": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "云能力中心招人QQ30287151",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "广外幽灵",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "Day0",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "TMU",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "zer0pts",
+      "taskStats": {
+        "stream": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "ROIS",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "babypac": null,
+        "GuessKey2": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "Salted-fish",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "babypac": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "啥也不会2队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "p0fs",
+      "taskStats": {
+        "MyEnc": null,
+        "GuessKey": null,
+        "wherekey": null,
+        "oh-my-note": null,
+        "Favourite Architecture flag0": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "n0n$la$",
+      "taskStats": {
+        "signin": null,
+        "MyCurve": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "X1cT34m",
+      "taskStats": {
+        "MyEnc": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "Th3F1@sh",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "划水小队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "ALLES!",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "GuessKey": null,
+        "StArNDBOX": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "TokyoWesterns",
+      "taskStats": {
+        "stream": null,
+        "wherekey": null,
+        "Favourite Architecture flag0": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "红客突击队",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "little tricks": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "Quack",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "oh-my-note": null,
+        "little case": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "Fvck",
+      "taskStats": {
+        "signin": null,
+        "puzzle": null,
+        "lottery again": null,
+        "oh-my-socket": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "NEURON",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "MineGame": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "阿萨德嘎达水电费胜多负",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MineGame": null,
+        "Favourite Architecture flag0": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "CTFshow",
+      "taskStats": {
+        "signin": null,
+        "puzzle": null,
+        "oh-my-note": null,
+        "lottery again": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "Lord of rings",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "MineGame": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "ARESx",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "little tricks": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "zzzh3r0",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null,
+        "babypac": null,
+        "Favourite Architecture flag1": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "Organizers",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null,
+        "babypac": null,
+        "oh-my-socket": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "歪比巴卜",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "oh-my-note": null,
+        "little case": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "晚上吃什么",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "MineGame": null,
+        "oh-my-note": null,
+        "little case": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "Volcano",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "F4ck",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "DLMU-test",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "babypac": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "Lun4R",
+      "taskStats": {
+        "signin": null,
+        "puzzle": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "烫烫烫队",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "clo00ud",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "MineGame": null,
+        "little tricks": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "FindU",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "MineGame": null,
+        "little tricks": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "风信子Hyacinth",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "little tricks": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "0x401 Team",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "justplaying",
+      "taskStats": {
+        "oh-my-bet": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "grimpan",
+      "taskStats": {
+        "babyxv6": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "Shitpography",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "警院I.S.W.A.T",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "MineGame": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "p14sma",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "puzzle": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "pwnthenope",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "0th3rs",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "babypac": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "iptL",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "WaterDrop",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "天汉",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-note": null,
+        "GuessKey2": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "void",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "babypac": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "m1t0",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "babypac": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "kasiatutej",
+      "taskStats": {
+        "MyCurve": null,
+        "little case": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "黑桃K",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "MineGame": null,
+        "little tricks": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "just_play",
+      "taskStats": {
+        "GuessKey": null,
+        "babyheap": null,
+        "babypac": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "F4ck_Pr0n",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "路过看热闹",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "coderspace",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "ATL战队",
+      "taskStats": {
+        "signin": null,
+        "puzzle": null,
+        "little tricks": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "iccccccccccccccccccccccccccsl",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "MineGame": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "AI_S1mulat0r",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "runoobs",
+      "taskStats": {
+        "MyEnc": null,
+        "GuessKey": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "Combinatorial_Hax0rs",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "AntiBuddies",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "strings $1 | grep -i flag",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "DOCKER",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "little tricks": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "lowkey的小弟",
+      "taskStats": {
+        "signin": null,
+        "StArNDBOX": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "Lepisori",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "hofstadter_isotopes",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "LittleBirds",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "nebula",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "Manda1Orian",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "little tricks": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "墨麒麟安全实验室",
+      "taskStats": {
+        "signin": null,
+        "MineGame": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "C0mposer",
+      "taskStats": {
+        "signin": null,
+        "oh-my-note": null,
+        "lottery again": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "flag{}___Orz",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little case": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "Root Lee",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "YaSuo战队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "ATD",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "苍海WraINd.",
+      "taskStats": {
+        "signin": null,
+        "stream": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "Source Code",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "MineGame": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "C3守湖人",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "MineGame": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "ISI",
+      "taskStats": {
+        "babyheap": null,
+        "babypac": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "铜匠C0pperSm1th",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little case": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "MoYuTeam",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "w0odpeck3r",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "puzzle": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "spdb666",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "babysyc",
+      "taskStats": {
+        "signin": null,
+        "puzzle": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "NYNU",
+      "taskStats": {
+        "signin": null,
+        "puzzle": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "xuanxuanblingbling",
+      "taskStats": {
+        "signin": null,
+        "Favourite Architecture flag1": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "scz7lover",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "piagone",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little tricks": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "知行合一",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "曲奇和他没用的小跟班们",
+      "taskStats": {
+        "GuessKey": null,
+        "puzzle": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "comet",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "greed1sg00d",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "下水道一队",
+      "taskStats": {
+        "signin": null,
+        "wherekey": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "HuntsvilleTechSupport",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "STeamVN",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "天山",
+      "taskStats": {
+        "MyEnc": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "x6C6F747573",
+      "taskStats": {
+        "MyEnc": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "NEUQRO",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "Radar",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-note": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "Zero_Team",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "HatTRICK2021",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "LeaveCat",
+      "taskStats": {
+        "wherekey": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "pheonix city ",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little case": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "fw",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little case": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "七星Team",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little case": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "来呀！快活呀！",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "MineGame": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "NYSEC",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "MineGame": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "看大佬们表演",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "MineGame": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "Marvel's The Avengers",
+      "taskStats": {
+        "GuessKey": null,
+        "babyheap": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "Inner Savages",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little tricks": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "NBL",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "little tricks": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "annri",
+      "taskStats": {
+        "GuessKey": null,
+        "little case": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": "XH&f1ag",
+      "taskStats": {
+        "GuessKey": null,
+        "MineGame": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": "INF",
+      "taskStats": {
+        "signin": null,
+        "MyEnc": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "UCSD",
+      "taskStats": {
+        "stream": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "DNT",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "Niubi_team",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "cq_dx_0x01",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "Double之队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "石榴籽",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "共禾",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "r00t",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "凌晨两点半",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "Ginkgo",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "SCP",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "Asuri_8086",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "溜肉段",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "oligay",
+      "taskStats": {
+        "signin": null,
+        "little tricks": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "OnTo",
+      "taskStats": {
+        "signin": null,
+        "little tricks": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "scpc_hw",
+      "taskStats": {
+        "signin": null,
+        "little tricks": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "More Smoked Leet Chicken",
+      "taskStats": {
+        "little case": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "CDAX",
+      "taskStats": {
+        "MineGame": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "trancoso_rules",
+      "taskStats": {
+        "GuessKey": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "0day",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "Chive",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "Dipy",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "划水爱好者",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "Wtoy",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "N0Named",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "国家一级退堂鼓乐队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "GRAIL TEAM",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "wf2020",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "段错误",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "Kernel Sanders",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "盲人纹身",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "洪荒之力",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "bukan bandar",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "x1nx2",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "SN0W",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "Slab Allocator",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "onotch",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "nbzxpioneer",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "KXTI_POWER",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "bec0n",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "Nightmare",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "El Rayo",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "爱国小白帽",
+      "taskStats": {
+        "signin": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "lih3i9",
+      "taskStats": {
+        "signin": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "sloth",
+      "taskStats": {
+        "signin": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "CodWer",
+      "taskStats": {
+        "signin": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "Vidar-Team",
+      "taskStats": {
+        "signin": null,
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "5upernova",
+      "taskStats": {
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "indefinite",
+      "taskStats": {
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "202B2L",
+      "taskStats": {
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "TheRomanXpl0it",
+      "taskStats": {
+        "GuessKey": null,
+        "GuessKey2": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "Sec-Logistics",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "田埂",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "WPSEC",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "AmTrain",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "我们是来学习的",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": "S1CT",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "代码敲不队",
+      "taskStats": {
+        "signin": null,
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "蛤？要什么名字",
+      "taskStats": {
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "REJLWQ",
+      "taskStats": {
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "appl3",
+      "taskStats": {
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "no_sql",
+      "taskStats": {
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "Grey Wolf",
+      "taskStats": {
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "老干部大队",
+      "taskStats": {
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "雏鸡小队",
+      "taskStats": {
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "Just4Fun",
+      "taskStats": {
+        "oh-my-note": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "yyyyy",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "GAMING",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "BOI",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "bbbbopen",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "16j",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "hhtczeroday",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "KUDoS",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "轩轩爱源源",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "XHC",
+      "taskStats": {
+        "babyheap": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "bmu",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "f1sher",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "N.S",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "NEX",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "GOTG",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "无名大仙",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "Eatting Bugs",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "Wanna.One",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "SHU",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "noraneco",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "菜鸡划水队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "火娃战队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "CUST_Dawn",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "onzero",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "224",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "LAG",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "N4n",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "ExpC10ude__云爆",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "兄弟会",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": "cxk玩ctf",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "not_tw",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "happy_misc",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "究极划水战队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "ggggg",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "TeamCj",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "Piedp",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "Aryabhat",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "7899战队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "Team_Matrix",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "Alex",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "MonkOnMars",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "碎银几两",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "hahohe",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "V2sec",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "哏都青年队",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "御林安全工作室",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "鲨鱼丸子",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "A1eph-0",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "3ndk_fedora?",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "试试水",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "Pynard",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "浣熊的忧伤",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "P&K",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "CAS4",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "54",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "Mirage",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "CSAX-Team",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "irNoobs",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "兄弟联盟",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "Омавиат",
+      "taskStats": {
+        "signin": null,
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "艾迪飞",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "挖洞校尉",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 287,
+      "team": "Team233",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 288,
+      "team": "yigeren",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 289,
+      "team": "swim",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 290,
+      "team": "Fword",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 291,
+      "team": "a/envzhu",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 292,
+      "team": "KI1l",
+      "taskStats": {
+        "GuessKey": null
+      }
+    },
+    {
+      "pos": 293,
+      "team": "流浪者",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 294,
+      "team": "Sp1derLab",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 295,
+      "team": "Inexperienced Ones",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 296,
+      "team": "LJW",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 297,
+      "team": "Sw1p3r",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 298,
+      "team": "Satan1a",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 299,
+      "team": "seudeuseu",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 300,
+      "team": "yutian",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 301,
+      "team": "白桦",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 302,
+      "team": "Xer0",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 303,
+      "team": "小羊驼的临时战队",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 304,
+      "team": "BinareeZillas",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 305,
+      "team": "陌生人",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 306,
+      "team": "WK",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 307,
+      "team": "erdosamphetamineaddiction",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 308,
+      "team": "Dlun",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 309,
+      "team": "AW",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 310,
+      "team": "walkthrough",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 311,
+      "team": "Dozer_*",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 312,
+      "team": "Ch0wN",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 313,
+      "team": "火舞春秋",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 314,
+      "team": "1NT",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 315,
+      "team": "TLK",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 316,
+      "team": "NULL11",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 317,
+      "team": "ha1cyon",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 318,
+      "team": "w35t",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 319,
+      "team": "ZBC",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 320,
+      "team": "RKTEAM",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 321,
+      "team": "deep无",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 322,
+      "team": "Aur0ra",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 323,
+      "team": "wolfpuplicky",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 324,
+      "team": "SuperVampire",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 325,
+      "team": "re1wn",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 326,
+      "team": "pigpig",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 327,
+      "team": "星火",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 328,
+      "team": "CarpeDien",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 329,
+      "team": "RUSH",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 330,
+      "team": "孤立无援",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 331,
+      "team": "Cy_Sec",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 332,
+      "team": "徐杨开黑小组",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 333,
+      "team": "三带一",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 334,
+      "team": "Wefal1",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 335,
+      "team": "HAHAHAHAHAHAHAHA",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 336,
+      "team": "突击队分队",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 337,
+      "team": "ZERO_ONE",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 338,
+      "team": "不知道呢",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 339,
+      "team": "Her0LoO",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 340,
+      "team": "小白冲冲冲",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 341,
+      "team": "QLNU",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 342,
+      "team": "Crafty",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 343,
+      "team": "Ph0en1x",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 344,
+      "team": "Rweb19",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 345,
+      "team": "M1ra",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 346,
+      "team": "EUKnife",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 347,
+      "team": "菜比摸鱼",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 348,
+      "team": "octopus eye",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 349,
+      "team": "Den1ed",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 350,
+      "team": "三只小猪佩奇",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 351,
+      "team": "DLU",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 352,
+      "team": "PLLC",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 353,
+      "team": "gui0",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 354,
+      "team": "T0rchwOod",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 355,
+      "team": "All Your Flags",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 356,
+      "team": "妙啊",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 357,
+      "team": "BigBUG",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 358,
+      "team": "NoF1a9",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 359,
+      "team": "神殇",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 360,
+      "team": "m0rn1ng",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 361,
+      "team": "一筐酸菜鱼",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 362,
+      "team": "J&P",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 363,
+      "team": "Ch1mer4",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 364,
+      "team": "XJU_NNEW",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 365,
+      "team": "HR",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 366,
+      "team": "Freijord",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 367,
+      "team": "Rweb-mini划水小队",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 368,
+      "team": "leph1art5",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 369,
+      "team": "five55",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 370,
+      "team": "D4rkF1re",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 371,
+      "team": "真的只有一个人",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 372,
+      "team": "kshine",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 373,
+      "team": "O.K",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 374,
+      "team": "TEOT",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 375,
+      "team": "希望能爆破几个fleg",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 376,
+      "team": "WTXDYQ",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 377,
+      "team": "ak47",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 378,
+      "team": "SAINTSEC",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 379,
+      "team": "0xL4ugh",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 380,
+      "team": "NVMind",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 381,
+      "team": "no_need_flag",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 382,
+      "team": "C0d3",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 383,
+      "team": "SAD55",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 384,
+      "team": "G0t1t",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 385,
+      "team": "Knock",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 386,
+      "team": "铭",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 387,
+      "team": "GRIT",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 388,
+      "team": "北京交通大学海滨学院",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 389,
+      "team": "DLUT-SSS",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 390,
+      "team": "略略略__萌新",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 391,
+      "team": "在线等人拼flag",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 392,
+      "team": "Metasequoia",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 393,
+      "team": "evallab",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 394,
+      "team": "gruf",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 395,
+      "team": "夕阳红广场劲舞团",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 396,
+      "team": "Nu1148est",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 397,
+      "team": "下北泽剑圣",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 398,
+      "team": "老冰棍",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 399,
+      "team": "T1M",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 400,
+      "team": "jxsz",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 401,
+      "team": "S1mple_sql",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 402,
+      "team": "Aqua",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 403,
+      "team": "智网安云",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 404,
+      "team": "TheNoobz",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 405,
+      "team": "India vale",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 406,
+      "team": "SU",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 407,
+      "team": "就那么打一打",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 408,
+      "team": "Math",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 409,
+      "team": "Z1R0",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 410,
+      "team": "中北网安",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 411,
+      "team": "Aphrodite",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 412,
+      "team": "我想静静",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 413,
+      "team": "verycj",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 414,
+      "team": "Termina 2",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 415,
+      "team": "C-Me",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 416,
+      "team": "Hack Hunt",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 417,
+      "team": "kitchen1",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 418,
+      "team": "seaflow",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 419,
+      "team": "自由公式",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 420,
+      "team": "新城堡",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 421,
+      "team": "GanSw",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 422,
+      "team": "L2OK",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 423,
+      "team": "Sta1ker",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 424,
+      "team": "W2020",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 425,
+      "team": "菜鸡划水",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 426,
+      "team": "哪有什么战队，从来都是自己",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 427,
+      "team": "Gene",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 428,
+      "team": "Adm1N",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 429,
+      "team": "村网通",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 430,
+      "team": "POG",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 431,
+      "team": "4n0nym4u5",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 432,
+      "team": "Scylla",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 433,
+      "team": "$Dark_Warrior$",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 434,
+      "team": "021",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 435,
+      "team": "ADSBSUSAD",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 436,
+      "team": "star50",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 437,
+      "team": "slow_coder",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 438,
+      "team": "seven eleven",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 439,
+      "team": "NOt_flag",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 440,
+      "team": "swvl",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 441,
+      "team": "W-C-1",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 442,
+      "team": "NewBird",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 443,
+      "team": "Kitayskiy_team",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 444,
+      "team": "E4tDogshit",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 445,
+      "team": "一个混子",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 446,
+      "team": "小能猫",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 447,
+      "team": "AIGRIND",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 448,
+      "team": "ACbug战队",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 449,
+      "team": "pl1rry",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 450,
+      "team": "GWH",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 451,
+      "team": "直接白给",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 452,
+      "team": "wh04m1",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 453,
+      "team": "GEMPA",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 454,
+      "team": "RE_WORLD",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 455,
+      "team": "银河护卫队",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 456,
+      "team": "Nice*",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 457,
+      "team": "thieves",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 458,
+      "team": "XLQ",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 459,
+      "team": "sh1nt4",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 460,
+      "team": "Antivirus",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 461,
+      "team": "EliteSploit",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 462,
+      "team": "Spire Team",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 463,
+      "team": "AINY",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 464,
+      "team": "凑热闹真开心",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 465,
+      "team": "ISC",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 466,
+      "team": "Keanu Reeves",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 467,
+      "team": "小白什么都不会",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 468,
+      "team": "起风了",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 469,
+      "team": "kws981024",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 470,
+      "team": "弱鸡三两只",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 471,
+      "team": "ctf;k;",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 472,
+      "team": "stuff",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 473,
+      "team": "野生胖虎",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 474,
+      "team": "ABD",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 475,
+      "team": "huai",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 476,
+      "team": "LPF",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 477,
+      "team": "0xMohammed",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 478,
+      "team": "0x90r00t_",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 479,
+      "team": "kingpower",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 480,
+      "team": "The_Slayers",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 481,
+      "team": "ui",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 482,
+      "team": "楼下实验室",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 483,
+      "team": "0n3m4n4rmy",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 484,
+      "team": "MiD",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 485,
+      "team": "YarTech",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 486,
+      "team": "划水摸鱼小分队",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 487,
+      "team": "ujn666",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 488,
+      "team": "spectator",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 489,
+      "team": "blobloblo",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 490,
+      "team": "dokko",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 491,
+      "team": "hazel",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 492,
+      "team": "Klashers",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 493,
+      "team": "stankc",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 494,
+      "team": "Unicorn Team",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 495,
+      "team": "P@Ge2mE",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 496,
+      "team": "reallyfkingworld",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 497,
+      "team": "Made In MIM",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 498,
+      "team": "CoreZee",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 499,
+      "team": "Terminal Cats",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 500,
+      "team": "Suxin",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 501,
+      "team": "asd12345",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 502,
+      "team": "npfs",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 503,
+      "team": "scalp31",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 504,
+      "team": "wxtel",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 505,
+      "team": "Green_Hands",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 506,
+      "team": "Algerian Anarchists",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 507,
+      "team": "上山砍柴",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 508,
+      "team": "Noble6",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 509,
+      "team": "Machine",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 510,
+      "team": "Sniper7",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 511,
+      "team": "weeeaaak",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 512,
+      "team": "Bytersec_Squad",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 513,
+      "team": "0xipr0xy",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 514,
+      "team": "Brunly",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 515,
+      "team": "脚本小子",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 516,
+      "team": "mino",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 517,
+      "team": "F0lat",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 518,
+      "team": "Terminox",
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "pos": 519,
+      "team": "qhinlz",
+      "taskStats": {
+        "signin": null
+      }
+    }
+  ],
+  "name": "*CTF 2021",
+  "date": 1610722800
+}

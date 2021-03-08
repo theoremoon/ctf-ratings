@@ -1,0 +1,8921 @@
+{
+  "tasks": [
+    "newcrypt v2",
+    "plagiarism",
+    "garbled",
+    "Build a Panel",
+    "Sice Sice Baby",
+    "flippidy",
+    "signature sheep scheming signature schemes",
+    "Cuckoo's Nest",
+    "lambda",
+    "Watermark as a Service",
+    "TI-1337 Plus CE",
+    "Lost in Your Eyes",
+    "Build a Better Panel",
+    "Babier CSP",
+    "Web Utils",
+    "sourceless rust wasm pwn",
+    "Adult CSP",
+    "Missing Flavortext",
+    "Survey",
+    "dice-is-you",
+    "babyrop",
+    "benaloh",
+    "procedural",
+    "babymix",
+    "quantum 1",
+    "Web IDE",
+    "Guess the Vuln",
+    "hashbrown",
+    "quantum 2"
+  ],
+  "standings": [
+    {
+      "pos": 3,
+      "team": "0ops",
+      "taskStats": {
+        "Build a Better Panel": null,
+        "Survey": null,
+        "Lost in Your Eyes": null,
+        "Watermark as a Service": null,
+        "garbled": null,
+        "benaloh": null,
+        "Web IDE": null,
+        "plagiarism": null,
+        "Guess the Vuln": null,
+        "TI-1337 Plus CE": null,
+        "flippidy": null,
+        "dice-is-you": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "Balsn",
+      "taskStats": {
+        "Sice Sice Baby": null,
+        "babymix": null,
+        "flippidy": null,
+        "Cuckoo's Nest": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "L3H Sec",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "garbled": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "Venom",
+      "taskStats": {
+        "flippidy": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "Super Guesser",
+      "taskStats": {
+        "Build a Better Panel": null,
+        "Watermark as a Service": null,
+        "Guess the Vuln": null,
+        "Web IDE": null,
+        "flippidy": null,
+        "babyrop": null,
+        "babymix": null,
+        "Web Utils": null,
+        "Build a Panel": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "Nu1L",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "garbled": null,
+        "flippidy": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "Ph0t1n1a",
+      "taskStats": {
+        "flippidy": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "Lilac",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "lambda": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "dice-is-you": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "Crusaders of Rust",
+      "taskStats": {
+        "garbled": null,
+        "Survey": null,
+        "flippidy": null,
+        "Watermark as a Service": null,
+        "Build a Better Panel": null,
+        "Web IDE": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babymix": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "Defenit",
+      "taskStats": {
+        "Web IDE": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "flippidy": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "bi0s",
+      "taskStats": {
+        "Build a Better Panel": null,
+        "Survey": null,
+        "Web IDE": null,
+        "flippidy": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "STT",
+      "taskStats": {
+        "flippidy": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "mugi",
+      "taskStats": {
+        "Web Utils": null,
+        "Build a Panel": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "zer0pts",
+      "taskStats": {
+        "Survey": null,
+        "TI-1337 Plus CE": null,
+        "dice-is-you": null,
+        "benaloh": null,
+        "Guess the Vuln": null,
+        "Watermark as a Service": null,
+        "sourceless rust wasm pwn": null,
+        "Build a Better Panel": null,
+        "quantum 2": null,
+        "Web IDE": null,
+        "quantum 1": null,
+        "garbled": null,
+        "Build a Panel": null,
+        "flippidy": null,
+        "babymix": null,
+        "babyrop": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "n0n$la$",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "ALLES!",
+      "taskStats": {
+        "Survey": null,
+        "TI-1337 Plus CE": null,
+        "hashbrown": null,
+        "procedural": null,
+        "Web IDE": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "ARESx",
+      "taskStats": {
+        "Survey": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "Shitpography",
+      "taskStats": {
+        "Survey": null,
+        "Watermark as a Service": null,
+        "Web IDE": null,
+        "flippidy": null,
+        "Build a Panel": null,
+        "babymix": null,
+        "babyrop": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "m1t0",
+      "taskStats": {
+        "flippidy": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "AntiBuddies",
+      "taskStats": {
+        "Web IDE": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "flippidy": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 331,
+      "team": "flag{}___Orz",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "HuntsvilleTechSupport",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1000,
+      "team": "Niubi_team",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1,
+      "team": "More Smoked Leet Chicken",
+      "taskStats": {
+        "lambda": null,
+        "quantum 2": null,
+        "Guess the Vuln": null,
+        "Web IDE": null,
+        "signature sheep scheming signature schemes": null,
+        "quantum 1": null,
+        "newcrypt v2": null,
+        "garbled": null,
+        "dice-is-you": null,
+        "flippidy": null,
+        "plagiarism": null,
+        "babyrop": null,
+        "benaloh": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "trancoso_rules",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "N0Named",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 685,
+      "team": "GRAIL TEAM",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "Kernel Sanders",
+      "taskStats": {
+        "babymix": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 637,
+      "team": "bukan bandar",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 887,
+      "team": "Slab Allocator",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "onotch",
+      "taskStats": {
+        "Survey": null,
+        "babyrop": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 527,
+      "team": "El Rayo",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 978,
+      "team": "5upernova",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 449,
+      "team": "no_sql",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "KUDoS",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "Wanna.One",
+      "taskStats": {
+        "babyrop": null,
+        "babymix": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "noraneco",
+      "taskStats": {
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 820,
+      "team": "Team_Matrix",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "MonkOnMars",
+      "taskStats": {
+        "procedural": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 296,
+      "team": "irNoobs",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "Fword",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 633,
+      "team": "RKTEAM",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 851,
+      "team": "All Your Flags",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 724,
+      "team": "kshine",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 944,
+      "team": "gruf",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "SU",
+      "taskStats": {
+        "Web IDE": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 585,
+      "team": "GanSw",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 980,
+      "team": "$Dark_Warrior$",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 464,
+      "team": "Antivirus",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 910,
+      "team": "dokko",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 343,
+      "team": "stankc",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 326,
+      "team": "Unicorn Team",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 616,
+      "team": "Terminal Cats",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "bootplug",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 324,
+      "team": "Bruh",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "YoloSw4g",
+      "taskStats": {
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "dcua",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babymix": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "AlphaSeal",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "fernetInjection",
+      "taskStats": {
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "DarkArmy",
+      "taskStats": {
+        "Survey": null,
+        "Web Utils": null,
+        "flippidy": null,
+        "babyrop": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "TeamRocketIst",
+      "taskStats": {
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "efiens",
+      "taskStats": {
+        "Build a Panel": null,
+        "flippidy": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1027,
+      "team": "K3RN3L4RMY",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "b01lers",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 341,
+      "team": "RootLee",
+      "taskStats": {
+        "Survey": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "coldboots",
+      "taskStats": {
+        "Build a Panel": null,
+        "babyrop": null,
+        "Web Utils": null,
+        "Survey": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "skiddies",
+      "taskStats": {
+        "Guess the Vuln": null,
+        "dice-is-you": null,
+        "Build a Panel": null,
+        "flippidy": null,
+        "babyrop": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "nyahello",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "Debugmen",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "dice-is-you": null,
+        "Babier CSP": null,
+        "flippidy": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "IrisSec",
+      "taskStats": {
+        "Survey": null,
+        "Guess the Vuln": null,
+        "babyrop": null,
+        "Build a Better Panel": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "procedural": null,
+        "Lost in Your Eyes": null,
+        "babymix": null,
+        "dice-is-you": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "Mail.ru",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "cold_root",
+      "taskStats": {
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "VietCongSoldiers",
+      "taskStats": {
+        "flippidy": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "Gulag Gang",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "flippidy": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "jt",
+      "taskStats": {
+        "babymix": null,
+        "Babier CSP": null,
+        "flippidy": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "zh3r0",
+      "taskStats": {
+        "Web Utils": null,
+        "flippidy": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 909,
+      "team": "I am a cat",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "DSGS4T",
+      "taskStats": {
+        "babymix": null,
+        "Sice Sice Baby": null,
+        "babyrop": null,
+        "flippidy": null
+      }
+    },
+    {
+      "pos": 572,
+      "team": "MLCTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "PiratesSyndicate",
+      "taskStats": {
+        "babymix": null,
+        "flippidy": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "EvilBunnyWrote",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "CTF.SG",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "crypt0nite",
+      "taskStats": {
+        "flippidy": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "d4rkc0de",
+      "taskStats": {
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "burner_herz0g",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 378,
+      "team": "Vox Dei",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "TLS",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "flippidy": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 354,
+      "team": "TeamWBH",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "SIGPwny",
+      "taskStats": {
+        "babyrop": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "BinaryBears",
+      "taskStats": {
+        "babyrop": null,
+        "Survey": null,
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 621,
+      "team": "Red Knights",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "meraxes",
+      "taskStats": {
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "MATE",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 935,
+      "team": "Friendly Hacks",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 454,
+      "team": "0d12245589",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 360,
+      "team": "c0d3_h4cki05_",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "OSUSEC",
+      "taskStats": {
+        "signature sheep scheming signature schemes": null,
+        "benaloh": null,
+        "garbled": null,
+        "flippidy": null,
+        "babyrop": null,
+        "Build a Panel": null,
+        "babymix": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 300,
+      "team": "_HBM",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 386,
+      "team": "3webdogs",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 762,
+      "team": "Haar",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 369,
+      "team": "badfirmware",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 393,
+      "team": "[  ]",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "0x8Layer",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "asdasd123",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 711,
+      "team": "Slow Coders",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 855,
+      "team": "Turing - ITBA",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 453,
+      "team": "uallerhack",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 316,
+      "team": "shellDONs",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 391,
+      "team": "QSFH",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "acdwas",
+      "taskStats": {
+        "Babier CSP": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "Sieberrsec",
+      "taskStats": {
+        "Web Utils": null,
+        "flippidy": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 328,
+      "team": "IIT(BHU)CyberSec",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 308,
+      "team": "fr334aks",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 476,
+      "team": ";echo\"hacked\"",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 699,
+      "team": "Crib_Warrior",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "uetctf",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null
+      }
+    },
+    {
+      "pos": 878,
+      "team": "PwnLand",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 513,
+      "team": "Koxinga",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 741,
+      "team": "Zyrfex",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 312,
+      "team": "micromaster",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 1049,
+      "team": "Hamad",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 353,
+      "team": "NotHotdog",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 425,
+      "team": "0x01DA",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 565,
+      "team": "Pwning from 127::1",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 355,
+      "team": "OverDover",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 350,
+      "team": "ri5e",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 348,
+      "team": "N30Z30N",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 560,
+      "team": "PantherSec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 943,
+      "team": "Cyberus",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 849,
+      "team": "ReverseEntropy",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "etherknot",
+      "taskStats": {
+        "babymix": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 622,
+      "team": "c0nfusedtrashbear",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 569,
+      "team": "dfoo",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "STeam",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "No_Pwn_Intended",
+      "taskStats": {
+        "Survey": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "c0r3dump",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "The Flat Network Society",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "flippidy": null,
+        "Build a Better Panel": null,
+        "hashbrown": null,
+        "Web IDE": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "CyKor",
+      "taskStats": {
+        "Web IDE": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "RedRocket",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "Build a Panel": null,
+        "Guess the Vuln": null,
+        "garbled": null,
+        "sourceless rust wasm pwn": null,
+        "babymix": null,
+        "hashbrown": null,
+        "Babier CSP": null,
+        "Sice Sice Baby": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null,
+        "flippidy": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "Goburin'",
+      "taskStats": {
+        "Build a Panel": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "Ox002147",
+      "taskStats": {
+        "Web Utils": null,
+        "procedural": null,
+        "Guess the Vuln": null,
+        "dice-is-you": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "mode13h",
+      "taskStats": {
+        "Babier CSP": null,
+        "Lost in Your Eyes": null,
+        "Guess the Vuln": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "RootMeUpBeforeYouGoGo",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "flippidy": null,
+        "Cuckoo's Nest": null,
+        "babymix": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "FAUST",
+      "taskStats": {
+        "Build a Better Panel": null,
+        "Watermark as a Service": null,
+        "babyrop": null,
+        "Web IDE": null,
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "Shellphish",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "thegoonies",
+      "taskStats": {
+        "dice-is-you": null,
+        "Web Utils": null,
+        "Build a Panel": null,
+        "Missing Flavortext": null,
+        "flippidy": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "skateboarding dog",
+      "taskStats": {
+        "garbled": null,
+        "Web Utils": null,
+        "babymix": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "flippidy": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "SaturnX",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "SUS",
+      "taskStats": {
+        "signature sheep scheming signature schemes": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "flippidy": null,
+        "Cuckoo's Nest": null,
+        "babymix": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "Mayas",
+      "taskStats": {
+        "flippidy": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 327,
+      "team": "daninnm",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "fomaedo",
+      "taskStats": {
+        "Survey": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "Build a Panel": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "Contrail",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babymix": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 470,
+      "team": "4hsl33p",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "xtal",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "Apotekarnes",
+      "taskStats": {
+        "Survey": null,
+        "Web IDE": null,
+        "procedural": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Build a Panel": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "******",
+      "taskStats": {
+        "babyrop": null,
+        "babymix": null,
+        "flippidy": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "Scavenger Security",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "luftenshjaltar",
+      "taskStats": {
+        "Survey": null,
+        "Lost in Your Eyes": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "Lights of Pineapples",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "Sam.Ninja",
+      "taskStats": {
+        "Survey": null,
+        "Build a Panel": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Web Utils": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "sequence",
+      "taskStats": {
+        "Build a Panel": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "Ba Sing Sec",
+      "taskStats": {
+        "Babier CSP": null,
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 676,
+      "team": "0x90skids",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "Forkbenders",
+      "taskStats": {
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "ntropy",
+      "taskStats": {
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "pappo",
+      "taskStats": {
+        "Web Utils": null,
+        "Build a Panel": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 920,
+      "team": "ONO",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "Ganesh",
+      "taskStats": {
+        "Web Utils": null,
+        "babyrop": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "Bulba Hackers",
+      "taskStats": {
+        "procedural": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Build a Panel": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "HackPack",
+      "taskStats": {
+        "Survey": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "MIT-TEAM",
+      "taskStats": {
+        "babymix": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "CCCrypto",
+      "taskStats": {
+        "flippidy": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "TeamShakti",
+      "taskStats": {
+        "Survey": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "dex",
+      "taskStats": {
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": "fierceBadRabbits",
+      "taskStats": {
+        "babyrop": null,
+        "Survey": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "NavETS",
+      "taskStats": {
+        "babymix": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 337,
+      "team": "0xPolpettOwn",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 645,
+      "team": "Knights of the Routing Table",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 330,
+      "team": "pattern",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 796,
+      "team": "CYberMouflons",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "ShroomZ",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 518,
+      "team": "Manzara's Magpies",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "KUICS",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "Maple Bacon",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "PPP",
+      "taskStats": {
+        "Build a Better Panel": null,
+        "babyrop": null,
+        "Web IDE": null,
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "MorningLightMountain",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "ducks0ci3ty",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 394,
+      "team": "kermitliver",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 405,
+      "team": "Omaviat",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 438,
+      "team": "Krosse Flagge",
+      "taskStats": {
+        "Survey": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 960,
+      "team": "Weakness",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 407,
+      "team": "Immortals",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 568,
+      "team": "ctfChallengers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "flib",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "Gateway",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "ISwearIGoogledIt",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 788,
+      "team": "frazy",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "C Flat",
+      "taskStats": {
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "RGBsec",
+      "taskStats": {
+        "Survey": null,
+        "plagiarism": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 387,
+      "team": "Hacklava",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 427,
+      "team": "Area{51}",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 335,
+      "team": "paulie",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 395,
+      "team": "ROKHong",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 342,
+      "team": "ouowowuwu",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 949,
+      "team": "eladport",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 792,
+      "team": "PallasAthenaCTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "SNOT",
+      "taskStats": {
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 298,
+      "team": "BleuBytes",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "VTeam",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "CSI",
+      "taskStats": {
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 644,
+      "team": "DBFC",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 651,
+      "team": "AIE CTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 755,
+      "team": "0xops",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 357,
+      "team": "YabbaDoo",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "taskStats": {
+        "Web IDE": null,
+        "Build a Panel": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 563,
+      "team": "Cyber Chicken",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 862,
+      "team": "GameStonk",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 535,
+      "team": "Rootless",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "AbsoluteZero",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 810,
+      "team": "Zoomers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "EffectRenan",
+      "taskStats": {
+        "Build a Panel": null,
+        "Cuckoo's Nest": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "Pwnie Island",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 352,
+      "team": "x2w",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "Qwerty",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 757,
+      "team": "poigiatre",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 450,
+      "team": "bot3310",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "w1ldc4t",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 897,
+      "team": "Sky2Pwn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 650,
+      "team": "h0lysh1t",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "Raise the Flag",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 432,
+      "team": "bobsleigh",
+      "taskStats": {
+        "Survey": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 953,
+      "team": "0n3P01nt",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "NavyBlue",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 687,
+      "team": "xrzhev",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 577,
+      "team": "Flags as a Service",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 907,
+      "team": "HackLabGirls",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 613,
+      "team": "Colonial White Hats",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "eppooo",
+      "taskStats": {
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 462,
+      "team": "ru7ynk4",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 345,
+      "team": "F03v3ryY0ung",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 913,
+      "team": "UIT.SoloQ",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "(mendung)10^6",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 523,
+      "team": "Cyber Blob Force",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 875,
+      "team": "Expl0r3_Ev1d3nCe5",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1013,
+      "team": "T3n4ci0us",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 428,
+      "team": "p0x82s",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 700,
+      "team": "tnkdkndkn92",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 837,
+      "team": "WeSux",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 640,
+      "team": "jueygrace",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 838,
+      "team": "Cla55N0tF0und",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 797,
+      "team": "k0kos",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 775,
+      "team": "4141414141",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 892,
+      "team": "GeeseWithTeeth",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 779,
+      "team": "Alonymous",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 503,
+      "team": "APA Razi",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 550,
+      "team": "fzhshzh",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "keksd0se",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 756,
+      "team": "WaletSec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 420,
+      "team": "Stack",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 937,
+      "team": "PEQUI_ctf",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 995,
+      "team": "F4ckSoc1eTy",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 880,
+      "team": "ex0gen",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 766,
+      "team": "Class3E",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 861,
+      "team": "Z3Ro",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 814,
+      "team": "S0l0Act",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 524,
+      "team": "arthollow",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 309,
+      "team": "justice",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 938,
+      "team": "BTC_FR",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 615,
+      "team": "karipap",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 871,
+      "team": "Pizz'hack",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 932,
+      "team": "mikejam",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 555,
+      "team": "turbo-d",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 517,
+      "team": "Strix Goldhorn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 857,
+      "team": "r5",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 845,
+      "team": "psych0social_engin33ring",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 898,
+      "team": "EvilRoot",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 363,
+      "team": "BOKO",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 498,
+      "team": "easy_p",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 677,
+      "team": "PatanjaliHax",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 784,
+      "team": "SkidSociety",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1018,
+      "team": "ZaIPEK",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "N0p",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "flippidy": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1057,
+      "team": "OrderofShadows",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 905,
+      "team": "exntrc",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 364,
+      "team": "DoR",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 679,
+      "team": "NiceWay",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 952,
+      "team": "dczia",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "HashSlingingHackers",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 1060,
+      "team": "badsctr",
+      "taskStats": {
+        "Survey": null
+      }
+    },
+    {
+      "pos": 852,
+      "team": "something clever",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 598,
+      "team": "Hootoh",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 695,
+      "team": "NCTOP",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1044,
+      "team": "sl0ck",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 971,
+      "team": "Hacklabor",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 753,
+      "team": "0x55434c",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 879,
+      "team": "jackdaw",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 893,
+      "team": "s3c_g33k",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 883,
+      "team": "penquins",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 648,
+      "team": "Slonser",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 769,
+      "team": "Rand00m",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 672,
+      "team": "LemonPrefect",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "PFS",
+      "taskStats": {
+        "Web IDE": null,
+        "Survey": null,
+        "sourceless rust wasm pwn": null,
+        "Watermark as a Service": null,
+        "Guess the Vuln": null,
+        "Lost in Your Eyes": null,
+        "procedural": null,
+        "hashbrown": null,
+        "dice-is-you": null,
+        "babyrop": null,
+        "flippidy": null,
+        "plagiarism": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "Dragon Sector",
+      "taskStats": {
+        "lambda": null,
+        "Survey": null,
+        "garbled": null,
+        "sourceless rust wasm pwn": null,
+        "Guess the Vuln": null,
+        "hashbrown": null,
+        "Web IDE": null,
+        "dice-is-you": null,
+        "Build a Panel": null,
+        "Lost in Your Eyes": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "flippidy": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "r00timentary",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "Missing Flavortext": null,
+        "hashbrown": null,
+        "garbled": null,
+        "sourceless rust wasm pwn": null,
+        "TI-1337 Plus CE": null,
+        "Web Utils": null,
+        "Build a Better Panel": null,
+        "Babier CSP": null,
+        "Guess the Vuln": null,
+        "Web IDE": null,
+        "dice-is-you": null,
+        "Build a Panel": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "justCatTheFish",
+      "taskStats": {
+        "TI-1337 Plus CE": null,
+        "lambda": null,
+        "Watermark as a Service": null,
+        "Build a Better Panel": null,
+        "quantum 2": null,
+        "quantum 1": null,
+        "babyrop": null,
+        "Web IDE": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "tohru lovers",
+      "taskStats": {
+        "Lost in Your Eyes": null,
+        "Adult CSP": null,
+        "Survey": null,
+        "plagiarism": null,
+        "dice-is-you": null,
+        "babyrop": null,
+        "flippidy": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "Black Bauhinia",
+      "taskStats": {
+        "Lost in Your Eyes": null,
+        "Watermark as a Service": null,
+        "garbled": null,
+        "flippidy": null,
+        "Web IDE": null,
+        "babyrop": null,
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "Samurai",
+      "taskStats": {
+        "Guess the Vuln": null,
+        "flippidy": null,
+        "Web IDE": null,
+        "dice-is-you": null,
+        "Build a Panel": null,
+        "babyrop": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "meltdown",
+      "taskStats": {
+        "benaloh": null,
+        "plagiarism": null,
+        "garbled": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "isss",
+      "taskStats": {
+        "garbled": null,
+        "babymix": null,
+        "quantum 2": null,
+        "quantum 1": null,
+        "Build a Panel": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "Corrupted Pwnis",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "TI-1337 Plus CE": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "flippidy": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "kalmarunionen",
+      "taskStats": {
+        "Survey": null,
+        "garbled": null,
+        "dice-is-you": null,
+        "Web Utils": null,
+        "Web IDE": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "watevr",
+      "taskStats": {
+        "Lost in Your Eyes": null,
+        "babyrop": null,
+        "babymix": null,
+        "dice-is-you": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "CeSeNA",
+      "taskStats": {
+        "TI-1337 Plus CE": null,
+        "Survey": null,
+        "Build a Panel": null,
+        "dice-is-you": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "EPT",
+      "taskStats": {
+        "Survey": null,
+        "Build a Panel": null,
+        "dice-is-you": null,
+        "flippidy": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "NightOwla",
+      "taskStats": {
+        "Web IDE": null,
+        "Build a Panel": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "Buckeye Bureau of BOF",
+      "taskStats": {
+        "Build a Better Panel": null,
+        "Survey": null,
+        "Build a Panel": null,
+        "babyrop": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "team0se7en",
+      "taskStats": {
+        "Build a Panel": null,
+        "Guess the Vuln": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "xof5566~",
+      "taskStats": {
+        "Build a Better Panel": null,
+        "Web IDE": null,
+        "Cuckoo's Nest": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "NUS GreyHats",
+      "taskStats": {
+        "Survey": null,
+        "Build a Panel": null,
+        "garbled": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "RPISEC",
+      "taskStats": {
+        "babyrop": null,
+        "hashbrown": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "Djavaa",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "we11_d0ne",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "Survey": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "0x90r00t",
+      "taskStats": {
+        "Build a Panel": null,
+        "Watermark as a Service": null,
+        "Web IDE": null,
+        "Web Utils": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "d867924172d1d57e17707448958c5966",
+      "taskStats": {
+        "Watermark as a Service": null,
+        "Web IDE": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "Hexion",
+      "taskStats": {
+        "babymix": null,
+        "Web IDE": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Build a Panel": null,
+        "Cuckoo's Nest": null,
+        "Web Utils": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "Rogue Waves",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Web IDE": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "MINUS",
+      "taskStats": {
+        "Build a Panel": null,
+        "flippidy": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "TwentyFive",
+      "taskStats": {
+        "Survey": null,
+        "Watermark as a Service": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "Build a Panel": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "TSG",
+      "taskStats": {
+        "plagiarism": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "TeamHorowitz",
+      "taskStats": {
+        "babyrop": null,
+        "Lost in Your Eyes": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "Unwanted_MSware",
+      "taskStats": {
+        "lambda": null,
+        "Missing Flavortext": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "pobateam",
+      "taskStats": {
+        "dice-is-you": null,
+        "flippidy": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "it's pronounced gheeeedra",
+      "taskStats": {
+        "Survey": null,
+        "Build a Panel": null,
+        "flippidy": null,
+        "babyrop": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "BKDN_GenZ",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babyrop": null,
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "Nupakachi",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "Stack CanaRIIs",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "defcongroup702",
+      "taskStats": {
+        "Survey": null,
+        "babyrop": null,
+        "Web Utils": null,
+        "Build a Panel": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "ELFDump",
+      "taskStats": {
+        "Web IDE": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "spica",
+      "taskStats": {
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "flippidy": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "bootleg-knightsec",
+      "taskStats": {
+        "procedural": null,
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "e^iPi+1day",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "Rizaaaaaaaaa",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "Zense",
+      "taskStats": {
+        "Survey": null,
+        "Build a Panel": null,
+        "Cuckoo's Nest": null,
+        "babymix": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "keymoon",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "csictf",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "FetchOrbis",
+      "taskStats": {
+        "babymix": null,
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "wolvsec",
+      "taskStats": {
+        "Build a Panel": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Web Utils": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "Whatever it takes",
+      "taskStats": {
+        "Build a Panel": null,
+        "babyrop": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "Delft Hacking Lab",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Build a Panel": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "lowprivshighhopes",
+      "taskStats": {
+        "Survey": null,
+        "babymix": null,
+        "Watermark as a Service": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "SBthread",
+      "taskStats": {
+        "Web Utils": null,
+        "babymix": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "Dashu",
+      "taskStats": {
+        "babyrop": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "HacknamStyle",
+      "taskStats": {
+        "babyrop": null,
+        "Web Utils": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "fearless",
+      "taskStats": {
+        "babyrop": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "hamayanhamayan",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "Lost_in_Space",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "Em0n",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "TP",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Build a Panel": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "R3d Cr3sc3nt",
+      "taskStats": {
+        "Web Utils": null,
+        "Build a Panel": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "Deadlock Team",
+      "taskStats": {
+        "Build a Panel": null,
+        "Cuckoo's Nest": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "linkforce",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "ffffx00000",
+      "taskStats": {
+        "babyrop": null,
+        "Build a Panel": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "beerpwn",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "NorthWest",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "InSecurity",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "Cyber Security Leaks",
+      "taskStats": {
+        "babymix": null,
+        "Web Utils": null,
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "EConGa",
+      "taskStats": {
+        "Web Utils": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "backspace",
+      "taskStats": {
+        "Web Utils": null,
+        "Survey": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "Hackiit",
+      "taskStats": {
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "Flag Hunters",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "NYUSEC",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babyrop": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "Serokell",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babymix": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": "0x3f",
+      "taskStats": {
+        "Sice Sice Baby": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "casualz",
+      "taskStats": {
+        "Web IDE": null,
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "tiangeng",
+      "taskStats": {
+        "flippidy": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "hack4chai",
+      "taskStats": {
+        "Build a Panel": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "f0rt1fy",
+      "taskStats": {
+        "Web Utils": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "TEAM0001",
+      "taskStats": {
+        "Survey": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "anle",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "1Tree",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Web Utils": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "Panya",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "as3617",
+      "taskStats": {
+        "Web Utils": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "pwnguins",
+      "taskStats": {
+        "Survey": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "HackademINT",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "blackjackets",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "L Distribution",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "EPITA Rennes",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "reKeyzen",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "ISFCR CTF",
+      "taskStats": {
+        "Survey": null,
+        "Babier CSP": null,
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "Lopatz",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "empty_",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "GuinessN00b",
+      "taskStats": {
+        "babymix": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "N33rdZ",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "Sentry Whale",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "zzre",
+      "taskStats": {
+        "flippidy": null,
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "pwnstar",
+      "taskStats": {
+        "flippidy": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "PWN to 0xE4",
+      "taskStats": {
+        "garbled": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "VHCBlade",
+      "taskStats": {
+        "Build a Panel": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": ".au",
+      "taskStats": {
+        "Babier CSP": null,
+        "Web Utils": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "TylerGetsay",
+      "taskStats": {
+        "Web Utils": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "Anemone",
+      "taskStats": {
+        "babyrop": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "Dent",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "IptL",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "Brap",
+      "taskStats": {
+        "babyrop": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "zer0day",
+      "taskStats": {
+        "babymix": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "0n3mh5",
+      "taskStats": {
+        "babyrop": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "n0paew",
+      "taskStats": {
+        "Babier CSP": null,
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "mjkoo",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "RUSEC",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "BreakingCode",
+      "taskStats": {
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "antooro",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "soloq",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "kokeshi",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "Fenxz",
+      "taskStats": {
+        "Babier CSP": null,
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "krzyztof1222",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "Tek CyberSec",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "Pokigang",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "rmrfslash",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "SundayParan01ds",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "Polaris One",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "2020",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "CyberYoddha",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "SecureMature",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "Sigmas",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": "DeltaHeap",
+      "taskStats": {
+        "Survey": null,
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "rennergy",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "RedBetta",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Survey": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "bro security",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "BNK",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "Los Estupidos Hombres",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "FlagFishers",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Survey": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "Shallow-Fried Soy Winter Vegetables",
+      "taskStats": {
+        "Survey": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "byc_404",
+      "taskStats": {
+        "Babier CSP": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "OnlyFlags",
+      "taskStats": {
+        "Survey": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "nijigen_saikou",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "__fiord",
+      "taskStats": {
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "learningCTF",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "PA_NA_KA",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "Erotium Primus",
+      "taskStats": {
+        "Survey": null,
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "Release",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "Shio",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "ShingekiNoCovid",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Babier CSP": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "UTD_CSG",
+      "taskStats": {
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "void* vikings",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "poi",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "ae",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "hsvcs",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "Stuxnet_and_Chill",
+      "taskStats": {
+        "babymix": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 287,
+      "team": "ret2school",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babymix": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 288,
+      "team": "no_n33d_2_ask",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 289,
+      "team": "CBF",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 290,
+      "team": "XxX",
+      "taskStats": {
+        "Babier CSP": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 291,
+      "team": "ec",
+      "taskStats": {
+        "flippidy": null
+      }
+    },
+    {
+      "pos": 292,
+      "team": "seadeef",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 293,
+      "team": "lslcg",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 294,
+      "team": "Sechack",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 295,
+      "team": "purpl3c4ts",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 297,
+      "team": "ANAsungminTTI",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 299,
+      "team": "xhls",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 301,
+      "team": "nuhs",
+      "taskStats": {
+        "babyrop": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 302,
+      "team": "boiprcvn3",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 303,
+      "team": "7you7fenzhiyi",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 304,
+      "team": "woo",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 305,
+      "team": "nada",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 306,
+      "team": "tiny baby",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 307,
+      "team": "uroz",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 310,
+      "team": "andser612345",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 311,
+      "team": "jeffjohn",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 313,
+      "team": "SRW_York",
+      "taskStats": {
+        "babyrop": null
+      }
+    },
+    {
+      "pos": 314,
+      "team": "qqqqq",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 315,
+      "team": "//////",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 317,
+      "team": "Lpalp",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 318,
+      "team": "GME_to_the_m$$n",
+      "taskStats": {
+        "Missing Flavortext": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 319,
+      "team": "DonnerParty",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 320,
+      "team": "The Prependers",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 321,
+      "team": "zjh2857",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 322,
+      "team": "CyberCat",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 323,
+      "team": "ddddhm",
+      "taskStats": {
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 325,
+      "team": "1u1u",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 329,
+      "team": "1uciph3r",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 332,
+      "team": "zoro20",
+      "taskStats": {
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 333,
+      "team": "InfoSecIITR",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 334,
+      "team": "vubar",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 336,
+      "team": "GaffaOverflow",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 338,
+      "team": "RescueMe",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 339,
+      "team": "Alek",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "babymix": null
+      }
+    },
+    {
+      "pos": 340,
+      "team": "amelkiy",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 344,
+      "team": "cby234",
+      "taskStats": {
+        "Missing Flavortext": null
+      }
+    },
+    {
+      "pos": 346,
+      "team": "CanghaiWraINd",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 347,
+      "team": "c00c00r00c00",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 349,
+      "team": "mcb",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 351,
+      "team": "GOBBLES",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 356,
+      "team": "Cat Training Force",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 358,
+      "team": "nurga",
+      "taskStats": {
+        "babymix": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 359,
+      "team": "cew",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 361,
+      "team": "I do not like anime",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 362,
+      "team": "SBR",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 365,
+      "team": "anonymans",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 366,
+      "team": "profdracula",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 367,
+      "team": "kaftejiman",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 368,
+      "team": "Teddy Heinen",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 370,
+      "team": "n00bzx",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 371,
+      "team": "yoyosammy",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 372,
+      "team": "binanNo1",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 373,
+      "team": "w0ooo",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 374,
+      "team": "h4ck7u5",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 375,
+      "team": "n0t3amn@m3",
+      "taskStats": {
+        "babymix": null
+      }
+    },
+    {
+      "pos": 376,
+      "team": "babar",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 377,
+      "team": "Unchosen",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 379,
+      "team": "wombats.edu",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 380,
+      "team": "score_gazer",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 381,
+      "team": "monkeyclicker team",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 382,
+      "team": "BisonSquad",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 383,
+      "team": "Flaggermeister",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 384,
+      "team": "UMDCSEC",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 385,
+      "team": "RinkoQwQ",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 388,
+      "team": "TK",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 389,
+      "team": "A1ertx5s",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 390,
+      "team": "PARADOX",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 392,
+      "team": "AcKi",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 396,
+      "team": "CTF{Runn3rs}",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 397,
+      "team": "s0cbr0s",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 398,
+      "team": "CAT-Security",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 399,
+      "team": "datsoa",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 400,
+      "team": "Zumwalt",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 401,
+      "team": "gamnabit",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 402,
+      "team": "xpenqz",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 403,
+      "team": "R4inbow_Unicorn$",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 404,
+      "team": "aplayground",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 406,
+      "team": "TLS-SEC",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 408,
+      "team": "Octet Mignonne",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 409,
+      "team": "Stallions",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 410,
+      "team": "GCI Gophers",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 411,
+      "team": "BisonCS",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 412,
+      "team": "LeonT",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 413,
+      "team": "TourRadar",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 414,
+      "team": "potato-jackson",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 415,
+      "team": "Ingressive",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 416,
+      "team": "BlackPwned",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 417,
+      "team": "lololo",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 418,
+      "team": "SaudiPattern",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 419,
+      "team": "KapiSec",
+      "taskStats": {
+        "Survey": null,
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 421,
+      "team": "DSUCyber",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 422,
+      "team": "psi beta rho",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 423,
+      "team": "hereforfun",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 424,
+      "team": "X5tar",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 426,
+      "team": "!LE37",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 429,
+      "team": "ACCE55_DE21ED",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 430,
+      "team": "0x0d1n",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 431,
+      "team": "ARU Ethical Hacking Society",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 433,
+      "team": "Myanmar",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 434,
+      "team": "lAvengersl",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 435,
+      "team": "xinruk-hyrla-alex-raeura",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 436,
+      "team": "HappyHackerHour",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 437,
+      "team": "mn3rd",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 439,
+      "team": "Batch File",
+      "taskStats": {
+        "Babier CSP": null,
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 440,
+      "team": "ML Cyber",
+      "taskStats": {
+        "Babier CSP": null,
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 441,
+      "team": "InSecSquad",
+      "taskStats": {
+        "Babier CSP": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 442,
+      "team": "shou",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 443,
+      "team": "Solomio",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 444,
+      "team": "kanyewest",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 445,
+      "team": "Rezkon",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 446,
+      "team": "horumon",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 447,
+      "team": "disc",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 448,
+      "team": "yyys",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 451,
+      "team": "fractal",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 452,
+      "team": "REDF",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 455,
+      "team": "ws1004",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 456,
+      "team": "sudovonctfuadec",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 457,
+      "team": "r4nd0m1z3",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 458,
+      "team": "smokingdodo",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 459,
+      "team": "Foz",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 460,
+      "team": "Banana",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 461,
+      "team": "I_L0ve_Sp0rts",
+      "taskStats": {
+        "Babier CSP": null
+      }
+    },
+    {
+      "pos": 463,
+      "team": "P4H",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 465,
+      "team": "REiNAgar",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 466,
+      "team": "test213",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 467,
+      "team": "The PPPP's",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 468,
+      "team": "abcdefghijklmnopqrstuvwxyz",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 469,
+      "team": "Mental Hospital",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 471,
+      "team": "WaffleBot3000",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 472,
+      "team": "BWbw",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 473,
+      "team": "ButterOverflow",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 474,
+      "team": "LJB",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 475,
+      "team": "conoz",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 477,
+      "team": "tanked402",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 478,
+      "team": "PRINCESSES OF REDPWN",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 479,
+      "team": "Jamesc",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 480,
+      "team": "RoP",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 481,
+      "team": "Adige",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 482,
+      "team": "Tompkins CyberSec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 483,
+      "team": "St0rm Club",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 484,
+      "team": "zacfmhill",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 485,
+      "team": "OnlyFeet",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 486,
+      "team": "sudoers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 487,
+      "team": "ShamenDubon",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 488,
+      "team": "Literal Dips",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 489,
+      "team": "logaritm",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 490,
+      "team": "Team Private Group",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 491,
+      "team": "Opps",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 492,
+      "team": "HypeNah",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 493,
+      "team": "The Connections",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 494,
+      "team": "cyul8r",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 495,
+      "team": "ronen8231",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 496,
+      "team": "W0lv3s",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 497,
+      "team": "Are5",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 499,
+      "team": "Driadixa@yandex.ru",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 500,
+      "team": "DARK-MEN",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 501,
+      "team": "time do tom",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 502,
+      "team": "Club of Very Responsible Individuals",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 504,
+      "team": "Oliver",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 505,
+      "team": "Ikasten",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 506,
+      "team": "InfOUsec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 507,
+      "team": "one two three",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 508,
+      "team": "DDHC",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 509,
+      "team": "We-C-U from GMU",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 510,
+      "team": "haxx0r",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 511,
+      "team": "ViperCTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 512,
+      "team": "noname$$$",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 514,
+      "team": "blak9",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 515,
+      "team": "Ch33syCr4ck3rs",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 516,
+      "team": "SFFI",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 519,
+      "team": "Applied Cybersecurity Society @ PWSH",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 520,
+      "team": "lost+found",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 521,
+      "team": "tree",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 522,
+      "team": "TheDarkOrder",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 525,
+      "team": "Verdugo Hills",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 526,
+      "team": "Starlight Defenders",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 528,
+      "team": "soup",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 529,
+      "team": "Ladybug",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 530,
+      "team": "n4s1R",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 531,
+      "team": "teacup",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 532,
+      "team": "VIKiN9Z",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 533,
+      "team": "rolling_two_dice",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 534,
+      "team": "Bassabar",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 536,
+      "team": "mweaver",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 537,
+      "team": "HackForce",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 538,
+      "team": "Kza",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 539,
+      "team": "lambdax",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 540,
+      "team": "SK3LLY",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 541,
+      "team": "bob_ctf",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 542,
+      "team": "tj-blockchain",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 543,
+      "team": "Miami Breeze",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 544,
+      "team": "Python Waifu",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 545,
+      "team": "aephus",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 546,
+      "team": "HowsWeather",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 547,
+      "team": "nog642",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 548,
+      "team": "0xdeadbeef-TNT",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 549,
+      "team": "Vrethern",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 551,
+      "team": "OmahTI",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 552,
+      "team": "C521",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 553,
+      "team": "0x325",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 554,
+      "team": "unaff_EBP",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 556,
+      "team": "GUITARS",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 557,
+      "team": "RFGHOST",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 558,
+      "team": "Richard Stallman Fan Club",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 559,
+      "team": "SNIPER",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 561,
+      "team": "St4rt fr0m Zer0",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 562,
+      "team": "Diceoids",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 564,
+      "team": "bazinga-sicherheit",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 566,
+      "team": "just one dude",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 567,
+      "team": "Hom3r^3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 570,
+      "team": "NiceBoat",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 571,
+      "team": "0 Hour Energy",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 573,
+      "team": "taX",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 574,
+      "team": "cafce25",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 575,
+      "team": "BadtothePwn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 576,
+      "team": "ikbalvult",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 578,
+      "team": "Hi-Iro",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 579,
+      "team": "South Squad",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 580,
+      "team": "team_kumo",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 581,
+      "team": "Egg Heads",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 582,
+      "team": "Nimon",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 583,
+      "team": "who@mI",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 584,
+      "team": "MICHIZANE",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 586,
+      "team": "swag",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 587,
+      "team": "kwkt n daikon (Sun* AI)",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 588,
+      "team": "CEPHALOPOD EXPRESS",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 589,
+      "team": "N3wb5 Pwn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 590,
+      "team": "U01T",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 591,
+      "team": "PersianCats",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 592,
+      "team": "phionify",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 593,
+      "team": "DownToHuck",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 594,
+      "team": "MasonCC",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 595,
+      "team": "altair",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 596,
+      "team": "zxd7190",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 597,
+      "team": "etc0202",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 599,
+      "team": "cooper",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 600,
+      "team": "Foxes",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 601,
+      "team": "omicronctf",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 602,
+      "team": "zhy",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 603,
+      "team": "ccz_Ju5t_w4nt_f1@g",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 604,
+      "team": "Orga",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 605,
+      "team": "Ryan A's Team",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 606,
+      "team": "Blue Hens",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 607,
+      "team": "CTF Community",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 608,
+      "team": "KingofmyQueen",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 609,
+      "team": "Overclockedbrains",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 610,
+      "team": "Isaac",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 611,
+      "team": "AMAZONE",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 612,
+      "team": "lampicka",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 614,
+      "team": "RipperRoot",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 617,
+      "team": "corn_starch",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 618,
+      "team": "Hax",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 619,
+      "team": "SodaOverflow",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 620,
+      "team": "tHe_pLebS",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 623,
+      "team": "FantasqueX",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 624,
+      "team": "L34K3D",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 625,
+      "team": "Xapy",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 626,
+      "team": "very good team name",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 627,
+      "team": "reg_u_l8r",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 628,
+      "team": "the_flag",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 629,
+      "team": "Karimata",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 630,
+      "team": "hogemaru",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 631,
+      "team": "Baomike",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 632,
+      "team": "Flag{Sign_in}",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 634,
+      "team": "Silver Catalysts",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 635,
+      "team": "teamisbad",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 636,
+      "team": "pie73",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 638,
+      "team": "junior",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 639,
+      "team": "A is for Audit",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 641,
+      "team": "Shadow Stalkers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 642,
+      "team": "pureSec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 643,
+      "team": "Tf&test",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 646,
+      "team": "Team Gr4y",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 647,
+      "team": "ssta",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 649,
+      "team": "hardcode",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 652,
+      "team": "darkbasha",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 653,
+      "team": "Yuk1k4z3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 654,
+      "team": "The Elders of Zion",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 655,
+      "team": "Lions",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 656,
+      "team": "Mountain",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 657,
+      "team": "0ni0n_3at3r",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 658,
+      "team": "kokokaka",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 659,
+      "team": "ANSI_CODE1337",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 660,
+      "team": "NeuralBots",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 661,
+      "team": "YameTea",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 662,
+      "team": "SQoala Injection",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 663,
+      "team": "Martial_Law_Enforcer",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 664,
+      "team": "happys",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 665,
+      "team": "PhussBabies",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 666,
+      "team": "Evil Society of Evil and Doom",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 667,
+      "team": "DEBUG",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 668,
+      "team": "test164c",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 669,
+      "team": "H@r3Kr1",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 670,
+      "team": "One of the dummiest",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 671,
+      "team": "Anish",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 673,
+      "team": "Escalope",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 674,
+      "team": "NOOBS_OP",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 675,
+      "team": "The Cryptors",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 678,
+      "team": "D4rk Sid3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 680,
+      "team": "7M",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 681,
+      "team": "M0nx",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 682,
+      "team": "Powered By Coffee",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 683,
+      "team": "0xw3bs3c",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 684,
+      "team": "Hijos",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 686,
+      "team": "/roott",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 688,
+      "team": "kx",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 689,
+      "team": "this_t34m_ha5_n0_nam3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 690,
+      "team": "Lusserud",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 691,
+      "team": "ECPI",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 692,
+      "team": "p4n1c",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 693,
+      "team": "__MAYAJAAL__",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 694,
+      "team": "cyb3rL4b5",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 696,
+      "team": "TeamCarRamRod",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 697,
+      "team": "nosinsoigo95",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 698,
+      "team": "pseudosci",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 701,
+      "team": "ruski_haker",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 702,
+      "team": "166",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 703,
+      "team": "Fu1lc0n-",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 704,
+      "team": "DecSec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 705,
+      "team": "HITCONGIRLS",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 706,
+      "team": "XploiT",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 707,
+      "team": "daHello",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 708,
+      "team": "Velocihacker",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 709,
+      "team": "c1p@rr",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 710,
+      "team": "M@nt!s",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 712,
+      "team": "Pied_Piper",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 713,
+      "team": "itamarmaouda101",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 714,
+      "team": "ciscomerry",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 715,
+      "team": "ikeario",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 716,
+      "team": "ReFiOc",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 717,
+      "team": "panda",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 718,
+      "team": "h45e",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 719,
+      "team": "Sakura501",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 720,
+      "team": "Z3r01",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 721,
+      "team": "idkCTF..",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 722,
+      "team": "ebin_l33t_h4x0rm4n5_dab",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 723,
+      "team": "ttr",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 725,
+      "team": "R3d $trik3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 726,
+      "team": "C4ptch4_Th3_Fl4g",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 727,
+      "team": "JetJ",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 728,
+      "team": "@[add_text_here]",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 729,
+      "team": "JaniNa",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 730,
+      "team": "dmssm",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 731,
+      "team": "wye",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 732,
+      "team": "Closers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 733,
+      "team": "Qu3tz4lc04tl",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 734,
+      "team": "n0m4z",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 735,
+      "team": "anishde85",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 736,
+      "team": "Outora",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 737,
+      "team": "XY",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 738,
+      "team": "Hermits",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 739,
+      "team": "Karaelmas Black Team",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 740,
+      "team": "v3ntur3sity",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 742,
+      "team": "We Got This",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 743,
+      "team": "M0l1n1ll0",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 744,
+      "team": "nord",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 745,
+      "team": "NEWBIE",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 746,
+      "team": "[0x01d5]WWW",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 747,
+      "team": "KKK",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 748,
+      "team": "CcccC",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 749,
+      "team": "alone3l3phant",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 750,
+      "team": "HackInProvence",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 751,
+      "team": "KIMDY",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 752,
+      "team": "G4mbit420",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 754,
+      "team": "jjtnuuuuuuun",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 758,
+      "team": "BlackSecurity",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 759,
+      "team": "ROOKIE",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 760,
+      "team": "AsturiesCTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 761,
+      "team": "S3cur1ty_J0k3r$",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 763,
+      "team": "Serverhamsters",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 764,
+      "team": "gom8",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 765,
+      "team": "x0rc3r3rs",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 767,
+      "team": "lowlife_pie",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 768,
+      "team": "BaguetteCramee",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 770,
+      "team": "Cipher",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 771,
+      "team": "GUI",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 772,
+      "team": "R4inBow",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 773,
+      "team": "Veanu_Idiots",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 774,
+      "team": "jgsleepwithme",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 776,
+      "team": "League of Shadows",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 777,
+      "team": "2001",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 778,
+      "team": "GruberliOPENCTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 780,
+      "team": "ondrca_team",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 781,
+      "team": "hugore",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 782,
+      "team": "Mit-Team-Tr",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 783,
+      "team": "cacadu27",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 785,
+      "team": "nurls",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 786,
+      "team": "roughpaper",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 787,
+      "team": "Firebaskyupup",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 789,
+      "team": "sf",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 790,
+      "team": "Pwned_",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 791,
+      "team": "SadPlace1337",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 793,
+      "team": "b00t_Error1890",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 794,
+      "team": "ANON-XT",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 795,
+      "team": "A-10",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 798,
+      "team": "Hipo",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 799,
+      "team": "P41M0N",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 800,
+      "team": "Ammas_Hackers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 801,
+      "team": "SOSU_v_CTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 802,
+      "team": "alon3_for3v3r",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 803,
+      "team": "The Keepers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 804,
+      "team": "VetCon",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 805,
+      "team": "couldn't think of a name",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 806,
+      "team": "hehehe",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 807,
+      "team": "N00b",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 808,
+      "team": "KOREASEXYASS",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 809,
+      "team": "Esisar2A",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 811,
+      "team": "Hopefully",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 812,
+      "team": "Koying",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 813,
+      "team": "Razr",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 815,
+      "team": "PeakyBlinders",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 816,
+      "team": "s0ye0ve",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 817,
+      "team": "eeqqqeqw",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 818,
+      "team": "wisteria",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 819,
+      "team": "pirates247",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 821,
+      "team": "aseians",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 822,
+      "team": "screwtopkittens",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 823,
+      "team": "BortecineSec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 824,
+      "team": "baksten",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 825,
+      "team": "U+1F966",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 826,
+      "team": "Em0t3t",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 827,
+      "team": "Tamil CTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 828,
+      "team": "k3rb3r0s_disk",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 829,
+      "team": "MuchWow",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 830,
+      "team": "0xf4wk3s",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 831,
+      "team": "Cancit Panton",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 832,
+      "team": "me, me, myself, me and I",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 833,
+      "team": "racoon",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 834,
+      "team": "7U2K1",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 835,
+      "team": "lehanne",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 836,
+      "team": "TeamR0ck3t",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 839,
+      "team": "webborn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 840,
+      "team": "klutz",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 841,
+      "team": "WIC (Welfare is Cool)",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 842,
+      "team": "randomteam",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 843,
+      "team": "bruhmoment",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 844,
+      "team": "friWolf#3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 846,
+      "team": "taruscript",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 847,
+      "team": "b1rds_of_pr3y",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 848,
+      "team": "watch4hack",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 850,
+      "team": "hukeln",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 853,
+      "team": "L0n3wo0f",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 854,
+      "team": "LIT LOGIN",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 856,
+      "team": "carex_ctf_team",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 858,
+      "team": "MyMe",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 859,
+      "team": "d40n3666",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 860,
+      "team": "Fr_ctfer",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 863,
+      "team": "judgmental_fish",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 864,
+      "team": "b4k3r_str33t",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 865,
+      "team": "MajorLefty22",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 866,
+      "team": "brigante",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 867,
+      "team": "s0r3l0s3r",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 868,
+      "team": "DennisForeverAlone",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 869,
+      "team": "GK",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 870,
+      "team": "Sia",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 872,
+      "team": "ghada7kin",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 873,
+      "team": "L3pr3ch4un",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 874,
+      "team": "Hackers N' Hops",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 876,
+      "team": "David122",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 877,
+      "team": "Hamchouche",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 881,
+      "team": "alicio",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 882,
+      "team": "PlzDon'tBeLast",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 884,
+      "team": "YAD1",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 885,
+      "team": "neverlucky",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 886,
+      "team": "4k3l4rr3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 888,
+      "team": "Zed",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 889,
+      "team": "Wooshi",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 890,
+      "team": "n3wbi3",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 891,
+      "team": "MabaSec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 894,
+      "team": "sketchedReflection",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 895,
+      "team": "Cronus",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 896,
+      "team": "HayatoY",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 899,
+      "team": "B34nB01z",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 900,
+      "team": "-rm rf",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 901,
+      "team": "50MB!@!@",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 902,
+      "team": "yash03",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 903,
+      "team": "whitehathacker",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 904,
+      "team": "Delta",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 906,
+      "team": "croucroute",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 908,
+      "team": "Anon_Linux",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 911,
+      "team": "mrwhite",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 912,
+      "team": "Carpedien",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 914,
+      "team": "Come to Learn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 915,
+      "team": "XD",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 916,
+      "team": "b00m_b0t",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 917,
+      "team": "Teamm",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 918,
+      "team": "0b1ivi0n",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 919,
+      "team": "Cedar_H4X",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 921,
+      "team": "erikkabir",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 922,
+      "team": "TeamOrigin",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 923,
+      "team": "Hep15",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 924,
+      "team": "Sciclone1984",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 925,
+      "team": "hack@unhcfreg",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 926,
+      "team": "DipanNama",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 927,
+      "team": "Josh",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 928,
+      "team": "RGitex",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 929,
+      "team": "PingTrip",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 930,
+      "team": "Noble Team",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 931,
+      "team": "Poison Berries Jr",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 933,
+      "team": "nothing",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 934,
+      "team": "Zexele",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 936,
+      "team": "BoRa9",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 939,
+      "team": "NovaLurkers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 940,
+      "team": "NeoFrench",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 941,
+      "team": "tomaHAWkss",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 942,
+      "team": "n0bitz",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 945,
+      "team": "Suprizas",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 946,
+      "team": "labrats",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 947,
+      "team": "Birgit do you want me?",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 948,
+      "team": "Janusz Janusz",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 950,
+      "team": "Dualkem",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 951,
+      "team": "Team Freeze",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 954,
+      "team": "Hextraditables",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 955,
+      "team": "soda",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 956,
+      "team": "Floor Jerks",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 957,
+      "team": "devtest",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 958,
+      "team": "CanadianTom",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 959,
+      "team": "SoloFlagging",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 961,
+      "team": "5280",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 962,
+      "team": "Nominal",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 963,
+      "team": "CHC",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 964,
+      "team": "rasta~warlords",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 965,
+      "team": "gogo520",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 966,
+      "team": "aaronsAngels",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 967,
+      "team": "follow heart",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 968,
+      "team": "miao",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 969,
+      "team": "warlock_r00tx",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 970,
+      "team": "proxysec",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 972,
+      "team": "ThePwnStars",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 973,
+      "team": "Capri",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 974,
+      "team": "awkwards",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 975,
+      "team": "makabemizuki_fan",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 976,
+      "team": "pwndumb",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 977,
+      "team": "H4nd1k4",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 979,
+      "team": "pow sec!",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 981,
+      "team": "an33sh",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 982,
+      "team": "pwnpwn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 983,
+      "team": "Nitro",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 984,
+      "team": "NewbiePwner",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 985,
+      "team": "Jayabaya",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 986,
+      "team": "MordornFreeMan",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 987,
+      "team": "Handy",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 988,
+      "team": "tiger1218",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 989,
+      "team": "Serpent",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 990,
+      "team": "midwestCTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 991,
+      "team": "LCWarriors",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 992,
+      "team": "SUSTech_Team0",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 993,
+      "team": "lose",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 994,
+      "team": "gee",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 996,
+      "team": "siren",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 997,
+      "team": "cr33pt0s",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 998,
+      "team": "EZ-CTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 999,
+      "team": "pepegaprocrastinators",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1001,
+      "team": "M4SHR0_solo",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1002,
+      "team": "foilv0ra",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1003,
+      "team": "MQCheekyNandos",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1004,
+      "team": "Maskirovka",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1005,
+      "team": "madlads",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1006,
+      "team": "CanCan",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1007,
+      "team": "RETCHAK",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1008,
+      "team": "krazykitty",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1009,
+      "team": "Far Cry",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1010,
+      "team": "D34D_P4Ck3T",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1011,
+      "team": "xx00xx",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1012,
+      "team": "m0re",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1014,
+      "team": "3l3v3n$",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1015,
+      "team": "giantmario",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1016,
+      "team": "Hooli",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1017,
+      "team": "Trentesept",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1019,
+      "team": "C.rows",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1020,
+      "team": "Pengg0damn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1021,
+      "team": "GBC",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1022,
+      "team": "PTZCTF",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1023,
+      "team": "jsutset",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1024,
+      "team": "Les_Enfants_terribles",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1025,
+      "team": "SecRipper",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1026,
+      "team": "FBIopenup",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1028,
+      "team": "MM0X",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1029,
+      "team": "Irish",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1030,
+      "team": "obscurum",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1031,
+      "team": "blue sharks",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1032,
+      "team": "lnwza",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1033,
+      "team": "IamIn",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1034,
+      "team": "dysfs",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1035,
+      "team": "zZ",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1036,
+      "team": "1337 hackers",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1037,
+      "team": "jayant11",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1038,
+      "team": "pkteam",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1039,
+      "team": "3xpl01tTh3W0rld",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1040,
+      "team": "T3chV3t5-01",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1041,
+      "team": "DootDoot",
+      "taskStats": {
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1042,
+      "team": "Topological surface",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1043,
+      "team": "hacararra",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1045,
+      "team": "idk",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1046,
+      "team": "klay patties",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1047,
+      "team": "Sunnies Club",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1048,
+      "team": "Ug0tpwnd",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1050,
+      "team": "ThePresident$PWN",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1051,
+      "team": "Small Brains",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1052,
+      "team": "CyberMonkeys",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1053,
+      "team": "bfsquad",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1054,
+      "team": "GMO_Goat",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 1055,
+      "team": "latent_Hackers",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1056,
+      "team": "bec_0n",
+      "taskStats": {
+        "Cuckoo's Nest": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 1058,
+      "team": "Wizards",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    },
+    {
+      "pos": 1059,
+      "team": "Unicorns of Security",
+      "taskStats": {
+        "Survey": null,
+        "Cuckoo's Nest": null
+      }
+    }
+  ],
+  "name": "DiceCTF",
+  "date": 1612537200
+}

@@ -1,0 +1,945 @@
+{
+  "tasks": [
+    "Needle In The Haystack",
+    "Hidden Pages",
+    "Where is the code?",
+    "My Great Love",
+    "Windows Reversing 101",
+    "Go Go Go!",
+    "Math Solver",
+    "AutoWhat?",
+    "Joke Shop",
+    "Pickle Jar",
+    "Phishing ",
+    "MySpace Worm",
+    "Anti-MITM",
+    "Vulnerability Assessment",
+    "Back to the Basics",
+    "Flag Checker",
+    "Rootkit 101",
+    "Let's Dance"
+  ],
+  "standings": [
+    {
+      "pos": 70,
+      "team": "ByteForc3",
+      "taskStats": {
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "fr334aks",
+      "taskStats": {
+        "Math Solver": null,
+        "Joke Shop": null,
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "Phishing ": null,
+        "My Great Love": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "Go Go Go!": null,
+        "Windows Reversing 101": null,
+        "Back to the Basics": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "OyuSec",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "My Great Love": null,
+        "Where is the code?": null,
+        "Windows Reversing 101": null,
+        "Back to the Basics": null,
+        "Go Go Go!": null,
+        "AutoWhat?": null,
+        "Flag Checker": null,
+        "Hidden Pages": null,
+        "Math Solver": null,
+        "Joke Shop": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "toor97",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "hack4chai",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "My Great Love": null,
+        "Phishing ": null,
+        "Hidden Pages": null,
+        "Windows Reversing 101": null,
+        "Joke Shop": null,
+        "Go Go Go!": null,
+        "Pickle Jar": null,
+        "Math Solver": null,
+        "Back to the Basics": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "AutoWhat?": null,
+        "Flag Checker": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "zer0day",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "Math Solver": null,
+        "Joke Shop": null,
+        "Go Go Go!": null,
+        "Windows Reversing 101": null,
+        "Pickle Jar": null,
+        "Vulnerability Assessment": null,
+        "Anti-MITM": null,
+        "MySpace Worm": null,
+        "Phishing ": null,
+        "Where is the code?": null,
+        "Flag Checker": null,
+        "Let's Dance": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "profdracula",
+      "taskStats": {
+        "Where is the code?": null,
+        "Windows Reversing 101": null,
+        "Needle In The Haystack": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "n4s1R",
+      "taskStats": {
+        "My Great Love": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "hardcode",
+      "taskStats": {
+        "Math Solver": null,
+        "MySpace Worm": null,
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "Go Go Go!": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "MM0X",
+      "taskStats": {
+        "My Great Love": null,
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "Math Solver": null,
+        "Go Go Go!": null,
+        "Where is the code?": null,
+        "Phishing ": null,
+        "MySpace Worm": null,
+        "Back to the Basics": null,
+        "Vulnerability Assessment": null,
+        "Rootkit 101": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 1,
+      "team": "warlock_rootx",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "Where is the code?": null,
+        "My Great Love": null,
+        "Windows Reversing 101": null,
+        "Go Go Go!": null,
+        "Math Solver": null,
+        "AutoWhat?": null,
+        "Joke Shop": null,
+        "Pickle Jar": null,
+        "Phishing ": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "Back to the Basics": null,
+        "Flag Checker": null,
+        "Rootkit 101": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "oltenxyz",
+      "taskStats": {
+        "Math Solver": null,
+        "Joke Shop": null,
+        "Pickle Jar": null,
+        "Hidden Pages": null,
+        "My Great Love": null,
+        "Go Go Go!": null,
+        "Needle In The Haystack": null,
+        "Phishing ": null,
+        "Where is the code?": null,
+        "MySpace Worm": null,
+        "Vulnerability Assessment": null,
+        "Anti-MITM": null,
+        "Rootkit 101": null,
+        "Windows Reversing 101": null,
+        "Back to the Basics": null,
+        "AutoWhat?": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "vulnfreak",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "Math Solver": null,
+        "My Great Love": null,
+        "Phishing ": null,
+        "Pickle Jar": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Joke Shop": null,
+        "Windows Reversing 101": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "deshu",
+      "taskStats": {
+        "Math Solver": null,
+        "Joke Shop": null,
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "Windows Reversing 101": null,
+        "My Great Love": null,
+        "Phishing ": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "Pickle Jar": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "MZ_Nopes0x90",
+      "taskStats": {
+        "Go Go Go!": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Where is the code?": null,
+        "My Great Love": null,
+        "Back to the Basics": null,
+        "Vulnerability Assessment": null,
+        "Phishing ": null,
+        "Windows Reversing 101": null,
+        "Hidden Pages": null,
+        "Rootkit 101": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "MrNef0",
+      "taskStats": {
+        "Phishing ": null,
+        "My Great Love": null,
+        "Joke Shop": null,
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "Math Solver": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "Windows Reversing 101": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "Unknownamd",
+      "taskStats": {
+        "Phishing ": null,
+        "My Great Love": null,
+        "Hidden Pages": null,
+        "Math Solver": null,
+        "Joke Shop": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Vulnerability Assessment": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "N4ijaSecForce",
+      "taskStats": {
+        "Hidden Pages": null,
+        "My Great Love": null,
+        "Needle In The Haystack": null,
+        "Windows Reversing 101": null,
+        "Phishing ": null,
+        "Go Go Go!": null,
+        "Vulnerability Assessment": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "Ycyber",
+      "taskStats": {
+        "My Great Love": null,
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "Phishing ": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Windows Reversing 101": null,
+        "Vulnerability Assessment": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "luck4o",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Math Solver": null,
+        "Needle In The Haystack": null,
+        "Phishing ": null,
+        "My Great Love": null,
+        "Joke Shop": null,
+        "MySpace Worm": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "Icarus",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "Math Solver": null,
+        "Phishing ": null,
+        "My Great Love": null,
+        "Joke Shop": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "CR1SS",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "Math Solver": null,
+        "Phishing ": null,
+        "My Great Love": null,
+        "Joke Shop": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "boberoo",
+      "taskStats": {
+        "Math Solver": null,
+        "Joke Shop": null,
+        "Pickle Jar": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "sn1per",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "My Great Love": null,
+        "Vulnerability Assessment": null,
+        "Math Solver": null,
+        "Back to the Basics": null,
+        "Needle In The Haystack": null,
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "HxNawaf",
+      "taskStats": {
+        "My Great Love": null,
+        "Joke Shop": null,
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "CyberKnight00",
+      "taskStats": {
+        "Math Solver": null,
+        "My Great Love": null,
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "Joke Shop": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "UnicornLady",
+      "taskStats": {
+        "Pickle Jar": null,
+        "Joke Shop": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "theHarvester",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Phishing ": null,
+        "My Great Love": null,
+        "Needle In The Haystack": null,
+        "Anti-MITM": null,
+        "MySpace Worm": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "Sancelisso",
+      "taskStats": {
+        "My Great Love": null,
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "Phishing ": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "Ahmed8magdy",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Vulnerability Assessment": null,
+        "Go Go Go!": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "meilz",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "Joke Shop": null,
+        "My Great Love": null,
+        "Phishing ": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "Manikandan",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "Thomas J Mathew",
+      "taskStats": {
+        "My Great Love": null,
+        "Hidden Pages": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Phishing ": null,
+        "Math Solver": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "th3f0r31gn3r",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "Hidden Pages": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Phishing ": null,
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "Gman_H4ck3r",
+      "taskStats": {
+        "Math Solver": null,
+        "Phishing ": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "MattG",
+      "taskStats": {
+        "Math Solver": null,
+        "Needle In The Haystack": null,
+        "My Great Love": null,
+        "MySpace Worm": null,
+        "Where is the code?": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "Isra_Mosad",
+      "taskStats": {
+        "Anti-MITM": null,
+        "MySpace Worm": null,
+        "Math Solver": null,
+        "Let's Dance": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "Madaraxd",
+      "taskStats": {
+        "My Great Love": null,
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "lineconnect",
+      "taskStats": {
+        "My Great Love": null,
+        "Math Solver": null,
+        "Hidden Pages": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "xElessaway",
+      "taskStats": {
+        "My Great Love": null,
+        "Phishing ": null,
+        "Needle In The Haystack": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "realsung",
+      "taskStats": {
+        "Where is the code?": null,
+        "Windows Reversing 101": null,
+        "Go Go Go!": null,
+        "Back to the Basics": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "hound",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "Cyr",
+      "taskStats": {
+        "Hidden Pages": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "My Great Love": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "haralali",
+      "taskStats": {
+        "Hidden Pages": null,
+        "My Great Love": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "3nc0d3dGuY",
+      "taskStats": {
+        "Hidden Pages": null,
+        "My Great Love": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "bullpup",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "My Great Love": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "a-z",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "nssys",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "Tyro🌹",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "Sins",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "Where is the code?": null,
+        "MySpace Worm": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "0xRamzi",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "MySpace Worm": null,
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "MonzerKamal",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "gk534n",
+      "taskStats": {
+        "Windows Reversing 101": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "AusCryptor",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "stas501",
+      "taskStats": {
+        "Hidden Pages": null,
+        "Joke Shop": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "newebi",
+      "taskStats": {
+        "Where is the code?": null,
+        "Go Go Go!": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "bit1",
+      "taskStats": {
+        "Phishing ": null,
+        "Math Solver": null,
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "J37",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "karma",
+      "taskStats": {
+        "Needle In The Haystack": null,
+        "MySpace Worm": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "ziodayne",
+      "taskStats": {
+        "Joke Shop": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "Sulaiman",
+      "taskStats": {
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "noone...",
+      "taskStats": {
+        "My Great Love": null,
+        "Phishing ": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "0d",
+      "taskStats": {
+        "Needle In The Haystack": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "cgg9rxsn",
+      "taskStats": {
+        "Phishing ": null,
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "MMarta33",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "davinci",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "Yosuf14",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "3m3s3c",
+      "taskStats": {
+        "Hidden Pages": null,
+        "MySpace Worm": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "Mitewarrior",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null,
+        "Vulnerability Assessment": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "eatsmok",
+      "taskStats": {
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "merankhairuddin",
+      "taskStats": {
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "r3b0rn",
+      "taskStats": {
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "Jeddy",
+      "taskStats": {
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "exploit_punisher",
+      "taskStats": {
+        "Math Solver": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "dagon102",
+      "taskStats": {
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "yss_xx",
+      "taskStats": {
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "pratyushk403",
+      "taskStats": {
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "fakejoker",
+      "taskStats": {
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "faris",
+      "taskStats": {
+        "My Great Love": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "0xArab",
+      "taskStats": {
+        "Hidden Pages": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "def0cz",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "Abusaffiya",
+      "taskStats": {
+        "MySpace Worm": null,
+        "Anti-MITM": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "Zaid4350",
+      "taskStats": {
+        "MySpace Worm": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "Hani",
+      "taskStats": {
+        "MySpace Worm": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "Fanzi",
+      "taskStats": {
+        "MySpace Worm": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "Jonathan",
+      "taskStats": {
+        "MySpace Worm": null
+      }
+    }
+  ],
+  "name": "Valentine CTF 21'",
+  "date": 1613228400
+}
