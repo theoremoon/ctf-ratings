@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/IG:%20uug4na,%20ochk00,%20180_tulgaa", {data:[{},{}],fetch:[],mutations:[]});

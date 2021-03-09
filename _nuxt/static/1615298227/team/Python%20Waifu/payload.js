@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Python%20Waifu", {data:[{},{}],fetch:[],mutations:[]});

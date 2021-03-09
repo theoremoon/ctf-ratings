@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Kalla%20Mutaai", {data:[{},{}],fetch:[],mutations:[]});

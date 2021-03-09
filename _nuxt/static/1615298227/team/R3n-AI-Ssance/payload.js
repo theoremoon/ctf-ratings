@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/R3n-AI-Ssance", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Councilium%20Solum", {data:[{},{}],fetch:[],mutations:[]});

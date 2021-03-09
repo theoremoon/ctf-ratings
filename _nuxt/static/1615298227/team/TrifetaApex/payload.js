@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/TrifetaApex", {data:[{},{}],fetch:[],mutations:[]});

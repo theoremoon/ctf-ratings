@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Batch%20File", {data:[{},{}],fetch:[],mutations:[]});

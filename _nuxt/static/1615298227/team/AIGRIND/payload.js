@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/AIGRIND", {data:[{},{}],fetch:[],mutations:[]});

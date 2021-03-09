@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/lmao_get_wrecked", {data:[{},{}],fetch:[],mutations:[]});

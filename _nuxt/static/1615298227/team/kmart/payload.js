@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/kmart", {data:[{},{}],fetch:[],mutations:[]});

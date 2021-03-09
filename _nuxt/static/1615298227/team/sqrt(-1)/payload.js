@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/sqrt(-1)", {data:[{},{}],fetch:[],mutations:[]});

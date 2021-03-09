@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/CTFwithout_tense", {data:[{},{}],fetch:[],mutations:[]});

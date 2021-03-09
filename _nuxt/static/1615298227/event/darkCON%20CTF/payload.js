@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/darkCON%20CTF", {data:[{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/linkforce", {data:[{},{}],fetch:[],mutations:[]});

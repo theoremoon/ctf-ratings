@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/World%20heatlhiest%20team", {data:[{},{}],fetch:[],mutations:[]});

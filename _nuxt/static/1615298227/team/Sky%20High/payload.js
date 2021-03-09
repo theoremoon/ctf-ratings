@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Sky%20High", {data:[{},{}],fetch:[],mutations:[]});

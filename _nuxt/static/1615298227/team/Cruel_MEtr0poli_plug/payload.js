@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Cruel_MEtr0poli_plug", {data:[{},{}],fetch:[],mutations:[]});

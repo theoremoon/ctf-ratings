@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Marvel's%20The%20Avengers", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/psych0social_engin33ring", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Elbridge%20ESports", {data:[{},{}],fetch:[],mutations:[]});

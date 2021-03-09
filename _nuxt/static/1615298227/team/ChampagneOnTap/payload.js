@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ChampagneOnTap", {data:[{},{}],fetch:[],mutations:[]});

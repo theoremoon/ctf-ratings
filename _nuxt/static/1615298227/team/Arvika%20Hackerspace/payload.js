@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Arvika%20Hackerspace", {data:[{},{}],fetch:[],mutations:[]});

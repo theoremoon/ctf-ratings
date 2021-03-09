@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/no_sql", {data:[{},{}],fetch:[],mutations:[]});

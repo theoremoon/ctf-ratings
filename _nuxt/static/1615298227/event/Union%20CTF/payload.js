@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/Union%20CTF", {data:[{}],fetch:[],mutations:[]});

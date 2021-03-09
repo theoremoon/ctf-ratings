@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/room2042", {data:[{},{}],fetch:[],mutations:[]});

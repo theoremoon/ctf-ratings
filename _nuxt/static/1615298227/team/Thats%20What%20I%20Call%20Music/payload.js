@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Thats%20What%20I%20Call%20Music", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Flash", {data:[{},{}],fetch:[],mutations:[]});

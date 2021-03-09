@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ocd", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ITPWNS%20-%20Intergalactic%20Team%20of%20PWNers", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/kernel_panic", {data:[{},{}],fetch:[],mutations:[]});

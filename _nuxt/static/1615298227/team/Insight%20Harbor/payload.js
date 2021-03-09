@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Insight%20Harbor", {data:[{},{}],fetch:[],mutations:[]});

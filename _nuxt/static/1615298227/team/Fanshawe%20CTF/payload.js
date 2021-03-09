@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Fanshawe%20CTF", {data:[{},{}],fetch:[],mutations:[]});

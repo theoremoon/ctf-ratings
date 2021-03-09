@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/LAG", {data:[{},{}],fetch:[],mutations:[]});

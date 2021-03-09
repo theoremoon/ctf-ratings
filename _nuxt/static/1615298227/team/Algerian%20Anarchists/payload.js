@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Algerian%20Anarchists", {data:[{},{}],fetch:[],mutations:[]});

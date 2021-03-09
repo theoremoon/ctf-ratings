@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Hypertext%20Markup%20Protocol", {data:[{},{}],fetch:[],mutations:[]});

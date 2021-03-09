@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Source%20Code", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Fortaleza_CE_BR", {data:[{},{}],fetch:[],mutations:[]});

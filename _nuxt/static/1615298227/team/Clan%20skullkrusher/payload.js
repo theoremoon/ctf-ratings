@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Clan%20skullkrusher", {data:[{},{}],fetch:[],mutations:[]});

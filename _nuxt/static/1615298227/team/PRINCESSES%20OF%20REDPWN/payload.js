@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/PRINCESSES%20OF%20REDPWN", {data:[{},{}],fetch:[],mutations:[]});

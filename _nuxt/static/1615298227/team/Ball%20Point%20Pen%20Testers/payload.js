@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Ball%20Point%20Pen%20Testers", {data:[{},{}],fetch:[],mutations:[]});

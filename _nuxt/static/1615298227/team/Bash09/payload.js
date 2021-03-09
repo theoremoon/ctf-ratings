@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Bash09", {data:[{},{}],fetch:[],mutations:[]});

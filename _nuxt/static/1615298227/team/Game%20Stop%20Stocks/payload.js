@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Game%20Stop%20Stocks", {data:[{},{}],fetch:[],mutations:[]});

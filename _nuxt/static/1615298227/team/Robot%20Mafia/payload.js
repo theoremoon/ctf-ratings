@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Robot%20Mafia", {data:[{},{}],fetch:[],mutations:[]});

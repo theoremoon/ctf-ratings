@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Empty%20Minds%20for%20B33rThirty", {data:[{},{}],fetch:[],mutations:[]});

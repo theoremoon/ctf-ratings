@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Death_Aesthetics", {data:[{},{}],fetch:[],mutations:[]});

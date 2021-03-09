@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/The%20Additional%20Payphones", {data:[{},{}],fetch:[],mutations:[]});

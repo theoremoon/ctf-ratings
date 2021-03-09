@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Literal%20Dips", {data:[{},{}],fetch:[],mutations:[]});

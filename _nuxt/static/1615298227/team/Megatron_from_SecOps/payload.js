@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Megatron_from_SecOps", {data:[{},{}],fetch:[],mutations:[]});

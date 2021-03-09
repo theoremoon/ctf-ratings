@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/dimitrije%20osisaj%20se", {data:[{},{}],fetch:[],mutations:[]});

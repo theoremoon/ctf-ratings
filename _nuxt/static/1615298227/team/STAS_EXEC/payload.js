@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/STAS_EXEC", {data:[{},{}],fetch:[],mutations:[]});

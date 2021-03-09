@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/hofstadter_isotopes", {data:[{},{}],fetch:[],mutations:[]});

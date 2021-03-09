@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/keep__calm", {data:[{},{}],fetch:[],mutations:[]});

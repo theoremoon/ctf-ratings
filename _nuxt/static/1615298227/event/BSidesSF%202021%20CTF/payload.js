@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/BSidesSF%202021%20CTF", {data:[{}],fetch:[],mutations:[]});

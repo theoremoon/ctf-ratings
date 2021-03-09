@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/CMAFS-NOC", {data:[{},{}],fetch:[],mutations:[]});

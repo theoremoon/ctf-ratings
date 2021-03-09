@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Syntax%20Error;", {data:[{},{}],fetch:[],mutations:[]});

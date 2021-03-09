@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/final%20turn", {data:[{},{}],fetch:[],mutations:[]});

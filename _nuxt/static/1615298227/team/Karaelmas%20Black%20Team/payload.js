@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Karaelmas%20Black%20Team", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Tampa%20de%20Garrafa", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Los%20Estupidos%20Hombres", {data:[{},{}],fetch:[],mutations:[]});

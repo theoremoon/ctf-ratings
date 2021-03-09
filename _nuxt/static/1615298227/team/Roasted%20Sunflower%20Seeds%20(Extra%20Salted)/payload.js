@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Roasted%20Sunflower%20Seeds%20(Extra%20Salted)", {data:[{},{}],fetch:[],mutations:[]});

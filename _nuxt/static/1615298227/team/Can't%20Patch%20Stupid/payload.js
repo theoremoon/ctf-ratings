@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Can't%20Patch%20Stupid", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/vitamin_water", {data:[{},{}],fetch:[],mutations:[]});

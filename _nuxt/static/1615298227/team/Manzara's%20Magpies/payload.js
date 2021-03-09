@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Manzara's%20Magpies", {data:[{},{}],fetch:[],mutations:[]});

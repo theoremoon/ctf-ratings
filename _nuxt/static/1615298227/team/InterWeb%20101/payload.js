@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/InterWeb%20101", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Kentucky%20Fried%20Flag", {data:[{},{}],fetch:[],mutations:[]});

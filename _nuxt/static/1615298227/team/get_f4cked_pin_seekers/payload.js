@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/get_f4cked_pin_seekers", {data:[{},{}],fetch:[],mutations:[]});

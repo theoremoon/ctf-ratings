@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ultimate_muscle", {data:[{},{}],fetch:[],mutations:[]});

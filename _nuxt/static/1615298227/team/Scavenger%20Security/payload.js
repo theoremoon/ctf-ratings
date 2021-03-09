@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Scavenger%20Security", {data:[{},{}],fetch:[],mutations:[]});

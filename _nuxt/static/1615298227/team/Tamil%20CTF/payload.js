@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Tamil%20CTF", {data:[{},{}],fetch:[],mutations:[]});

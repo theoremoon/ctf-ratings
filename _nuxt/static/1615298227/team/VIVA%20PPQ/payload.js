@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/VIVA%20PPQ", {data:[{},{}],fetch:[],mutations:[]});

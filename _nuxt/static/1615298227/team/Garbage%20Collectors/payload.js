@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Garbage%20Collectors", {data:[{},{}],fetch:[],mutations:[]});

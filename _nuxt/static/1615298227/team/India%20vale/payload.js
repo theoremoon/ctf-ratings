@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/India%20vale", {data:[{},{}],fetch:[],mutations:[]});

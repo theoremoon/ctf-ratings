@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/FlipTheCoin", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ClearSight", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Evil%20Society%20of%20Evil%20and%20Doom", {data:[{},{}],fetch:[],mutations:[]});

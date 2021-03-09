@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Richard%20Stallman%20Fan%20Club", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/The%20League%20of%20Socially%20Distanced%20Gentlemen", {data:[{},{}],fetch:[],mutations:[]});

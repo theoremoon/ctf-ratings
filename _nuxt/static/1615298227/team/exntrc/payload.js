@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/exntrc", {data:[{},{}],fetch:[],mutations:[]});

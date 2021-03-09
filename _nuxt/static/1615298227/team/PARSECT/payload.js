@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/PARSECT", {data:[{},{}],fetch:[],mutations:[]});

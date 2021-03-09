@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Command%20Master", {data:[{},{}],fetch:[],mutations:[]});

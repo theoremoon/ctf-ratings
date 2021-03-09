@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Err0rSec", {data:[{},{}],fetch:[],mutations:[]});

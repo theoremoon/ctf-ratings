@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/quality_comms", {data:[{},{}],fetch:[],mutations:[]});

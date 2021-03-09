@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Legendary%20Burnouts", {data:[{},{}],fetch:[],mutations:[]});

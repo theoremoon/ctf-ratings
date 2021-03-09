@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ssas", {data:[{},{}],fetch:[],mutations:[]});

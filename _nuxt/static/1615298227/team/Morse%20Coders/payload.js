@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Morse%20Coders", {data:[{},{}],fetch:[],mutations:[]});

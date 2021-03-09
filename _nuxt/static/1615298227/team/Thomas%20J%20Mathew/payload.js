@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Thomas%20J%20Mathew", {data:[{},{}],fetch:[],mutations:[]});

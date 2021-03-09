@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/TriHacking", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Abyss%20Syndrome", {data:[{},{}],fetch:[],mutations:[]});

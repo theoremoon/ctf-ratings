@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/base64", {data:[{},{}],fetch:[],mutations:[]});

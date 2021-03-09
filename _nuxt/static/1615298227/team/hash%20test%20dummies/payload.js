@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/hash%20test%20dummies", {data:[{},{}],fetch:[],mutations:[]});

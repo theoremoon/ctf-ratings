@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Mars%20is%20not%20Real", {data:[{},{}],fetch:[],mutations:[]});

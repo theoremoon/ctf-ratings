@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Keyboard%20Arcanists", {data:[{},{}],fetch:[],mutations:[]});

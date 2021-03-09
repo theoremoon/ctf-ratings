@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Delta%20Squad%20Zero", {data:[{},{}],fetch:[],mutations:[]});

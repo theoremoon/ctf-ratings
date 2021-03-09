@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/cr@ckBit", {data:[{},{}],fetch:[],mutations:[]});

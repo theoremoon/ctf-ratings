@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ARU%20Ethical%20Hacking%20Society", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Firebasky%E5%90%8E%E6%8F%B4%E5%9B%A2", {data:[{},{}],fetch:[],mutations:[]});

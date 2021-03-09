@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/get_in_loser_we're_going_pwning", {data:[{},{}],fetch:[],mutations:[]});

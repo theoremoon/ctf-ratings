@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Flag%20the%20Capture", {data:[{},{}],fetch:[],mutations:[]});

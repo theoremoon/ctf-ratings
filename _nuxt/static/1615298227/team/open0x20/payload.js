@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/open0x20", {data:[{},{}],fetch:[],mutations:[]});

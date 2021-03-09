@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/bhartiya_janta_pwning", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Capitaine%20Walmart%20-%20Docteur%20Monsieur", {data:[{},{}],fetch:[],mutations:[]});

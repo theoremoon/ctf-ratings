@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Hell's%20Kitchen", {data:[{},{}],fetch:[],mutations:[]});

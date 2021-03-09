@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/scpc_hw", {data:[{},{}],fetch:[],mutations:[]});

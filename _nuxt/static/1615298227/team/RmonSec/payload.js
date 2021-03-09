@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/RmonSec", {data:[{},{}],fetch:[],mutations:[]});

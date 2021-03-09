@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/m4lwhere", {data:[{},{}],fetch:[],mutations:[]});

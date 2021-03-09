@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Far%20Cry", {data:[{},{}],fetch:[],mutations:[]});

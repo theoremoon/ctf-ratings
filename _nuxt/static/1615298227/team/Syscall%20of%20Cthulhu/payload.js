@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Syscall%20of%20Cthulhu", {data:[{},{}],fetch:[],mutations:[]});

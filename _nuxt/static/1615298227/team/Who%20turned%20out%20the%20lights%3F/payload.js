@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Who%20turned%20out%20the%20lights%3F", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/House%20Of%20Depression", {data:[{},{}],fetch:[],mutations:[]});

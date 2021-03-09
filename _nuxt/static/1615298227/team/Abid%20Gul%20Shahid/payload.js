@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Abid%20Gul%20Shahid", {data:[{},{}],fetch:[],mutations:[]});

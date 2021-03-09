@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Stevens%20Cyber%20Defense%20Team", {data:[{},{}],fetch:[],mutations:[]});

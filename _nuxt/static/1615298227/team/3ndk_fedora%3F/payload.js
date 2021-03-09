@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/3ndk_fedora%3F", {data:[{},{}],fetch:[],mutations:[]});

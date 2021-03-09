@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Terminal%20Cult", {data:[{},{}],fetch:[],mutations:[]});

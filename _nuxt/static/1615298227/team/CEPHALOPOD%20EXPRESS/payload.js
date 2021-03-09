@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/CEPHALOPOD%20EXPRESS", {data:[{},{}],fetch:[],mutations:[]});

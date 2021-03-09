@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Death%20Note", {data:[{},{}],fetch:[],mutations:[]});

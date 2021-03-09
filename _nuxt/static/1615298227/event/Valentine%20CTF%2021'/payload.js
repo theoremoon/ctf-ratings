@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/Valentine%20CTF%2021'", {data:[{}],fetch:[],mutations:[]});

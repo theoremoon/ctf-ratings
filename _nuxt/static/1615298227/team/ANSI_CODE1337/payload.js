@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/ANSI_CODE1337", {data:[{},{}],fetch:[],mutations:[]});

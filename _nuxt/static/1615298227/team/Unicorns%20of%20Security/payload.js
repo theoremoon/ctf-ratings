@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Unicorns%20of%20Security", {data:[{},{}],fetch:[],mutations:[]});

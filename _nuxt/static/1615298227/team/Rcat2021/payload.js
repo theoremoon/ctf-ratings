@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Rcat2021", {data:[{},{}],fetch:[],mutations:[]});

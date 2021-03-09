@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/pakekoding", {data:[{},{}],fetch:[],mutations:[]});

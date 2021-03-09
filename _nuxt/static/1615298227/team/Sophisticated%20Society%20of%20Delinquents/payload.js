@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Sophisticated%20Society%20of%20Delinquents", {data:[{},{}],fetch:[],mutations:[]});

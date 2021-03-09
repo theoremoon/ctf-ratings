@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Timeline%20Sec", {data:[{},{}],fetch:[],mutations:[]});

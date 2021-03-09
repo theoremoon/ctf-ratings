@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/justCTF%20[*]%202020", {data:[{}],fetch:[],mutations:[]});

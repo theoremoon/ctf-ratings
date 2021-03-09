@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/aggregated_obscurity", {data:[{},{}],fetch:[],mutations:[]});

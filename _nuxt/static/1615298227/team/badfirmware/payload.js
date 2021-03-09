@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/badfirmware", {data:[{},{}],fetch:[],mutations:[]});

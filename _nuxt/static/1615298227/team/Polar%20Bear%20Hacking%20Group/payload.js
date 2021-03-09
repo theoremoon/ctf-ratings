@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Polar%20Bear%20Hacking%20Group", {data:[{},{}],fetch:[],mutations:[]});

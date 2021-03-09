@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/error_found", {data:[{},{}],fetch:[],mutations:[]});

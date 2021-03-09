@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/used_oils", {data:[{},{}],fetch:[],mutations:[]});

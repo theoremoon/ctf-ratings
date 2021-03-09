@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/zer0pts%20CTF%202021", {data:[{}],fetch:[],mutations:[]});

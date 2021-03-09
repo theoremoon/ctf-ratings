@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/micro", {data:[{},{}],fetch:[],mutations:[]});

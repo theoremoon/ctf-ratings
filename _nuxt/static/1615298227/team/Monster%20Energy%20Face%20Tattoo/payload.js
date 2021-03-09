@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Monster%20Energy%20Face%20Tattoo", {data:[{},{}],fetch:[],mutations:[]});

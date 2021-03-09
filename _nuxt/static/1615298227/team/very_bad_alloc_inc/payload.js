@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/very_bad_alloc_inc", {data:[{},{}],fetch:[],mutations:[]});

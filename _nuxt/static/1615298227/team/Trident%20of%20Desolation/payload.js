@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Trident%20of%20Desolation", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Lorem%20Ipsec", {data:[{},{}],fetch:[],mutations:[]});

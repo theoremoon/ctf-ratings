@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/warlock_rootx", {data:[{},{}],fetch:[],mutations:[]});

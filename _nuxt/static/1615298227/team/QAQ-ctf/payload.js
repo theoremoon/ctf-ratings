@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/QAQ-ctf", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/born2scan", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/The%20Elders%20of%20Zion", {data:[{},{}],fetch:[],mutations:[]});
