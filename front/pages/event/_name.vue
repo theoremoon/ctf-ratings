@@ -13,7 +13,7 @@
                 <tbody>
                     <tr v-for="(t, i) in playedTeams" :key="t.name">
                         <td style="text-align: right; padding-right: 1rem;">{{ i + 1 }}</td>
-                        <td><NuxtLink :to="{name: 'team-name', params: {name: t.name}}"><ratecolor :rating="t.perf">{{ t.name }}</ratecolor></NuxtLink></td>
+                        <td style="max-width: 30rem;"><NuxtLink :to="{name: 'team-name', params: {name: t.name}}"><ratecolor :rating="t.perf">{{ t.name }}</ratecolor></NuxtLink></td>
                         <td>{{ t.perf }}</td>
                     </tr>
                 </tbody>
