@@ -4,10 +4,10 @@ export default {
         titleTemplate: 'CTF-Ratings'
     },
     target: 'static',
-    ssr: false,
+    ssr: true,
     generate: {
         exclude: [
-            /^\/team/
+            /^\/team\/.+\//
         ]
     },
     router: {
