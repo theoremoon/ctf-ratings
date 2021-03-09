@@ -13,11 +13,12 @@ class BSidesSFScraper():
         ranking = json.loads(r.text.split("\n")[1])["scoreboard"]
         board = []
         for team in ranking:
-            board.append({
-                "pos": team["position"],
-                "team": team["name"],
-                "score": team["score"]
-            })
+            if team["score"] > 0:
+                board.append({
+                    "pos": team["position"],
+                    "team": team["name"],
+                    "score": team["score"]
+                })
         return board
 
     def _tasks(self):
