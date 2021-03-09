@@ -1,0 +1,9402 @@
+{
+  "tasks": [
+    "Hack The ______!",
+    "CSP 1",
+    "PermCoin - Starter Attack",
+    "Reverseme 2",
+    "denouement.png",
+    "Log 'em All",
+    "Glitch in the matrix",
+    "Can You Auth?",
+    "Pwnzoo",
+    "CSP 2",
+    "Runme",
+    "ϕ-Corps Infiltration",
+    "Unidecode",
+    "Higher Hurdles",
+    "Secure Asset Manager",
+    "Whole New Me",
+    "Relaunch",
+    "PermCoin - Full Attack",
+    "Message Store",
+    "Glitter Printer",
+    "Thin Mint",
+    "Encrypted Bin",
+    "Xoray",
+    "PermCoin - Partial Attack",
+    "Hangman Battle Royale",
+    "Keygenme",
+    "layers.txt",
+    "Chimera",
+    "Tapesplice",
+    "In The Zone",
+    "Runme2",
+    "Résumé",
+    "Hashcrack 101",
+    "Runme3",
+    "Reverseme",
+    "Net Matroyshka",
+    "I am not here",
+    "Charge Tracker",
+    "CuteSrv",
+    "Ropme",
+    "Great key hunt",
+    "Shout into Void"
+  ],
+  "standings": [
+    {
+      "pos": 1,
+      "team": "perfect blue",
+      "score": 13155,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615117300
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615044980
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615043829
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615132033
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615138045
+        },
+        "Log 'em All": {
+          "points": 967,
+          "time": 1615168777
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615050900
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615124845
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615044307
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615052200
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615148658
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615040288
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615039541
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615126669
+        },
+        "Whole New Me": {
+          "points": 916,
+          "time": 1615173465
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615140223
+        },
+        "PermCoin - Full Attack": {
+          "points": 985,
+          "time": 1615160549
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615044388
+        },
+        "Glitter Printer": {
+          "points": 916,
+          "time": 1615131792
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615044740
+        },
+        "Encrypted Bin": {
+          "points": 916,
+          "time": 1615081142
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615041062
+        },
+        "PermCoin - Partial Attack": {
+          "points": 985,
+          "time": 1615157588
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615155174
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615151878
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615039699
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615064396
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615122597
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615192305
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615052479
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615190665
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615124732
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615054304
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615132071
+        },
+        "Net Matroyshka": {
+          "points": 883,
+          "time": 1615193224
+        },
+        "I am not here": {
+          "points": 1,
+          "time": 1615174918
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615112498
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615043397
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615057184
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615041501
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615049341
+        }
+      }
+    },
+    {
+      "pos": 2,
+      "team": "redpwn",
+      "score": 8320,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615116194
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615116246
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615147990
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615134096
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615163115
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615176022
+        },
+        "Can You Auth?": {
+          "points": 916,
+          "time": 1615202768
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615144002
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615134490
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615115593
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615177831
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615116325
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615139405
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615138612
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615172729
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615115561
+        },
+        "Glitter Printer": {
+          "points": 916,
+          "time": 1615132585
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615115817
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615149920
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615200533
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615170560
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615150108
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615164452
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615177005
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615201868
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615115631
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615201057
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615173945
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615116846
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615133868
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615114977
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615118678
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615140878
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615115693
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615118464
+        }
+      }
+    },
+    {
+      "pos": 3,
+      "team": "ejs",
+      "score": 7840,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615105061
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615042877
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615138600
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615201958
+        },
+        "Can You Auth?": {
+          "points": 916,
+          "time": 1615194111
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615105490
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615130491
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615107294
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615040960
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615111285
+        },
+        "PermCoin - Full Attack": {
+          "points": 985,
+          "time": 1615140844
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615114397
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615105641
+        },
+        "Encrypted Bin": {
+          "points": 916,
+          "time": 1615040275
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615123919
+        },
+        "PermCoin - Partial Attack": {
+          "points": 985,
+          "time": 1615129254
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615119605
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615199290
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615112685
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615192731
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615190808
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615118129
+        },
+        "Net Matroyshka": {
+          "points": 883,
+          "time": 1615151620
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615113783
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615041807
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615131413
+        }
+      }
+    },
+    {
+      "pos": 4,
+      "team": "kalmarunionen",
+      "score": 7788,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615152060
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615165000
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615176702
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615190673
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615205783
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615169302
+        },
+        "Can You Auth?": {
+          "points": 916,
+          "time": 1615205504
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615198207
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615165499
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615166893
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615163951
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615166416
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615151423
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615183253
+        },
+        "Whole New Me": {
+          "points": 916,
+          "time": 1615209798
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615166103
+        },
+        "Glitter Printer": {
+          "points": 916,
+          "time": 1615203110
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615151622
+        },
+        "Encrypted Bin": {
+          "points": 916,
+          "time": 1615204089
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615195379
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615203473
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615152775
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615167866
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615168494
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615193794
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615167133
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615191274
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615157615
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615183859
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615171636
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615157695
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615166740
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615189560
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615165921
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615192475
+        }
+      }
+    },
+    {
+      "pos": 5,
+      "team": "BisonSquad",
+      "score": 7605,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615117149
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615129063
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615132697
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615129696
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615137703
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615130070
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615116916
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615128135
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615033032
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615190918
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615047687
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615050731
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615106509
+        },
+        "Whole New Me": {
+          "points": 916,
+          "time": 1615183053
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615141374
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615065025
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615047610
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615047646
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615138762
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615033572
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615129359
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615134263
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615199999
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615033087
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615194751
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615121523
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615039369
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615129508
+        },
+        "Net Matroyshka": {
+          "points": 883,
+          "time": 1615103392
+        },
+        "I am not here": {
+          "points": 1,
+          "time": 1615100768
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615112274
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615050657
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615056847
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615047745
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615148679
+        }
+      }
+    },
+    {
+      "pos": 6,
+      "team": "buttf14g",
+      "score": 6033,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615175789
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615187475
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615189599
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615178780
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615195950
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615203409
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615180777
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615196358
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615178245
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615149327
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615179523
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615153137
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615098971
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615202249
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615095010
+        },
+        "Glitter Printer": {
+          "points": 916,
+          "time": 1615129200
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615149881
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615199866
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615207708
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615134326
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615179312
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615198295
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615178285
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615193085
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615148045
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615183072
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615178586
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615134750
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615093459
+        }
+      }
+    },
+    {
+      "pos": 7,
+      "team": "HackTheCardboardBox",
+      "score": 5416,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615129239
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615126093
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615207316
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615183307
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615179340
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615191803
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615126739
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615132251
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615128998
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615129105
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615127831
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615144266
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615207343
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615137914
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615127987
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615128720
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615198077
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615128719
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615180697
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615181304
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615206203
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615134427
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615191264
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615128768
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615175527
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615173240
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615133941
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615128912
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615182400
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615144586
+        }
+      }
+    },
+    {
+      "pos": 8,
+      "team": "coldboots",
+      "score": 5307,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615130123
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615094199
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615191537
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615132348
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615156547
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615167171
+        },
+        "Can You Auth?": {
+          "points": 916,
+          "time": 1615194183
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615130239
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615125483
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615091233
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615195473
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615090483
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615097310
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615105023
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615090607
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615093205
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615174291
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615092978
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615110807
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615172858
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615191981
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615091376
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615191151
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615161649
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615204100
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615131011
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615116651
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615177474
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615097607
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615188651
+        }
+      }
+    },
+    {
+      "pos": 9,
+      "team": "zh3r0",
+      "score": 4794,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615156564
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615162333
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615106480
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615143538
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615161878
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615144520
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615164725
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615091832
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615154418
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615087772
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615143115
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615171053
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615102950
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615087593
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615109509
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615174672
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615184708
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615086826
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615161378
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615091806
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615192189
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615196309
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615091760
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615138759
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615145226
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615177732
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615095119
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615196539
+        }
+      }
+    },
+    {
+      "pos": 10,
+      "team": "ThePresident$PWN",
+      "score": 4716,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615136981
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615149397
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615110783
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615188611
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615149524
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615184678
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615154673
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615149423
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615034284
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615192499
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615041471
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615051230
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615154598
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615137941
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615050571
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615039743
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615028561
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615187667
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615137817
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615199365
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615040664
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615196893
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615136929
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615042363
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615188509
+        },
+        "Net Matroyshka": {
+          "points": 883,
+          "time": 1615121991
+        },
+        "I am not here": {
+          "points": 1,
+          "time": 1615043146
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615137971
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615137082
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615057732
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615191685
+        }
+      }
+    },
+    {
+      "pos": 11,
+      "team": "DarkArmy",
+      "score": 4516,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615097151
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615204802
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615153251
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615176880
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615199763
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615156281
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615106130
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615094830
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615151072
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615176626
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615099170
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615162398
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615200101
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615091533
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615089820
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615202417
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615169385
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615090266
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615201070
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615095239
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615192431
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615150176
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615102123
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615151308
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615147610
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615171158
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615088462
+        }
+      }
+    },
+    {
+      "pos": 12,
+      "team": "LSE",
+      "score": 4121,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615118956
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615103348
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615183116
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615165690
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615167112
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615120284
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615104157
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615028802
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615177276
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615177660
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615082064
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615190881
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615197369
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615090973
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615081303
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615082584
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615029730
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615089793
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615028861
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615193209
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615162827
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615036849
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615163966
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615112517
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615118741
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615030773
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615207787
+        }
+      }
+    },
+    {
+      "pos": 13,
+      "team": "we11_d0ne",
+      "score": 4004,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615112900
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615100132
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615184599
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615102268
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615100161
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615154250
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615103533
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615093346
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615177479
+        },
+        "Whole New Me": {
+          "points": 916,
+          "time": 1615112353
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615096576
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615090833
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615164064
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615100955
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615107052
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615159546
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615100315
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615190817
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615126190
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615110328
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615183279
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615124350
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615092621
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615105452
+        }
+      }
+    },
+    {
+      "pos": 14,
+      "team": "BB",
+      "score": 3881,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615121405
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615126235
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615162476
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615174447
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615128029
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615050908
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615077850
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615125615
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615169622
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615081308
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615051190
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615084933
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615156797
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615071435
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615205830
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615051098
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615205604
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615122471
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615127223
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615159880
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615123509
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615137745
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615143233
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615054539
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615136770
+        }
+      }
+    },
+    {
+      "pos": 15,
+      "team": "serdarortacfanclub",
+      "score": 3867,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615115430
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615124162
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615157270
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615183597
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615176051
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615128342
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615075548
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615079140
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615110918
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615182721
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615160691
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615074878
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615075711
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615079992
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615181137
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615076020
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615094267
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615185910
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615075585
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615201328
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615118110
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615100000
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615156918
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615112608
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615080951
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615113321
+        }
+      }
+    },
+    {
+      "pos": 16,
+      "team": "Psychoholics",
+      "score": 3863,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615113373
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615125383
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615144438
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615145859
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615054711
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615142270
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615125360
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615037829
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615044380
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615044310
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615037822
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615043469
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615029602
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615058652
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615157475
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615194874
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615038149
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615194410
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615123919
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615143098
+        },
+        "Net Matroyshka": {
+          "points": 883,
+          "time": 1615206018
+        },
+        "I am not here": {
+          "points": 1,
+          "time": 1615043153
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615205189
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615126100
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615030042
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615066710
+        }
+      }
+    },
+    {
+      "pos": 17,
+      "team": "b0tchsec",
+      "score": 3629,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615113119
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615131366
+        },
+        "Can You Auth?": {
+          "points": 916,
+          "time": 1615200962
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615122990
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615038519
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615049124
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615197965
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615042936
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615049958
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615038595
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615198820
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615121273
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615042468
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615130700
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615113434
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615037351
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615045881
+        }
+      }
+    },
+    {
+      "pos": 18,
+      "team": "InfoSecIITR",
+      "score": 3619,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615196812
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615156090
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615202981
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615176399
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615162443
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615208331
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615178052
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615159479
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615174355
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615168379
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615165655
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615193863
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615168483
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615156920
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615162715
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615173653
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615175898
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615206010
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615174670
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615193504
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615168932
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615179475
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615175265
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615161842
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615183747
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615174549
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615190468
+        }
+      }
+    },
+    {
+      "pos": 19,
+      "team": "entr0py",
+      "score": 3435,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615123580
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615049327
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615199088
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615158543
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615057814
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615205091
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615050242
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615046719
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615100663
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615038707
+        },
+        "Whole New Me": {
+          "points": 916,
+          "time": 1615139779
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615067693
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615046914
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615101942
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615033679
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615061423
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615057369
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615123506
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615117983
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615198401
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615151863
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615067006
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615064053
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615052030
+        }
+      }
+    },
+    {
+      "pos": 20,
+      "team": "fungible-tokens",
+      "score": 3104,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615114424
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615128425
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615145634
+        },
+        "Log 'em All": {
+          "points": 967,
+          "time": 1615154183
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615117202
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615160517
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615030887
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615057191
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615045316
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615046879
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615070909
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615033861
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615076867
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615153820
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615031004
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615207679
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615120916
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615034547
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615161689
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615036444
+        }
+      }
+    },
+    {
+      "pos": 21,
+      "team": "InsecureState",
+      "score": 2924,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615117689
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615208023
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615198628
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615105392
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615207929
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615038486
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615044585
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615049585
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615043975
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615207741
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615197475
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615039284
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615192602
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615123950
+        },
+        "Net Matroyshka": {
+          "points": 883,
+          "time": 1615206019
+        },
+        "I am not here": {
+          "points": 1,
+          "time": 1615043118
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615207717
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615032652
+        }
+      }
+    },
+    {
+      "pos": 22,
+      "team": "Dashu",
+      "score": 2822,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615194736
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615144651
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615178667
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615147801
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615094604
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615090969
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615107774
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615115245
+        },
+        "Relaunch": {
+          "points": 697,
+          "time": 1615182147
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615091091
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615090536
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615195129
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615094697
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615194617
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615152341
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615103468
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615143833
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615113782
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615093739
+        }
+      }
+    },
+    {
+      "pos": 23,
+      "team": "Localhorst",
+      "score": 2741,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615114181
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615204028
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615038689
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615041065
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615117136
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615044198
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615040862
+        },
+        "Keygenme": {
+          "points": 639,
+          "time": 1615200621
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615029596
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615079096
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615114008
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615201511
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615039442
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615200966
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615119401
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615103359
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615202260
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615113488
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615031766
+        }
+      }
+    },
+    {
+      "pos": 24,
+      "team": "ISITDTU",
+      "score": 2705,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615143924
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615152511
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615136440
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615163295
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615134880
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615153769
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615130636
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615159761
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615150577
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615186484
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615162309
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615134545
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615132336
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615160965
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615130709
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615170731
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615132840
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615135583
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615138847
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615155009
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615184202
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615152032
+        }
+      }
+    },
+    {
+      "pos": 25,
+      "team": "CYberMouflons",
+      "score": 2519,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615113232
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615093748
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615035425
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615095177
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615029549
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615042543
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615042288
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615030247
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615102766
+        },
+        "Encrypted Bin": {
+          "points": 916,
+          "time": 1615097003
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615032464
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615029590
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615141565
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615112229
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615101647
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615113426
+        }
+      }
+    },
+    {
+      "pos": 26,
+      "team": "N0Named",
+      "score": 2109,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615148127
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615077247
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615147732
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615097009
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615085384
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615084392
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615083993
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615098084
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615078312
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615076144
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615087465
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615146626
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615084465
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615192690
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615191093
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615104221
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615149381
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615079760
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615094662
+        }
+      }
+    },
+    {
+      "pos": 27,
+      "team": "rdj",
+      "score": 2084,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615115359
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615129752
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615180951
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615121163
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615101418
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615115430
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615183466
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615115611
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615180790
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615115885
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615101469
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615196321
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615196030
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615129458
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615183773
+        }
+      }
+    },
+    {
+      "pos": 28,
+      "team": "ShadowCats",
+      "score": 2006,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615129709
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615132963
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615156715
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615148329
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615155304
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615133215
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615147727
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615171468
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615131212
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615137758
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615126264
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615131545
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615131915
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615171748
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615148221
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615201910
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615155480
+        },
+        "I am not here": {
+          "points": 1,
+          "time": 1615170729
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615137012
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615136003
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615146850
+        }
+      }
+    },
+    {
+      "pos": 29,
+      "team": "TourRadar",
+      "score": 1936,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615112786
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615112127
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615157188
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615112708
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615119490
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615121765
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615101562
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615118964
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615097697
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615098659
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615098458
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615107251
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615114031
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615119555
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615195877
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615117085
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615113566
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615103216
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615120962
+        }
+      }
+    },
+    {
+      "pos": 30,
+      "team": "DCZia",
+      "score": 1861,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615114075
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615112948
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615139969
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615139913
+        },
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615059437
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615115357
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615029260
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615115342
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615038923
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615054220
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615030538
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615060764
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615029536
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615141399
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615137807
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615050207
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615048619
+        }
+      }
+    },
+    {
+      "pos": 31,
+      "team": "ri5e",
+      "score": 1612,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615142735
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615158712
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615157505
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615073561
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615168283
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615149586
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615077690
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615076118
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615075238
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615164142
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615073828
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615178317
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615074131
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615158380
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615142582
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615157951
+        }
+      }
+    },
+    {
+      "pos": 32,
+      "team": "RootLee",
+      "score": 1559,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615195620
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615105222
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615207234
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615105391
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615207593
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615148057
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615194572
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615185192
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615101375
+        }
+      }
+    },
+    {
+      "pos": 33,
+      "team": "crocodile hunters",
+      "score": 1548,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615115315
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615119342
+        },
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615032370
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615120828
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615126553
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615043363
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615121295
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615046477
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615127142
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615197277
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615122205
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615041147
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615030632
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615138657
+        }
+      }
+    },
+    {
+      "pos": 34,
+      "team": "acdwas",
+      "score": 1528,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615184481
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615195446
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615194546
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615104942
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615086530
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615083181
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615081823
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615077551
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615071476
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615108372
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615195732
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615191556
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615183983
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615123390
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615087903
+        }
+      }
+    },
+    {
+      "pos": 35,
+      "team": "ret2school",
+      "score": 1517,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615114482
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615106059
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615160673
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615207328
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615115630
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615167131
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615207648
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615163454
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615106068
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615112247
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615127450
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615207163
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615167694
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615125279
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615106045
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615206730
+        }
+      }
+    },
+    {
+      "pos": 36,
+      "team": "PatanjaliHax",
+      "score": 1509,
+      "taskStats": {
+        "denouement.png": {
+          "points": 101,
+          "time": 1615152195
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615089955
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615164297
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615096667
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615113970
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615100672
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615166989
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615149848
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615191053
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615090791
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615190860
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615148985
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615122014
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615101608
+        }
+      }
+    },
+    {
+      "pos": 37,
+      "team": "RPCA Cyber Club",
+      "score": 1509,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615206175
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615162016
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615097277
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615163681
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615084751
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615077899
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615076643
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615086016
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615097517
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615197059
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615157195
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615205977
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615154372
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615088489
+        }
+      }
+    },
+    {
+      "pos": 38,
+      "team": "threat.club",
+      "score": 1388,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615125636
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615036436
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615048578
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615055287
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615045233
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615036846
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615127870
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615151018
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615136722
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615160303
+        }
+      }
+    },
+    {
+      "pos": 39,
+      "team": "k",
+      "score": 1386,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615159291
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615153080
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615153597
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615158876
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615153897
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615154240
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615159115
+        },
+        "Ropme": {
+          "points": 579,
+          "time": 1615163427
+        }
+      }
+    },
+    {
+      "pos": 40,
+      "team": "skiddies",
+      "score": 1348,
+      "taskStats": {
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615137166
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615131066
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615119373
+        },
+        "Hangman Battle Royale": {
+          "points": 751,
+          "time": 1615204595
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615130515
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615189093
+        }
+      }
+    },
+    {
+      "pos": 41,
+      "team": "CrySP",
+      "score": 1312,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615185274
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615138452
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615185260
+        },
+        "Encrypted Bin": {
+          "points": 916,
+          "time": 1615128017
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615186623
+        }
+      }
+    },
+    {
+      "pos": 42,
+      "team": "we_are_offensive",
+      "score": 1289,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615115434
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615038050
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615063591
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615060316
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615033439
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615123988
+        },
+        "In The Zone": {
+          "points": 408,
+          "time": 1615196642
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615038168
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615196711
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615117401
+        }
+      }
+    },
+    {
+      "pos": 43,
+      "team": "outOfCheese",
+      "score": 1286,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615113856
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615110332
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615150222
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615110093
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615097282
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615094843
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615087563
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615097155
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615115646
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615197518
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615117104
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615111671
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615199224
+        }
+      }
+    },
+    {
+      "pos": 44,
+      "team": "Area{51}",
+      "score": 1244,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615099175
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615158468
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615107981
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615114339
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615156564
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615070075
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615190903
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615165221
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615155707
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615185221
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615086371
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615173690
+        }
+      }
+    },
+    {
+      "pos": 45,
+      "team": "Hacky Easter",
+      "score": 1144,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615116570
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615107750
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615109060
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615096436
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615100589
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615075024
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615070475
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615100385
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615200195
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615114828
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615103084
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615087640
+        }
+      }
+    },
+    {
+      "pos": 46,
+      "team": "Antivirus",
+      "score": 1143,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615161079
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615067922
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615069848
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615068423
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615070319
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615073659
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615068270
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615162536
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615166170
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615163268
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615165810
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615078231
+        }
+      }
+    },
+    {
+      "pos": 47,
+      "team": "BarnyardSlobAndByronAllen",
+      "score": 1111,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615149053
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615189309
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615133858
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615132840
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615192097
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615127723
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615148914
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615128024
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615127752
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615127221
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615133439
+        }
+      }
+    },
+    {
+      "pos": 48,
+      "team": "Newb1e",
+      "score": 1043,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615144147
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615144115
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615144120
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615159561
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615147264
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615151331
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615144810
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615159593
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615144563
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615145861
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615157503
+        }
+      }
+    },
+    {
+      "pos": 49,
+      "team": "L33t Dev",
+      "score": 1018,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615147017
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615160917
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615186187
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615193715
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615148134
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615148714
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615190014
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615161186
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615149677
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615159357
+        }
+      }
+    },
+    {
+      "pos": 50,
+      "team": "squidwarlock",
+      "score": 1015,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615115543
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615099706
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615115504
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615097483
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615065532
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615068485
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615065509
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615068601
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615098739
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615098697
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615072661
+        }
+      }
+    },
+    {
+      "pos": 51,
+      "team": "imesec1337",
+      "score": 1012,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615123225
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615110173
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615115352
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615120487
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615124978
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615113100
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615103982
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615123142
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615120551
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615130237
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615139126
+        }
+      }
+    },
+    {
+      "pos": 52,
+      "team": "fr334aks",
+      "score": 1012,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615115643
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615111613
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615183793
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615112967
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615121243
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615096594
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615118275
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615201303
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615203394
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615188324
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615189584
+        }
+      }
+    },
+    {
+      "pos": 53,
+      "team": "boisodia",
+      "score": 1011,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615148929
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615171336
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615168421
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615085877
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615083085
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615087158
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615082334
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615082749
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615085931
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615168437
+        }
+      }
+    },
+    {
+      "pos": 54,
+      "team": "TEAM0001",
+      "score": 1010,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615103178
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615179758
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615112298
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615175371
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615125913
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615082300
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615125160
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615175577
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615178159
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615118225
+        }
+      }
+    },
+    {
+      "pos": 55,
+      "team": "NopNopGoose",
+      "score": 967,
+      "taskStats": {
+        "Log 'em All": {
+          "points": 967,
+          "time": 1615198980
+        }
+      }
+    },
+    {
+      "pos": 56,
+      "team": "nthuong95",
+      "score": 918,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615148232
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615152448
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615141598
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615150621
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615145116
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615141713
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615144825
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615145848
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615154117
+        }
+      }
+    },
+    {
+      "pos": 57,
+      "team": "thehackerscrew",
+      "score": 916,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615119075
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615110296
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615114907
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615096071
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615084028
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615087187
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615088655
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615081787
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615110473
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615099917
+        }
+      }
+    },
+    {
+      "pos": 58,
+      "team": "thisismypassword",
+      "score": 916,
+      "taskStats": {
+        "Glitter Printer": {
+          "points": 916,
+          "time": 1615183489
+        }
+      }
+    },
+    {
+      "pos": 59,
+      "team": "fzhshzh",
+      "score": 914,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615135175
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615151819
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615165520
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615078365
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615050745
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615048758
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615079587
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615134880
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615131891
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615166277
+        }
+      }
+    },
+    {
+      "pos": 60,
+      "team": "0xPolpettOwn",
+      "score": 913,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615208183
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615162370
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615199361
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615120343
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615117343
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615118681
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615207976
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615199039
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615128021
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615200940
+        }
+      }
+    },
+    {
+      "pos": 61,
+      "team": "b1rds_of_pr3y",
+      "score": 911,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615155032
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615088026
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615175815
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615089723
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615089900
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615088145
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615096943
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615153370
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615151848
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615155878
+        }
+      }
+    },
+    {
+      "pos": 62,
+      "team": "csictf",
+      "score": 910,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615077546
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615167356
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615083282
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615096192
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615089944
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615072601
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615095306
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615092014
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615167243
+        }
+      }
+    },
+    {
+      "pos": 63,
+      "team": "0101",
+      "score": 871,
+      "taskStats": {
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615093679
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615174137
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615079706
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615071241
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615085160
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615086367
+        }
+      }
+    },
+    {
+      "pos": 64,
+      "team": "SappiSippi",
+      "score": 811,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615074409
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615159832
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615080032
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615160229
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615092230
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615039826
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615153954
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615160160
+        }
+      }
+    },
+    {
+      "pos": 65,
+      "team": "n4mele55",
+      "score": 809,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615094502
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615132548
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615090926
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615094523
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615089891
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615091185
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615092866
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615092925
+        }
+      }
+    },
+    {
+      "pos": 66,
+      "team": "xisop",
+      "score": 809,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615152339
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615152747
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615157311
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615153548
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615153784
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615157473
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615151879
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615154938
+        }
+      }
+    },
+    {
+      "pos": 67,
+      "team": "HsVcs",
+      "score": 808,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615156889
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615159864
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615168039
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615093462
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615161221
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615091787
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615140411
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615100768
+        }
+      }
+    },
+    {
+      "pos": 68,
+      "team": "Ody",
+      "score": 793,
+      "taskStats": {
+        "Glitch in the matrix": {
+          "points": 314,
+          "time": 1615099222
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615097797
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615110544
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615107146
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615127968
+        }
+      }
+    },
+    {
+      "pos": 69,
+      "team": "Brrr",
+      "score": 736,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615067968
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615072317
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615123615
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615069859
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615049838
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615121539
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615159477
+        }
+      }
+    },
+    {
+      "pos": 70,
+      "team": "s1mple",
+      "score": 717,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615204509
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615187733
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615194724
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615082928
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615082988
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615206422
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615087759
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615184638
+        }
+      }
+    },
+    {
+      "pos": 71,
+      "team": "4LEARN",
+      "score": 716,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615144500
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615145888
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615095417
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615098490
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615095668
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615096607
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615144642
+        }
+      }
+    },
+    {
+      "pos": 72,
+      "team": "田埂",
+      "score": 716,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615142414
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615152717
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615100783
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615154275
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615104717
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615139303
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615141206
+        }
+      }
+    },
+    {
+      "pos": 73,
+      "team": "OverDover",
+      "score": 714,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615196301
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615100448
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615207362
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615090429
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615205327
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615197695
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615194988
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615201764
+        }
+      }
+    },
+    {
+      "pos": 74,
+      "team": "SummerJedi",
+      "score": 709,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615138849
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615041312
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615043456
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615048279
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615142478
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615041770
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615141674
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615146295
+        }
+      }
+    },
+    {
+      "pos": 75,
+      "team": "e^iπ+1day",
+      "score": 708,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615088193
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615094189
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615104527
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615098253
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615094442
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615104631
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615103306
+        }
+      }
+    },
+    {
+      "pos": 76,
+      "team": "L10n5",
+      "score": 708,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615188450
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615209815
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615188969
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615188313
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615178334
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615138832
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615188344
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615215915
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615178136
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615208158
+        }
+      }
+    },
+    {
+      "pos": 77,
+      "team": "fibonhack",
+      "score": 698,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615156016
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615111705
+        },
+        "Secure Asset Manager": {
+          "points": 192,
+          "time": 1615125619
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615111647
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615111521
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615155504
+        }
+      }
+    },
+    {
+      "pos": 78,
+      "team": "bad@hacking",
+      "score": 615,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615187419
+        },
+        "Pwnzoo": {
+          "points": 109,
+          "time": 1615122848
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615102320
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615102417
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615115230
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615186573
+        }
+      }
+    },
+    {
+      "pos": 79,
+      "team": "NPE",
+      "score": 608,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615121931
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615065987
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615112868
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615057090
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615114112
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615209201
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615127338
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615116089
+        }
+      }
+    },
+    {
+      "pos": 80,
+      "team": "Hacker space",
+      "score": 608,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615199145
+        },
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615190767
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615184764
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615180703
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615184776
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615196881
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615185796
+        }
+      }
+    },
+    {
+      "pos": 81,
+      "team": "sboxzlab",
+      "score": 607,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615090998
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615091773
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615045653
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615047577
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615030259
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615049503
+        }
+      }
+    },
+    {
+      "pos": 82,
+      "team": "downgrade",
+      "score": 606,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615132955
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615133643
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615128022
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615110340
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615107325
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615128484
+        }
+      }
+    },
+    {
+      "pos": 83,
+      "team": "Bl@ckWhite",
+      "score": 606,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615163179
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615163984
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615146711
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615164039
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615162189
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615140232
+        }
+      }
+    },
+    {
+      "pos": 84,
+      "team": "Random",
+      "score": 606,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615163570
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615166331
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615158221
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615167112
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615170493
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615168796
+        }
+      }
+    },
+    {
+      "pos": 85,
+      "team": "P@Ge2mE",
+      "score": 606,
+      "taskStats": {
+        "denouement.png": {
+          "points": 101,
+          "time": 1615177283
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615201179
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615176731
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615177653
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615200956
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615197254
+        }
+      }
+    },
+    {
+      "pos": 86,
+      "team": "backspace mutiny",
+      "score": 509,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615122248
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615056413
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615045727
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615062586
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615112276
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615112531
+        }
+      }
+    },
+    {
+      "pos": 87,
+      "team": "byc_404",
+      "score": 506,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615076903
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615077717
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615074950
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615073295
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615075448
+        }
+      }
+    },
+    {
+      "pos": 88,
+      "team": "Ba Sing Sec",
+      "score": 506,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615116107
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615110386
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615112479
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615111728
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615110572
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615113711
+        }
+      }
+    },
+    {
+      "pos": 89,
+      "team": "cby234",
+      "score": 506,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615154909
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615157883
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615153997
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615151021
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615162458
+        }
+      }
+    },
+    {
+      "pos": 90,
+      "team": "em0n",
+      "score": 506,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615157842
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615157807
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615168970
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615157713
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615157687
+        }
+      }
+    },
+    {
+      "pos": 91,
+      "team": "N00b3r",
+      "score": 506,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615101070
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615101889
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615179321
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615087626
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615187755
+        }
+      }
+    },
+    {
+      "pos": 92,
+      "team": "beerpwn",
+      "score": 506,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615194097
+        },
+        "CSP 1": {
+          "points": 101,
+          "time": 1615183932
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615191611
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615184497
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615184485
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615183901
+        }
+      }
+    },
+    {
+      "pos": 93,
+      "team": "SKR",
+      "score": 505,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615140571
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615141182
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615139311
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615139733
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615140623
+        }
+      }
+    },
+    {
+      "pos": 94,
+      "team": "Hoangpt",
+      "score": 505,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615143445
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615110877
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615111791
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615154282
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615107214
+        }
+      }
+    },
+    {
+      "pos": 95,
+      "team": "onotch",
+      "score": 505,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615172144
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615172718
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615172471
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615173832
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615174162
+        }
+      }
+    },
+    {
+      "pos": 96,
+      "team": "Isaac",
+      "score": 505,
+      "taskStats": {
+        "Reverseme 2": {
+          "points": 101,
+          "time": 1615180861
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615165998
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615166257
+        },
+        "Reverseme": {
+          "points": 101,
+          "time": 1615170091
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615165044
+        }
+      }
+    },
+    {
+      "pos": 97,
+      "team": "badsctr",
+      "score": 505,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615200486
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615196214
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615188933
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615195848
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615201529
+        }
+      }
+    },
+    {
+      "pos": 98,
+      "team": "x6C6F747573",
+      "score": 467,
+      "taskStats": {
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615168028
+        },
+        "ϕ-Corps Infiltration": {
+          "points": 192,
+          "time": 1615157705
+        }
+      }
+    },
+    {
+      "pos": 99,
+      "team": "c1rcu5_w0lv35",
+      "score": 433,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615110238
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615106162
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615107096
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615124987
+        }
+      }
+    },
+    {
+      "pos": 100,
+      "team": "h4ck7u5",
+      "score": 407,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615190395
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615206629
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615088964
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615194237
+        }
+      }
+    },
+    {
+      "pos": 101,
+      "team": "Terminal Cats",
+      "score": 406,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615117631
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615117764
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615121665
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615123912
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615126700
+        }
+      }
+    },
+    {
+      "pos": 102,
+      "team": "CSI",
+      "score": 406,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615183694
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615184121
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615155856
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615184938
+        }
+      }
+    },
+    {
+      "pos": 103,
+      "team": "NAZCA",
+      "score": 405,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615086081
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615080751
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615077953
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615090326
+        }
+      }
+    },
+    {
+      "pos": 104,
+      "team": "STeam",
+      "score": 405,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615102982
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615103146
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615101101
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615101384
+        }
+      }
+    },
+    {
+      "pos": 105,
+      "team": "rain on head",
+      "score": 405,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615138412
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615115855
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615110463
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615067486
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615126484
+        }
+      }
+    },
+    {
+      "pos": 106,
+      "team": "teamname",
+      "score": 405,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615157244
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615079464
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615077514
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615074230
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615079611
+        }
+      }
+    },
+    {
+      "pos": 107,
+      "team": "babar",
+      "score": 405,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615169803
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615171894
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615160910
+        },
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615173685
+        }
+      }
+    },
+    {
+      "pos": 108,
+      "team": "Lions",
+      "score": 405,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615177569
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615187732
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615159598
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615187950
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615168030
+        }
+      }
+    },
+    {
+      "pos": 109,
+      "team": "bobsleigh",
+      "score": 405,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615166347
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615189221
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615179569
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615193285
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615167488
+        }
+      }
+    },
+    {
+      "pos": 110,
+      "team": "ipmebruh",
+      "score": 405,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615116095
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615047625
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615034011
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615196043
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615120755
+        }
+      }
+    },
+    {
+      "pos": 111,
+      "team": "0x325",
+      "score": 405,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615122172
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615143656
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615119694
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615199313
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615134527
+        }
+      }
+    },
+    {
+      "pos": 112,
+      "team": "flag{}_____Orz",
+      "score": 404,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615094612
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615084433
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615084305
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615089525
+        }
+      }
+    },
+    {
+      "pos": 113,
+      "team": "nicdumz",
+      "score": 404,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615103925
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615105349
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615100840
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615101045
+        }
+      }
+    },
+    {
+      "pos": 114,
+      "team": "Friendly Hacks",
+      "score": 404,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615099370
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615103152
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615100945
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615139056
+        }
+      }
+    },
+    {
+      "pos": 115,
+      "team": "GanSw",
+      "score": 404,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615153460
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615145399
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615149290
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615145135
+        }
+      }
+    },
+    {
+      "pos": 116,
+      "team": "Inner Savages",
+      "score": 379,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615180243
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615189098
+        },
+        "Chimera": {
+          "points": 104,
+          "time": 1615182268
+        },
+        "Tapesplice": {
+          "points": 173,
+          "time": 1615196667
+        }
+      }
+    },
+    {
+      "pos": 117,
+      "team": "Upslope",
+      "score": 344,
+      "taskStats": {
+        "Message Store": {
+          "points": 104,
+          "time": 1615030337
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615046942
+        },
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615038960
+        }
+      }
+    },
+    {
+      "pos": 118,
+      "team": "p1k@bunny",
+      "score": 316,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615033700
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615030119
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615034049
+        }
+      }
+    },
+    {
+      "pos": 119,
+      "team": "The Da Vinky Code",
+      "score": 304,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615029509
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615029811
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615040206
+        }
+      }
+    },
+    {
+      "pos": 120,
+      "team": "Z3Ro",
+      "score": 304,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615116019
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615105071
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615122290
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615119474
+        }
+      }
+    },
+    {
+      "pos": 121,
+      "team": "Team Bacon",
+      "score": 304,
+      "taskStats": {
+        "layers.txt": {
+          "points": 101,
+          "time": 1615029706
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615123758
+        },
+        "I am not here": {
+          "points": 1,
+          "time": 1615031069
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615045381
+        }
+      }
+    },
+    {
+      "pos": 122,
+      "team": "l0n3w0lf",
+      "score": 304,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615125786
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615127413
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615122238
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615127466
+        }
+      }
+    },
+    {
+      "pos": 123,
+      "team": "hack4chai",
+      "score": 304,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615124422
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615129609
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615121973
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615128465
+        }
+      }
+    },
+    {
+      "pos": 124,
+      "team": "heck_the_planet",
+      "score": 304,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615126390
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615126440
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615134321
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615031981
+        }
+      }
+    },
+    {
+      "pos": 125,
+      "team": "EchoSec",
+      "score": 304,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615133490
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615137300
+        },
+        "Runme3": {
+          "points": 102,
+          "time": 1615141438
+        }
+      }
+    },
+    {
+      "pos": 126,
+      "team": "iliketurtles",
+      "score": 304,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615117257
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615185305
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615117238
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615185392
+        }
+      }
+    },
+    {
+      "pos": 127,
+      "team": "0b1ivi0n",
+      "score": 304,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615185423
+        },
+        "denouement.png": {
+          "points": 101,
+          "time": 1615186459
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615183799
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615192487
+        }
+      }
+    },
+    {
+      "pos": 128,
+      "team": "dkzdkzdl",
+      "score": 304,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615188595
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615186327
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615193258
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615191845
+        }
+      }
+    },
+    {
+      "pos": 129,
+      "team": "LoneIsland",
+      "score": 303,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615031410
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615031773
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615036878
+        }
+      }
+    },
+    {
+      "pos": 130,
+      "team": "Athena's Wildfowl",
+      "score": 303,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615056186
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615057474
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615028987
+        }
+      }
+    },
+    {
+      "pos": 131,
+      "team": "Google",
+      "score": 303,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615084439
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615090389
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615086929
+        }
+      }
+    },
+    {
+      "pos": 132,
+      "team": "NeolexandRobin",
+      "score": 303,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615092675
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615092838
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615092736
+        }
+      }
+    },
+    {
+      "pos": 133,
+      "team": "cr0wn",
+      "score": 303,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615098356
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615098707
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615098611
+        }
+      }
+    },
+    {
+      "pos": 134,
+      "team": "CarpeDien",
+      "score": 303,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615102765
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615095326
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615105853
+        }
+      }
+    },
+    {
+      "pos": 135,
+      "team": "asdasd123",
+      "score": 303,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615087344
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615109348
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615085763
+        }
+      }
+    },
+    {
+      "pos": 136,
+      "team": "RKTEAM",
+      "score": 303,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615068592
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615126913
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615073040
+        }
+      }
+    },
+    {
+      "pos": 137,
+      "team": "xrzhev",
+      "score": 303,
+      "taskStats": {
+        "denouement.png": {
+          "points": 101,
+          "time": 1615138502
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615137603
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615136107
+        }
+      }
+    },
+    {
+      "pos": 138,
+      "team": "ele239",
+      "score": 303,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615156730
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615155923
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615160055
+        }
+      }
+    },
+    {
+      "pos": 139,
+      "team": "UIT",
+      "score": 303,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615166964
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615166976
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615085050
+        }
+      }
+    },
+    {
+      "pos": 140,
+      "team": "TN",
+      "score": 303,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615183187
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615184969
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615099530
+        }
+      }
+    },
+    {
+      "pos": 141,
+      "team": "noob-atbash",
+      "score": 303,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615188428
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615069418
+        },
+        "Hashcrack 101": {
+          "points": 101,
+          "time": 1615192540
+        }
+      }
+    },
+    {
+      "pos": 142,
+      "team": "Deadlock Team",
+      "score": 303,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615206538
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615206551
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615206820
+        }
+      }
+    },
+    {
+      "pos": 143,
+      "team": "EffectRenan",
+      "score": 303,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615140528
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615142779
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615207115
+        }
+      }
+    },
+    {
+      "pos": 144,
+      "team": "Bruh",
+      "score": 275,
+      "taskStats": {
+        "PermCoin - Starter Attack": {
+          "points": 275,
+          "time": 1615188889
+        }
+      }
+    },
+    {
+      "pos": 145,
+      "team": "Capitol Chargers",
+      "score": 213,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615047580
+        },
+        "Xoray": {
+          "points": 102,
+          "time": 1615039592
+        }
+      }
+    },
+    {
+      "pos": 146,
+      "team": "penquins",
+      "score": 206,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615119876
+        },
+        "Message Store": {
+          "points": 104,
+          "time": 1615122554
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615117223
+        }
+      }
+    },
+    {
+      "pos": 147,
+      "team": "ekawa",
+      "score": 205,
+      "taskStats": {
+        "Message Store": {
+          "points": 104,
+          "time": 1615116011
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615117245
+        }
+      }
+    },
+    {
+      "pos": 148,
+      "team": "No_Pwn_Intended",
+      "score": 203,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615118836
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615112693
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615121499
+        }
+      }
+    },
+    {
+      "pos": 149,
+      "team": "l1ttl3",
+      "score": 203,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615159580
+        },
+        "Runme": {
+          "points": 101,
+          "time": 1615090090
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615090324
+        }
+      }
+    },
+    {
+      "pos": 150,
+      "team": "Clowns Ltd.",
+      "score": 203,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615167967
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615119851
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615087379
+        }
+      }
+    },
+    {
+      "pos": 151,
+      "team": "3rk1n",
+      "score": 203,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615200368
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615084501
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615200709
+        }
+      }
+    },
+    {
+      "pos": 152,
+      "team": "Fowl Owl",
+      "score": 203,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615119202
+        },
+        "Unidecode": {
+          "points": 101,
+          "time": 1615050806
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615204938
+        }
+      }
+    },
+    {
+      "pos": 153,
+      "team": "Hackers",
+      "score": 203,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615197300
+        },
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615206553
+        },
+        "Résumé": {
+          "points": 101,
+          "time": 1615204178
+        }
+      }
+    },
+    {
+      "pos": 154,
+      "team": "{{7*7}}",
+      "score": 202,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615029940
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615029975
+        }
+      }
+    },
+    {
+      "pos": 155,
+      "team": "hackday",
+      "score": 202,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615037783
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615037829
+        }
+      }
+    },
+    {
+      "pos": 156,
+      "team": "Sub2LTT",
+      "score": 202,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615059091
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615059236
+        }
+      }
+    },
+    {
+      "pos": 157,
+      "team": "stdnoerr",
+      "score": 202,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615078269
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615078300
+        }
+      }
+    },
+    {
+      "pos": 158,
+      "team": "pocas",
+      "score": 202,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615077009
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615078503
+        }
+      }
+    },
+    {
+      "pos": 159,
+      "team": "corruptedpwnis",
+      "score": 202,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615082780
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615083276
+        }
+      }
+    },
+    {
+      "pos": 160,
+      "team": "BackMoon",
+      "score": 202,
+      "taskStats": {
+        "Unidecode": {
+          "points": 101,
+          "time": 1615086612
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615082270
+        }
+      }
+    },
+    {
+      "pos": 161,
+      "team": "stankc",
+      "score": 202,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615087258
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615087546
+        }
+      }
+    },
+    {
+      "pos": 162,
+      "team": "wwwlk",
+      "score": 202,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615088123
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615089293
+        }
+      }
+    },
+    {
+      "pos": 163,
+      "team": "born2scan",
+      "score": 202,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615090520
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615091169
+        }
+      }
+    },
+    {
+      "pos": 164,
+      "team": "exd0tpy",
+      "score": 202,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615090590
+        },
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615093163
+        }
+      }
+    },
+    {
+      "pos": 165,
+      "team": "SiriusSec",
+      "score": 202,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615096075
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615095950
+        }
+      }
+    },
+    {
+      "pos": 166,
+      "team": "Seoul",
+      "score": 202,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615096303
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615096320
+        }
+      }
+    },
+    {
+      "pos": 167,
+      "team": "raar",
+      "score": 202,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615097159
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615097324
+        }
+      }
+    },
+    {
+      "pos": 168,
+      "team": "l0lp",
+      "score": 202,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615104590
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615104863
+        }
+      }
+    },
+    {
+      "pos": 169,
+      "team": "BortecineSec TR",
+      "score": 202,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615109425
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615109503
+        }
+      }
+    },
+    {
+      "pos": 170,
+      "team": "ohlala",
+      "score": 202,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615121242
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615090808
+        }
+      }
+    },
+    {
+      "pos": 171,
+      "team": "team 1",
+      "score": 202,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615125307
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615079964
+        }
+      }
+    },
+    {
+      "pos": 172,
+      "team": "exzettabyte",
+      "score": 202,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615128219
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615128823
+        }
+      }
+    },
+    {
+      "pos": 173,
+      "team": "0x90roblem",
+      "score": 202,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615135263
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615128977
+        }
+      }
+    },
+    {
+      "pos": 174,
+      "team": "jirabbit",
+      "score": 202,
+      "taskStats": {
+        "Runme": {
+          "points": 101,
+          "time": 1615152013
+        },
+        "Runme2": {
+          "points": 101,
+          "time": 1615152666
+        }
+      }
+    },
+    {
+      "pos": 175,
+      "team": "HAC",
+      "score": 202,
+      "taskStats": {
+        "denouement.png": {
+          "points": 101,
+          "time": 1615166134
+        },
+        "layers.txt": {
+          "points": 101,
+          "time": 1615129191
+        }
+      }
+    },
+    {
+      "pos": 176,
+      "team": "SecureMature",
+      "score": 202,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615163553
+        },
+        "CSP 2": {
+          "points": 101,
+          "time": 1615167597
+        }
+      }
+    },
+    {
+      "pos": 177,
+      "team": "PTITA",
+      "score": 202,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615170739
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615157188
+        }
+      }
+    },
+    {
+      "pos": 178,
+      "team": "w0rmT34m",
+      "score": 202,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615182209
+        },
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615185130
+        }
+      }
+    },
+    {
+      "pos": 179,
+      "team": "Welcome Thrillhouse Group",
+      "score": 129,
+      "taskStats": {
+        "Shout into Void": {
+          "points": 129,
+          "time": 1615053481
+        }
+      }
+    },
+    {
+      "pos": 180,
+      "team": "very_bad_alloc_inc",
+      "score": 104,
+      "taskStats": {
+        "Message Store": {
+          "points": 104,
+          "time": 1615050903
+        }
+      }
+    },
+    {
+      "pos": 181,
+      "team": "dima8abra",
+      "score": 102,
+      "taskStats": {
+        "Xoray": {
+          "points": 102,
+          "time": 1615116718
+        }
+      }
+    },
+    {
+      "pos": 182,
+      "team": "Les_Enfants_terribles",
+      "score": 102,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615128627
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615128559
+        }
+      }
+    },
+    {
+      "pos": 183,
+      "team": "Cache Rules Everything Around Me",
+      "score": 102,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615130223
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615130501
+        }
+      }
+    },
+    {
+      "pos": 184,
+      "team": "CuBocan",
+      "score": 102,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615154695
+        },
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615154789
+        }
+      }
+    },
+    {
+      "pos": 185,
+      "team": "potato hacker",
+      "score": 102,
+      "taskStats": {
+        "CuteSrv": {
+          "points": 102,
+          "time": 1615196803
+        }
+      }
+    },
+    {
+      "pos": 186,
+      "team": "0xDEADBEEF",
+      "score": 101,
+      "taskStats": {
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615030360
+        }
+      }
+    },
+    {
+      "pos": 187,
+      "team": "\">'><marquee/",
+      "score": 101,
+      "taskStats": {
+        "layers.txt": {
+          "points": 101,
+          "time": 1615029235
+        }
+      }
+    },
+    {
+      "pos": 188,
+      "team": "solarwinds123",
+      "score": 101,
+      "taskStats": {
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615040121
+        }
+      }
+    },
+    {
+      "pos": 189,
+      "team": "(╯°□°)╯︵sǝๅqɐꓕ ʎqqoꓭ",
+      "score": 101,
+      "taskStats": {
+        "layers.txt": {
+          "points": 101,
+          "time": 1615041511
+        }
+      }
+    },
+    {
+      "pos": 190,
+      "team": "ChillAspect",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615057137
+        }
+      }
+    },
+    {
+      "pos": 191,
+      "team": "Aurora",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615070171
+        }
+      }
+    },
+    {
+      "pos": 192,
+      "team": "dumb5h1t",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615070940
+        }
+      }
+    },
+    {
+      "pos": 193,
+      "team": "ph4nt0m",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615071964
+        }
+      }
+    },
+    {
+      "pos": 194,
+      "team": "Nope",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615072715
+        }
+      }
+    },
+    {
+      "pos": 195,
+      "team": "runo",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615079655
+        }
+      }
+    },
+    {
+      "pos": 196,
+      "team": "Saudi",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615084396
+        }
+      }
+    },
+    {
+      "pos": 197,
+      "team": "rose",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615088335
+        }
+      }
+    },
+    {
+      "pos": 198,
+      "team": "greve",
+      "score": 101,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615092192
+        }
+      }
+    },
+    {
+      "pos": 199,
+      "team": "dontneedaname",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615095152
+        }
+      }
+    },
+    {
+      "pos": 200,
+      "team": "karmasutra",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615095841
+        }
+      }
+    },
+    {
+      "pos": 201,
+      "team": "shou",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615099605
+        }
+      }
+    },
+    {
+      "pos": 202,
+      "team": "Reu",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615100084
+        }
+      }
+    },
+    {
+      "pos": 203,
+      "team": "t4lha",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615103981
+        }
+      }
+    },
+    {
+      "pos": 204,
+      "team": "R3d Cr3sc3nt",
+      "score": 101,
+      "taskStats": {
+        "Great key hunt": {
+          "points": 101,
+          "time": 1615106159
+        }
+      }
+    },
+    {
+      "pos": 205,
+      "team": "JetJ",
+      "score": 101,
+      "taskStats": {
+        "layers.txt": {
+          "points": 101,
+          "time": 1615113258
+        }
+      }
+    },
+    {
+      "pos": 206,
+      "team": "Test",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615114158
+        }
+      }
+    },
+    {
+      "pos": 207,
+      "team": "emehacr",
+      "score": 101,
+      "taskStats": {
+        "Higher Hurdles": {
+          "points": 101,
+          "time": 1615122929
+        }
+      }
+    },
+    {
+      "pos": 208,
+      "team": "kanyewest",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615123051
+        }
+      }
+    },
+    {
+      "pos": 209,
+      "team": "NoOne",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615128569
+        }
+      }
+    },
+    {
+      "pos": 210,
+      "team": "smelly",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615129007
+        }
+      }
+    },
+    {
+      "pos": 211,
+      "team": "Unicorns of Security",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615130130
+        }
+      }
+    },
+    {
+      "pos": 212,
+      "team": "aaaabbbb",
+      "score": 101,
+      "taskStats": {
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615133785
+        }
+      }
+    },
+    {
+      "pos": 213,
+      "team": "UIT.SoloQ",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615145503
+        }
+      }
+    },
+    {
+      "pos": 214,
+      "team": "LE87",
+      "score": 101,
+      "taskStats": {
+        "layers.txt": {
+          "points": 101,
+          "time": 1615155110
+        }
+      }
+    },
+    {
+      "pos": 215,
+      "team": "ev3r",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615158956
+        }
+      }
+    },
+    {
+      "pos": 216,
+      "team": "TopWing",
+      "score": 101,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615160012
+        }
+      }
+    },
+    {
+      "pos": 217,
+      "team": "oscuro6879",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615177618
+        }
+      }
+    },
+    {
+      "pos": 218,
+      "team": "RS",
+      "score": 101,
+      "taskStats": {
+        "CSP 1": {
+          "points": 101,
+          "time": 1615182144
+        }
+      }
+    },
+    {
+      "pos": 219,
+      "team": "cew",
+      "score": 101,
+      "taskStats": {
+        "Charge Tracker": {
+          "points": 101,
+          "time": 1615182235
+        }
+      }
+    },
+    {
+      "pos": 220,
+      "team": "h0lysh1t",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615183378
+        }
+      }
+    },
+    {
+      "pos": 221,
+      "team": "Lol1012",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615183758
+        }
+      }
+    },
+    {
+      "pos": 222,
+      "team": "hess",
+      "score": 101,
+      "taskStats": {
+        "Résumé": {
+          "points": 101,
+          "time": 1615191632
+        }
+      }
+    },
+    {
+      "pos": 223,
+      "team": "TG-BYTES",
+      "score": 101,
+      "taskStats": {
+        "Thin Mint": {
+          "points": 101,
+          "time": 1615204045
+        }
+      }
+    },
+    {
+      "pos": 224,
+      "team": "Blind_Nil",
+      "score": 101,
+      "taskStats": {
+        "layers.txt": {
+          "points": 101,
+          "time": 1615205692
+        }
+      }
+    },
+    {
+      "pos": 225,
+      "team": "c0d3swordF15H",
+      "score": 1,
+      "taskStats": {
+        "I am not here": {
+          "points": 1,
+          "time": 1615045705
+        }
+      }
+    },
+    {
+      "pos": 226,
+      "team": "NAKd",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615114816
+        }
+      }
+    },
+    {
+      "pos": 227,
+      "team": "hoos-1",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615121676
+        }
+      }
+    },
+    {
+      "pos": 228,
+      "team": "gruf",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615127412
+        }
+      }
+    },
+    {
+      "pos": 229,
+      "team": "Morse Coders",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615129130
+        }
+      }
+    },
+    {
+      "pos": 230,
+      "team": "pwnalone",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615133875
+        }
+      }
+    },
+    {
+      "pos": 231,
+      "team": "the_gruntled",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615135395
+        }
+      }
+    },
+    {
+      "pos": 232,
+      "team": "```",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615143055
+        }
+      }
+    },
+    {
+      "pos": 233,
+      "team": "Me3",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615160707
+        }
+      }
+    },
+    {
+      "pos": 234,
+      "team": "c1p@rr",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615164885
+        }
+      }
+    },
+    {
+      "pos": 235,
+      "team": "gh0st4ris3",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615169886
+        }
+      }
+    },
+    {
+      "pos": 236,
+      "team": "siorne-grp",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615173600
+        }
+      }
+    },
+    {
+      "pos": 237,
+      "team": "uranium235",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615177551
+        }
+      }
+    },
+    {
+      "pos": 238,
+      "team": "letsgivethisatest",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615182351
+        }
+      }
+    },
+    {
+      "pos": 239,
+      "team": "llamalyzers",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615207445
+        }
+      }
+    },
+    {
+      "pos": 240,
+      "team": "nazgul",
+      "score": 1,
+      "taskStats": {
+        "Hack The ______!": {
+          "points": 1,
+          "time": 1615207963
+        }
+      }
+    },
+    {
+      "pos": 241,
+      "team": "Gx2",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 242,
+      "team": "Subterranean_LuX",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 243,
+      "team": "gold_team",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 244,
+      "team": "%20",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 245,
+      "team": "Alone Noobie",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 246,
+      "team": "Disposable Heroes",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 247,
+      "team": "AllAl0ne.",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 248,
+      "team": "Hack_Like_Girl",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 249,
+      "team": "W3akByt3s",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 250,
+      "team": "WannaBes",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 251,
+      "team": "exntrc",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 252,
+      "team": "N00bof1",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 253,
+      "team": "42",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 254,
+      "team": "blahblah",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 255,
+      "team": "junN1",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 256,
+      "team": "A group of loosely associated individuals",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 257,
+      "team": "ha,nkers",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 258,
+      "team": "calisec",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 259,
+      "team": "31337",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 260,
+      "team": "Ninja",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 261,
+      "team": "smokingdodo",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 262,
+      "team": "Team Deceptic0n",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 263,
+      "team": "Un1c0d3",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 264,
+      "team": "Solo",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 265,
+      "team": "Bloopers",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 266,
+      "team": "Victim'sHackers",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 267,
+      "team": "LaPlayaAzul",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 268,
+      "team": "Saravana-Seeker",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 269,
+      "team": "exploitrons",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 270,
+      "team": "Unintentionally Clever",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 271,
+      "team": "OrderofShadows",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 272,
+      "team": "Boomers",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 273,
+      "team": "System Meltdown",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 274,
+      "team": "itsame",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 275,
+      "team": "SolarWindsIntern",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 276,
+      "team": "Loners",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 277,
+      "team": "HackingIsSelfCare",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 278,
+      "team": "Blue origin",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 279,
+      "team": "MDE",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 280,
+      "team": "RustyNails",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 281,
+      "team": "HashKraken",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 282,
+      "team": "¯\\_(ツ)_/¯",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 283,
+      "team": "0xteam",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 284,
+      "team": "llae==",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 285,
+      "team": "deadRamSec",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 286,
+      "team": "SoloYOLO",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 287,
+      "team": "sonne",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 288,
+      "team": "The Fighting Mongooses",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 289,
+      "team": "kza",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 290,
+      "team": "hmmmmm",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 291,
+      "team": "||=||ackingTeam",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 292,
+      "team": "Anonymouse",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 293,
+      "team": "monji",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 294,
+      "team": "lonewolf",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 295,
+      "team": "breakit",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 296,
+      "team": "0xahew",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 297,
+      "team": "Renegades",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 298,
+      "team": "sebastianpc",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 299,
+      "team": "Incognito Mode",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 300,
+      "team": "JoeW",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 301,
+      "team": "Reloaded",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 302,
+      "team": ":thinking:",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 303,
+      "team": "z3r0",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 304,
+      "team": "r00ts",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 305,
+      "team": "xwx",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 306,
+      "team": "poigiatre",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 307,
+      "team": "AIE CTF",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 308,
+      "team": "Rcat2021",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 309,
+      "team": "Hidiot",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 310,
+      "team": "TheIce",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 311,
+      "team": "KẹoBôngGòn",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 312,
+      "team": "0x435446",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 313,
+      "team": "13377",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 314,
+      "team": "ILIVEINCODE",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 315,
+      "team": "bois",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 316,
+      "team": "pobateam",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 317,
+      "team": "Arabs",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 318,
+      "team": "KUCS",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 319,
+      "team": "sudovonctf",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 320,
+      "team": "CyberGod",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 321,
+      "team": "hk",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 322,
+      "team": "Rasser",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 323,
+      "team": "bubu",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 324,
+      "team": "Arvika Hackerspace",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 325,
+      "team": "bsd",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 326,
+      "team": "HackThePlanet",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 327,
+      "team": "CaptainNick",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 328,
+      "team": "ROKHong",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 329,
+      "team": "Team_SALVATORE",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 330,
+      "team": "zzz",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 331,
+      "team": "bingsub",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 332,
+      "team": "t3m",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 333,
+      "team": "caketti",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 334,
+      "team": "UdagawaWhiteBears",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 335,
+      "team": "bois_o_dia",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 336,
+      "team": "B308",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 337,
+      "team": "YASH",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 338,
+      "team": "whitehathacker8181",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 339,
+      "team": "kgrzk",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 340,
+      "team": "Klingsta",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 341,
+      "team": "mikoan",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 342,
+      "team": "thi8eivi",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 343,
+      "team": "honeypot",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 344,
+      "team": "nosinosigo95",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 345,
+      "team": "TYS",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 346,
+      "team": "F0x2C",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 347,
+      "team": "H4ck3r1st",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 348,
+      "team": "conco",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 349,
+      "team": "Stack",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 350,
+      "team": "daHello",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 351,
+      "team": "erikkabir",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 352,
+      "team": "M3g4tr0n",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 353,
+      "team": "Panadol",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 354,
+      "team": "Staszero",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 355,
+      "team": "82HackersxD!",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 356,
+      "team": "daninnm",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 357,
+      "team": "DinoDongers",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 358,
+      "team": "huydoppa",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 359,
+      "team": "DShmashers",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 360,
+      "team": "UnDefuse",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 361,
+      "team": "r4t5_",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 362,
+      "team": "OTM",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 363,
+      "team": "pkp1337",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 364,
+      "team": "FISE",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 365,
+      "team": "omnicle",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 366,
+      "team": "Gameraiders",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 367,
+      "team": "vared",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 368,
+      "team": "f*",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 369,
+      "team": "zer0fofive",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 370,
+      "team": "dokko",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 371,
+      "team": "kingoff",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 372,
+      "team": "b00t",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 373,
+      "team": "Parrot Party",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 374,
+      "team": "mahmoud",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 375,
+      "team": "Banga",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 376,
+      "team": "NO PWN NO FUN",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 377,
+      "team": "thepowerofgrep",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 378,
+      "team": "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 379,
+      "team": "123123",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 380,
+      "team": "shrimpH",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 381,
+      "team": "Panpan",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 382,
+      "team": "reazrana",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 383,
+      "team": "e35e7df0-e807-4464-a6af-b76aba2246f0",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 384,
+      "team": "sucksociety",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 385,
+      "team": "Hacksec",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 386,
+      "team": "#9370DB",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 387,
+      "team": "mimikatz",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 388,
+      "team": "rmaa77",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 389,
+      "team": "I_and_i",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 390,
+      "team": "hackers4432",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 391,
+      "team": "SoloGoer",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 392,
+      "team": "wiiiiiw",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 393,
+      "team": "wizzlewazzle",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 394,
+      "team": "ɔɔuƧ",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 395,
+      "team": "HISenbruh",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 396,
+      "team": "ahihi",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 397,
+      "team": "tacoman",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 398,
+      "team": "jmp",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 399,
+      "team": "Thebois",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 400,
+      "team": "おShi勉",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 401,
+      "team": "1231231231",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 402,
+      "team": "J93",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 403,
+      "team": "Lauda ka sarkaar",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 404,
+      "team": "Br0th3rN00b",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 405,
+      "team": "StrixGoldhorn",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 406,
+      "team": "PersianCats",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 407,
+      "team": "EliteSploit",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 408,
+      "team": "Superrrrr",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 409,
+      "team": "manishkumarr",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 410,
+      "team": "Th3 n00bs",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 411,
+      "team": "!notAlmond",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 412,
+      "team": "rood battalion",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 413,
+      "team": "Pwners",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 414,
+      "team": "flyfree",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 415,
+      "team": "AK-47",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 416,
+      "team": "xxx",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 417,
+      "team": "Evilpanda",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 418,
+      "team": "CSh31l",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 419,
+      "team": "exploitits",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 420,
+      "team": "teamfreestuff",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 421,
+      "team": "Ammas_Hackers",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 422,
+      "team": "20H",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 423,
+      "team": "danks",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 424,
+      "team": "m3chanic",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 425,
+      "team": "Lammm",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 426,
+      "team": "Dai Gurren Dan",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 427,
+      "team": "Omnis et non sapiente consequatur impedit. Quae est est corrupti quis. Quibusdam quod ad eum quia quis minima",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 428,
+      "team": "529",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 429,
+      "team": "jagira",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 430,
+      "team": "p4snet0",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 431,
+      "team": "GALAU",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 432,
+      "team": "irNoobs",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 433,
+      "team": "usaa123",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 434,
+      "team": "Guardian",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 435,
+      "team": "Docternal",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 436,
+      "team": "New",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 437,
+      "team": "chucha",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 438,
+      "team": "P5QPLAM",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 439,
+      "team": "SabunColek",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 440,
+      "team": "quoztl",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 441,
+      "team": "Zinkd",
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "pos": 442,
+      "team": "anon",
+      "score": 0,
+      "taskStats": {}
+    }
+  ],
+  "date": 1615042800,
+  "name": "BSidesSF 2021 CTF"
+}
