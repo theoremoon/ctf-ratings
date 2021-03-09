@@ -4,9 +4,9 @@ import json
 import os
 from typing import List, Dict
 from datetime import datetime
-from lib.scraper import BSidesSFScraper
+from lib.scraper import BSidesSFScraper, D3CTFScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
@@ -15,6 +15,7 @@ def main():
     parser.add_argument("url")
     parser.add_argument("--platform", default="ctfd")
     parser.add_argument("--session")
+    parser.add_argument("--token")
     parser.add_argument("--mode", default="teams")
 
     args = parser.parse_args()
@@ -22,7 +23,7 @@ def main():
         print("Currently supported platforms are: {}".format(PLATFORMS.keys()), file=sys.stderr)
         quit(1)
 
-    scraper = PLATFORMS[args.platform](args.url, session=args.session, mode=args.mode)
+    scraper = PLATFORMS[args.platform](args.url, session=args.session, mode=args.mode, token=args.token)
     data = scraper.scoreboard()
     data["date"] = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
     data["name"] = args.name
