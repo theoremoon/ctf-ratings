@@ -20,21 +20,22 @@ class D3CTFScraper():
 
     def _scoreboard(self):
         page = 1
-        count = 0
         teams = []
         while True:
             r = self._get("/API/Team/ranking?language=en&page={}&withCount=false".format(page))
             r.raise_for_status()
             data = r.json()["data"]
-            count = data["total"]
+            if len(data["ranking"]) == 0:
+                break
+
             for team in data["ranking"]:
                 teams.append({
                     "pos": len(teams) + 1,
                     "team": team["team_name"],
                     "score": team["dynamic_total_score"]
                 })
-            if count <= len(teams):
-                break
+
+            page += 1
 
         removeindex = []
         for i in range(len(teams)):
