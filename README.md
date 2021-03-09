@@ -16,6 +16,43 @@ ctftime.org じゃないレーティングシステム考えて、ついでに�
 
 レートXのチームがその問題を解ける確率が90%のとき、その問題のDifficultyはX
 
+
+## How to contribute?
+
+### Add CTF Result
+
+Add `<CTF>.json` to `./data/events/`. Scoreboard format is following mainly https://ctftime.org/json-scoreboard-feed.
+
+```json
+{
+  "tasks": ["task1", "task2", ...],
+  "standings": [
+    {
+      "pos": 1,
+      "team": "teamName",
+      "score": 1333,
+      "taskStats": {
+        "task1": {
+          "points": 1,
+          "time": 1615117300
+        },
+        "task2": {
+          "points": 1,
+          "time": 1615117300
+        }
+      }
+    },
+    { ... }
+  ],
+  "date": 1600000000,
+  "name": "CTF Name"
+}
+```
+
+### Add your team alias
+
+See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0pts.json
+
 ## Author
 
 - theoremoon (in zer0pts)
