@@ -53,6 +53,12 @@ Add `<CTF>.json` to `./data/events/`. Scoreboard format is following mainly http
 
 See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0pts.json
 
+## Missing CTFs
+
+- D^3 CTF (scoreserver is closed)
+- vishwaCTF 2021 (cloudfrare protection)
+- BCA CTF 2021 (no scoreserver)
+
 ## Author
 
 - theoremoon (in zer0pts)
