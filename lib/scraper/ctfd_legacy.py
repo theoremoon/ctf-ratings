@@ -41,10 +41,10 @@ class LegacyCTFdScraper():
         trs = soup.select("#scoreboard tbody tr")
         teams = []
         for tr in trs:
-            team_id = tr.find("a")["href"].split("/")[-1]
-            team_name = tr.find("a").text.strip()
+            id = tr.find("a")["href"].split("/")[-1]
+            name = tr.find("a").text.strip()
             score = int(tr.find_all("td")[-1].text)
-            teams.append({"id": team_id, "name": team_name, "pos": len(teams), "score": score, "taskStats": {}})
+            teams.append({"id": id, "team": name, "pos": len(teams) + 1, "score": score, "taskStats": {}})
         logger.warning("[+] done")
         return teams
 
