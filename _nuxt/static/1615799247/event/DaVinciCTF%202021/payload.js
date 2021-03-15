@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/DaVinciCTF%202021", {data:[{}],fetch:[],mutations:[]});

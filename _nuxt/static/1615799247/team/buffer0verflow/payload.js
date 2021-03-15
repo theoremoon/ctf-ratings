@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/buffer0verflow", {data:[{},{}],fetch:[],mutations:[]});
