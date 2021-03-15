@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Knights%20of%20the%20Routing%20Table", {data:[{},{}],fetch:[],mutations:[]});

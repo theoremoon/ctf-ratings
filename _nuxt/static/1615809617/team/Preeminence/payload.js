@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Preeminence", {data:[{},{}],fetch:[],mutations:[]});

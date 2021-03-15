@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/night_is_dark_and_full_of_errors", {data:[{},{}],fetch:[],mutations:[]});

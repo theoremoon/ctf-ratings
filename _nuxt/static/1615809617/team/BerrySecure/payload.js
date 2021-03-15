@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/BerrySecure", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/W2020", {data:[{},{}],fetch:[],mutations:[]});

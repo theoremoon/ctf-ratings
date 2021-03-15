@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/bout_to_get_flagged", {data:[{},{}],fetch:[],mutations:[]});

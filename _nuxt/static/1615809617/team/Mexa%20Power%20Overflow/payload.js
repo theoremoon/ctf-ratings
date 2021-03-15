@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Mexa%20Power%20Overflow", {data:[{},{}],fetch:[],mutations:[]});

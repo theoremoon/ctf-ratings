@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Silver%20Catalysts", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/vipnet_love", {data:[{},{}],fetch:[],mutations:[]});

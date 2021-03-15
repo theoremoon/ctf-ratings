@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/log_you_out", {data:[{},{}],fetch:[],mutations:[]});

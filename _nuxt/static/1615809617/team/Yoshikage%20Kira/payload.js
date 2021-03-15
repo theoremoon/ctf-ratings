@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Yoshikage%20Kira", {data:[{},{}],fetch:[],mutations:[]});

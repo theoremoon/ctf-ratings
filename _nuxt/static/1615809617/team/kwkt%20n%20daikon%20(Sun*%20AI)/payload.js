@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/kwkt%20n%20daikon%20(Sun*%20AI)", {data:[{},{}],fetch:[],mutations:[]});

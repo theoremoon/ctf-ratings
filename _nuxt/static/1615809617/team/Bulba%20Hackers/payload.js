@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Bulba%20Hackers", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/0x8Layer", {data:[{},{}],fetch:[],mutations:[]});

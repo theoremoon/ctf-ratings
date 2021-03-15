@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Turing%20-%20ITBA", {data:[{},{}],fetch:[],mutations:[]});

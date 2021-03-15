@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/The%20Da%20Vinky%20Code", {data:[{},{}],fetch:[],mutations:[]});

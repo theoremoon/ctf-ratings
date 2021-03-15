@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/PingTrip", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Starlight%20Defenders", {data:[{},{}],fetch:[],mutations:[]});

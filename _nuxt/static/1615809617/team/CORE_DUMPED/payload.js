@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/CORE_DUMPED", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/day_is_bright_and_without_errors", {data:[{},{}],fetch:[],mutations:[]});

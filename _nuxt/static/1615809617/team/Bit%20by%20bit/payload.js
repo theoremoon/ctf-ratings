@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Bit%20by%20bit", {data:[{},{}],fetch:[],mutations:[]});

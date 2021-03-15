@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Topological%20surface", {data:[{},{}],fetch:[],mutations:[]});

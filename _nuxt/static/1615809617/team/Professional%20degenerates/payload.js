@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Professional%20degenerates", {data:[{},{}],fetch:[],mutations:[]});

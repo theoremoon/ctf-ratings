@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/TensionBox", {data:[{},{}],fetch:[],mutations:[]});

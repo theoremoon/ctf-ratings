@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Harambe%20Was%20Robbed", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Gulag%20Gang", {data:[{},{}],fetch:[],mutations:[]});

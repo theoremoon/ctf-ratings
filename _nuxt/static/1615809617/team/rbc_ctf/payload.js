@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/rbc_ctf", {data:[{},{}],fetch:[],mutations:[]});

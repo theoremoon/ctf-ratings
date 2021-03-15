@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/3%20Gigabyte%20of%20RAM", {data:[{},{}],fetch:[],mutations:[]});

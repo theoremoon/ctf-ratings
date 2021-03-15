@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/SiriusSec", {data:[{},{}],fetch:[],mutations:[]});

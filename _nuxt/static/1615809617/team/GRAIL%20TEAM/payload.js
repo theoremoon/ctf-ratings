@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/GRAIL%20TEAM", {data:[{},{}],fetch:[],mutations:[]});

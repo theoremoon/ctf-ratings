@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Linkbynet%20Cybersecurity", {data:[{},{}],fetch:[],mutations:[]});

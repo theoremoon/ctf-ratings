@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Whole_lotta_Colada", {data:[{},{}],fetch:[],mutations:[]});

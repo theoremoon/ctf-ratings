@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/d3fault", {data:[{},{}],fetch:[],mutations:[]});

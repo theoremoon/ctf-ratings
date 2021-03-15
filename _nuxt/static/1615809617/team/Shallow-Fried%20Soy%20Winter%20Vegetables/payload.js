@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Shallow-Fried%20Soy%20Winter%20Vegetables", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/It%20Hz%20when%20IPv6", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Flags%20as%20a%20Service", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/LIT%20LOGIN", {data:[{},{}],fetch:[],mutations:[]});

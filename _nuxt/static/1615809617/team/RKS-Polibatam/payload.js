@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/RKS-Polibatam", {data:[{},{}],fetch:[],mutations:[]});

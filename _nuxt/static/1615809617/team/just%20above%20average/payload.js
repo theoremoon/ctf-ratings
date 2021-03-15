@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/just%20above%20average", {data:[{},{}],fetch:[],mutations:[]});

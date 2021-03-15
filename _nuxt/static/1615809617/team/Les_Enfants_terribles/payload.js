@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Les_Enfants_terribles", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/made_in_china", {data:[{},{}],fetch:[],mutations:[]});

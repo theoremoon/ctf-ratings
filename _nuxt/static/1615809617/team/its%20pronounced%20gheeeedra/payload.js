@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/its%20pronounced%20gheeeedra", {data:[{},{}],fetch:[],mutations:[]});

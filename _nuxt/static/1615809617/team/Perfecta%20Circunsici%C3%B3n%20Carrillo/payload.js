@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Perfecta%20Circunsici%C3%B3n%20Carrillo", {data:[{},{}],fetch:[],mutations:[]});

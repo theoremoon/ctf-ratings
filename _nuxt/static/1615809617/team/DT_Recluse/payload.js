@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/DT_Recluse", {data:[{},{}],fetch:[],mutations:[]});

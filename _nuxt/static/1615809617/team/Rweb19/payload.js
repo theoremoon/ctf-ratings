@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Rweb19", {data:[{},{}],fetch:[],mutations:[]});

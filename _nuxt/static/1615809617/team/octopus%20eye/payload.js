@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/octopus%20eye", {data:[{},{}],fetch:[],mutations:[]});

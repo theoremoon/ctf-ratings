@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Keanu%20Reeves", {data:[{},{}],fetch:[],mutations:[]});

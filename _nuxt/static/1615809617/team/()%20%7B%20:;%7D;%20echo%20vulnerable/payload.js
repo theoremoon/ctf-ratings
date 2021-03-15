@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/()%20%7B%20:;%7D;%20echo%20vulnerable", {data:[{},{}],fetch:[],mutations:[]});

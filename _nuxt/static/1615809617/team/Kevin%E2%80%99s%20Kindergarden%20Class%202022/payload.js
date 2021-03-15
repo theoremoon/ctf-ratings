@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Kevin%E2%80%99s%20Kindergarden%20Class%202022", {data:[{},{}],fetch:[],mutations:[]});

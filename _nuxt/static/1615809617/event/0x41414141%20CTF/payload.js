@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/event/0x41414141%20CTF", {data:[{}],fetch:[],mutations:[]});

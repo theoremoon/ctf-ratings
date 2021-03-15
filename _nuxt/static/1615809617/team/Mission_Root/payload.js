@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Mission_Root", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/[sqrt(-1)%20+%201]", {data:[{},{}],fetch:[],mutations:[]});

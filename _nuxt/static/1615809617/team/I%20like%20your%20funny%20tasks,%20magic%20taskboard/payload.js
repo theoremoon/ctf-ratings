@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/I%20like%20your%20funny%20tasks,%20magic%20taskboard", {data:[{},{}],fetch:[],mutations:[]});

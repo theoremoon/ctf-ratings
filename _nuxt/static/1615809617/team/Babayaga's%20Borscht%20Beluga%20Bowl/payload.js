@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Babayaga's%20Borscht%20Beluga%20Bowl", {data:[{},{}],fetch:[],mutations:[]});

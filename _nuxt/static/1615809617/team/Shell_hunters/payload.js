@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Shell_hunters", {data:[{},{}],fetch:[],mutations:[]});

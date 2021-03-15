@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/backspace%20mutiny", {data:[{},{}],fetch:[],mutations:[]});

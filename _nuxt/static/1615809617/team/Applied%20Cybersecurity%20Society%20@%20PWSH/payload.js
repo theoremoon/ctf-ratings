@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Applied%20Cybersecurity%20Society%20@%20PWSH", {data:[{},{}],fetch:[],mutations:[]});

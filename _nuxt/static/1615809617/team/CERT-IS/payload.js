@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/CERT-IS", {data:[{},{}],fetch:[],mutations:[]});

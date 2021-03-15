@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Dragon%20Sector", {data:[{},{}],fetch:[],mutations:[]});

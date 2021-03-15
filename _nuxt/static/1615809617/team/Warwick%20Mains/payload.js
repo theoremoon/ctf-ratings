@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Warwick%20Mains", {data:[{},{}],fetch:[],mutations:[]});

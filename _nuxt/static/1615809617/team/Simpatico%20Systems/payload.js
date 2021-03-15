@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Simpatico%20Systems", {data:[{},{}],fetch:[],mutations:[]});

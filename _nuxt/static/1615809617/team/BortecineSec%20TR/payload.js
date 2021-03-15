@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/BortecineSec%20TR", {data:[{},{}],fetch:[],mutations:[]});

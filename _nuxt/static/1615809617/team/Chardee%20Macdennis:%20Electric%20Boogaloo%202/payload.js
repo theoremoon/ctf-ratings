@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Chardee%20Macdennis:%20Electric%20Boogaloo%202", {data:[{},{}],fetch:[],mutations:[]});

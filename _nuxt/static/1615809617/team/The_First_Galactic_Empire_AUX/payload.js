@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/The_First_Galactic_Empire_AUX", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/50MB!@!@", {data:[{},{}],fetch:[],mutations:[]});

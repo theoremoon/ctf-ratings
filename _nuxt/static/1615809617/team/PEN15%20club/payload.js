@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/PEN15%20club", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/lost+found", {data:[{},{}],fetch:[],mutations:[]});

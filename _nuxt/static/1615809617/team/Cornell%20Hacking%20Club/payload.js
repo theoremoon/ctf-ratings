@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Cornell%20Hacking%20Club", {data:[{},{}],fetch:[],mutations:[]});

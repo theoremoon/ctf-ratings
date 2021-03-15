@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/xinruk-hyrla-alex-raeura", {data:[{},{}],fetch:[],mutations:[]});

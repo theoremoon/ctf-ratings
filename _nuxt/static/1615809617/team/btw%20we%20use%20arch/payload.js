@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/btw%20we%20use%20arch", {data:[{},{}],fetch:[],mutations:[]});

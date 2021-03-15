@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/entr0py", {data:[{},{}],fetch:[],mutations:[]});

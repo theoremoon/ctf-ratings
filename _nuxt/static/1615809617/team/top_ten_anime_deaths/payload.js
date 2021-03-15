@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/top_ten_anime_deaths", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/coderspace", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Radboud%20Institute%20of%20Pwning", {data:[{},{}],fetch:[],mutations:[]});

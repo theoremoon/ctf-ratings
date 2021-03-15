@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/everything%20is%20made%20up", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Friendly%20Hacks", {data:[{},{}],fetch:[],mutations:[]});

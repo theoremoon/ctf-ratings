@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Brute%20Force%20Attack", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Daylight%20Vanguard", {data:[{},{}],fetch:[],mutations:[]});

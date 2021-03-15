@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/CTD%20Elite", {data:[{},{}],fetch:[],mutations:[]});

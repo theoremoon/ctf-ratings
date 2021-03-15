@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Club%20of%20Very%20Responsible%20Individuals", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/';%20drop%20table%20participants';", {data:[{},{}],fetch:[],mutations:[]});

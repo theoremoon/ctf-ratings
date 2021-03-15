@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/ineedgui%20bn", {data:[{},{}],fetch:[],mutations:[]});

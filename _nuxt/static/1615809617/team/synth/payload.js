@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/synth", {data:[{},{}],fetch:[],mutations:[]});

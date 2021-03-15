@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/condition%20Race", {data:[{},{}],fetch:[],mutations:[]});

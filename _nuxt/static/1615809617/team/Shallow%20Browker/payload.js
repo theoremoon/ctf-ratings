@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Shallow%20Browker", {data:[{},{}],fetch:[],mutations:[]});

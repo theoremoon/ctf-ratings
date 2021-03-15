@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Simcoe%20Soloer", {data:[{},{}],fetch:[],mutations:[]});

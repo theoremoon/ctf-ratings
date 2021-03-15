@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Terminally%20Online", {data:[{},{}],fetch:[],mutations:[]});

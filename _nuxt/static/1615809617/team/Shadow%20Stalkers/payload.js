@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Shadow%20Stalkers", {data:[{},{}],fetch:[],mutations:[]});

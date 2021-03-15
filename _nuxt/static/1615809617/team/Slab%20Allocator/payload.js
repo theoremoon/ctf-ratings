@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Slab%20Allocator", {data:[{},{}],fetch:[],mutations:[]});

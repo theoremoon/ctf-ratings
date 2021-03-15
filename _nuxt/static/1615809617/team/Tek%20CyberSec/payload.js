@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Tek%20CyberSec", {data:[{},{}],fetch:[],mutations:[]});

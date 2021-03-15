@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/RAID%20Against%20the%20Machin3", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/WIC%20(Welfare%20is%20Cool)", {data:[{},{}],fetch:[],mutations:[]});

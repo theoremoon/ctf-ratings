@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/NTF%20(no%20team%20february)", {data:[{},{}],fetch:[],mutations:[]});

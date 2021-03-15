@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/alba%20sul%20pittoresco%20lago", {data:[{},{}],fetch:[],mutations:[]});

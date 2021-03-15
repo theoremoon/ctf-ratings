@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/strings%20$1%20|%20grep%20-i%20flag", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Tokyo%20Bush%20Vipers", {data:[{},{}],fetch:[],mutations:[]});

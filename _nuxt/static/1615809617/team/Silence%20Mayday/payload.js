@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Silence%20Mayday", {data:[{},{}],fetch:[],mutations:[]});

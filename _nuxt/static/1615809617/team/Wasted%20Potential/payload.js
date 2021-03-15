@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Wasted%20Potential", {data:[{},{}],fetch:[],mutations:[]});

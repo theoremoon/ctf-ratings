@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/BTC_FR", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Antivirus", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/NOt_flag", {data:[{},{}],fetch:[],mutations:[]});

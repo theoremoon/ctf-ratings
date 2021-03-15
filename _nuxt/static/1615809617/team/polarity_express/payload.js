@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/polarity_express", {data:[{},{}],fetch:[],mutations:[]});

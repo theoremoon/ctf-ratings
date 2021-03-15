@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/forctf2019", {data:[{},{}],fetch:[],mutations:[]});

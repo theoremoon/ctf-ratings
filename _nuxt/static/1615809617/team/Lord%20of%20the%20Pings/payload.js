@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Lord%20of%20the%20Pings", {data:[{},{}],fetch:[],mutations:[]});

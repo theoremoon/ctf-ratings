@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/upside%20down%20bookcase", {data:[{},{}],fetch:[],mutations:[]});

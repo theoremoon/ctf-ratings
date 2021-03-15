@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/event/Tenable%20CTF%202021", {data:[{}],fetch:[],mutations:[]});

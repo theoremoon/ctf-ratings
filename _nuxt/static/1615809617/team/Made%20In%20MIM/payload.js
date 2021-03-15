@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Made%20In%20MIM", {data:[{},{}],fetch:[],mutations:[]});

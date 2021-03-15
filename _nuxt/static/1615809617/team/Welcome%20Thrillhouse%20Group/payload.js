@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Welcome%20Thrillhouse%20Group", {data:[{},{}],fetch:[],mutations:[]});

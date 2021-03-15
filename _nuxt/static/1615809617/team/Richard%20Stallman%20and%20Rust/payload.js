@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Richard%20Stallman%20and%20Rust", {data:[{},{}],fetch:[],mutations:[]});

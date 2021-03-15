@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/defcongroup702", {data:[{},{}],fetch:[],mutations:[]});

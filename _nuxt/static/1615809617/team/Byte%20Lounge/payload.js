@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Byte%20Lounge", {data:[{},{}],fetch:[],mutations:[]});

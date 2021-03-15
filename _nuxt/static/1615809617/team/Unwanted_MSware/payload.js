@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Unwanted_MSware", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/rootf16", {data:[{},{}],fetch:[],mutations:[]});

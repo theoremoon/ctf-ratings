@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Punk%20Rock%20Created%20FOSS", {data:[{},{}],fetch:[],mutations:[]});

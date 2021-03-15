@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/SodaOverflow", {data:[{},{}],fetch:[],mutations:[]});

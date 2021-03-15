@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/regex2hard", {data:[{},{}],fetch:[],mutations:[]});

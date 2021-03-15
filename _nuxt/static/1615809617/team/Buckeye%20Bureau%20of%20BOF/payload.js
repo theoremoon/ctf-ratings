@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Buckeye%20Bureau%20of%20BOF", {data:[{},{}],fetch:[],mutations:[]});

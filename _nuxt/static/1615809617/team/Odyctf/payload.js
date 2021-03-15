@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Odyctf", {data:[{},{}],fetch:[],mutations:[]});

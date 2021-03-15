@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Tachyonic%20Particle", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Diceoids", {data:[{},{}],fetch:[],mutations:[]});

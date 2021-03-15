@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Locked_Lego_Character", {data:[{},{}],fetch:[],mutations:[]});

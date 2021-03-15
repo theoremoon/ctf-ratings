@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/TLS", {data:[{},{}],fetch:[],mutations:[]});

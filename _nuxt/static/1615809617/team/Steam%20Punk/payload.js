@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Steam%20Punk", {data:[{},{}],fetch:[],mutations:[]});

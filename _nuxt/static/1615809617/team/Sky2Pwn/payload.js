@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Sky2Pwn", {data:[{},{}],fetch:[],mutations:[]});

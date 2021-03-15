@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/rycbar", {data:[{},{}],fetch:[],mutations:[]});

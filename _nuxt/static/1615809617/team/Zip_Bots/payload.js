@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Zip_Bots", {data:[{},{}],fetch:[],mutations:[]});

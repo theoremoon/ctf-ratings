@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/dragonslayer20", {data:[{},{}],fetch:[],mutations:[]});

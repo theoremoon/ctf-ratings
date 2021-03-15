@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/XSS%20Addict", {data:[{},{}],fetch:[],mutations:[]});

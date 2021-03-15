@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Taylor-made%20Tendies", {data:[{},{}],fetch:[],mutations:[]});

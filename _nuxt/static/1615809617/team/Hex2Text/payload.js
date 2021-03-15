@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Hex2Text", {data:[{},{}],fetch:[],mutations:[]});

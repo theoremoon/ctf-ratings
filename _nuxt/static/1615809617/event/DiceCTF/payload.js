@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/event/DiceCTF", {data:[{}],fetch:[],mutations:[]});

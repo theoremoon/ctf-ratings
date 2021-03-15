@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/score_gazer", {data:[{},{}],fetch:[],mutations:[]});

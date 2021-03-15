@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Codename%20Sandstorm", {data:[{},{}],fetch:[],mutations:[]});

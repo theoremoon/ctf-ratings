@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/League%20of%20Shadows", {data:[{},{}],fetch:[],mutations:[]});

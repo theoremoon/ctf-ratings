@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Patton's%20Third%20Army", {data:[{},{}],fetch:[],mutations:[]});

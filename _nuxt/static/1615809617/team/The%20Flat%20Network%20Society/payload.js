@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/The%20Flat%20Network%20Society", {data:[{},{}],fetch:[],mutations:[]});

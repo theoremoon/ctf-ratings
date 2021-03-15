@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Naughty%20Random%20Weapons", {data:[{},{}],fetch:[],mutations:[]});

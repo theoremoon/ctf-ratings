@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/Gatsby-de3d", {data:[{},{}],fetch:[],mutations:[]});

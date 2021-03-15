@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/team/t4lha", {data:[{},{}],fetch:[],mutations:[]});
