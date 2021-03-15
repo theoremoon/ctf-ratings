@@ -58,6 +58,7 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - D^3 CTF (scoreserver is closed)
 - vishwaCTF 2021 (cloudfrare protection)
 - BCA CTF 2021 (no scoreserver)
+- White-Hats Break the Syntax CTF (ssl handshake failed)
 
 ## Author
 
