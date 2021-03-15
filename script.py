@@ -4,9 +4,9 @@ import json
 import os
 from typing import List, Dict
 from datetime import datetime
-from lib.scraper import BSidesSFScraper, D3CTFScraper
+from lib.scraper import BSidesSFScraper, D3CTFScraper, LegacyCTFdScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper}
 
 def main():
     parser = argparse.ArgumentParser()
