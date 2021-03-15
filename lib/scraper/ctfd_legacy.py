@@ -25,7 +25,7 @@ class LegacyCTFdScraper():
 
     def _get(self, path):
         s = requests.Session()
-        retries = Retry(backoff_factor=5, status_forcelist=[500, 501, 502, 503, 504])
+        retries = Retry(total=5, backoff_factor=0.1, status_forcelist=[500, 501, 502, 503, 504])
         s.mount("http://", HTTPAdapter(max_retries=retries))
         s.mount("https://", HTTPAdapter(max_retries=retries))
         if self.session:
@@ -61,6 +61,7 @@ class LegacyCTFdScraper():
             name = tr.find("a").text.strip()
             score = tr.find_all("td")[2].text
             datestr = tr.select("span[data-time]")[0]["data-time"].strip()
+            datestr = re.sub(r"\.[0-9]+", "", datestr)
             time = datetime.strptime(datestr, "%Y-%m-%dT%H:%M:%SZ")
             tasks[name] = {"points": score, "time": int(time.timestamp())}
         return tasks
@@ -68,7 +69,6 @@ class LegacyCTFdScraper():
     def _teams_tasks(self):
         """
         問題のIDはstrで管理する
-        [順位に昇順なチーム名], {チーム名:[チームが解いた問題のID]}, {問題ID:問題の詳細}
         """
         teams = self._teams()
         tasks = set()
