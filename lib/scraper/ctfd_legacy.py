@@ -6,6 +6,12 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import re
 import time
+from logging import getLogger, StreamHandler, Formatter
+
+logger = getLogger(__name__)
+handler = StreamHandler()
+handler.setFormatter(Formatter('%(asctime)-15s %(message)s'))
+logger.addHandler(handler)
 
 class LegacyCTFdScraper():
     def __init__(self, url, **kwargs):
@@ -28,7 +34,7 @@ class LegacyCTFdScraper():
             return s.get(urljoin(self.url, path))
 
     def _teams(self):
-        print("[+] get scoreboard...")
+        logger.warning("[+] get scoreboard...")
         r = self._get("/scoreboard")
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
@@ -36,28 +42,27 @@ class LegacyCTFdScraper():
         teams = []
         for tr in trs:
             team_id = tr.find("a")["href"].split("/")[-1]
-            team_name = tr.find("a").text
+            team_name = tr.find("a").text.strip()
             score = int(tr.find_all("td")[-1].text)
             teams.append({"id": team_id, "name": team_name, "pos": len(teams), "score": score, "taskStats": {}})
-        print("[+] done")
+        logger.warning("[+] done")
         return teams
 
     def _team_solves(self, team_id):
-        print("[+] get team solves...")
-        r = self._get("/{}/{}".format(self.mode[:-1], team_id))
+        r = self._get("/{}/{}".format(self.mode, team_id))
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
         trs = soup.select("table tbody tr")
         tasks = {}
         for tr in trs:
-            name = tr.find("a").text
-            score = tr.select("td")[2].text
-            datestr = tr.select("td")[3].text
-            time = datetime.strptime(re.sub(r"([0-9])(th|st|nd|rd)", r"\1", datestr), "%B %d, %I:%M:%S %p")
-            time = time.replace(year=datetime.now().year)
-            tasks[name] = {"points": score, "time": int(time.timestamp())}
+            if len(tr.find_all("td")) != 4:
+                continue
 
-        print("[+] done")
+            name = tr.find("a").text.strip()
+            score = tr.find_all("td")[2].text
+            datestr = tr.select("span[data-time]")[0]["data-time"].strip()
+            time = datetime.strptime(datestr, "%Y-%m-%dT%H:%M:%SZ")
+            tasks[name] = {"points": score, "time": int(time.timestamp())}
         return tasks
 
     def _teams_tasks(self):
@@ -71,7 +76,7 @@ class LegacyCTFdScraper():
         for i in range(len(teams)):
             if i % 10 == 0:
                 time.sleep(0.5)
-                print("[+] progress: {}/{}".format(i+1, len(teams)))
+                logger.warning("[+] progress: {}/{}".format(i+1, len(teams)))
 
             solves = self._team_solves(teams[i]["id"])
             tasks.update(solves.keys())
