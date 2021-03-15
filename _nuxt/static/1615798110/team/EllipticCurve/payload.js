@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/EllipticCurve", {data:[{},{}],fetch:[],mutations:[]});

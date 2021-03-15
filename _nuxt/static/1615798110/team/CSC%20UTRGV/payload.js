@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/CSC%20UTRGV", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/sindo", {data:[{},{}],fetch:[],mutations:[]});

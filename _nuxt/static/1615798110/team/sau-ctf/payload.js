@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/sau-ctf", {data:[{},{}],fetch:[],mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/The%20Soviet%20Yunyun", {data:[{},{}],fetch:[],mutations:[]});

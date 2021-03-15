@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/event/UTCTF%202021", {data:[{}],fetch:[],mutations:[]});

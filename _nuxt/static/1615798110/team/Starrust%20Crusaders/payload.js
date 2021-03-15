@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Starrust%20Crusaders", {data:[{},{}],fetch:[],mutations:[]});

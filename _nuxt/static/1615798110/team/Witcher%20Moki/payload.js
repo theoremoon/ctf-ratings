@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/team/Witcher%20Moki", {data:[{},{}],fetch:[],mutations:[]});
