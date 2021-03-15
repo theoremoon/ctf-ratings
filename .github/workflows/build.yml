@@ -3,7 +3,7 @@ on:
   pull_request:
     paths:
       - 'data/**/*.json'
-  workflow_dispatch: true
+  workflow_dispatch:
 
 jobs:
   deploy:
