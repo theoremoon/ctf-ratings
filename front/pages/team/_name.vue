@@ -14,7 +14,12 @@
         <tbody>
             <tr v-for="ev in history">
                 <td><date :date="events.filter(e => e.name === ev.event)[0].date" /></td>
-                <td><NuxtLink :to="{name: 'team-name-ctf', params:{ name: teamname, ctf: ev.event} }">{{ ev.event }}</NuxtLink></td>
+                <td>
+                    <NuxtLink :to="{name: 'event-name', params: {name: ev.event}}">{{ ev.event }}</NuxtLink>
+                    <span style="font-size: 0.9em">
+                        <NuxtLink :to="{name: 'team-name-ctf', params:{ name: teamname, ctf: ev.event} }">tasks</NuxtLink>
+                    </span>
+                </td>
                 <td>{{ ev.rank }}</td>
                 <td><ratecolor :rating="ev.perf">{{ ev.perf }}</ratecolor></td>
                 <td><ratecolor :rating="ev.rating">{{ round(ev.rating, 2) }}</ratecolor></td>
