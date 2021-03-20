@@ -1,0 +1,6507 @@
+{
+  "tasks": [
+    "RSA 1.0",
+    "My new Blog",
+    "Take me to a cafe",
+    "Sanity Check 2",
+    "E-mail",
+    "SQL 2.0",
+    "heavydriver",
+    "C is hard",
+    "EnCrypted Bitmap",
+    "RSA 2.0",
+    "Common Block Cipher",
+    "Telephone",
+    "tooeasy",
+    "easystreaming",
+    "b1n4rY",
+    "Anime is love",
+    "Decode it",
+    "Welcome to the Pawry",
+    "Welcome"
+  ],
+  "standings": [
+    {
+      "id": "158",
+      "team": "InfoSecIITR",
+      "pos": 1,
+      "score": 7104,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125930
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616127086
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616127429
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616127985
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616128017
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616128674
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616130914
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616131384
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131480
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616138766
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616143870
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616147463
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616149308
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616151252
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616157656
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616169929
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616173896
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616179735
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616180080
+        }
+      }
+    },
+    {
+      "id": "261",
+      "team": "Silly Billy",
+      "pos": 2,
+      "score": 7104,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616128991
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616131509
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616133483
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137182
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616144365
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616145772
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616146641
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616149338
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616149533
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616150363
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616153226
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616153538
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616154257
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616154496
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616155412
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616157907
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616168544
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616175333
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616185816
+        }
+      }
+    },
+    {
+      "id": "56",
+      "team": "DarkArmy",
+      "pos": 3,
+      "score": 7104,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125039
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616125190
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616125467
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616127796
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616128403
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616130111
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616134734
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616135680
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616136012
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616136885
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616137164
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137912
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616138144
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616141911
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616143808
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616144638
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616176212
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616186535
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616193669
+        }
+      }
+    },
+    {
+      "id": "54",
+      "team": "ISITDTU",
+      "pos": 4,
+      "score": 7104,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124694
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124873
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616125821
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616126398
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616127173
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616127983
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616137099
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616138972
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616141046
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616142661
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616168608
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616171778
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616179428
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616184522
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616186117
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616197573
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616201147
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616202221
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616202345
+        }
+      }
+    },
+    {
+      "id": "188",
+      "team": "TMKOC",
+      "pos": 5,
+      "score": 7104,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126108
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616126837
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616127455
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616127957
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616128047
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616128709
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616130943
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616131250
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131493
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616139993
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616143909
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616149289
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616151365
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616151375
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616179057
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616179353
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616204409
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616204428
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616204440
+        }
+      }
+    },
+    {
+      "id": "21",
+      "team": "warlock_rootx",
+      "pos": 6,
+      "score": 6618,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125152
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616127482
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616128334
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616129135
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616129949
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616133816
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616133964
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616135156
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616138417
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616173739
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616174329
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616174608
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616179022
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616181303
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616181879
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616196522
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616197174
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616204328
+        }
+      }
+    },
+    {
+      "id": "355",
+      "team": "TRX",
+      "pos": 7,
+      "score": 6342,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125674
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616126239
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616126737
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616128036
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616129694
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616130107
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616131879
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616134384
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616134635
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616134771
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616135050
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616136987
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616139414
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616139737
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616139906
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616146361
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616173222
+        }
+      }
+    },
+    {
+      "id": "380",
+      "team": "Pseudo Science Enjoyer",
+      "pos": 8,
+      "score": 5811,
+      "taskStats": {
+        "tooeasy": {
+          "points": "498",
+          "time": 1616128955
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616134109
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616134941
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135233
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616175045
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616175442
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616176806
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616183686
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616185963
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616186864
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616189479
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616190750
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616192539
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616193691
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616195175
+        }
+      }
+    },
+    {
+      "id": "164",
+      "team": "HenThai",
+      "pos": 9,
+      "score": 5358,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126047
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616126856
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616127480
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616127967
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616128022
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616128596
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616130887
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616131396
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131559
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616142004
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616147499
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616147528
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616149297
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616151409
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616158398
+        }
+      }
+    },
+    {
+      "id": "67",
+      "team": "AntiBuddies",
+      "pos": 10,
+      "score": 4470,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616129292
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616129515
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616139873
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616149822
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616154096
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616155117
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616155380
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616155604
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616158609
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616162600
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616198363
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616198635
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616203238
+        }
+      }
+    },
+    {
+      "id": "48",
+      "team": "Neuland",
+      "pos": 11,
+      "score": 4460,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128532
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616129916
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616131019
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616136266
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137917
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616138568
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616143050
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616150799
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616161307
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616166098
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616170744
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616177542
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616202670
+        }
+      }
+    },
+    {
+      "id": "190",
+      "team": "Slow Coders",
+      "pos": 12,
+      "score": 4384,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616126708
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616127323
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616136380
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616139563
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616146436
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616153422
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616157242
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616160102
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616191543
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616191747
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616194858
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616197853
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616210876
+        }
+      }
+    },
+    {
+      "id": "44",
+      "team": "thehackerscrew",
+      "pos": 13,
+      "score": 3866,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126264
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127566
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616134967
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616142303
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616143956
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616148492
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616196936
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616197081
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616201391
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616207055
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616207284
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616208858
+        }
+      }
+    },
+    {
+      "id": "295",
+      "team": "Scavenger Security",
+      "pos": 14,
+      "score": 3637,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125373
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616127208
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616130671
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135136
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616137088
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616139285
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616150628
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616156562
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616161832
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616167451
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616206115
+        }
+      }
+    },
+    {
+      "id": "464",
+      "team": "acdwas",
+      "pos": 15,
+      "score": 3568,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616136597
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616136780
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616137810
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616138242
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616143360
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616143658
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616146117
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616161084
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616206280
+        }
+      }
+    },
+    {
+      "id": "100",
+      "team": "m1t0",
+      "pos": 16,
+      "score": 3540,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616145732
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616147742
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616147868
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616150216
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616152177
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616159236
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616167207
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616169458
+        }
+      }
+    },
+    {
+      "id": "335",
+      "team": "hack^3",
+      "pos": 17,
+      "score": 3480,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125593
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616128509
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616134402
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616141437
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616154546
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616154716
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616154792
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616156460
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616158963
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616160793
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616172965
+        }
+      }
+    },
+    {
+      "id": "403",
+      "team": "TourRadar",
+      "pos": 18,
+      "score": 3385,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616129889
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616130234
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616131098
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132029
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616135380
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616140811
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616140949
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616147096
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616148117
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616148353
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616150123
+        }
+      }
+    },
+    {
+      "id": "210",
+      "team": "<script>alert(\"Ping\")</script>",
+      "pos": 19,
+      "score": 3226,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124904
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616131232
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616141553
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616145846
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616146946
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616151689
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616152634
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616170017
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616208979
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616210198
+        }
+      }
+    },
+    {
+      "id": "45",
+      "team": "irNoobs",
+      "pos": 20,
+      "score": 3150,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124713
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126140
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616127422
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616137892
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616140240
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616146023
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616148032
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616164444
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616176171
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616201238
+        }
+      }
+    },
+    {
+      "id": "301",
+      "team": "host_3C",
+      "pos": 21,
+      "score": 3150,
+      "taskStats": {
+        "Telephone": {
+          "points": "323",
+          "time": 1616127428
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616129800
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616141099
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616141117
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616145274
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616146114
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616148136
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616180786
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616180850
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616203166
+        }
+      }
+    },
+    {
+      "id": "240",
+      "team": "c0nc0rd4t",
+      "pos": 22,
+      "score": 3018,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616130484
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616139520
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616144459
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616152503
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616153320
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616165256
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616167369
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616194951
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616204942
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616207052
+        }
+      }
+    },
+    {
+      "id": "208",
+      "team": "onotch",
+      "pos": 23,
+      "score": 3013,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126429
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616129293
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616132077
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132434
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616135173
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616141826
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616144470
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616173594
+        }
+      }
+    },
+    {
+      "id": "258",
+      "team": "z90",
+      "pos": 24,
+      "score": 2915,
+      "taskStats": {
+        "tooeasy": {
+          "points": "498",
+          "time": 1616126484
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616131179
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616135649
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616136213
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616136961
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616137407
+        }
+      }
+    },
+    {
+      "id": "385",
+      "team": "ri5e",
+      "pos": 25,
+      "score": 2870,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616128457
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616131109
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616155397
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616157148
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616157380
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616158319
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616206498
+        }
+      }
+    },
+    {
+      "id": "142",
+      "team": "bhaukaal",
+      "pos": 26,
+      "score": 2800,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616129694
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616131815
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616134246
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616135003
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616145151
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616146749
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616148122
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616156543
+        }
+      }
+    },
+    {
+      "id": "229",
+      "team": "hackboiz",
+      "pos": 27,
+      "score": 2658,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125584
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127992
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616128985
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616133448
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616142142
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616148908
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616191782
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616196785
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616209132
+        }
+      }
+    },
+    {
+      "id": "149",
+      "team": "Omaviat",
+      "pos": 28,
+      "score": 2611,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126893
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616137181
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137390
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616149122
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616152935
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616192885
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616195740
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616197937
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616204337
+        }
+      }
+    },
+    {
+      "id": "370",
+      "team": "CYberMouflons",
+      "pos": 29,
+      "score": 2585,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616126679
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616146765
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616155696
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616155975
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616157960
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616162613
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616206398
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616206812
+        }
+      }
+    },
+    {
+      "id": "108",
+      "team": "noob-atbash",
+      "pos": 30,
+      "score": 2558,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616130013
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616132916
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616138844
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616146660
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616146945
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616147390
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616148034
+        }
+      }
+    },
+    {
+      "id": "174",
+      "team": "Flaggermeister",
+      "pos": 31,
+      "score": 2477,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125473
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616125812
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616126525
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616153383
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616154778
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616156406
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616160336
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616169757
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616210927
+        }
+      }
+    },
+    {
+      "id": "118",
+      "team": "PARSECT",
+      "pos": 32,
+      "score": 2470,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616165155
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616200403
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616201293
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616203573
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616204777
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616205223
+        }
+      }
+    },
+    {
+      "id": "103",
+      "team": "BT_i5_Et3rn4L",
+      "pos": 33,
+      "score": 2449,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126051
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616128527
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616131239
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616133035
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616134743
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616135034
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137197
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137671
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616175660
+        }
+      }
+    },
+    {
+      "id": "299",
+      "team": "hackbuster",
+      "pos": 34,
+      "score": 2393,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124974
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616131558
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132800
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616141071
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616172093
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616172911
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616175686
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616204314
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616207996
+        }
+      }
+    },
+    {
+      "id": "206",
+      "team": "ZeroFlagsInc",
+      "pos": 35,
+      "score": 2364,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616144443
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616147810
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616155603
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616158307
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616158887
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616163354
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616167469
+        }
+      }
+    },
+    {
+      "id": "537",
+      "team": "Andrew Bae",
+      "pos": 36,
+      "score": 2331,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616143582
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616144915
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616145064
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616148116
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616151119
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616152943
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616154719
+        }
+      }
+    },
+    {
+      "id": "423",
+      "team": "N0Named",
+      "pos": 37,
+      "score": 2292,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616130296
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132980
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616134503
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616182682
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616202271
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616202720
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616204094
+        }
+      }
+    },
+    {
+      "id": "726",
+      "team": "Senko",
+      "pos": 38,
+      "score": 2262,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616192836
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616194113
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616194529
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616199120
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616204408
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616208778
+        }
+      }
+    },
+    {
+      "id": "727",
+      "team": "Senko2",
+      "pos": 39,
+      "score": 2262,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616193048
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616194032
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616194474
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616199054
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616199151
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616210650
+        }
+      }
+    },
+    {
+      "id": "123",
+      "team": "S0lid4rity",
+      "pos": 40,
+      "score": 2249,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124907
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125164
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616126196
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616135611
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616142663
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616143825
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616157565
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616191451
+        }
+      }
+    },
+    {
+      "id": "13",
+      "team": "d4rkc0de",
+      "pos": 41,
+      "score": 2238,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616152305
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616153598
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616155624
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616165079
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616195848
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616197490
+        }
+      }
+    },
+    {
+      "id": "284",
+      "team": "BrainOverflow",
+      "pos": 42,
+      "score": 2219,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124801
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131652
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616135250
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616136808
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616137266
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616148596
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616155606
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616205609
+        }
+      }
+    },
+    {
+      "id": "50",
+      "team": "Antivirus",
+      "pos": 43,
+      "score": 2141,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125469
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616126028
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616126128
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126621
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616139637
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616141825
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616143213
+        }
+      }
+    },
+    {
+      "id": "146",
+      "team": "kks",
+      "pos": 44,
+      "score": 2124,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616143764
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616144607
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616155518
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616160682
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616166681
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616167692
+        }
+      }
+    },
+    {
+      "id": "28",
+      "team": "PatanjaliHax",
+      "pos": 45,
+      "score": 1933,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126564
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616128376
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616139625
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616145412
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616184592
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616193370
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616200585
+        }
+      }
+    },
+    {
+      "id": "228",
+      "team": "Terminox",
+      "pos": 46,
+      "score": 1930,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616129262
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135675
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137784
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137813
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616138216
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616153913
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616153953
+        }
+      }
+    },
+    {
+      "id": "287",
+      "team": "dubini0",
+      "pos": 47,
+      "score": 1922,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125070
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616127194
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616130000
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616189113
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616191674
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616207610
+        }
+      }
+    },
+    {
+      "id": "664",
+      "team": "TheGoonies",
+      "pos": 48,
+      "score": 1909,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616176220
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616177063
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616178414
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616204113
+        }
+      }
+    },
+    {
+      "id": "366",
+      "team": "Sai sumanth",
+      "pos": 49,
+      "score": 1893,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616133116
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616140256
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616148103
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616180406
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616187402
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616207107
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616209530
+        }
+      }
+    },
+    {
+      "id": "151",
+      "team": "syn3Rgy",
+      "pos": 50,
+      "score": 1888,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616128940
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128956
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616132695
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616140230
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616149128
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616158166
+        }
+      }
+    },
+    {
+      "id": "307",
+      "team": "break_the_code",
+      "pos": 51,
+      "score": 1885,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126700
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616136858
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616139907
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616142656
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616147924
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616154791
+        }
+      }
+    },
+    {
+      "id": "443",
+      "team": "phionify",
+      "pos": 52,
+      "score": 1815,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616130674
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616131298
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616133020
+        },
+        "Decode it": {
+          "points": "300",
+          "time": 1616179337
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616197046
+        }
+      }
+    },
+    {
+      "id": "254",
+      "team": "-_-",
+      "pos": 53,
+      "score": 1807,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125118
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126332
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616131163
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616139743
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616141442
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616156830
+        }
+      }
+    },
+    {
+      "id": "143",
+      "team": "Area{51}",
+      "pos": 54,
+      "score": 1794,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131842
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616146306
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616149501
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616191139
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616199885
+        }
+      }
+    },
+    {
+      "id": "247",
+      "team": "cyberlabs",
+      "pos": 55,
+      "score": 1745,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132063
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616132725
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616133675
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616135031
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616138160
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616145234
+        }
+      }
+    },
+    {
+      "id": "71",
+      "team": "()[0]",
+      "pos": 56,
+      "score": 1739,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124919
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616129586
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616133240
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616139718
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616148624
+        }
+      }
+    },
+    {
+      "id": "729",
+      "team": "Senko3",
+      "pos": 57,
+      "score": 1736,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616193018
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616193694
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616194600
+        },
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616196607
+        }
+      }
+    },
+    {
+      "id": "269",
+      "team": "CSSA",
+      "pos": 58,
+      "score": 1733,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125589
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125718
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616129769
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616134496
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137227
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616188335
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616190330
+        }
+      }
+    },
+    {
+      "id": "460",
+      "team": "buttwoski",
+      "pos": 59,
+      "score": 1705,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616134118
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616138259
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616149267
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616154006
+        }
+      }
+    },
+    {
+      "id": "478",
+      "team": "H4CK3R1616",
+      "pos": 60,
+      "score": 1686,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616133342
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616138139
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616138674
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616138867
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616148227
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616148365
+        }
+      }
+    },
+    {
+      "id": "192",
+      "team": "64ZZ4883ZZ4718MP",
+      "pos": 61,
+      "score": 1660,
+      "taskStats": {
+        "My new Blog": {
+          "points": "291",
+          "time": 1616145645
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616146659
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616147079
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616147735
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616184888
+        }
+      }
+    },
+    {
+      "id": "157",
+      "team": "sp4nk3rs",
+      "pos": 62,
+      "score": 1642,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132204
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616136106
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137257
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616139429
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616143685
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616189772
+        }
+      }
+    },
+    {
+      "id": "431",
+      "team": "Sp4nk3rs-h3r3",
+      "pos": 63,
+      "score": 1642,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132833
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616136530
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137358
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616139615
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616153249
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616189885
+        }
+      }
+    },
+    {
+      "id": "382",
+      "team": "sp4nk3rs2",
+      "pos": 64,
+      "score": 1642,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132200
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616136147
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137364
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616139507
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616143712
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616190744
+        }
+      }
+    },
+    {
+      "id": "180",
+      "team": "Th3_Order_Of_th3_pH0en1x",
+      "pos": 65,
+      "score": 1642,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125976
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616126437
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616134369
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616164923
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616170793
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616204838
+        }
+      }
+    },
+    {
+      "id": "280",
+      "team": "melek",
+      "pos": 66,
+      "score": 1619,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616127342
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616160313
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616162078
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616164233
+        }
+      }
+    },
+    {
+      "id": "496",
+      "team": "1x0x2",
+      "pos": 67,
+      "score": 1598,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135770
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616182838
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616184835
+        },
+        "heavydriver": {
+          "points": "500",
+          "time": 1616192585
+        }
+      }
+    },
+    {
+      "id": "689",
+      "team": "bluehens",
+      "pos": 68,
+      "score": 1557,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616179628
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616179834
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616179903
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616180163
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616183841
+        }
+      }
+    },
+    {
+      "id": "690",
+      "team": "ByeRose",
+      "pos": 69,
+      "score": 1462,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616182592
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616184828
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616190120
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616200218
+        }
+      }
+    },
+    {
+      "id": "312",
+      "team": "ret2school",
+      "pos": 70,
+      "score": 1449,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124831
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616129814
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616208831
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616210245
+        }
+      }
+    },
+    {
+      "id": "273",
+      "team": "The Coalition of Curious Creatures",
+      "pos": 71,
+      "score": 1430,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616163158
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616165301
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616182001
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616185762
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616193791
+        }
+      }
+    },
+    {
+      "id": "318",
+      "team": "Armitage",
+      "pos": 72,
+      "score": 1417,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616125519
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616126624
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616127082
+        }
+      }
+    },
+    {
+      "id": "434",
+      "team": "noob",
+      "pos": 73,
+      "score": 1417,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616129418
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616130413
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616130623
+        }
+      }
+    },
+    {
+      "id": "196",
+      "team": "田埂",
+      "pos": 74,
+      "score": 1417,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616130915
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616131687
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616133537
+        }
+      }
+    },
+    {
+      "id": "450",
+      "team": "oden",
+      "pos": 75,
+      "score": 1417,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616134868
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616134881
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616134894
+        }
+      }
+    },
+    {
+      "id": "481",
+      "team": "Zak0",
+      "pos": 76,
+      "score": 1417,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616135935
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616136391
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616137373
+        }
+      }
+    },
+    {
+      "id": "321",
+      "team": "C0ra1",
+      "pos": 77,
+      "score": 1417,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616128530
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616137919
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616138972
+        }
+      }
+    },
+    {
+      "id": "647",
+      "team": "micromaster",
+      "pos": 78,
+      "score": 1417,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616165276
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616166390
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616168918
+        }
+      }
+    },
+    {
+      "id": "173",
+      "team": "[email protected]",
+      "pos": 79,
+      "score": 1417,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616186870
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616195374
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616204770
+        }
+      }
+    },
+    {
+      "id": "8",
+      "team": "AMAZONE",
+      "pos": 80,
+      "score": 1348,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616134192
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616134659
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616135811
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616143549
+        }
+      }
+    },
+    {
+      "id": "270",
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "pos": 81,
+      "score": 1346,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616129733
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616162479
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616164232
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616165146
+        }
+      }
+    },
+    {
+      "id": "685",
+      "team": "x6C6F747573",
+      "pos": 82,
+      "score": 1338,
+      "taskStats": {
+        "RSA 2.0": {
+          "points": "486",
+          "time": 1616179260
+        },
+        "Common Block Cipher": {
+          "points": "492",
+          "time": 1616185960
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616186257
+        }
+      }
+    },
+    {
+      "id": "286",
+      "team": "MQCybersec",
+      "pos": 83,
+      "score": 1319,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124776
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125270
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616129420
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616132910
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616177706
+        }
+      }
+    },
+    {
+      "id": "278",
+      "team": "Inner Savages",
+      "pos": 84,
+      "score": 1292,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616129567
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616148957
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616167691
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616192332
+        }
+      }
+    },
+    {
+      "id": "137",
+      "team": "Team_Matrix",
+      "pos": 85,
+      "score": 1274,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124904
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616129981
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616139490
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616139846
+        }
+      }
+    },
+    {
+      "id": "406",
+      "team": "Polymero",
+      "pos": 86,
+      "score": 1234,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128783
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616135359
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616137931
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616185074
+        }
+      }
+    },
+    {
+      "id": "223",
+      "team": "OmahTI",
+      "pos": 87,
+      "score": 1234,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131031
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616134095
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616135215
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616201742
+        }
+      }
+    },
+    {
+      "id": "5",
+      "team": "Conspiracy club",
+      "pos": 88,
+      "score": 1198,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125450
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616140557
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616157064
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616158594
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616161723
+        }
+      }
+    },
+    {
+      "id": "119",
+      "team": "L0g!c B0mb",
+      "pos": 89,
+      "score": 1198,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128408
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616132859
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616135526
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137493
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616202841
+        }
+      }
+    },
+    {
+      "id": "693",
+      "team": "Martial_Law_Enforcer",
+      "pos": 90,
+      "score": 1090,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616182791
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616186913
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616196435
+        }
+      }
+    },
+    {
+      "id": "132",
+      "team": "Team Manhattan",
+      "pos": 91,
+      "score": 1070,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124638
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124817
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616127742
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616140360
+        }
+      }
+    },
+    {
+      "id": "61",
+      "team": "pattern",
+      "pos": 92,
+      "score": 1042,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616132609
+        },
+        "tooeasy": {
+          "points": "498",
+          "time": 1616139077
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616140443
+        }
+      }
+    },
+    {
+      "id": "185",
+      "team": "sec101",
+      "pos": 93,
+      "score": 1035,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616127078
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616130923
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616140352
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616188344
+        }
+      }
+    },
+    {
+      "id": "391",
+      "team": "RPCA Cyber Club",
+      "pos": 94,
+      "score": 1035,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127395
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616172882
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616186349
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616198451
+        }
+      }
+    },
+    {
+      "id": "397",
+      "team": "Akshay",
+      "pos": 95,
+      "score": 1025,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616138174
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616140884
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616152227
+        }
+      }
+    },
+    {
+      "id": "415",
+      "team": "BackMoon",
+      "pos": 96,
+      "score": 1025,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128369
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616192155
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616193407
+        }
+      }
+    },
+    {
+      "id": "341",
+      "team": "king",
+      "pos": 97,
+      "score": 1008,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616127974
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131577
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616173867
+        }
+      }
+    },
+    {
+      "id": "219",
+      "team": "x0r19x91",
+      "pos": 98,
+      "score": 1000,
+      "taskStats": {
+        "heavydriver": {
+          "points": "500",
+          "time": 1616127572
+        },
+        "easystreaming": {
+          "points": "500",
+          "time": 1616129900
+        }
+      }
+    },
+    {
+      "id": "610",
+      "team": "noraneco",
+      "pos": 99,
+      "score": 1000,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616155026
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616156481
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616160219
+        }
+      }
+    },
+    {
+      "id": "346",
+      "team": "1nt0_the_sh4d0w",
+      "pos": 100,
+      "score": 990,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616125230
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616137907
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616145117
+        }
+      }
+    },
+    {
+      "id": "622",
+      "team": "aguascalientes",
+      "pos": 101,
+      "score": 990,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616163613
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616165795
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616168005
+        }
+      }
+    },
+    {
+      "id": "40",
+      "team": "dev",
+      "pos": 102,
+      "score": 970,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616132620
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616141710
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616177323
+        }
+      }
+    },
+    {
+      "id": "84",
+      "team": "lhoKuliahLagi",
+      "pos": 103,
+      "score": 970,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616192288
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616192352
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616195989
+        }
+      }
+    },
+    {
+      "id": "421",
+      "team": "AntiEXE",
+      "pos": 104,
+      "score": 938,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616128588
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616130919
+        }
+      }
+    },
+    {
+      "id": "241",
+      "team": "hsaias",
+      "pos": 105,
+      "score": 936,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616128835
+        },
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616137740
+        }
+      }
+    },
+    {
+      "id": "497",
+      "team": "iliketurtles",
+      "pos": 106,
+      "score": 925,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616135755
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616136477
+        }
+      }
+    },
+    {
+      "id": "519",
+      "team": "genin.team7",
+      "pos": 107,
+      "score": 925,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616138480
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616139438
+        }
+      }
+    },
+    {
+      "id": "633",
+      "team": "red ice",
+      "pos": 108,
+      "score": 925,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616161906
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616164539
+        }
+      }
+    },
+    {
+      "id": "673",
+      "team": "16j",
+      "pos": 109,
+      "score": 925,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616176624
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616182110
+        }
+      }
+    },
+    {
+      "id": "205",
+      "team": "Hacklabor",
+      "pos": 110,
+      "score": 925,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616191255
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616198418
+        }
+      }
+    },
+    {
+      "id": "749",
+      "team": "CSI",
+      "pos": 111,
+      "score": 925,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616202302
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616202429
+        }
+      }
+    },
+    {
+      "id": "667",
+      "team": "somayi2021",
+      "pos": 112,
+      "score": 925,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616201538
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616208165
+        }
+      }
+    },
+    {
+      "id": "393",
+      "team": "newnoobs",
+      "pos": 113,
+      "score": 925,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616134159
+        },
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616208304
+        }
+      }
+    },
+    {
+      "id": "296",
+      "team": "kakaweya",
+      "pos": 114,
+      "score": 925,
+      "taskStats": {
+        "Take me to a cafe": {
+          "points": "481",
+          "time": 1616140604
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616210005
+        }
+      }
+    },
+    {
+      "id": "500",
+      "team": "$cr1ptkid3",
+      "pos": 115,
+      "score": 914,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616141648
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616142041
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616143184
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616186979
+        }
+      }
+    },
+    {
+      "id": "715",
+      "team": "Rky",
+      "pos": 116,
+      "score": 914,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616188343
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616195646
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616195945
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616197515
+        }
+      }
+    },
+    {
+      "id": "400",
+      "team": "OverDover",
+      "pos": 117,
+      "score": 882,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128393
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616131567
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616132107
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137583
+        }
+      }
+    },
+    {
+      "id": "638",
+      "team": "TheZakMan",
+      "pos": 118,
+      "score": 882,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616162970
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616170067
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616170336
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616171679
+        }
+      }
+    },
+    {
+      "id": "138",
+      "team": "PF2",
+      "pos": 119,
+      "score": 880,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126858
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128996
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616173276
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616210535
+        }
+      }
+    },
+    {
+      "id": "352",
+      "team": "WRATH",
+      "pos": 120,
+      "score": 869,
+      "taskStats": {
+        "Telephone": {
+          "points": "323",
+          "time": 1616146797
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616146895
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616147126
+        }
+      }
+    },
+    {
+      "id": "350",
+      "team": "third_rank",
+      "pos": 121,
+      "score": 835,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125528
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135491
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616150578
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616151865
+        }
+      }
+    },
+    {
+      "id": "62",
+      "team": "ECorp",
+      "pos": 122,
+      "score": 835,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125090
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616134525
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616136688
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616198623
+        }
+      }
+    },
+    {
+      "id": "523",
+      "team": "BisonSquad",
+      "pos": 123,
+      "score": 830,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616139209
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616158146
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616164304
+        }
+      }
+    },
+    {
+      "id": "311",
+      "team": "dehunters",
+      "pos": 124,
+      "score": 828,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616135737
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616138609
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616199810
+        }
+      }
+    },
+    {
+      "id": "79",
+      "team": "TeamName3",
+      "pos": 125,
+      "score": 816,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126281
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616133251
+        },
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616185635
+        }
+      }
+    },
+    {
+      "id": "530",
+      "team": "[email protected]",
+      "pos": 126,
+      "score": 802,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616142902
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616156913
+        }
+      }
+    },
+    {
+      "id": "266",
+      "team": "WhiteHat Senior",
+      "pos": 127,
+      "score": 790,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135221
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616137089
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616152394
+        }
+      }
+    },
+    {
+      "id": "428",
+      "team": "The15thStandard",
+      "pos": 128,
+      "score": 769,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616138177
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616143295
+        }
+      }
+    },
+    {
+      "id": "586",
+      "team": "cpls",
+      "pos": 129,
+      "score": 769,
+      "taskStats": {
+        "Telephone": {
+          "points": "323",
+          "time": 1616150917
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616153288
+        }
+      }
+    },
+    {
+      "id": "644",
+      "team": "0xi",
+      "pos": 130,
+      "score": 735,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616163682
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616210677
+        }
+      }
+    },
+    {
+      "id": "466",
+      "team": "GanSw",
+      "pos": 131,
+      "score": 730,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616136075
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616183380
+        }
+      }
+    },
+    {
+      "id": "340",
+      "team": "manuv",
+      "pos": 132,
+      "score": 690,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616127508
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616151194
+        }
+      }
+    },
+    {
+      "id": "582",
+      "team": "Crsi",
+      "pos": 133,
+      "score": 690,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616148844
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616151237
+        }
+      }
+    },
+    {
+      "id": "29",
+      "team": "fzhshzh",
+      "pos": 134,
+      "score": 607,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616166415
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616167170
+        }
+      }
+    },
+    {
+      "id": "292",
+      "team": "tejsi",
+      "pos": 135,
+      "score": 591,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616137475
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616138081
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616138782
+        }
+      }
+    },
+    {
+      "id": "200",
+      "team": "ShellXploit",
+      "pos": 136,
+      "score": 591,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616137441
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616137907
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616139096
+        }
+      }
+    },
+    {
+      "id": "333",
+      "team": "KatsuragiCSL",
+      "pos": 137,
+      "score": 591,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127379
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616128706
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616182681
+        }
+      }
+    },
+    {
+      "id": "708",
+      "team": "happys",
+      "pos": 138,
+      "score": 591,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616186145
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616195239
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616196595
+        }
+      }
+    },
+    {
+      "id": "495",
+      "team": "TWFMED",
+      "pos": 139,
+      "score": 591,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616186426
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616196114
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616198339
+        }
+      }
+    },
+    {
+      "id": "637",
+      "team": "LNJ",
+      "pos": 140,
+      "score": 591,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616170616
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616172940
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616208518
+        }
+      }
+    },
+    {
+      "id": "182",
+      "team": "Pulchowk Cyber",
+      "pos": 141,
+      "score": 562,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124913
+        },
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616196998
+        }
+      }
+    },
+    {
+      "id": "697",
+      "team": "Catastrophe",
+      "pos": 142,
+      "score": 562,
+      "taskStats": {
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616189798
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616205011
+        }
+      }
+    },
+    {
+      "id": "122",
+      "team": "Supreme_Enigma",
+      "pos": 143,
+      "score": 546,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124935
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616129187
+        }
+      }
+    },
+    {
+      "id": "128",
+      "team": "NCTOP",
+      "pos": 144,
+      "score": 546,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126962
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616131965
+        }
+      }
+    },
+    {
+      "id": "131",
+      "team": "ILIVEINCODE",
+      "pos": 145,
+      "score": 546,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128492
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616135133
+        }
+      }
+    },
+    {
+      "id": "488",
+      "team": "bastrykarnahai",
+      "pos": 146,
+      "score": 546,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616137940
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616142836
+        }
+      }
+    },
+    {
+      "id": "175",
+      "team": "crypto_is_fun",
+      "pos": 147,
+      "score": 546,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616137147
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616143252
+        }
+      }
+    },
+    {
+      "id": "462",
+      "team": "Josephine Crystal",
+      "pos": 148,
+      "score": 546,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616137795
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616143601
+        }
+      }
+    },
+    {
+      "id": "625",
+      "team": "putdowns",
+      "pos": 149,
+      "score": 546,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616159953
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616165312
+        }
+      }
+    },
+    {
+      "id": "74",
+      "team": "The hunters",
+      "pos": 150,
+      "score": 544,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127705
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616148280
+        }
+      }
+    },
+    {
+      "id": "253",
+      "team": "ChoucrouteFTW",
+      "pos": 151,
+      "score": 544,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616162201
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616164426
+        }
+      }
+    },
+    {
+      "id": "654",
+      "team": "StormTroobur",
+      "pos": 152,
+      "score": 544,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616168067
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616174769
+        }
+      }
+    },
+    {
+      "id": "34",
+      "team": "r4t5_",
+      "pos": 153,
+      "score": 544,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616134075
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616183814
+        }
+      }
+    },
+    {
+      "id": "60",
+      "team": "OnlyFlags",
+      "pos": 154,
+      "score": 492,
+      "taskStats": {
+        "Welcome to the Pawry": {
+          "points": "492",
+          "time": 1616135655
+        }
+      }
+    },
+    {
+      "id": "72",
+      "team": "()[1]",
+      "pos": 155,
+      "score": 491,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616128360
+        },
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616129928
+        }
+      }
+    },
+    {
+      "id": "42",
+      "team": "h0lysh1t",
+      "pos": 156,
+      "score": 489,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616139682
+        },
+        "C is hard": {
+          "points": "444",
+          "time": 1616141387
+        }
+      }
+    },
+    {
+      "id": "281",
+      "team": "Its4xCC",
+      "pos": 157,
+      "score": 468,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125529
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616125839
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616146176
+        }
+      }
+    },
+    {
+      "id": "742",
+      "team": "MoonBack",
+      "pos": 158,
+      "score": 462,
+      "taskStats": {
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616201435
+        }
+      }
+    },
+    {
+      "id": "467",
+      "team": "Temp1",
+      "pos": 159,
+      "score": 462,
+      "taskStats": {
+        "SQL 2.0": {
+          "points": "462",
+          "time": 1616210117
+        }
+      }
+    },
+    {
+      "id": "377",
+      "team": "3asba",
+      "pos": 160,
+      "score": 460,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616127288
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616134791
+        }
+      }
+    },
+    {
+      "id": "207",
+      "team": ":v",
+      "pos": 161,
+      "score": 456,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616154454
+        },
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616160112
+        }
+      }
+    },
+    {
+      "id": "133",
+      "team": "BRANCH",
+      "pos": 162,
+      "score": 456,
+      "taskStats": {
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616130284
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616187270
+        }
+      }
+    },
+    {
+      "id": "105",
+      "team": "acr0ssthep0nd",
+      "pos": 163,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132390
+        }
+      }
+    },
+    {
+      "id": "224",
+      "team": "k4w4ii",
+      "pos": 164,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132445
+        }
+      }
+    },
+    {
+      "id": "456",
+      "team": "CloisterF",
+      "pos": 165,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616132900
+        }
+      }
+    },
+    {
+      "id": "510",
+      "team": "kaymas",
+      "pos": 166,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616137467
+        }
+      }
+    },
+    {
+      "id": "442",
+      "team": "Insertnamehere",
+      "pos": 167,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616142490
+        }
+      }
+    },
+    {
+      "id": "534",
+      "team": "Swamfire",
+      "pos": 168,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616144588
+        }
+      }
+    },
+    {
+      "id": "733",
+      "team": "TwentyFive",
+      "pos": 169,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616196790
+        }
+      }
+    },
+    {
+      "id": "63",
+      "team": "$cr!pt_kidd!es",
+      "pos": 170,
+      "score": 446,
+      "taskStats": {
+        "b1n4rY": {
+          "points": "446",
+          "time": 1616207418
+        }
+      }
+    },
+    {
+      "id": "279",
+      "team": "0x00",
+      "pos": 171,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616134209
+        }
+      }
+    },
+    {
+      "id": "364",
+      "team": "x2w",
+      "pos": 172,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616135443
+        }
+      }
+    },
+    {
+      "id": "179",
+      "team": "KernalPanic",
+      "pos": 173,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616150659
+        }
+      }
+    },
+    {
+      "id": "66",
+      "team": "NorthWest",
+      "pos": 174,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616156839
+        }
+      }
+    },
+    {
+      "id": "631",
+      "team": "checkam",
+      "pos": 175,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616161655
+        }
+      }
+    },
+    {
+      "id": "628",
+      "team": "aaravs006",
+      "pos": 176,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616168920
+        }
+      }
+    },
+    {
+      "id": "694",
+      "team": "41D3N",
+      "pos": 177,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616182824
+        }
+      }
+    },
+    {
+      "id": "700",
+      "team": "Neo2854",
+      "pos": 178,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616188909
+        }
+      }
+    },
+    {
+      "id": "728",
+      "team": "y2qaq",
+      "pos": 179,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616192555
+        }
+      }
+    },
+    {
+      "id": "714",
+      "team": "bspade",
+      "pos": 180,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616193131
+        }
+      }
+    },
+    {
+      "id": "436",
+      "team": "EchoSec",
+      "pos": 181,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616196184
+        }
+      }
+    },
+    {
+      "id": "91",
+      "team": "4LPH4",
+      "pos": 182,
+      "score": 444,
+      "taskStats": {
+        "C is hard": {
+          "points": "444",
+          "time": 1616205649
+        }
+      }
+    },
+    {
+      "id": "104",
+      "team": "Soul Society",
+      "pos": 183,
+      "score": 436,
+      "taskStats": {
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137496
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616184251
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616184411
+        }
+      }
+    },
+    {
+      "id": "144",
+      "team": "Bugsters",
+      "pos": 184,
+      "score": 423,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124937
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616183039
+        }
+      }
+    },
+    {
+      "id": "472",
+      "team": "GhostSec",
+      "pos": 185,
+      "score": 423,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616136322
+        },
+        "Telephone": {
+          "points": "323",
+          "time": 1616204938
+        }
+      }
+    },
+    {
+      "id": "83",
+      "team": "Iam9r00t",
+      "pos": 186,
+      "score": 391,
+      "taskStats": {
+        "My new Blog": {
+          "points": "291",
+          "time": 1616136521
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616138596
+        }
+      }
+    },
+    {
+      "id": "106",
+      "team": "N00B$",
+      "pos": 187,
+      "score": 389,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616127419
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135979
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616183865
+        }
+      }
+    },
+    {
+      "id": "383",
+      "team": "H04X",
+      "pos": 188,
+      "score": 384,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616134393
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616147253
+        }
+      }
+    },
+    {
+      "id": "579",
+      "team": "MonBo",
+      "pos": 189,
+      "score": 384,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616151445
+        },
+        "Anime is love": {
+          "points": "284",
+          "time": 1616178910
+        }
+      }
+    },
+    {
+      "id": "332",
+      "team": "hack_king",
+      "pos": 190,
+      "score": 360,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616128205
+        }
+      }
+    },
+    {
+      "id": "419",
+      "team": "kasiatutej",
+      "pos": 191,
+      "score": 360,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616129052
+        }
+      }
+    },
+    {
+      "id": "535",
+      "team": "0v3rf1ow",
+      "pos": 192,
+      "score": 360,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616141030
+        }
+      }
+    },
+    {
+      "id": "536",
+      "team": "1u1u",
+      "pos": 193,
+      "score": 360,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616141114
+        }
+      }
+    },
+    {
+      "id": "677",
+      "team": "UdagawaWhiteBears",
+      "pos": 194,
+      "score": 360,
+      "taskStats": {
+        "RSA 1.0": {
+          "points": "360",
+          "time": 1616178025
+        }
+      }
+    },
+    {
+      "id": "630",
+      "team": "xSTF",
+      "pos": 195,
+      "score": 356,
+      "taskStats": {
+        "EnCrypted Bitmap": {
+          "points": "356",
+          "time": 1616166933
+        }
+      }
+    },
+    {
+      "id": "89",
+      "team": "[email protected]",
+      "pos": 196,
+      "score": 336,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616135255
+        },
+        "My new Blog": {
+          "points": "291",
+          "time": 1616140731
+        }
+      }
+    },
+    {
+      "id": "244",
+      "team": "fatalkali",
+      "pos": 197,
+      "score": 323,
+      "taskStats": {
+        "Telephone": {
+          "points": "323",
+          "time": 1616137995
+        }
+      }
+    },
+    {
+      "id": "670",
+      "team": "SummerJedi",
+      "pos": 198,
+      "score": 323,
+      "taskStats": {
+        "Telephone": {
+          "points": "323",
+          "time": 1616179052
+        }
+      }
+    },
+    {
+      "id": "661",
+      "team": "A",
+      "pos": 199,
+      "score": 300,
+      "taskStats": {
+        "Decode it": {
+          "points": "300",
+          "time": 1616185818
+        }
+      }
+    },
+    {
+      "id": "354",
+      "team": "Alphx",
+      "pos": 200,
+      "score": 291,
+      "taskStats": {
+        "My new Blog": {
+          "points": "291",
+          "time": 1616137587
+        }
+      }
+    },
+    {
+      "id": "635",
+      "team": "bgbh",
+      "pos": 201,
+      "score": 291,
+      "taskStats": {
+        "My new Blog": {
+          "points": "291",
+          "time": 1616163289
+        }
+      }
+    },
+    {
+      "id": "136",
+      "team": "gudboy",
+      "pos": 202,
+      "score": 289,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616129646
+        },
+        "E-mail": {
+          "points": "244",
+          "time": 1616134817
+        }
+      }
+    },
+    {
+      "id": "502",
+      "team": "stuxn3t",
+      "pos": 203,
+      "score": 284,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616136255
+        }
+      }
+    },
+    {
+      "id": "601",
+      "team": "DamoNeer",
+      "pos": 204,
+      "score": 284,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616156951
+        }
+      }
+    },
+    {
+      "id": "680",
+      "team": "Helene",
+      "pos": 205,
+      "score": 284,
+      "taskStats": {
+        "Anime is love": {
+          "points": "284",
+          "time": 1616179455
+        }
+      }
+    },
+    {
+      "id": "193",
+      "team": "Ju5t_5t4rt3d_CTFing...",
+      "pos": 206,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124790
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616125042
+        }
+      }
+    },
+    {
+      "id": "304",
+      "team": "3rk1n",
+      "pos": 207,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125175
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616125501
+        }
+      }
+    },
+    {
+      "id": "27",
+      "team": "StarJammers",
+      "pos": 208,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127701
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616127862
+        }
+      }
+    },
+    {
+      "id": "19",
+      "team": "The Cyber Grabs",
+      "pos": 209,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124759
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128879
+        }
+      }
+    },
+    {
+      "id": "145",
+      "team": "T3n4ci0us",
+      "pos": 210,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616128388
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616130213
+        }
+      }
+    },
+    {
+      "id": "407",
+      "team": "kzebi",
+      "pos": 211,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616129004
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131990
+        }
+      }
+    },
+    {
+      "id": "222",
+      "team": "M1dnyTExpl017z",
+      "pos": 212,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126579
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616132379
+        }
+      }
+    },
+    {
+      "id": "234",
+      "team": "invincible",
+      "pos": 213,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616132753
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616133730
+        }
+      }
+    },
+    {
+      "id": "165",
+      "team": "0b1ivi0n",
+      "pos": 214,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616132104
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616135437
+        }
+      }
+    },
+    {
+      "id": "99",
+      "team": "AndayWalaBurger",
+      "pos": 215,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125741
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135572
+        }
+      }
+    },
+    {
+      "id": "134",
+      "team": "RKTEAM",
+      "pos": 216,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128408
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616136040
+        }
+      }
+    },
+    {
+      "id": "153",
+      "team": "Reloaded",
+      "pos": 217,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124686
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616137736
+        }
+      }
+    },
+    {
+      "id": "1",
+      "team": "T3CHM4T3S",
+      "pos": 218,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616132278
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616139905
+        }
+      }
+    },
+    {
+      "id": "525",
+      "team": "Ch3lLIST4",
+      "pos": 219,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616140011
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616140687
+        }
+      }
+    },
+    {
+      "id": "544",
+      "team": "lulzash",
+      "pos": 220,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616142404
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616142729
+        }
+      }
+    },
+    {
+      "id": "613",
+      "team": "M4lw4r3",
+      "pos": 221,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616155690
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616164169
+        }
+      }
+    },
+    {
+      "id": "705",
+      "team": "CTF_ON_MY_OWN",
+      "pos": 222,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616185276
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616188245
+        }
+      }
+    },
+    {
+      "id": "703",
+      "team": "Enderaoe",
+      "pos": 223,
+      "score": 145,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616188140
+        },
+        "Welcome": {
+          "points": "45",
+          "time": 1616188714
+        }
+      }
+    },
+    {
+      "id": "706",
+      "team": "SUSTC_tcltcl",
+      "pos": 224,
+      "score": 145,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616188305
+        },
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616190428
+        }
+      }
+    },
+    {
+      "id": "23",
+      "team": "Exodus",
+      "pos": 225,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124804
+        }
+      }
+    },
+    {
+      "id": "330",
+      "team": "nyolo",
+      "pos": 226,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616124991
+        }
+      }
+    },
+    {
+      "id": "102",
+      "team": "Unkn0wn-m31r5",
+      "pos": 227,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125025
+        }
+      }
+    },
+    {
+      "id": "322",
+      "team": "BlackLion",
+      "pos": 228,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125073
+        }
+      }
+    },
+    {
+      "id": "349",
+      "team": "avokadi",
+      "pos": 229,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125158
+        }
+      }
+    },
+    {
+      "id": "337",
+      "team": "AdelaideB9",
+      "pos": 230,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125512
+        }
+      }
+    },
+    {
+      "id": "59",
+      "team": "Kings",
+      "pos": 231,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616125841
+        }
+      }
+    },
+    {
+      "id": "378",
+      "team": "1NCOGn1T0",
+      "pos": 232,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126554
+        }
+      }
+    },
+    {
+      "id": "314",
+      "team": "kooldood69",
+      "pos": 233,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616126912
+        }
+      }
+    },
+    {
+      "id": "195",
+      "team": "HitchHackers",
+      "pos": 234,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127286
+        }
+      }
+    },
+    {
+      "id": "18",
+      "team": "pwn-fu",
+      "pos": 235,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616127321
+        }
+      }
+    },
+    {
+      "id": "416",
+      "team": "Arkanor",
+      "pos": 236,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128430
+        }
+      }
+    },
+    {
+      "id": "112",
+      "team": "R3D T3AM",
+      "pos": 237,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128502
+        }
+      }
+    },
+    {
+      "id": "37",
+      "team": "Neme$is",
+      "pos": 238,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128738
+        }
+      }
+    },
+    {
+      "id": "328",
+      "team": "cuadr0x",
+      "pos": 239,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616128757
+        }
+      }
+    },
+    {
+      "id": "449",
+      "team": "Zense",
+      "pos": 240,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616130655
+        }
+      }
+    },
+    {
+      "id": "226",
+      "team": "nomads",
+      "pos": 241,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616130896
+        }
+      }
+    },
+    {
+      "id": "458",
+      "team": "Grimoire",
+      "pos": 242,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131404
+        }
+      }
+    },
+    {
+      "id": "381",
+      "team": "lions",
+      "pos": 243,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131689
+        }
+      }
+    },
+    {
+      "id": "444",
+      "team": "snuffleupagus",
+      "pos": 244,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616131981
+        }
+      }
+    },
+    {
+      "id": "439",
+      "team": "Expl017z",
+      "pos": 245,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616132441
+        }
+      }
+    },
+    {
+      "id": "425",
+      "team": "dokko",
+      "pos": 246,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616133525
+        }
+      }
+    },
+    {
+      "id": "313",
+      "team": "fsociety",
+      "pos": 247,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616133711
+        }
+      }
+    },
+    {
+      "id": "268",
+      "team": "f0xtr07",
+      "pos": 248,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616134067
+        }
+      }
+    },
+    {
+      "id": "387",
+      "team": "APA Razi",
+      "pos": 249,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616134761
+        }
+      }
+    },
+    {
+      "id": "433",
+      "team": "Yash",
+      "pos": 250,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135586
+        }
+      }
+    },
+    {
+      "id": "191",
+      "team": "Tkd-Alex",
+      "pos": 251,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135629
+        }
+      }
+    },
+    {
+      "id": "476",
+      "team": "interlink43",
+      "pos": 252,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616135687
+        }
+      }
+    },
+    {
+      "id": "507",
+      "team": "Pwners",
+      "pos": 253,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616136402
+        }
+      }
+    },
+    {
+      "id": "4",
+      "team": "Mini0n$",
+      "pos": 254,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616136590
+        }
+      }
+    },
+    {
+      "id": "471",
+      "team": "XDDDDD",
+      "pos": 255,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616138408
+        }
+      }
+    },
+    {
+      "id": "252",
+      "team": "cyberBot$",
+      "pos": 256,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616138927
+        }
+      }
+    },
+    {
+      "id": "492",
+      "team": "m4dara",
+      "pos": 257,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616139706
+        }
+      }
+    },
+    {
+      "id": "80",
+      "team": "HackForce",
+      "pos": 258,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616139935
+        }
+      }
+    },
+    {
+      "id": "88",
+      "team": "Terminal Cats",
+      "pos": 259,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616141080
+        }
+      }
+    },
+    {
+      "id": "232",
+      "team": "Dark_Pain",
+      "pos": 260,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616142111
+        }
+      }
+    },
+    {
+      "id": "548",
+      "team": "born2scan",
+      "pos": 261,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616142256
+        }
+      }
+    },
+    {
+      "id": "521",
+      "team": "S3cur1ty_J0k3r$",
+      "pos": 262,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616143204
+        }
+      }
+    },
+    {
+      "id": "558",
+      "team": "apaya",
+      "pos": 263,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616143488
+        }
+      }
+    },
+    {
+      "id": "101",
+      "team": "RevRocks",
+      "pos": 264,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616144102
+        }
+      }
+    },
+    {
+      "id": "512",
+      "team": "alpha1",
+      "pos": 265,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616145250
+        }
+      }
+    },
+    {
+      "id": "184",
+      "team": "Meu_Sec",
+      "pos": 266,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616145571
+        }
+      }
+    },
+    {
+      "id": "171",
+      "team": "Noob Squadron",
+      "pos": 267,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616145987
+        }
+      }
+    },
+    {
+      "id": "573",
+      "team": "Z3Ro",
+      "pos": 268,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616146639
+        }
+      }
+    },
+    {
+      "id": "297",
+      "team": "NaNsolo",
+      "pos": 269,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616146643
+        }
+      }
+    },
+    {
+      "id": "577",
+      "team": "Hackappatoi",
+      "pos": 270,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616147717
+        }
+      }
+    },
+    {
+      "id": "576",
+      "team": "bodzin",
+      "pos": 271,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616148479
+        }
+      }
+    },
+    {
+      "id": "599",
+      "team": "n00b",
+      "pos": 272,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616158883
+        }
+      }
+    },
+    {
+      "id": "528",
+      "team": "empty",
+      "pos": 273,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616167860
+        }
+      }
+    },
+    {
+      "id": "543",
+      "team": "0x_SHilling",
+      "pos": 274,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616173811
+        }
+      }
+    },
+    {
+      "id": "285",
+      "team": "theCypher",
+      "pos": 275,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616184865
+        }
+      }
+    },
+    {
+      "id": "68",
+      "team": "NO PWN NO FUN",
+      "pos": 276,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616187684
+        }
+      }
+    },
+    {
+      "id": "181",
+      "team": "silverblades",
+      "pos": 277,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616196391
+        }
+      }
+    },
+    {
+      "id": "699",
+      "team": "bisevox",
+      "pos": 278,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616196536
+        }
+      }
+    },
+    {
+      "id": "734",
+      "team": "1",
+      "pos": 279,
+      "score": 100,
+      "taskStats": {
+        "Sanity Check 2": {
+          "points": "100",
+          "time": 1616197765
+        }
+      }
+    },
+    {
+      "id": "317",
+      "team": "carex_ctf_team",
+      "pos": 280,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124845
+        }
+      }
+    },
+    {
+      "id": "213",
+      "team": "m4genta",
+      "pos": 281,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124923
+        }
+      }
+    },
+    {
+      "id": "342",
+      "team": "Ismite",
+      "pos": 282,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616124977
+        }
+      }
+    },
+    {
+      "id": "344",
+      "team": "SDSLabs",
+      "pos": 283,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616125395
+        }
+      }
+    },
+    {
+      "id": "256",
+      "team": "The Sheriff",
+      "pos": 284,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616126970
+        }
+      }
+    },
+    {
+      "id": "394",
+      "team": "crypt0ace",
+      "pos": 285,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616127434
+        }
+      }
+    },
+    {
+      "id": "300",
+      "team": "Ingineers",
+      "pos": 286,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616127834
+        }
+      }
+    },
+    {
+      "id": "115",
+      "team": "PlayLikeZombie",
+      "pos": 287,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616128773
+        }
+      }
+    },
+    {
+      "id": "267",
+      "team": "Noobie",
+      "pos": 288,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616131722
+        }
+      }
+    },
+    {
+      "id": "455",
+      "team": "11BinaryBishops",
+      "pos": 289,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616132072
+        }
+      }
+    },
+    {
+      "id": "58",
+      "team": "billi meo",
+      "pos": 290,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616141177
+        }
+      }
+    },
+    {
+      "id": "540",
+      "team": "Deckcard23",
+      "pos": 291,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616146921
+        }
+      }
+    },
+    {
+      "id": "76",
+      "team": "tush.anonymous",
+      "pos": 292,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616150049
+        }
+      }
+    },
+    {
+      "id": "572",
+      "team": "TheBlackDemon",
+      "pos": 293,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616150863
+        }
+      }
+    },
+    {
+      "id": "629",
+      "team": "boogiewoogie",
+      "pos": 294,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616160646
+        }
+      }
+    },
+    {
+      "id": "405",
+      "team": "ixix2634",
+      "pos": 295,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616185410
+        }
+      }
+    },
+    {
+      "id": "255",
+      "team": "BEing Bytes",
+      "pos": 296,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616190533
+        }
+      }
+    },
+    {
+      "id": "721",
+      "team": "watkorn",
+      "pos": 297,
+      "score": 45,
+      "taskStats": {
+        "Welcome": {
+          "points": "45",
+          "time": 1616190679
+        }
+      }
+    }
+  ],
+  "date": 1616079600,
+  "name": "Codefest CTF 2020"
+}
