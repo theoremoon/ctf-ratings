@@ -1,0 +1,632 @@
+{
+  "tasks": [
+    "SecretTactics",
+    "Randsino",
+    "Survey",
+    "REVKERnel",
+    "MEPhI Gates",
+    "Jackpot collection",
+    "Stand up and Go",
+    "Hydra casino",
+    "Weird Full House",
+    "Revocryptoforensics",
+    "There are no windows in casino",
+    "ASSembly",
+    "Unsigned winner",
+    "Private casino",
+    "Casifax",
+    "babypwn"
+  ],
+  "standings": [
+    {
+      "id": "12",
+      "team": "C4T BuT S4D",
+      "pos": 1,
+      "score": 5575,
+      "taskStats": {
+        "babypwn": {
+          "points": "473",
+          "time": 1616282411
+        },
+        "Randsino": {
+          "points": "449",
+          "time": 1616284568
+        },
+        "Casifax": {
+          "points": "269",
+          "time": 1616285767
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616287417
+        },
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616290298
+        },
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616293673
+        },
+        "Hydra casino": {
+          "points": "500",
+          "time": 1616294295
+        },
+        "MEPhI Gates": {
+          "points": "500",
+          "time": 1616299387
+        },
+        "There are no windows in casino": {
+          "points": "500",
+          "time": 1616304475
+        },
+        "Jackpot collection": {
+          "points": "500",
+          "time": 1616315929
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616317831
+        },
+        "REVKERnel": {
+          "points": "495",
+          "time": 1616318073
+        },
+        "Stand up and Go": {
+          "points": "500",
+          "time": 1616323803
+        }
+      }
+    },
+    {
+      "id": "110",
+      "team": "SFT0",
+      "pos": 2,
+      "score": 2653,
+      "taskStats": {
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616286291
+        },
+        "Casifax": {
+          "points": "269",
+          "time": 1616287461
+        },
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616287747
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616288655
+        },
+        "REVKERnel": {
+          "points": "495",
+          "time": 1616303495
+        },
+        "Private casino": {
+          "points": "500",
+          "time": 1616322379
+        }
+      }
+    },
+    {
+      "id": "54",
+      "team": "fargate",
+      "pos": 3,
+      "score": 2580,
+      "taskStats": {
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616283608
+        },
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616294600
+        },
+        "Casifax": {
+          "points": "269",
+          "time": 1616299857
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616300903
+        },
+        "Randsino": {
+          "points": "449",
+          "time": 1616306404
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616317725
+        },
+        "babypwn": {
+          "points": "473",
+          "time": 1616320718
+        }
+      }
+    },
+    {
+      "id": "109",
+      "team": "WreckTheLine",
+      "pos": 4,
+      "score": 2162,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616313425
+        },
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616314836
+        },
+        "babypwn": {
+          "points": "473",
+          "time": 1616316884
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616317826
+        },
+        "Jackpot collection": {
+          "points": "500",
+          "time": 1616325225
+        }
+      }
+    },
+    {
+      "id": "97",
+      "team": "±!@#$%^&*()_+=-0987654321§",
+      "pos": 5,
+      "score": 1877,
+      "taskStats": {
+        "babypwn": {
+          "points": "473",
+          "time": 1616287785
+        },
+        "Randsino": {
+          "points": "449",
+          "time": 1616290352
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616291522
+        },
+        "REVKERnel": {
+          "points": "495",
+          "time": 1616298321
+        }
+      }
+    },
+    {
+      "id": "88",
+      "team": "BinaryBears",
+      "pos": 6,
+      "score": 1738,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616288493
+        },
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616297636
+        },
+        "Jackpot collection": {
+          "points": "500",
+          "time": 1616305614
+        },
+        "SecretTactics": {
+          "points": "500",
+          "time": 1616314733
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616318527
+        }
+      }
+    },
+    {
+      "id": "174",
+      "team": "kks",
+      "pos": 7,
+      "score": 1693,
+      "taskStats": {
+        "REVKERnel": {
+          "points": "495",
+          "time": 1616298737
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616316163
+        },
+        "Casifax": {
+          "points": "269",
+          "time": 1616323436
+        },
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616325472
+        }
+      }
+    },
+    {
+      "id": "19",
+      "team": "Bulba Hackers",
+      "pos": 8,
+      "score": 1658,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616281692
+        },
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616295628
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616320243
+        },
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616322461
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616326061
+        }
+      }
+    },
+    {
+      "id": "61",
+      "team": "eltech 🤡🍌🔞",
+      "pos": 9,
+      "score": 1651,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616286547
+        },
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616297798
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616317990
+        },
+        "Randsino": {
+          "points": "449",
+          "time": 1616322367
+        },
+        "babypwn": {
+          "points": "473",
+          "time": 1616323251
+        }
+      }
+    },
+    {
+      "id": "133",
+      "team": "FAUST",
+      "pos": 10,
+      "score": 1178,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616287322
+        },
+        "Randsino": {
+          "points": "449",
+          "time": 1616305275
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616327645
+        }
+      }
+    },
+    {
+      "id": "17",
+      "team": "Red Cadets",
+      "pos": 11,
+      "score": 922,
+      "taskStats": {
+        "Randsino": {
+          "points": "449",
+          "time": 1616290549
+        },
+        "babypwn": {
+          "points": "473",
+          "time": 1616321909
+        }
+      }
+    },
+    {
+      "id": "185",
+      "team": "Tеаm1",
+      "pos": 12,
+      "score": 920,
+      "taskStats": {
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616296423
+        },
+        "ASSembly": {
+          "points": "460",
+          "time": 1616311475
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616321558
+        }
+      }
+    },
+    {
+      "id": "186",
+      "team": "splitline",
+      "pos": 13,
+      "score": 738,
+      "taskStats": {
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616292761
+        },
+        "Casifax": {
+          "points": "269",
+          "time": 1616293412
+        }
+      }
+    },
+    {
+      "id": "124",
+      "team": "SaturnX",
+      "pos": 14,
+      "score": 738,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616293274
+        },
+        "Unsigned winner": {
+          "points": "469",
+          "time": 1616305152
+        }
+      }
+    },
+    {
+      "id": "26",
+      "team": "AU_H@ck3rs",
+      "pos": 15,
+      "score": 718,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616296219
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616320468
+        },
+        "Randsino": {
+          "points": "449",
+          "time": 1616324623
+        }
+      }
+    },
+    {
+      "id": "81",
+      "team": "Название команды",
+      "pos": 16,
+      "score": 500,
+      "taskStats": {
+        "MEPhI Gates": {
+          "points": "500",
+          "time": 1616306571
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616317761
+        }
+      }
+    },
+    {
+      "id": "40",
+      "team": "Blood Sugar",
+      "pos": 17,
+      "score": 500,
+      "taskStats": {
+        "Weird Full House": {
+          "points": "500",
+          "time": 1616307682
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616318221
+        }
+      }
+    },
+    {
+      "id": "217",
+      "team": "whoamiT",
+      "pos": 18,
+      "score": 473,
+      "taskStats": {
+        "babypwn": {
+          "points": "473",
+          "time": 1616310485
+        }
+      }
+    },
+    {
+      "id": "238",
+      "team": "cew",
+      "pos": 19,
+      "score": 460,
+      "taskStats": {
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616309413
+        }
+      }
+    },
+    {
+      "id": "271",
+      "team": "DarkArmy",
+      "pos": 20,
+      "score": 460,
+      "taskStats": {
+        "Revocryptoforensics": {
+          "points": "460",
+          "time": 1616322824
+        }
+      }
+    },
+    {
+      "id": "151",
+      "team": "x6C6F747573",
+      "pos": 21,
+      "score": 449,
+      "taskStats": {
+        "Randsino": {
+          "points": "449",
+          "time": 1616282878
+        }
+      }
+    },
+    {
+      "id": "24",
+      "team": "ThereIsNoInfoRoma",
+      "pos": 22,
+      "score": 449,
+      "taskStats": {
+        "Randsino": {
+          "points": "449",
+          "time": 1616296549
+        }
+      }
+    },
+    {
+      "id": "155",
+      "team": "paulie",
+      "pos": 23,
+      "score": 449,
+      "taskStats": {
+        "Randsino": {
+          "points": "449",
+          "time": 1616320398
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616322276
+        }
+      }
+    },
+    {
+      "id": "166",
+      "team": "TourRadar",
+      "pos": 24,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616282894
+        }
+      }
+    },
+    {
+      "id": "37",
+      "team": "0x01d5",
+      "pos": 25,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616282899
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616318625
+        }
+      }
+    },
+    {
+      "id": "138",
+      "team": "M3di0cr3s",
+      "pos": 26,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616290258
+        }
+      }
+    },
+    {
+      "id": "197",
+      "team": "phishing lvls?",
+      "pos": 27,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616295884
+        }
+      }
+    },
+    {
+      "id": "65",
+      "team": "Tkd-Alex",
+      "pos": 28,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616302252
+        }
+      }
+    },
+    {
+      "id": "106",
+      "team": "R0073R5",
+      "pos": 29,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616304204
+        }
+      }
+    },
+    {
+      "id": "23",
+      "team": "Omaviat",
+      "pos": 30,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616311637
+        },
+        "Survey": {
+          "points": "0",
+          "time": 1616319445
+        }
+      }
+    },
+    {
+      "id": "126",
+      "team": "cntr0llz",
+      "pos": 31,
+      "score": 269,
+      "taskStats": {
+        "Casifax": {
+          "points": "269",
+          "time": 1616326885
+        }
+      }
+    }
+  ],
+  "date": 1616252400,
+  "name": "SPRUSH CTF Quals 2021"
+}
