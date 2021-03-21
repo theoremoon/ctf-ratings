@@ -1,0 +1,10098 @@
+{
+  "tasks": [
+    "Your Note",
+    "Damn Vulnerable Box",
+    "diveinternal",
+    "3233",
+    "SQG (pwn)",
+    "babycrypto3",
+    "Janken",
+    "pprofile",
+    "bank",
+    "Sakura",
+    "pwnbox",
+    "babychrome",
+    "babycrypto1",
+    "Welcome",
+    "babycrypto2",
+    "babycrypto4",
+    "Query Firewall",
+    "babyweb",
+    "atelier",
+    "doublecheck",
+    "babysandbox",
+    "SQG (rev)"
+  ],
+  "standings": [
+    {
+      "id": "112",
+      "team": "The Duck",
+      "pos": 1,
+      "score": 7143,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167198
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616168761
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616174104
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616174612
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616179288
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616181999
+        },
+        "pprofile": {
+          "points": "460",
+          "time": 1616182573
+        },
+        "3233": {
+          "points": "472",
+          "time": 1616187153
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616198507
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616202093
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616207770
+        },
+        "Query Firewall": {
+          "points": "499",
+          "time": 1616211447
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616212116
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616212792
+        },
+        "Damn Vulnerable Box": {
+          "points": "496",
+          "time": 1616218525
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616219170
+        },
+        "Janken": {
+          "points": "460",
+          "time": 1616219936
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616226119
+        },
+        "SQG (pwn)": {
+          "points": "499",
+          "time": 1616229783
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616231415
+        },
+        "doublecheck": {
+          "points": "499",
+          "time": 1616237554
+        },
+        "pwnbox": {
+          "points": "496",
+          "time": 1616243351
+        }
+      }
+    },
+    {
+      "id": "5",
+      "team": "KimchiSushi",
+      "pos": 2,
+      "score": 5153,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167624
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616168620
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616173632
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616175324
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616178387
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616193436
+        },
+        "pprofile": {
+          "points": "460",
+          "time": 1616194788
+        },
+        "3233": {
+          "points": "472",
+          "time": 1616195342
+        },
+        "Janken": {
+          "points": "460",
+          "time": 1616205337
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616206805
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616214295
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616215680
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616223829
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616228731
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616239765
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616242093
+        },
+        "Query Firewall": {
+          "points": "499",
+          "time": 1616245074
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616249394
+        }
+      }
+    },
+    {
+      "id": "100",
+      "team": "rbtree fan club",
+      "pos": 3,
+      "score": 4277,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169392
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616169566
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616173258
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616175587
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616179969
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616183330
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616192975
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616194678
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616203817
+        },
+        "Damn Vulnerable Box": {
+          "points": "496",
+          "time": 1616212195
+        },
+        "pprofile": {
+          "points": "460",
+          "time": 1616229396
+        },
+        "3233": {
+          "points": "472",
+          "time": 1616229405
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616234463
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616238616
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616238666
+        },
+        "Janken": {
+          "points": "460",
+          "time": 1616245147
+        }
+      }
+    },
+    {
+      "id": "110",
+      "team": "NorseCode",
+      "pos": 4,
+      "score": 3288,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166938
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616171759
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616174158
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616176739
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616211620
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616213483
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616222110
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616224835
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616230705
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616233839
+        },
+        "3233": {
+          "points": "472",
+          "time": 1616243467
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616250653
+        },
+        "Janken": {
+          "points": "460",
+          "time": 1616252820
+        }
+      }
+    },
+    {
+      "id": "202",
+      "team": "More Smoked Leet Chicken",
+      "pos": 5,
+      "score": 3248,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616169957
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616169983
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616180646
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616211653
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616213411
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616229637
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616231142
+        },
+        "SQG (pwn)": {
+          "points": "499",
+          "time": 1616239355
+        },
+        "pprofile": {
+          "points": "460",
+          "time": 1616240710
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616250844
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616251485
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616251642
+        }
+      }
+    },
+    {
+      "id": "335",
+      "team": "zer0pts",
+      "pos": 6,
+      "score": 2472,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169031
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616171269
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616174721
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616176637
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616197997
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616205106
+        },
+        "Janken": {
+          "points": "460",
+          "time": 1616212117
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616215193
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616237453
+        },
+        "pwnbox": {
+          "points": "496",
+          "time": 1616243074
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616244468
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616251115
+        }
+      }
+    },
+    {
+      "id": "2",
+      "team": "TSG",
+      "pos": 7,
+      "score": 2416,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168729
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616171403
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616173374
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616203292
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616205805
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616207755
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616223473
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616223586
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616231095
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616239926
+        },
+        "3233": {
+          "points": "472",
+          "time": 1616244392
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616252596
+        }
+      }
+    },
+    {
+      "id": "4",
+      "team": "./Vespiary",
+      "pos": 8,
+      "score": 1961,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168569
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616177002
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616181321
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616187345
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616192245
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616203317
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616208608
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616219190
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616230445
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616243207
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616250614
+        }
+      }
+    },
+    {
+      "id": "437",
+      "team": "Shellphish",
+      "pos": 9,
+      "score": 1961,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168621
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616175370
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616186995
+        },
+        "pprofile": {
+          "points": "460",
+          "time": 1616188608
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616209655
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616230346
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616242520
+        },
+        "pwnbox": {
+          "points": "496",
+          "time": 1616247246
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616251717
+        }
+      }
+    },
+    {
+      "id": "618",
+      "team": "10sec",
+      "pos": 10,
+      "score": 1861,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177614
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616185246
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616186242
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616207888
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616221255
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616226867
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616230795
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616233118
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616236671
+        }
+      }
+    },
+    {
+      "id": "233",
+      "team": "Balsn",
+      "pos": 11,
+      "score": 1666,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170725
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616173040
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616175298
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616180683
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616199680
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616205852
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616219371
+        },
+        "pprofile": {
+          "points": "460",
+          "time": 1616221066
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616237596
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616247037
+        }
+      }
+    },
+    {
+      "id": "406",
+      "team": "Corrupted Pwnis",
+      "pos": 12,
+      "score": 1282,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168000
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616192146
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616200151
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616204632
+        },
+        "3233": {
+          "points": "472",
+          "time": 1616215630
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616216095
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616219443
+        },
+        "Janken": {
+          "points": "460",
+          "time": 1616226177
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616241041
+        }
+      }
+    },
+    {
+      "id": "124",
+      "team": "K-Students",
+      "pos": 13,
+      "score": 1274,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166466
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616173257
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616174227
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616181165
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616192076
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616205192
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616207801
+        },
+        "Damn Vulnerable Box": {
+          "points": "496",
+          "time": 1616226557
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616251024
+        }
+      }
+    },
+    {
+      "id": "903",
+      "team": "L3H Sec",
+      "pos": 14,
+      "score": 1227,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616214726
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616217688
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616218882
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616220889
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616224355
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616226149
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616230025
+        },
+        "doublecheck": {
+          "points": "499",
+          "time": 1616232684
+        }
+      }
+    },
+    {
+      "id": "347",
+      "team": "the3000",
+      "pos": 15,
+      "score": 1106,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616178124
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616178134
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616178334
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616202758
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616213456
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616219222
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616244840
+        }
+      }
+    },
+    {
+      "id": "143",
+      "team": "mhackeroni",
+      "pos": 16,
+      "score": 1055,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616198802
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616199969
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616200783
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616202618
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616209201
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616211017
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616216081
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616239182
+        }
+      }
+    },
+    {
+      "id": "441",
+      "team": "TokyoWesterns",
+      "pos": 17,
+      "score": 1023,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205221
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616214284
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616227573
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616230720
+        },
+        "bank": {
+          "points": "428",
+          "time": 1616235498
+        }
+      }
+    },
+    {
+      "id": "423",
+      "team": "Bushwhackers",
+      "pos": 18,
+      "score": 838,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189267
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616211016
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616223509
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616231251
+        }
+      }
+    },
+    {
+      "id": "387",
+      "team": "PFS",
+      "pos": 19,
+      "score": 760,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167510
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616182583
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616185425
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616187969
+        },
+        "pprofile": {
+          "points": "460",
+          "time": 1616210879
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616229466
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616233204
+        }
+      }
+    },
+    {
+      "id": "367",
+      "team": "dodododo",
+      "pos": 20,
+      "score": 745,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170461
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616187721
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616188288
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616189040
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616189104
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616205692
+        },
+        "SQG (rev)": {
+          "points": "445",
+          "time": 1616217017
+        }
+      }
+    },
+    {
+      "id": "412",
+      "team": "Goburin'",
+      "pos": 21,
+      "score": 728,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168863
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616177117
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616177409
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616210870
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616214431
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616242812
+        },
+        "babysandbox": {
+          "points": "428",
+          "time": 1616247189
+        }
+      }
+    },
+    {
+      "id": "816",
+      "team": "RedRocket",
+      "pos": 22,
+      "score": 695,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616201977
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616202919
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616206159
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616208121
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616219909
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616241534
+        }
+      }
+    },
+    {
+      "id": "251",
+      "team": "TeamC8",
+      "pos": 23,
+      "score": 678,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616172812
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616180143
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616180928
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616207668
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616235973
+        },
+        "Sakura": {
+          "points": "428",
+          "time": 1616254947
+        }
+      }
+    },
+    {
+      "id": "378",
+      "team": "skiddies",
+      "pos": 24,
+      "score": 628,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187050
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616213478
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616215441
+        },
+        "babyweb": {
+          "points": "428",
+          "time": 1616235335
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616253942
+        }
+      }
+    },
+    {
+      "id": "197",
+      "team": "HATSSG",
+      "pos": 25,
+      "score": 610,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177396
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616194273
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616198520
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616199481
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616203592
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616212354
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616216701
+        }
+      }
+    },
+    {
+      "id": "355",
+      "team": "SED",
+      "pos": 26,
+      "score": 560,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166957
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616176064
+        },
+        "Janken": {
+          "points": "460",
+          "time": 1616202144
+        }
+      }
+    },
+    {
+      "id": "410",
+      "team": "CeSeNA_Ulisse",
+      "pos": 27,
+      "score": 545,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170235
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616218450
+        },
+        "babychrome": {
+          "points": "445",
+          "time": 1616237143
+        }
+      }
+    },
+    {
+      "id": "229",
+      "team": "AntiBuddies",
+      "pos": 28,
+      "score": 360,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167004
+        },
+        "atelier": {
+          "points": "310",
+          "time": 1616181574
+        }
+      }
+    },
+    {
+      "id": "30",
+      "team": "superflip",
+      "pos": 29,
+      "score": 350,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180479
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616182570
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616183382
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616226983
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616228866
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616234018
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616249526
+        }
+      }
+    },
+    {
+      "id": "121",
+      "team": "SSAT",
+      "pos": 30,
+      "score": 350,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168005
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616171569
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616182357
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616182479
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616213392
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616232474
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616251775
+        }
+      }
+    },
+    {
+      "id": "450",
+      "team": "y011d4",
+      "pos": 31,
+      "score": 300,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616168914
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616168925
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616173113
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616181140
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616206000
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616220401
+        }
+      }
+    },
+    {
+      "id": "467",
+      "team": "imssm99",
+      "pos": 32,
+      "score": 250,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616178823
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616178832
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616179285
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616180996
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616192023
+        }
+      }
+    },
+    {
+      "id": "536",
+      "team": "ommadawn46",
+      "pos": 33,
+      "score": 250,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616172297
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616172306
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616174112
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616184156
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616204997
+        }
+      }
+    },
+    {
+      "id": "595",
+      "team": "x6C6F747573",
+      "pos": 34,
+      "score": 250,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616177163
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616177807
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616177909
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616207332
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616213865
+        }
+      }
+    },
+    {
+      "id": "192",
+      "team": "scsc",
+      "pos": 35,
+      "score": 250,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616174464
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616176248
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616176842
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616200668
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616216306
+        }
+      }
+    },
+    {
+      "id": "291",
+      "team": "ICE_HBM",
+      "pos": 36,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171250
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616183737
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616185096
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616215650
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616217188
+        }
+      }
+    },
+    {
+      "id": "111",
+      "team": "HCMUS",
+      "pos": 37,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166379
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616169542
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616175261
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616183911
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616222729
+        }
+      }
+    },
+    {
+      "id": "219",
+      "team": "Wombat Strike",
+      "pos": 38,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168638
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616194550
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616198118
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616214886
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616222784
+        }
+      }
+    },
+    {
+      "id": "181",
+      "team": "Defenit",
+      "pos": 39,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166650
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616168656
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616176274
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616180553
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616223076
+        }
+      }
+    },
+    {
+      "id": "715",
+      "team": "hackinprovence",
+      "pos": 40,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198146
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616213818
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616220944
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616227163
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616229018
+        }
+      }
+    },
+    {
+      "id": "336",
+      "team": "RootMeUpBeforeYouGoGo",
+      "pos": 41,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168618
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616225363
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616225972
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616228160
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616233808
+        }
+      }
+    },
+    {
+      "id": "597",
+      "team": "bois_o_dia",
+      "pos": 42,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616175918
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616190740
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616191389
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616229482
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616235145
+        }
+      }
+    },
+    {
+      "id": "331",
+      "team": "Weak But Leet",
+      "pos": 43,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168894
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616176516
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616219534
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616220637
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616239457
+        }
+      }
+    },
+    {
+      "id": "63",
+      "team": "Tresk",
+      "pos": 44,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189797
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616222781
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616235076
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616237923
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616245117
+        }
+      }
+    },
+    {
+      "id": "566",
+      "team": "iab",
+      "pos": 45,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172644
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616180887
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616190866
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616223705
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616245326
+        }
+      }
+    },
+    {
+      "id": "426",
+      "team": "born2scan",
+      "pos": 46,
+      "score": 250,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167066
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616184268
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616228701
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616242883
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616252320
+        }
+      }
+    },
+    {
+      "id": "446",
+      "team": "humit",
+      "pos": 47,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169453
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616182368
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616183478
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616195560
+        }
+      }
+    },
+    {
+      "id": "288",
+      "team": "monsec",
+      "pos": 48,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167117
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616173990
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616195040
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616200509
+        }
+      }
+    },
+    {
+      "id": "513",
+      "team": "noraneco",
+      "pos": 49,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170760
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616181525
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616184995
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616201308
+        }
+      }
+    },
+    {
+      "id": "452",
+      "team": "biscuit",
+      "pos": 50,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168017
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616198438
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616199375
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616204333
+        }
+      }
+    },
+    {
+      "id": "314",
+      "team": "Ph0t1n1a",
+      "pos": 51,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167968
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616180463
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616181259
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616207504
+        }
+      }
+    },
+    {
+      "id": "431",
+      "team": "pappo",
+      "pos": 52,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195855
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616201521
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616202310
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616212138
+        }
+      }
+    },
+    {
+      "id": "338",
+      "team": "ruk",
+      "pos": 53,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173731
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616186502
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616208727
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616217015
+        }
+      }
+    },
+    {
+      "id": "623",
+      "team": "dcua",
+      "pos": 54,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179051
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616211611
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616218053
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616222632
+        }
+      }
+    },
+    {
+      "id": "837",
+      "team": "Nupakachi",
+      "pos": 55,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204805
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616214049
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616217900
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616224088
+        }
+      }
+    },
+    {
+      "id": "176",
+      "team": "SecurityFactorial",
+      "pos": 56,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168003
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616203268
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616204982
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616226437
+        }
+      }
+    },
+    {
+      "id": "138",
+      "team": "KEEPER",
+      "pos": 57,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178995
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616193329
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616216813
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616228310
+        }
+      }
+    },
+    {
+      "id": "151",
+      "team": "CAT-Security",
+      "pos": 58,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166901
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616181209
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616197592
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616228598
+        }
+      }
+    },
+    {
+      "id": "473",
+      "team": "N0Named",
+      "pos": 59,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168586
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616193257
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616207171
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616228655
+        }
+      }
+    },
+    {
+      "id": "615",
+      "team": "[email protected]",
+      "pos": 60,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177660
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616218229
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616220442
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616229386
+        }
+      }
+    },
+    {
+      "id": "211",
+      "team": "xtal",
+      "pos": 61,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167110
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616215432
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616215970
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616231470
+        }
+      }
+    },
+    {
+      "id": "430",
+      "team": "backspace",
+      "pos": 62,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167058
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616212978
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616226182
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616233607
+        }
+      }
+    },
+    {
+      "id": "198",
+      "team": "Hackappatoi",
+      "pos": 63,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168662
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616205547
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616220966
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616235722
+        }
+      }
+    },
+    {
+      "id": "992",
+      "team": "flagbot",
+      "pos": 64,
+      "score": 200,
+      "taskStats": {
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616230216
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616230246
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616230259
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616236996
+        }
+      }
+    },
+    {
+      "id": "424",
+      "team": "Seadyot",
+      "pos": 65,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168588
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616226137
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616229698
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616237156
+        }
+      }
+    },
+    {
+      "id": "995",
+      "team": "אלוף",
+      "pos": 66,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228875
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616232222
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616233334
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616237995
+        }
+      }
+    },
+    {
+      "id": "438",
+      "team": "Samurai",
+      "pos": 67,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168716
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616236732
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616237765
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616238767
+        }
+      }
+    },
+    {
+      "id": "236",
+      "team": "The Unexpendables",
+      "pos": 68,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167091
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616167429
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616173175
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616239765
+        }
+      }
+    },
+    {
+      "id": "769",
+      "team": "Test142857",
+      "pos": 69,
+      "score": 200,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616197903
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616198481
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616199834
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616244350
+        }
+      }
+    },
+    {
+      "id": "354",
+      "team": "Hamers",
+      "pos": 70,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616203333
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616244004
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616246050
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616247174
+        }
+      }
+    },
+    {
+      "id": "432",
+      "team": "mikoan",
+      "pos": 71,
+      "score": 200,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616172114
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616172221
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616172893
+        },
+        "babycrypto4": {
+          "points": "50",
+          "time": 1616248762
+        }
+      }
+    },
+    {
+      "id": "76",
+      "team": "ISLAND",
+      "pos": 72,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166362
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616180342
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616184367
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616249150
+        }
+      }
+    },
+    {
+      "id": "32",
+      "team": "Tomatosalad",
+      "pos": 73,
+      "score": 200,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172678
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616186697
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616251024
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616255990
+        }
+      }
+    },
+    {
+      "id": "463",
+      "team": "vegctrp",
+      "pos": 74,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176065
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616176071
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616176075
+        }
+      }
+    },
+    {
+      "id": "362",
+      "team": "harukana",
+      "pos": 75,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167415
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616172928
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616176100
+        }
+      }
+    },
+    {
+      "id": "404",
+      "team": "Fakenews",
+      "pos": 76,
+      "score": 150,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616174936
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616175555
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616176265
+        }
+      }
+    },
+    {
+      "id": "231",
+      "team": "Wani Hackase",
+      "pos": 77,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169602
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616175804
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616176738
+        }
+      }
+    },
+    {
+      "id": "555",
+      "team": "MorningLightMountain",
+      "pos": 78,
+      "score": 150,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616175409
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616178198
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616178349
+        }
+      }
+    },
+    {
+      "id": "179",
+      "team": "엄덕구세요?",
+      "pos": 79,
+      "score": 150,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616176003
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616178687
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616180064
+        }
+      }
+    },
+    {
+      "id": "652",
+      "team": "wizard_of_skn",
+      "pos": 80,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180909
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616182116
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616182636
+        }
+      }
+    },
+    {
+      "id": "297",
+      "team": "F-Killer",
+      "pos": 81,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167442
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616177616
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616183412
+        }
+      }
+    },
+    {
+      "id": "557",
+      "team": "joseph",
+      "pos": 82,
+      "score": 150,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616171681
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616171687
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616184025
+        }
+      }
+    },
+    {
+      "id": "34",
+      "team": "h0lysh1t",
+      "pos": 83,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181561
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616183971
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616189541
+        }
+      }
+    },
+    {
+      "id": "672",
+      "team": "InfoSecIITR",
+      "pos": 84,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616183228
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616187792
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616189912
+        }
+      }
+    },
+    {
+      "id": "483",
+      "team": "TheGoonies",
+      "pos": 85,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182358
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616188738
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616190742
+        }
+      }
+    },
+    {
+      "id": "160",
+      "team": "여자친구구함",
+      "pos": 86,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168578
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616180811
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616191308
+        }
+      }
+    },
+    {
+      "id": "130",
+      "team": "shikame",
+      "pos": 87,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181280
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616188742
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616191548
+        }
+      }
+    },
+    {
+      "id": "405",
+      "team": "KUICS",
+      "pos": 88,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167049
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616190872
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616195012
+        }
+      }
+    },
+    {
+      "id": "357",
+      "team": "thereissthaboutst",
+      "pos": 89,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168890
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616195961
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616196557
+        }
+      }
+    },
+    {
+      "id": "684",
+      "team": "gomi",
+      "pos": 90,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184478
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616194832
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616198723
+        }
+      }
+    },
+    {
+      "id": "51",
+      "team": "CSUI",
+      "pos": 91,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189876
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616198089
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616198901
+        }
+      }
+    },
+    {
+      "id": "279",
+      "team": "CTF.SG",
+      "pos": 92,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168950
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616190849
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616198946
+        }
+      }
+    },
+    {
+      "id": "750",
+      "team": "TheBadGod",
+      "pos": 93,
+      "score": 150,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616194270
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616196158
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616201428
+        }
+      }
+    },
+    {
+      "id": "719",
+      "team": "has_NOTHING_todo",
+      "pos": 94,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616188809
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616194945
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616202599
+        }
+      }
+    },
+    {
+      "id": "517",
+      "team": "VietCongSoldiers",
+      "pos": 95,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169536
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616202566
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616204469
+        }
+      }
+    },
+    {
+      "id": "660",
+      "team": "STeam",
+      "pos": 96,
+      "score": 150,
+      "taskStats": {
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616207330
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616207454
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616216809
+        }
+      }
+    },
+    {
+      "id": "834",
+      "team": "CyberErudites",
+      "pos": 97,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616203647
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616216613
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616220957
+        }
+      }
+    },
+    {
+      "id": "777",
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "pos": 98,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196496
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616202323
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616225612
+        }
+      }
+    },
+    {
+      "id": "960",
+      "team": "tjade273",
+      "pos": 99,
+      "score": 150,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616223077
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616223814
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616226738
+        }
+      }
+    },
+    {
+      "id": "580",
+      "team": "B0NG0R3",
+      "pos": 100,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173630
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616223919
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616228572
+        }
+      }
+    },
+    {
+      "id": "33",
+      "team": "m1z0r3",
+      "pos": 101,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169201
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616235623
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616236556
+        }
+      }
+    },
+    {
+      "id": "987",
+      "team": "W3rni0",
+      "pos": 102,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616226126
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616229204
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616237354
+        }
+      }
+    },
+    {
+      "id": "6",
+      "team": "IPFactory",
+      "pos": 103,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166911
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616185265
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616239721
+        }
+      }
+    },
+    {
+      "id": "575",
+      "team": "hitori",
+      "pos": 104,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173408
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616192843
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616244505
+        }
+      }
+    },
+    {
+      "id": "67",
+      "team": "Cr4ckThump",
+      "pos": 105,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168957
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616199423
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616245228
+        }
+      }
+    },
+    {
+      "id": "433",
+      "team": "0x90r00t",
+      "pos": 106,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169440
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616212690
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616249415
+        }
+      }
+    },
+    {
+      "id": "358",
+      "team": "zbvs",
+      "pos": 107,
+      "score": 150,
+      "taskStats": {
+        "diveinternal": {
+          "points": "50",
+          "time": 1616196413
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616196421
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616252186
+        }
+      }
+    },
+    {
+      "id": "289",
+      "team": "meraxes",
+      "pos": 108,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166934
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616180657
+        }
+      }
+    },
+    {
+      "id": "510",
+      "team": "ISITDTU",
+      "pos": 109,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169190
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616181381
+        }
+      }
+    },
+    {
+      "id": "445",
+      "team": "m1dn8",
+      "pos": 110,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167424
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616184077
+        }
+      }
+    },
+    {
+      "id": "19",
+      "team": "PoN82",
+      "pos": 111,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178798
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616188021
+        }
+      }
+    },
+    {
+      "id": "365",
+      "team": "test1234",
+      "pos": 112,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167143
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616197128
+        }
+      }
+    },
+    {
+      "id": "573",
+      "team": "progfay",
+      "pos": 113,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173139
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616197403
+        }
+      }
+    },
+    {
+      "id": "443",
+      "team": "Pink Nyan Nyan Punch",
+      "pos": 114,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169692
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616201946
+        }
+      }
+    },
+    {
+      "id": "434",
+      "team": "score_gazer",
+      "pos": 115,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168890
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616202123
+        }
+      }
+    },
+    {
+      "id": "530",
+      "team": "onotch",
+      "pos": 116,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170004
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616204648
+        }
+      }
+    },
+    {
+      "id": "583",
+      "team": "Eight_brothers_under_the_moon",
+      "pos": 117,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174052
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616206210
+        }
+      }
+    },
+    {
+      "id": "797",
+      "team": "bbbbaaaa",
+      "pos": 118,
+      "score": 100,
+      "taskStats": {
+        "diveinternal": {
+          "points": "50",
+          "time": 1616206428
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616206442
+        }
+      }
+    },
+    {
+      "id": "845",
+      "team": "ak3rmit",
+      "pos": 119,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205303
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616207026
+        }
+      }
+    },
+    {
+      "id": "313",
+      "team": "$wag",
+      "pos": 120,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176530
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616207080
+        }
+      }
+    },
+    {
+      "id": "716",
+      "team": "CSI",
+      "pos": 121,
+      "score": 100,
+      "taskStats": {
+        "Your Note": {
+          "points": "50",
+          "time": 1616210037
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616210405
+        }
+      }
+    },
+    {
+      "id": "455",
+      "team": "xof5566",
+      "pos": 122,
+      "score": 100,
+      "taskStats": {
+        "Your Note": {
+          "points": "50",
+          "time": 1616204163
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616213306
+        }
+      }
+    },
+    {
+      "id": "171",
+      "team": "d4rkc0de",
+      "pos": 123,
+      "score": 100,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616213647
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616215494
+        }
+      }
+    },
+    {
+      "id": "493",
+      "team": "pome11",
+      "pos": 124,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168906
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616218608
+        }
+      }
+    },
+    {
+      "id": "590",
+      "team": "SudoWoodoDoasWoodo",
+      "pos": 125,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187133
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616219150
+        }
+      }
+    },
+    {
+      "id": "145",
+      "team": "Pyramid Surgeon",
+      "pos": 126,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616200887
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616219466
+        }
+      }
+    },
+    {
+      "id": "376",
+      "team": "Primitive",
+      "pos": 127,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177500
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616219578
+        }
+      }
+    },
+    {
+      "id": "245",
+      "team": "PTV",
+      "pos": 128,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616218494
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616220924
+        }
+      }
+    },
+    {
+      "id": "268",
+      "team": "yharima",
+      "pos": 129,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187404
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616221042
+        }
+      }
+    },
+    {
+      "id": "937",
+      "team": "room2042",
+      "pos": 130,
+      "score": 100,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616226341
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616226448
+        }
+      }
+    },
+    {
+      "id": "386",
+      "team": "Wanna.One",
+      "pos": 131,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179709
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616228496
+        }
+      }
+    },
+    {
+      "id": "282",
+      "team": "L0g!c B0mb",
+      "pos": 132,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180935
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616231286
+        }
+      }
+    },
+    {
+      "id": "966",
+      "team": "vd",
+      "pos": 133,
+      "score": 100,
+      "taskStats": {
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616224782
+        },
+        "babycrypto2": {
+          "points": "50",
+          "time": 1616232134
+        }
+      }
+    },
+    {
+      "id": "339",
+      "team": "Qult of the Quantum Qow",
+      "pos": 134,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168977
+        },
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616238672
+        }
+      }
+    },
+    {
+      "id": "713",
+      "team": "cryptix",
+      "pos": 135,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189668
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616239597
+        }
+      }
+    },
+    {
+      "id": "475",
+      "team": "jorgectf",
+      "pos": 136,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168785
+        },
+        "Your Note": {
+          "points": "50",
+          "time": 1616239837
+        }
+      }
+    },
+    {
+      "id": "389",
+      "team": "AsssassiNOPs",
+      "pos": 137,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189779
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616242523
+        }
+      }
+    },
+    {
+      "id": "421",
+      "team": "r00tstici",
+      "pos": 138,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196914
+        },
+        "diveinternal": {
+          "points": "50",
+          "time": 1616249751
+        }
+      }
+    },
+    {
+      "id": "150",
+      "team": "Little Twoos",
+      "pos": 139,
+      "score": 100,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616214073
+        },
+        "babycrypto1": {
+          "points": "50",
+          "time": 1616251789
+        }
+      }
+    },
+    {
+      "id": "416",
+      "team": "CarpeDien",
+      "pos": 140,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166411
+        }
+      }
+    },
+    {
+      "id": "18",
+      "team": "WCG6M",
+      "pos": 141,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166443
+        }
+      }
+    },
+    {
+      "id": "255",
+      "team": "R3SJster",
+      "pos": 142,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166912
+        }
+      }
+    },
+    {
+      "id": "397",
+      "team": "K3RN3L4RMY",
+      "pos": 143,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166919
+        }
+      }
+    },
+    {
+      "id": "326",
+      "team": "Onlyfeet",
+      "pos": 144,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166932
+        }
+      }
+    },
+    {
+      "id": "10",
+      "team": "Senko",
+      "pos": 145,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166934
+        }
+      }
+    },
+    {
+      "id": "118",
+      "team": "R0070R5",
+      "pos": 146,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166959
+        }
+      }
+    },
+    {
+      "id": "99",
+      "team": "ABHH",
+      "pos": 147,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166967
+        }
+      }
+    },
+    {
+      "id": "177",
+      "team": "RevolutionEra",
+      "pos": 148,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166974
+        }
+      }
+    },
+    {
+      "id": "435",
+      "team": "UUOWCC",
+      "pos": 149,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166982
+        }
+      }
+    },
+    {
+      "id": "212",
+      "team": "TokelauPTB",
+      "pos": 150,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166987
+        }
+      }
+    },
+    {
+      "id": "447",
+      "team": "No Name",
+      "pos": 151,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616166994
+        }
+      }
+    },
+    {
+      "id": "328",
+      "team": "PetyaReindeer",
+      "pos": 152,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167010
+        }
+      }
+    },
+    {
+      "id": "372",
+      "team": "h3x085",
+      "pos": 153,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167015
+        }
+      }
+    },
+    {
+      "id": "442",
+      "team": "admin123",
+      "pos": 154,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167088
+        }
+      }
+    },
+    {
+      "id": "385",
+      "team": "ctfChallengers",
+      "pos": 155,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167105
+        }
+      }
+    },
+    {
+      "id": "453",
+      "team": "TeamCloaker65523",
+      "pos": 156,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167115
+        }
+      }
+    },
+    {
+      "id": "210",
+      "team": "544D13N5_",
+      "pos": 157,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167143
+        }
+      }
+    },
+    {
+      "id": "356",
+      "team": "DDHC",
+      "pos": 158,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167185
+        }
+      }
+    },
+    {
+      "id": "226",
+      "team": "AWP",
+      "pos": 159,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167298
+        }
+      }
+    },
+    {
+      "id": "334",
+      "team": "devilgoose",
+      "pos": 160,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167362
+        }
+      }
+    },
+    {
+      "id": "222",
+      "team": "ChickenSparkle",
+      "pos": 161,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167448
+        }
+      }
+    },
+    {
+      "id": "239",
+      "team": "우주최강SSG뉴비",
+      "pos": 162,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167453
+        }
+      }
+    },
+    {
+      "id": "22",
+      "team": "SecurityFirst",
+      "pos": 163,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167455
+        }
+      }
+    },
+    {
+      "id": "456",
+      "team": "Kuality",
+      "pos": 164,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167499
+        }
+      }
+    },
+    {
+      "id": "413",
+      "team": "Shellogg's",
+      "pos": 165,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167566
+        }
+      }
+    },
+    {
+      "id": "253",
+      "team": "T34M1",
+      "pos": 166,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167767
+        }
+      }
+    },
+    {
+      "id": "371",
+      "team": "AG",
+      "pos": 167,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167772
+        }
+      }
+    },
+    {
+      "id": "454",
+      "team": "fr1t0",
+      "pos": 168,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167781
+        }
+      }
+    },
+    {
+      "id": "285",
+      "team": "U+180E",
+      "pos": 169,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167795
+        }
+      }
+    },
+    {
+      "id": "462",
+      "team": "bbb",
+      "pos": 170,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167826
+        }
+      }
+    },
+    {
+      "id": "281",
+      "team": "UnsafeTeam",
+      "pos": 171,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616167938
+        }
+      }
+    },
+    {
+      "id": "383",
+      "team": "L1T",
+      "pos": 172,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168017
+        }
+      }
+    },
+    {
+      "id": "449",
+      "team": "FreshWaterMelon",
+      "pos": 173,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168038
+        }
+      }
+    },
+    {
+      "id": "83",
+      "team": "cheesebaguette",
+      "pos": 174,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168340
+        }
+      }
+    },
+    {
+      "id": "264",
+      "team": "Terminal Cats",
+      "pos": 175,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168353
+        }
+      }
+    },
+    {
+      "id": "415",
+      "team": "ShroomZ",
+      "pos": 176,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168371
+        }
+      }
+    },
+    {
+      "id": "117",
+      "team": "jap1t3dx3",
+      "pos": 177,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168579
+        }
+      }
+    },
+    {
+      "id": "360",
+      "team": "z90",
+      "pos": 178,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168582
+        }
+      }
+    },
+    {
+      "id": "140",
+      "team": "HunGry",
+      "pos": 179,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168586
+        }
+      }
+    },
+    {
+      "id": "293",
+      "team": "Ham on Biscuits",
+      "pos": 180,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168594
+        }
+      }
+    },
+    {
+      "id": "316",
+      "team": "MirrorOS",
+      "pos": 181,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168603
+        }
+      }
+    },
+    {
+      "id": "180",
+      "team": "ri5e",
+      "pos": 182,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168608
+        }
+      }
+    },
+    {
+      "id": "232",
+      "team": "Begginer",
+      "pos": 183,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168613
+        }
+      }
+    },
+    {
+      "id": "464",
+      "team": "Calbi",
+      "pos": 184,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168621
+        }
+      }
+    },
+    {
+      "id": "185",
+      "team": "Crypt0",
+      "pos": 185,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168655
+        }
+      }
+    },
+    {
+      "id": "227",
+      "team": "n4mele55",
+      "pos": 186,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168662
+        }
+      }
+    },
+    {
+      "id": "139",
+      "team": "obelus",
+      "pos": 187,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168663
+        }
+      }
+    },
+    {
+      "id": "175",
+      "team": "hanadidez0u",
+      "pos": 188,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168686
+        }
+      }
+    },
+    {
+      "id": "205",
+      "team": "d3le",
+      "pos": 189,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168695
+        }
+      }
+    },
+    {
+      "id": "345",
+      "team": "0n10n_34t4r5",
+      "pos": 190,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168696
+        }
+      }
+    },
+    {
+      "id": "373",
+      "team": "MonkOnMars",
+      "pos": 191,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168703
+        }
+      }
+    },
+    {
+      "id": "155",
+      "team": "assassins",
+      "pos": 192,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168740
+        }
+      }
+    },
+    {
+      "id": "481",
+      "team": "Stoke",
+      "pos": 193,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168742
+        }
+      }
+    },
+    {
+      "id": "459",
+      "team": "sese",
+      "pos": 194,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168759
+        }
+      }
+    },
+    {
+      "id": "64",
+      "team": "Random Team",
+      "pos": 195,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168768
+        }
+      }
+    },
+    {
+      "id": "460",
+      "team": "drxusito",
+      "pos": 196,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168782
+        }
+      }
+    },
+    {
+      "id": "451",
+      "team": "FTH",
+      "pos": 197,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168799
+        }
+      }
+    },
+    {
+      "id": "485",
+      "team": "zouzou",
+      "pos": 198,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168815
+        }
+      }
+    },
+    {
+      "id": "429",
+      "team": "Thew31rd0e5",
+      "pos": 199,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168825
+        }
+      }
+    },
+    {
+      "id": "488",
+      "team": "Flaggermeister",
+      "pos": 200,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168838
+        }
+      }
+    },
+    {
+      "id": "173",
+      "team": "boosted",
+      "pos": 201,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168858
+        }
+      }
+    },
+    {
+      "id": "486",
+      "team": "bet75",
+      "pos": 202,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168867
+        }
+      }
+    },
+    {
+      "id": "492",
+      "team": "Cronus",
+      "pos": 203,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168875
+        }
+      }
+    },
+    {
+      "id": "494",
+      "team": "soloJo",
+      "pos": 204,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168896
+        }
+      }
+    },
+    {
+      "id": "479",
+      "team": "bluehens",
+      "pos": 205,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168907
+        }
+      }
+    },
+    {
+      "id": "469",
+      "team": "1x0x2",
+      "pos": 206,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168918
+        }
+      }
+    },
+    {
+      "id": "214",
+      "team": "只配当配角",
+      "pos": 207,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168932
+        }
+      }
+    },
+    {
+      "id": "94",
+      "team": "HIT",
+      "pos": 208,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168964
+        }
+      }
+    },
+    {
+      "id": "498",
+      "team": "monom",
+      "pos": 209,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168966
+        }
+      }
+    },
+    {
+      "id": "444",
+      "team": "rotation",
+      "pos": 210,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616168993
+        }
+      }
+    },
+    {
+      "id": "501",
+      "team": "NUN",
+      "pos": 211,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169002
+        }
+      }
+    },
+    {
+      "id": "503",
+      "team": "UMYCyberArmy",
+      "pos": 212,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169007
+        }
+      }
+    },
+    {
+      "id": "208",
+      "team": "Thehackerscrew",
+      "pos": 213,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169014
+        }
+      }
+    },
+    {
+      "id": "240",
+      "team": "Crimzon",
+      "pos": 214,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169039
+        }
+      }
+    },
+    {
+      "id": "88",
+      "team": "noob",
+      "pos": 215,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169070
+        }
+      }
+    },
+    {
+      "id": "294",
+      "team": "Red Knights",
+      "pos": 216,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169072
+        }
+      }
+    },
+    {
+      "id": "508",
+      "team": "id0n7kn0w",
+      "pos": 217,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169081
+        }
+      }
+    },
+    {
+      "id": "457",
+      "team": "KapiSec",
+      "pos": 218,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169086
+        }
+      }
+    },
+    {
+      "id": "507",
+      "team": "HOTBSS",
+      "pos": 219,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169098
+        }
+      }
+    },
+    {
+      "id": "350",
+      "team": "6447",
+      "pos": 220,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169151
+        }
+      }
+    },
+    {
+      "id": "502",
+      "team": "AKRE",
+      "pos": 221,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169190
+        }
+      }
+    },
+    {
+      "id": "54",
+      "team": "cucura",
+      "pos": 222,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169281
+        }
+      }
+    },
+    {
+      "id": "163",
+      "team": "chappie",
+      "pos": 223,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169295
+        }
+      }
+    },
+    {
+      "id": "206",
+      "team": "7359",
+      "pos": 224,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169295
+        }
+      }
+    },
+    {
+      "id": "515",
+      "team": "polarity_express",
+      "pos": 225,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169404
+        }
+      }
+    },
+    {
+      "id": "56",
+      "team": "hackyboiz",
+      "pos": 226,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169440
+        }
+      }
+    },
+    {
+      "id": "516",
+      "team": "r0ckman",
+      "pos": 227,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169532
+        }
+      }
+    },
+    {
+      "id": "398",
+      "team": "CSSA",
+      "pos": 228,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169551
+        }
+      }
+    },
+    {
+      "id": "169",
+      "team": "LOCS",
+      "pos": 229,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169579
+        }
+      }
+    },
+    {
+      "id": "109",
+      "team": "Casper",
+      "pos": 230,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169595
+        }
+      }
+    },
+    {
+      "id": "519",
+      "team": "4u55135",
+      "pos": 231,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169602
+        }
+      }
+    },
+    {
+      "id": "518",
+      "team": "ytom",
+      "pos": 232,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169627
+        }
+      }
+    },
+    {
+      "id": "280",
+      "team": "CuteYui",
+      "pos": 233,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169627
+        }
+      }
+    },
+    {
+      "id": "521",
+      "team": "opertest",
+      "pos": 234,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169651
+        }
+      }
+    },
+    {
+      "id": "29",
+      "team": "fzhshzh",
+      "pos": 235,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169679
+        }
+      }
+    },
+    {
+      "id": "105",
+      "team": "Colony",
+      "pos": 236,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169689
+        }
+      }
+    },
+    {
+      "id": "524",
+      "team": "shiosefine",
+      "pos": 237,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169755
+        }
+      }
+    },
+    {
+      "id": "141",
+      "team": "Novice_Boat_No_Lifeboat",
+      "pos": 238,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169799
+        }
+      }
+    },
+    {
+      "id": "526",
+      "team": "dual5651",
+      "pos": 239,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169874
+        }
+      }
+    },
+    {
+      "id": "529",
+      "team": "Pillar_Men",
+      "pos": 240,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169903
+        }
+      }
+    },
+    {
+      "id": "505",
+      "team": "tonyqq",
+      "pos": 241,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616169953
+        }
+      }
+    },
+    {
+      "id": "506",
+      "team": "StrixGoldhorn",
+      "pos": 242,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170008
+        }
+      }
+    },
+    {
+      "id": "532",
+      "team": "ec",
+      "pos": 243,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170023
+        }
+      }
+    },
+    {
+      "id": "511",
+      "team": "1win9",
+      "pos": 244,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170027
+        }
+      }
+    },
+    {
+      "id": "527",
+      "team": "pshift",
+      "pos": 245,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170054
+        }
+      }
+    },
+    {
+      "id": "391",
+      "team": "etherknot",
+      "pos": 246,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170082
+        }
+      }
+    },
+    {
+      "id": "301",
+      "team": "IronMaiden",
+      "pos": 247,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170145
+        }
+      }
+    },
+    {
+      "id": "509",
+      "team": "puffinsec",
+      "pos": 248,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170311
+        }
+      }
+    },
+    {
+      "id": "535",
+      "team": "choisunghyun",
+      "pos": 249,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170336
+        }
+      }
+    },
+    {
+      "id": "248",
+      "team": "FAANGUPTA",
+      "pos": 250,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170348
+        }
+      }
+    },
+    {
+      "id": "537",
+      "team": "1234124124123",
+      "pos": 251,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170348
+        }
+      }
+    },
+    {
+      "id": "522",
+      "team": "learner",
+      "pos": 252,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170398
+        }
+      }
+    },
+    {
+      "id": "440",
+      "team": "OR6107",
+      "pos": 253,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170407
+        }
+      }
+    },
+    {
+      "id": "379",
+      "team": "SaturnX",
+      "pos": 254,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170420
+        }
+      }
+    },
+    {
+      "id": "540",
+      "team": "MrPotatoe",
+      "pos": 255,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170437
+        }
+      }
+    },
+    {
+      "id": "539",
+      "team": "katei",
+      "pos": 256,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170451
+        }
+      }
+    },
+    {
+      "id": "168",
+      "team": "Team ColdBreW",
+      "pos": 257,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170483
+        }
+      }
+    },
+    {
+      "id": "344",
+      "team": "Dropsoft",
+      "pos": 258,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170509
+        }
+      }
+    },
+    {
+      "id": "541",
+      "team": "Hidiot",
+      "pos": 259,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170540
+        }
+      }
+    },
+    {
+      "id": "108",
+      "team": "bakso_x86",
+      "pos": 260,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170758
+        }
+      }
+    },
+    {
+      "id": "544",
+      "team": "GanSw",
+      "pos": 261,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170791
+        }
+      }
+    },
+    {
+      "id": "545",
+      "team": "a11k15",
+      "pos": 262,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170826
+        }
+      }
+    },
+    {
+      "id": "136",
+      "team": "hwjl",
+      "pos": 263,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170834
+        }
+      }
+    },
+    {
+      "id": "13",
+      "team": "T3n4ci0us",
+      "pos": 264,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170867
+        }
+      }
+    },
+    {
+      "id": "329",
+      "team": "d1337",
+      "pos": 265,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616170869
+        }
+      }
+    },
+    {
+      "id": "547",
+      "team": "bellwood",
+      "pos": 266,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171077
+        }
+      }
+    },
+    {
+      "id": "402",
+      "team": "Shigatsu",
+      "pos": 267,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171102
+        }
+      }
+    },
+    {
+      "id": "548",
+      "team": "c0nc0rd4t",
+      "pos": 268,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171194
+        }
+      }
+    },
+    {
+      "id": "80",
+      "team": "^TSG^",
+      "pos": 269,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171209
+        }
+      }
+    },
+    {
+      "id": "482",
+      "team": "Solo!",
+      "pos": 270,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171270
+        }
+      }
+    },
+    {
+      "id": "546",
+      "team": "ARESx",
+      "pos": 271,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171297
+        }
+      }
+    },
+    {
+      "id": "258",
+      "team": "ajnj",
+      "pos": 272,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171318
+        }
+      }
+    },
+    {
+      "id": "135",
+      "team": "p1r4t3d",
+      "pos": 273,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171340
+        }
+      }
+    },
+    {
+      "id": "549",
+      "team": "REMNANTS",
+      "pos": 274,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171361
+        }
+      }
+    },
+    {
+      "id": "551",
+      "team": "segod0n",
+      "pos": 275,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171421
+        }
+      }
+    },
+    {
+      "id": "550",
+      "team": "blue0620",
+      "pos": 276,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171421
+        }
+      }
+    },
+    {
+      "id": "375",
+      "team": "zh2",
+      "pos": 277,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171456
+        }
+      }
+    },
+    {
+      "id": "556",
+      "team": "kangaechu",
+      "pos": 278,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171640
+        }
+      }
+    },
+    {
+      "id": "97",
+      "team": "kivon",
+      "pos": 279,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171796
+        }
+      }
+    },
+    {
+      "id": "558",
+      "team": "testteam",
+      "pos": 280,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616171914
+        }
+      }
+    },
+    {
+      "id": "559",
+      "team": "[email protected]",
+      "pos": 281,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172020
+        }
+      }
+    },
+    {
+      "id": "11",
+      "team": "heada",
+      "pos": 282,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172140
+        }
+      }
+    },
+    {
+      "id": "560",
+      "team": "m23k_w00d",
+      "pos": 283,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172146
+        }
+      }
+    },
+    {
+      "id": "563",
+      "team": "qtest",
+      "pos": 284,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172193
+        }
+      }
+    },
+    {
+      "id": "241",
+      "team": "INT3",
+      "pos": 285,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172193
+        }
+      }
+    },
+    {
+      "id": "337",
+      "team": "BitcoinILoveIt",
+      "pos": 286,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172214
+        }
+      }
+    },
+    {
+      "id": "567",
+      "team": "kyle",
+      "pos": 287,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172406
+        }
+      }
+    },
+    {
+      "id": "564",
+      "team": "H's party",
+      "pos": 288,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172561
+        }
+      }
+    },
+    {
+      "id": "568",
+      "team": "kg",
+      "pos": 289,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172590
+        }
+      }
+    },
+    {
+      "id": "149",
+      "team": "K.knock",
+      "pos": 290,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172594
+        }
+      }
+    },
+    {
+      "id": "569",
+      "team": "F03v3ryY0ung",
+      "pos": 291,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172616
+        }
+      }
+    },
+    {
+      "id": "164",
+      "team": "pwnned but better",
+      "pos": 292,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172629
+        }
+      }
+    },
+    {
+      "id": "562",
+      "team": "nakamurk",
+      "pos": 293,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172633
+        }
+      }
+    },
+    {
+      "id": "369",
+      "team": "Pengg0damn",
+      "pos": 294,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172645
+        }
+      }
+    },
+    {
+      "id": "477",
+      "team": "wylb",
+      "pos": 295,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172780
+        }
+      }
+    },
+    {
+      "id": "370",
+      "team": "SF_NB",
+      "pos": 296,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172918
+        }
+      }
+    },
+    {
+      "id": "572",
+      "team": "onemanshow",
+      "pos": 297,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172935
+        }
+      }
+    },
+    {
+      "id": "200",
+      "team": "kgrzk",
+      "pos": 298,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616172950
+        }
+      }
+    },
+    {
+      "id": "399",
+      "team": "Merak",
+      "pos": 299,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173010
+        }
+      }
+    },
+    {
+      "id": "320",
+      "team": "R0GU3_H4CK",
+      "pos": 300,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173040
+        }
+      }
+    },
+    {
+      "id": "574",
+      "team": "The One",
+      "pos": 301,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173227
+        }
+      }
+    },
+    {
+      "id": "126",
+      "team": "MLCTF",
+      "pos": 302,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173390
+        }
+      }
+    },
+    {
+      "id": "577",
+      "team": "mer4k",
+      "pos": 303,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173458
+        }
+      }
+    },
+    {
+      "id": "384",
+      "team": "H4CTF++;",
+      "pos": 304,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173664
+        }
+      }
+    },
+    {
+      "id": "578",
+      "team": "killswitch",
+      "pos": 305,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173856
+        }
+      }
+    },
+    {
+      "id": "570",
+      "team": "hilllxx1",
+      "pos": 306,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616173948
+        }
+      }
+    },
+    {
+      "id": "582",
+      "team": "St0k3",
+      "pos": 307,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174104
+        }
+      }
+    },
+    {
+      "id": "584",
+      "team": "<OOO>",
+      "pos": 308,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174108
+        }
+      }
+    },
+    {
+      "id": "396",
+      "team": "pwnstar",
+      "pos": 309,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174296
+        }
+      }
+    },
+    {
+      "id": "585",
+      "team": "Renard",
+      "pos": 310,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174300
+        }
+      }
+    },
+    {
+      "id": "377",
+      "team": "g0tiu5a",
+      "pos": 311,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174561
+        }
+      }
+    },
+    {
+      "id": "49",
+      "team": "Root of Ev1l",
+      "pos": 312,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174753
+        }
+      }
+    },
+    {
+      "id": "588",
+      "team": "do9dark",
+      "pos": 313,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174793
+        }
+      }
+    },
+    {
+      "id": "235",
+      "team": "XXXXX",
+      "pos": 314,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616174948
+        }
+      }
+    },
+    {
+      "id": "592",
+      "team": "m_0",
+      "pos": 315,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616175031
+        }
+      }
+    },
+    {
+      "id": "593",
+      "team": "[email protected]",
+      "pos": 316,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616175041
+        }
+      }
+    },
+    {
+      "id": "594",
+      "team": "nico23",
+      "pos": 317,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616175137
+        }
+      }
+    },
+    {
+      "id": "269",
+      "team": "vulnfreak",
+      "pos": 318,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616175225
+        }
+      }
+    },
+    {
+      "id": "589",
+      "team": "Team Enu",
+      "pos": 319,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616175738
+        }
+      }
+    },
+    {
+      "id": "304",
+      "team": "NormalPeople",
+      "pos": 320,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176026
+        }
+      }
+    },
+    {
+      "id": "598",
+      "team": "LnJ",
+      "pos": 321,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176122
+        }
+      }
+    },
+    {
+      "id": "599",
+      "team": "k1zuna365",
+      "pos": 322,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176173
+        }
+      }
+    },
+    {
+      "id": "393",
+      "team": "Treading",
+      "pos": 323,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176210
+        }
+      }
+    },
+    {
+      "id": "602",
+      "team": "MN404",
+      "pos": 324,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176270
+        }
+      }
+    },
+    {
+      "id": "600",
+      "team": "kalici",
+      "pos": 325,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176383
+        }
+      }
+    },
+    {
+      "id": "349",
+      "team": "The Scriveners",
+      "pos": 326,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176441
+        }
+      }
+    },
+    {
+      "id": "394",
+      "team": "trecy",
+      "pos": 327,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176456
+        }
+      }
+    },
+    {
+      "id": "607",
+      "team": "test12345",
+      "pos": 328,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176659
+        }
+      }
+    },
+    {
+      "id": "167",
+      "team": "ADY19",
+      "pos": 329,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176673
+        }
+      }
+    },
+    {
+      "id": "267",
+      "team": "F_dis_S",
+      "pos": 330,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616176785
+        }
+      }
+    },
+    {
+      "id": "609",
+      "team": "Antivirus",
+      "pos": 331,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177065
+        }
+      }
+    },
+    {
+      "id": "608",
+      "team": "ZeplinA",
+      "pos": 332,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177081
+        }
+      }
+    },
+    {
+      "id": "137",
+      "team": "aaaaa",
+      "pos": 333,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177092
+        }
+      }
+    },
+    {
+      "id": "612",
+      "team": "Catastrophe",
+      "pos": 334,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177192
+        }
+      }
+    },
+    {
+      "id": "340",
+      "team": "null2root",
+      "pos": 335,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177423
+        }
+      }
+    },
+    {
+      "id": "35",
+      "team": "mopisec_team",
+      "pos": 336,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177507
+        }
+      }
+    },
+    {
+      "id": "237",
+      "team": "trier",
+      "pos": 337,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177527
+        }
+      }
+    },
+    {
+      "id": "616",
+      "team": "universato",
+      "pos": 338,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177598
+        }
+      }
+    },
+    {
+      "id": "604",
+      "team": "Sai sumanth",
+      "pos": 339,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177665
+        }
+      }
+    },
+    {
+      "id": "617",
+      "team": "Enryu",
+      "pos": 340,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177672
+        }
+      }
+    },
+    {
+      "id": "204",
+      "team": "TRIFECTA",
+      "pos": 341,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177698
+        }
+      }
+    },
+    {
+      "id": "174",
+      "team": "maet",
+      "pos": 342,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177742
+        }
+      }
+    },
+    {
+      "id": "390",
+      "team": "BambooFox",
+      "pos": 343,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177811
+        }
+      }
+    },
+    {
+      "id": "587",
+      "team": "[email protected]",
+      "pos": 344,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177844
+        }
+      }
+    },
+    {
+      "id": "218",
+      "team": "Killing you",
+      "pos": 345,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616177872
+        }
+      }
+    },
+    {
+      "id": "87",
+      "team": "COFFEE",
+      "pos": 346,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178062
+        }
+      }
+    },
+    {
+      "id": "620",
+      "team": "conco",
+      "pos": 347,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178285
+        }
+      }
+    },
+    {
+      "id": "26",
+      "team": "nekonyaa",
+      "pos": 348,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178363
+        }
+      }
+    },
+    {
+      "id": "20",
+      "team": "weareDhiego",
+      "pos": 349,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178374
+        }
+      }
+    },
+    {
+      "id": "471",
+      "team": "justice",
+      "pos": 350,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178464
+        }
+      }
+    },
+    {
+      "id": "188",
+      "team": "Mind Crusaders",
+      "pos": 351,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178521
+        }
+      }
+    },
+    {
+      "id": "619",
+      "team": "team1",
+      "pos": 352,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178530
+        }
+      }
+    },
+    {
+      "id": "622",
+      "team": "qqqq",
+      "pos": 353,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178537
+        }
+      }
+    },
+    {
+      "id": "401",
+      "team": "B4SH_B4NDITS",
+      "pos": 354,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178899
+        }
+      }
+    },
+    {
+      "id": "624",
+      "team": "tienpa99dz",
+      "pos": 355,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178907
+        }
+      }
+    },
+    {
+      "id": "625",
+      "team": "9TimeSecurity",
+      "pos": 356,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616178981
+        }
+      }
+    },
+    {
+      "id": "613",
+      "team": "yoon",
+      "pos": 357,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179068
+        }
+      }
+    },
+    {
+      "id": "626",
+      "team": "some_hackers",
+      "pos": 358,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179071
+        }
+      }
+    },
+    {
+      "id": "627",
+      "team": "lowprivshighhopes",
+      "pos": 359,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179086
+        }
+      }
+    },
+    {
+      "id": "628",
+      "team": "hamayanhamayan",
+      "pos": 360,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179139
+        }
+      }
+    },
+    {
+      "id": "630",
+      "team": "SUS",
+      "pos": 361,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179150
+        }
+      }
+    },
+    {
+      "id": "632",
+      "team": "pass",
+      "pos": 362,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179212
+        }
+      }
+    },
+    {
+      "id": "96",
+      "team": "vuldoc",
+      "pos": 363,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179233
+        }
+      }
+    },
+    {
+      "id": "262",
+      "team": "apostle's group",
+      "pos": 364,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179505
+        }
+      }
+    },
+    {
+      "id": "636",
+      "team": "HsVcs",
+      "pos": 365,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179514
+        }
+      }
+    },
+    {
+      "id": "637",
+      "team": "Zepto",
+      "pos": 366,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179527
+        }
+      }
+    },
+    {
+      "id": "629",
+      "team": "ttt",
+      "pos": 367,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179617
+        }
+      }
+    },
+    {
+      "id": "638",
+      "team": "ixix2634",
+      "pos": 368,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179815
+        }
+      }
+    },
+    {
+      "id": "641",
+      "team": "chunky.t0ky0",
+      "pos": 369,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179823
+        }
+      }
+    },
+    {
+      "id": "642",
+      "team": "devils",
+      "pos": 370,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616179870
+        }
+      }
+    },
+    {
+      "id": "122",
+      "team": "pro_patria",
+      "pos": 371,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180188
+        }
+      }
+    },
+    {
+      "id": "645",
+      "team": "NavETS",
+      "pos": 372,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180198
+        }
+      }
+    },
+    {
+      "id": "646",
+      "team": "L10n5",
+      "pos": 373,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180260
+        }
+      }
+    },
+    {
+      "id": "631",
+      "team": "Yuma",
+      "pos": 374,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180308
+        }
+      }
+    },
+    {
+      "id": "648",
+      "team": "Martial_Law_Enforcer",
+      "pos": 375,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180471
+        }
+      }
+    },
+    {
+      "id": "650",
+      "team": "NotHotdog",
+      "pos": 376,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180495
+        }
+      }
+    },
+    {
+      "id": "651",
+      "team": "nihonkai",
+      "pos": 377,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180566
+        }
+      }
+    },
+    {
+      "id": "296",
+      "team": "Alpha",
+      "pos": 378,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180747
+        }
+      }
+    },
+    {
+      "id": "195",
+      "team": "XianYu",
+      "pos": 379,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180938
+        }
+      }
+    },
+    {
+      "id": "654",
+      "team": "xaonan44",
+      "pos": 380,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180944
+        }
+      }
+    },
+    {
+      "id": "653",
+      "team": "welovecp",
+      "pos": 381,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616180989
+        }
+      }
+    },
+    {
+      "id": "656",
+      "team": "hobbangfactory",
+      "pos": 382,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181037
+        }
+      }
+    },
+    {
+      "id": "655",
+      "team": "everyone",
+      "pos": 383,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181052
+        }
+      }
+    },
+    {
+      "id": "658",
+      "team": "Predator904",
+      "pos": 384,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181183
+        }
+      }
+    },
+    {
+      "id": "659",
+      "team": "MoonBack",
+      "pos": 385,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181300
+        }
+      }
+    },
+    {
+      "id": "123",
+      "team": "9TimeSecu",
+      "pos": 386,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181500
+        }
+      }
+    },
+    {
+      "id": "261",
+      "team": "At0ml00p",
+      "pos": 387,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181616
+        }
+      }
+    },
+    {
+      "id": "147",
+      "team": "D",
+      "pos": 388,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181664
+        }
+      }
+    },
+    {
+      "id": "662",
+      "team": "K33P_Qu!34",
+      "pos": 389,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181865
+        }
+      }
+    },
+    {
+      "id": "663",
+      "team": "Pwners",
+      "pos": 390,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616181908
+        }
+      }
+    },
+    {
+      "id": "361",
+      "team": "derelict",
+      "pos": 391,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182024
+        }
+      }
+    },
+    {
+      "id": "277",
+      "team": "xyzz",
+      "pos": 392,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182076
+        }
+      }
+    },
+    {
+      "id": "98",
+      "team": "Superrrrr",
+      "pos": 393,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182124
+        }
+      }
+    },
+    {
+      "id": "665",
+      "team": "Digimon",
+      "pos": 394,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182139
+        }
+      }
+    },
+    {
+      "id": "247",
+      "team": "THE KNIGHTS",
+      "pos": 395,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182184
+        }
+      }
+    },
+    {
+      "id": "667",
+      "team": "lnwza",
+      "pos": 396,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182192
+        }
+      }
+    },
+    {
+      "id": "120",
+      "team": "geunyang",
+      "pos": 397,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182207
+        }
+      }
+    },
+    {
+      "id": "306",
+      "team": "rawr_xd",
+      "pos": 398,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182387
+        }
+      }
+    },
+    {
+      "id": "392",
+      "team": "Jimp",
+      "pos": 399,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182388
+        }
+      }
+    },
+    {
+      "id": "70",
+      "team": "LifeError",
+      "pos": 400,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182458
+        }
+      }
+    },
+    {
+      "id": "666",
+      "team": "Phantom",
+      "pos": 401,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182489
+        }
+      }
+    },
+    {
+      "id": "670",
+      "team": "test123",
+      "pos": 402,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182710
+        }
+      }
+    },
+    {
+      "id": "671",
+      "team": "yu",
+      "pos": 403,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616182808
+        }
+      }
+    },
+    {
+      "id": "673",
+      "team": "cavern",
+      "pos": 404,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616183018
+        }
+      }
+    },
+    {
+      "id": "675",
+      "team": "NCTOP",
+      "pos": 405,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616183169
+        }
+      }
+    },
+    {
+      "id": "674",
+      "team": "Contrail",
+      "pos": 406,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616183226
+        }
+      }
+    },
+    {
+      "id": "676",
+      "team": "hona",
+      "pos": 407,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616183432
+        }
+      }
+    },
+    {
+      "id": "677",
+      "team": "nithin",
+      "pos": 408,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184278
+        }
+      }
+    },
+    {
+      "id": "680",
+      "team": "[email protected]",
+      "pos": 409,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184280
+        }
+      }
+    },
+    {
+      "id": "295",
+      "team": "conyandbrown",
+      "pos": 410,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184303
+        }
+      }
+    },
+    {
+      "id": "679",
+      "team": "lulzash",
+      "pos": 411,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184321
+        }
+      }
+    },
+    {
+      "id": "682",
+      "team": "fiord",
+      "pos": 412,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184389
+        }
+      }
+    },
+    {
+      "id": "681",
+      "team": "solo noob",
+      "pos": 413,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184413
+        }
+      }
+    },
+    {
+      "id": "683",
+      "team": "벚꽃보러가고싶다",
+      "pos": 414,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184419
+        }
+      }
+    },
+    {
+      "id": "685",
+      "team": "Yallacha",
+      "pos": 415,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184525
+        }
+      }
+    },
+    {
+      "id": "170",
+      "team": "C0ra1",
+      "pos": 416,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184625
+        }
+      }
+    },
+    {
+      "id": "686",
+      "team": "team101",
+      "pos": 417,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184847
+        }
+      }
+    },
+    {
+      "id": "687",
+      "team": "RKTEAM",
+      "pos": 418,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616184923
+        }
+      }
+    },
+    {
+      "id": "189",
+      "team": "M3di0cr3s",
+      "pos": 419,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185001
+        }
+      }
+    },
+    {
+      "id": "688",
+      "team": "Zak0",
+      "pos": 420,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185011
+        }
+      }
+    },
+    {
+      "id": "690",
+      "team": "yabasu",
+      "pos": 421,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185035
+        }
+      }
+    },
+    {
+      "id": "691",
+      "team": "SoleHacker",
+      "pos": 422,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185068
+        }
+      }
+    },
+    {
+      "id": "693",
+      "team": "c1pher",
+      "pos": 423,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185110
+        }
+      }
+    },
+    {
+      "id": "692",
+      "team": "muranchu",
+      "pos": 424,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185148
+        }
+      }
+    },
+    {
+      "id": "694",
+      "team": "Dipp",
+      "pos": 425,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185235
+        }
+      }
+    },
+    {
+      "id": "91",
+      "team": "\\x4247Sec",
+      "pos": 426,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185260
+        }
+      }
+    },
+    {
+      "id": "695",
+      "team": "shallot",
+      "pos": 427,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185303
+        }
+      }
+    },
+    {
+      "id": "696",
+      "team": "alpha1",
+      "pos": 428,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185448
+        }
+      }
+    },
+    {
+      "id": "36",
+      "team": "443",
+      "pos": 429,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185562
+        }
+      }
+    },
+    {
+      "id": "697",
+      "team": "spyw3b",
+      "pos": 430,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616185920
+        }
+      }
+    },
+    {
+      "id": "283",
+      "team": "cyb3r_w1z4rd5",
+      "pos": 431,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616186073
+        }
+      }
+    },
+    {
+      "id": "699",
+      "team": "ryoissy",
+      "pos": 432,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616186395
+        }
+      }
+    },
+    {
+      "id": "705",
+      "team": "sakai",
+      "pos": 433,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616186916
+        }
+      }
+    },
+    {
+      "id": "704",
+      "team": "blanc",
+      "pos": 434,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616186989
+        }
+      }
+    },
+    {
+      "id": "707",
+      "team": "TT2",
+      "pos": 435,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187009
+        }
+      }
+    },
+    {
+      "id": "709",
+      "team": "newb#101",
+      "pos": 436,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187010
+        }
+      }
+    },
+    {
+      "id": "419",
+      "team": "dz_army",
+      "pos": 437,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187020
+        }
+      }
+    },
+    {
+      "id": "712",
+      "team": "Proxima",
+      "pos": 438,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187091
+        }
+      }
+    },
+    {
+      "id": "711",
+      "team": "Polymero",
+      "pos": 439,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187093
+        }
+      }
+    },
+    {
+      "id": "45",
+      "team": "0xwtf",
+      "pos": 440,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187132
+        }
+      }
+    },
+    {
+      "id": "300",
+      "team": "Pollux",
+      "pos": 441,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616187569
+        }
+      }
+    },
+    {
+      "id": "310",
+      "team": "Area{51}",
+      "pos": 442,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616188603
+        }
+      }
+    },
+    {
+      "id": "330",
+      "team": "practice",
+      "pos": 443,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616188718
+        }
+      }
+    },
+    {
+      "id": "720",
+      "team": "CUIT",
+      "pos": 444,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616188999
+        }
+      }
+    },
+    {
+      "id": "411",
+      "team": "nomads",
+      "pos": 445,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189131
+        }
+      }
+    },
+    {
+      "id": "721",
+      "team": "TourRadar",
+      "pos": 446,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189142
+        }
+      }
+    },
+    {
+      "id": "366",
+      "team": "s0lid4rity",
+      "pos": 447,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189251
+        }
+      }
+    },
+    {
+      "id": "724",
+      "team": "YthsfMrk",
+      "pos": 448,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189264
+        }
+      }
+    },
+    {
+      "id": "726",
+      "team": "Contolity",
+      "pos": 449,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189396
+        }
+      }
+    },
+    {
+      "id": "84",
+      "team": "Scriptkiddies",
+      "pos": 450,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189710
+        }
+      }
+    },
+    {
+      "id": "729",
+      "team": "seiyakyokai",
+      "pos": 451,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189720
+        }
+      }
+    },
+    {
+      "id": "730",
+      "team": "hactor",
+      "pos": 452,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189722
+        }
+      }
+    },
+    {
+      "id": "731",
+      "team": "Soloist",
+      "pos": 453,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616189915
+        }
+      }
+    },
+    {
+      "id": "733",
+      "team": "h0hoh0",
+      "pos": 454,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616190252
+        }
+      }
+    },
+    {
+      "id": "735",
+      "team": "mermaid",
+      "pos": 455,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616190384
+        }
+      }
+    },
+    {
+      "id": "194",
+      "team": "dev",
+      "pos": 456,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616190495
+        }
+      }
+    },
+    {
+      "id": "307",
+      "team": "u0bu4s",
+      "pos": 457,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616190772
+        }
+      }
+    },
+    {
+      "id": "736",
+      "team": "CCUG",
+      "pos": 458,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616190939
+        }
+      }
+    },
+    {
+      "id": "352",
+      "team": "h4ck0c10ck",
+      "pos": 459,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191014
+        }
+      }
+    },
+    {
+      "id": "739",
+      "team": "zxuant",
+      "pos": 460,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191343
+        }
+      }
+    },
+    {
+      "id": "741",
+      "team": "psy19899",
+      "pos": 461,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191345
+        }
+      }
+    },
+    {
+      "id": "403",
+      "team": "beargrylls",
+      "pos": 462,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191478
+        }
+      }
+    },
+    {
+      "id": "745",
+      "team": "yybus",
+      "pos": 463,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191534
+        }
+      }
+    },
+    {
+      "id": "746",
+      "team": "b1rds_of_pr3y",
+      "pos": 464,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191543
+        }
+      }
+    },
+    {
+      "id": "743",
+      "team": "y2qaq",
+      "pos": 465,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191564
+        }
+      }
+    },
+    {
+      "id": "747",
+      "team": "geeyiiz",
+      "pos": 466,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191564
+        }
+      }
+    },
+    {
+      "id": "748",
+      "team": "poigiatre",
+      "pos": 467,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191617
+        }
+      }
+    },
+    {
+      "id": "259",
+      "team": "lhoKuliahLagi",
+      "pos": 468,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191658
+        }
+      }
+    },
+    {
+      "id": "363",
+      "team": "Yerttle's Turtles",
+      "pos": 469,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191759
+        }
+      }
+    },
+    {
+      "id": "39",
+      "team": "CTF_Ventures",
+      "pos": 470,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616191767
+        }
+      }
+    },
+    {
+      "id": "755",
+      "team": "hogehoge",
+      "pos": 471,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616192437
+        }
+      }
+    },
+    {
+      "id": "757",
+      "team": "asdf9090",
+      "pos": 472,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616192837
+        }
+      }
+    },
+    {
+      "id": "756",
+      "team": "3rk1n",
+      "pos": 473,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616192937
+        }
+      }
+    },
+    {
+      "id": "761",
+      "team": "Yoroshiku",
+      "pos": 474,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616193099
+        }
+      }
+    },
+    {
+      "id": "417",
+      "team": "ISwearIGoogledIt",
+      "pos": 475,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616193196
+        }
+      }
+    },
+    {
+      "id": "762",
+      "team": "ctf_yaruka",
+      "pos": 476,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616193291
+        }
+      }
+    },
+    {
+      "id": "152",
+      "team": "solotoure",
+      "pos": 477,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616193587
+        }
+      }
+    },
+    {
+      "id": "763",
+      "team": "hi",
+      "pos": 478,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616193721
+        }
+      }
+    },
+    {
+      "id": "649",
+      "team": "Raise the Flag",
+      "pos": 479,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616194030
+        }
+      }
+    },
+    {
+      "id": "771",
+      "team": "AmpunBangJamet",
+      "pos": 480,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616194679
+        }
+      }
+    },
+    {
+      "id": "491",
+      "team": "fr334aks",
+      "pos": 481,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616194902
+        }
+      }
+    },
+    {
+      "id": "767",
+      "team": "mame",
+      "pos": 482,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195002
+        }
+      }
+    },
+    {
+      "id": "774",
+      "team": "TaeYeon",
+      "pos": 483,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195118
+        }
+      }
+    },
+    {
+      "id": "776",
+      "team": "yuik",
+      "pos": 484,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195167
+        }
+      }
+    },
+    {
+      "id": "775",
+      "team": "AcidKitty",
+      "pos": 485,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195238
+        }
+      }
+    },
+    {
+      "id": "778",
+      "team": "CodeCure",
+      "pos": 486,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195502
+        }
+      }
+    },
+    {
+      "id": "779",
+      "team": "b34v3rs",
+      "pos": 487,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195538
+        }
+      }
+    },
+    {
+      "id": "722",
+      "team": "Minerva",
+      "pos": 488,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195674
+        }
+      }
+    },
+    {
+      "id": "703",
+      "team": "try4fun",
+      "pos": 489,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616195845
+        }
+      }
+    },
+    {
+      "id": "408",
+      "team": "Slab Allocator",
+      "pos": 490,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196088
+        }
+      }
+    },
+    {
+      "id": "749",
+      "team": "JackSpeor",
+      "pos": 491,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196090
+        }
+      }
+    },
+    {
+      "id": "249",
+      "team": "log_you_out",
+      "pos": 492,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196373
+        }
+      }
+    },
+    {
+      "id": "788",
+      "team": "wellr00t3d",
+      "pos": 493,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196411
+        }
+      }
+    },
+    {
+      "id": "787",
+      "team": "stankc",
+      "pos": 494,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196418
+        }
+      }
+    },
+    {
+      "id": "768",
+      "team": "cmrdb",
+      "pos": 495,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196485
+        }
+      }
+    },
+    {
+      "id": "770",
+      "team": "🧽",
+      "pos": 496,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196519
+        }
+      }
+    },
+    {
+      "id": "786",
+      "team": "Z3Ro",
+      "pos": 497,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196652
+        }
+      }
+    },
+    {
+      "id": "162",
+      "team": "AMAZONE",
+      "pos": 498,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616196819
+        }
+      }
+    },
+    {
+      "id": "790",
+      "team": "munjur",
+      "pos": 499,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616197071
+        }
+      }
+    },
+    {
+      "id": "765",
+      "team": "poprdx3",
+      "pos": 500,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616197251
+        }
+      }
+    },
+    {
+      "id": "791",
+      "team": "4k3l4rr3",
+      "pos": 501,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616197471
+        }
+      }
+    },
+    {
+      "id": "792",
+      "team": "TwentyFive",
+      "pos": 502,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616197481
+        }
+      }
+    },
+    {
+      "id": "207",
+      "team": "EPITA Rennes",
+      "pos": 503,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616197712
+        }
+      }
+    },
+    {
+      "id": "793",
+      "team": "Ethical Hitler",
+      "pos": 504,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616197749
+        }
+      }
+    },
+    {
+      "id": "311",
+      "team": "SIJH-SEC",
+      "pos": 505,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198121
+        }
+      }
+    },
+    {
+      "id": "796",
+      "team": "Compot",
+      "pos": 506,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198154
+        }
+      }
+    },
+    {
+      "id": "798",
+      "team": "OverDover",
+      "pos": 507,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198284
+        }
+      }
+    },
+    {
+      "id": "799",
+      "team": "bot3310",
+      "pos": 508,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198299
+        }
+      }
+    },
+    {
+      "id": "794",
+      "team": "Cryptoknight",
+      "pos": 509,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198572
+        }
+      }
+    },
+    {
+      "id": "801",
+      "team": "e^iπ+1day",
+      "pos": 510,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198606
+        }
+      }
+    },
+    {
+      "id": "678",
+      "team": "hello_olleh",
+      "pos": 511,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616198874
+        }
+      }
+    },
+    {
+      "id": "129",
+      "team": "Kyberkilta",
+      "pos": 512,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199142
+        }
+      }
+    },
+    {
+      "id": "250",
+      "team": "APT 091",
+      "pos": 513,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199143
+        }
+      }
+    },
+    {
+      "id": "807",
+      "team": "Smurfz",
+      "pos": 514,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199358
+        }
+      }
+    },
+    {
+      "id": "800",
+      "team": "t1t1t",
+      "pos": 515,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199419
+        }
+      }
+    },
+    {
+      "id": "810",
+      "team": "r4t5_",
+      "pos": 516,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199450
+        }
+      }
+    },
+    {
+      "id": "811",
+      "team": "Confuse",
+      "pos": 517,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199501
+        }
+      }
+    },
+    {
+      "id": "809",
+      "team": "abcdef",
+      "pos": 518,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199540
+        }
+      }
+    },
+    {
+      "id": "815",
+      "team": "ANSI_CODE1337",
+      "pos": 519,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616199895
+        }
+      }
+    },
+    {
+      "id": "817",
+      "team": "sacd",
+      "pos": 520,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616200011
+        }
+      }
+    },
+    {
+      "id": "819",
+      "team": "XDDDDD",
+      "pos": 521,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616200405
+        }
+      }
+    },
+    {
+      "id": "818",
+      "team": "watchdogs",
+      "pos": 522,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616200408
+        }
+      }
+    },
+    {
+      "id": "308",
+      "team": "noYes",
+      "pos": 523,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616200485
+        }
+      }
+    },
+    {
+      "id": "820",
+      "team": "[email protected]",
+      "pos": 524,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616200653
+        }
+      }
+    },
+    {
+      "id": "766",
+      "team": "TN",
+      "pos": 525,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616200880
+        }
+      }
+    },
+    {
+      "id": "823",
+      "team": "WhiteGive",
+      "pos": 526,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616201176
+        }
+      }
+    },
+    {
+      "id": "824",
+      "team": "Redos",
+      "pos": 527,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616201894
+        }
+      }
+    },
+    {
+      "id": "825",
+      "team": "jueygrace",
+      "pos": 528,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616202069
+        }
+      }
+    },
+    {
+      "id": "287",
+      "team": "Rook",
+      "pos": 529,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616202369
+        }
+      }
+    },
+    {
+      "id": "826",
+      "team": "whitehathacker8181",
+      "pos": 530,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616202435
+        }
+      }
+    },
+    {
+      "id": "827",
+      "team": "mk541",
+      "pos": 531,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616202445
+        }
+      }
+    },
+    {
+      "id": "828",
+      "team": "panini",
+      "pos": 532,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616202670
+        }
+      }
+    },
+    {
+      "id": "829",
+      "team": "Skyr00zx",
+      "pos": 533,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616203011
+        }
+      }
+    },
+    {
+      "id": "831",
+      "team": "h3llo",
+      "pos": 534,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616203093
+        }
+      }
+    },
+    {
+      "id": "223",
+      "team": "W1BU404",
+      "pos": 535,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616203150
+        }
+      }
+    },
+    {
+      "id": "832",
+      "team": "bkdrc",
+      "pos": 536,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616203423
+        }
+      }
+    },
+    {
+      "id": "364",
+      "team": "ouillle",
+      "pos": 537,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616203798
+        }
+      }
+    },
+    {
+      "id": "836",
+      "team": "0xTBD",
+      "pos": 538,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204006
+        }
+      }
+    },
+    {
+      "id": "838",
+      "team": "wrath",
+      "pos": 539,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204471
+        }
+      }
+    },
+    {
+      "id": "839",
+      "team": "fck_th3_flg",
+      "pos": 540,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204580
+        }
+      }
+    },
+    {
+      "id": "840",
+      "team": "nicknamemohaji",
+      "pos": 541,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204757
+        }
+      }
+    },
+    {
+      "id": "292",
+      "team": "tf&test",
+      "pos": 542,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204786
+        }
+      }
+    },
+    {
+      "id": "841",
+      "team": "S1ndic",
+      "pos": 543,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204815
+        }
+      }
+    },
+    {
+      "id": "332",
+      "team": "byc_404",
+      "pos": 544,
+      "score": 50,
+      "taskStats": {
+        "diveinternal": {
+          "points": "50",
+          "time": 1616204910
+        }
+      }
+    },
+    {
+      "id": "303",
+      "team": "Ganofins",
+      "pos": 545,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204912
+        }
+      }
+    },
+    {
+      "id": "161",
+      "team": "objdump",
+      "pos": 546,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204925
+        }
+      }
+    },
+    {
+      "id": "244",
+      "team": "HackForce",
+      "pos": 547,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204949
+        }
+      }
+    },
+    {
+      "id": "842",
+      "team": "Shinji",
+      "pos": 548,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204974
+        }
+      }
+    },
+    {
+      "id": "843",
+      "team": "gamnabit",
+      "pos": 549,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616204993
+        }
+      }
+    },
+    {
+      "id": "844",
+      "team": "enmtpity",
+      "pos": 550,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205271
+        }
+      }
+    },
+    {
+      "id": "846",
+      "team": "I am a cat",
+      "pos": 551,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205272
+        }
+      }
+    },
+    {
+      "id": "847",
+      "team": "shrinet",
+      "pos": 552,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205294
+        }
+      }
+    },
+    {
+      "id": "849",
+      "team": "h4xors",
+      "pos": 553,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205363
+        }
+      }
+    },
+    {
+      "id": "851",
+      "team": "NaNsolo",
+      "pos": 554,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205472
+        }
+      }
+    },
+    {
+      "id": "850",
+      "team": "imesec1337",
+      "pos": 555,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205486
+        }
+      }
+    },
+    {
+      "id": "852",
+      "team": "sqo",
+      "pos": 556,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205838
+        }
+      }
+    },
+    {
+      "id": "854",
+      "team": "ctf_testuser",
+      "pos": 557,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205882
+        }
+      }
+    },
+    {
+      "id": "853",
+      "team": "Suzumy",
+      "pos": 558,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616205896
+        }
+      }
+    },
+    {
+      "id": "857",
+      "team": "popoff",
+      "pos": 559,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616206067
+        }
+      }
+    },
+    {
+      "id": "861",
+      "team": "temp1",
+      "pos": 560,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616206294
+        }
+      }
+    },
+    {
+      "id": "859",
+      "team": "DS",
+      "pos": 561,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616206472
+        }
+      }
+    },
+    {
+      "id": "425",
+      "team": "Security Team",
+      "pos": 562,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616206597
+        }
+      }
+    },
+    {
+      "id": "860",
+      "team": "asdfasdf",
+      "pos": 563,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616206710
+        }
+      }
+    },
+    {
+      "id": "153",
+      "team": "dogogang",
+      "pos": 564,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616206967
+        }
+      }
+    },
+    {
+      "id": "868",
+      "team": "LinyTail",
+      "pos": 565,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616208103
+        }
+      }
+    },
+    {
+      "id": "407",
+      "team": "RootLee",
+      "pos": 566,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616208473
+        }
+      }
+    },
+    {
+      "id": "871",
+      "team": "ekawa",
+      "pos": 567,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616208705
+        }
+      }
+    },
+    {
+      "id": "876",
+      "team": "helix",
+      "pos": 568,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616209549
+        }
+      }
+    },
+    {
+      "id": "221",
+      "team": "billi meo",
+      "pos": 569,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616210285
+        }
+      }
+    },
+    {
+      "id": "81",
+      "team": "UC3",
+      "pos": 570,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616210338
+        }
+      }
+    },
+    {
+      "id": "102",
+      "team": "hihi",
+      "pos": 571,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616210473
+        }
+      }
+    },
+    {
+      "id": "867",
+      "team": "k3y6reak",
+      "pos": 572,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616210565
+        }
+      }
+    },
+    {
+      "id": "881",
+      "team": "TEAM0001",
+      "pos": 573,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616210575
+        }
+      }
+    },
+    {
+      "id": "882",
+      "team": "kanbedon",
+      "pos": 574,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616210720
+        }
+      }
+    },
+    {
+      "id": "886",
+      "team": "cartoon",
+      "pos": 575,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616210796
+        }
+      }
+    },
+    {
+      "id": "890",
+      "team": "PlzDon'tBeLast",
+      "pos": 576,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616211601
+        }
+      }
+    },
+    {
+      "id": "889",
+      "team": "bezpecarna",
+      "pos": 577,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616211693
+        }
+      }
+    },
+    {
+      "id": "893",
+      "team": "1nt0_the_sh4d0w",
+      "pos": 578,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616211797
+        }
+      }
+    },
+    {
+      "id": "37",
+      "team": "cyberb0ts",
+      "pos": 579,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616211952
+        }
+      }
+    },
+    {
+      "id": "15",
+      "team": "Computer_Addicts",
+      "pos": 580,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616212103
+        }
+      }
+    },
+    {
+      "id": "896",
+      "team": "comalmotTeam",
+      "pos": 581,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616212122
+        }
+      }
+    },
+    {
+      "id": "897",
+      "team": "soda",
+      "pos": 582,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616212274
+        }
+      }
+    },
+    {
+      "id": "898",
+      "team": "tm10",
+      "pos": 583,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616212336
+        }
+      }
+    },
+    {
+      "id": "900",
+      "team": "az",
+      "pos": 584,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616212387
+        }
+      }
+    },
+    {
+      "id": "127",
+      "team": "KERT",
+      "pos": 585,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616212880
+        }
+      }
+    },
+    {
+      "id": "905",
+      "team": "N0000B",
+      "pos": 586,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616213456
+        }
+      }
+    },
+    {
+      "id": "59",
+      "team": "Reloaded",
+      "pos": 587,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616213717
+        }
+      }
+    },
+    {
+      "id": "321",
+      "team": "Hacklabor",
+      "pos": 588,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616213878
+        }
+      }
+    },
+    {
+      "id": "910",
+      "team": "Ch1keen",
+      "pos": 589,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616214136
+        }
+      }
+    },
+    {
+      "id": "912",
+      "team": "EffectRenan",
+      "pos": 590,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616214249
+        }
+      }
+    },
+    {
+      "id": "781",
+      "team": "kasiatutej",
+      "pos": 591,
+      "score": 50,
+      "taskStats": {
+        "babycrypto3": {
+          "points": "50",
+          "time": 1616214294
+        }
+      }
+    },
+    {
+      "id": "579",
+      "team": "RPCA Cyber Club",
+      "pos": 592,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616214670
+        }
+      }
+    },
+    {
+      "id": "914",
+      "team": "redab53244",
+      "pos": 593,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616214733
+        }
+      }
+    },
+    {
+      "id": "915",
+      "team": "eppooo",
+      "pos": 594,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616214797
+        }
+      }
+    },
+    {
+      "id": "916",
+      "team": "pitbull",
+      "pos": 595,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616215093
+        }
+      }
+    },
+    {
+      "id": "919",
+      "team": "ClownCrew",
+      "pos": 596,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616215506
+        }
+      }
+    },
+    {
+      "id": "920",
+      "team": "army_of_one",
+      "pos": 597,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616215957
+        }
+      }
+    },
+    {
+      "id": "924",
+      "team": "pollution",
+      "pos": 598,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616216163
+        }
+      }
+    },
+    {
+      "id": "925",
+      "team": "zzz",
+      "pos": 599,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616216176
+        }
+      }
+    },
+    {
+      "id": "802",
+      "team": "haczyki",
+      "pos": 600,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616216446
+        }
+      }
+    },
+    {
+      "id": "906",
+      "team": "Watermelon",
+      "pos": 601,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616216630
+        }
+      }
+    },
+    {
+      "id": "323",
+      "team": ":v",
+      "pos": 602,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616216652
+        }
+      }
+    },
+    {
+      "id": "934",
+      "team": "Splintersec",
+      "pos": 603,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616217368
+        }
+      }
+    },
+    {
+      "id": "936",
+      "team": "GamJa",
+      "pos": 604,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616217622
+        }
+      }
+    },
+    {
+      "id": "921",
+      "team": "123456",
+      "pos": 605,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616217997
+        }
+      }
+    },
+    {
+      "id": "941",
+      "team": "IsolatingBeforeItWasCool",
+      "pos": 606,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616218150
+        }
+      }
+    },
+    {
+      "id": "474",
+      "team": "burner_herz0g",
+      "pos": 607,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616218430
+        }
+      }
+    },
+    {
+      "id": "943",
+      "team": "blue_faang",
+      "pos": 608,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616218617
+        }
+      }
+    },
+    {
+      "id": "668",
+      "team": "NO PWN NO FUN",
+      "pos": 609,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616218726
+        }
+      }
+    },
+    {
+      "id": "948",
+      "team": "[email protected]",
+      "pos": 610,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616218796
+        }
+      }
+    },
+    {
+      "id": "949",
+      "team": "chobo",
+      "pos": 611,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616219088
+        }
+      }
+    },
+    {
+      "id": "319",
+      "team": "kurage0verfl0w",
+      "pos": 612,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616219324
+        }
+      }
+    },
+    {
+      "id": "863",
+      "team": "Tkd-Alex",
+      "pos": 613,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616219452
+        }
+      }
+    },
+    {
+      "id": "952",
+      "team": "sda1",
+      "pos": 614,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616219660
+        }
+      }
+    },
+    {
+      "id": "953",
+      "team": "uetctf",
+      "pos": 615,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616220030
+        }
+      }
+    },
+    {
+      "id": "954",
+      "team": "maurus",
+      "pos": 616,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616220334
+        }
+      }
+    },
+    {
+      "id": "883",
+      "team": "dokko",
+      "pos": 617,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616220469
+        }
+      }
+    },
+    {
+      "id": "752",
+      "team": "acdwas",
+      "pos": 618,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616220979
+        }
+      }
+    },
+    {
+      "id": "956",
+      "team": "cooperra",
+      "pos": 619,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616221431
+        }
+      }
+    },
+    {
+      "id": "961",
+      "team": "valain",
+      "pos": 620,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616221601
+        }
+      }
+    },
+    {
+      "id": "962",
+      "team": "qweqwe",
+      "pos": 621,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616221714
+        }
+      }
+    },
+    {
+      "id": "965",
+      "team": "KryT",
+      "pos": 622,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616221877
+        }
+      }
+    },
+    {
+      "id": "967",
+      "team": "hellocynault",
+      "pos": 623,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616221923
+        }
+      }
+    },
+    {
+      "id": "968",
+      "team": "aaaa",
+      "pos": 624,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616222004
+        }
+      }
+    },
+    {
+      "id": "969",
+      "team": "Genesis",
+      "pos": 625,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616222204
+        }
+      }
+    },
+    {
+      "id": "972",
+      "team": "kcnewbie",
+      "pos": 626,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616222371
+        }
+      }
+    },
+    {
+      "id": "964",
+      "team": "mikejam",
+      "pos": 627,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616222417
+        }
+      }
+    },
+    {
+      "id": "647",
+      "team": "karipap",
+      "pos": 628,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616222931
+        }
+      }
+    },
+    {
+      "id": "971",
+      "team": "TeamSolo",
+      "pos": 629,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616222957
+        }
+      }
+    },
+    {
+      "id": "976",
+      "team": "Bosan",
+      "pos": 630,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616223214
+        }
+      }
+    },
+    {
+      "id": "981",
+      "team": "hdd",
+      "pos": 631,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616224763
+        }
+      }
+    },
+    {
+      "id": "322",
+      "team": "Binary Kittens",
+      "pos": 632,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616225182
+        }
+      }
+    },
+    {
+      "id": "754",
+      "team": "zxor",
+      "pos": 633,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616225208
+        }
+      }
+    },
+    {
+      "id": "982",
+      "team": "noobguys",
+      "pos": 634,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616225235
+        }
+      }
+    },
+    {
+      "id": "979",
+      "team": "teamtt",
+      "pos": 635,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616225803
+        }
+      }
+    },
+    {
+      "id": "984",
+      "team": "ejja",
+      "pos": 636,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616225825
+        }
+      }
+    },
+    {
+      "id": "985",
+      "team": "[email protected]",
+      "pos": 637,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616225906
+        }
+      }
+    },
+    {
+      "id": "284",
+      "team": "exntrc",
+      "pos": 638,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616226002
+        }
+      }
+    },
+    {
+      "id": "77",
+      "team": "Mini0n$",
+      "pos": 639,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616226257
+        }
+      }
+    },
+    {
+      "id": "977",
+      "team": "j4f",
+      "pos": 640,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616226277
+        }
+      }
+    },
+    {
+      "id": "988",
+      "team": "zealabs",
+      "pos": 641,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616226352
+        }
+      }
+    },
+    {
+      "id": "230",
+      "team": "srk",
+      "pos": 642,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616226386
+        }
+      }
+    },
+    {
+      "id": "813",
+      "team": "coldboots",
+      "pos": 643,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616226838
+        }
+      }
+    },
+    {
+      "id": "991",
+      "team": "TNT",
+      "pos": 644,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227108
+        }
+      }
+    },
+    {
+      "id": "870",
+      "team": "Inner Savages",
+      "pos": 645,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227534
+        }
+      }
+    },
+    {
+      "id": "983",
+      "team": "V1nc2nt",
+      "pos": 646,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228321
+        }
+      }
+    },
+    {
+      "id": "996",
+      "team": "Uhsylum",
+      "pos": 647,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229566
+        }
+      }
+    },
+    {
+      "id": "190",
+      "team": "Asuri",
+      "pos": 648,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229657
+        }
+      }
+    },
+    {
+      "id": "997",
+      "team": "Rav3nsolo",
+      "pos": 649,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229824
+        }
+      }
+    },
+    {
+      "id": "999",
+      "team": "Team_Matrix",
+      "pos": 650,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230203
+        }
+      }
+    },
+    {
+      "id": "1001",
+      "team": "Jumping Blues",
+      "pos": 651,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230560
+        }
+      }
+    },
+    {
+      "id": "989",
+      "team": "davidbla",
+      "pos": 652,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230933
+        }
+      }
+    },
+    {
+      "id": "1002",
+      "team": "himkha_100",
+      "pos": 653,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616231088
+        }
+      }
+    },
+    {
+      "id": "1005",
+      "team": "asd",
+      "pos": 654,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232070
+        }
+      }
+    },
+    {
+      "id": "1007",
+      "team": "Team India",
+      "pos": 655,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232321
+        }
+      }
+    },
+    {
+      "id": "1010",
+      "team": "Supreme_Enigma",
+      "pos": 656,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232779
+        }
+      }
+    },
+    {
+      "id": "203",
+      "team": "Zeus WPI",
+      "pos": 657,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233111
+        }
+      }
+    },
+    {
+      "id": "1012",
+      "team": "exztase",
+      "pos": 658,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233285
+        }
+      }
+    },
+    {
+      "id": "1011",
+      "team": "S0o0b2",
+      "pos": 659,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233305
+        }
+      }
+    },
+    {
+      "id": "1013",
+      "team": "upside_down_bookshelf",
+      "pos": 660,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233415
+        }
+      }
+    },
+    {
+      "id": "224",
+      "team": "pattern",
+      "pos": 661,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233941
+        }
+      }
+    },
+    {
+      "id": "1014",
+      "team": "xlr8",
+      "pos": 662,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233958
+        }
+      }
+    },
+    {
+      "id": "1016",
+      "team": "scamorza",
+      "pos": 663,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616234464
+        }
+      }
+    },
+    {
+      "id": "1017",
+      "team": "b2black",
+      "pos": 664,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616234495
+        }
+      }
+    },
+    {
+      "id": "1018",
+      "team": "[email protected]",
+      "pos": 665,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235031
+        }
+      }
+    },
+    {
+      "id": "1021",
+      "team": "dczia",
+      "pos": 666,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616237964
+        }
+      }
+    },
+    {
+      "id": "1024",
+      "team": "notaname",
+      "pos": 667,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616237966
+        }
+      }
+    },
+    {
+      "id": "1029",
+      "team": "CSUSB",
+      "pos": 668,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616240095
+        }
+      }
+    },
+    {
+      "id": "1020",
+      "team": "aaravs006",
+      "pos": 669,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616240191
+        }
+      }
+    },
+    {
+      "id": "422",
+      "team": "Tri{Hacking}",
+      "pos": 670,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616240447
+        }
+      }
+    },
+    {
+      "id": "278",
+      "team": "badsctr",
+      "pos": 671,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616240704
+        }
+      }
+    },
+    {
+      "id": "1032",
+      "team": "KXTI_MAKHUS",
+      "pos": 672,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616241272
+        }
+      }
+    },
+    {
+      "id": "1034",
+      "team": "aguascalientes",
+      "pos": 673,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616242738
+        }
+      }
+    },
+    {
+      "id": "1036",
+      "team": "Classico",
+      "pos": 674,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616243339
+        }
+      }
+    },
+    {
+      "id": "922",
+      "team": "Parrot Party",
+      "pos": 675,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616243880
+        }
+      }
+    },
+    {
+      "id": "1037",
+      "team": "GaL",
+      "pos": 676,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616244241
+        }
+      }
+    },
+    {
+      "id": "69",
+      "team": "kermitliver",
+      "pos": 677,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616246071
+        }
+      }
+    },
+    {
+      "id": "1039",
+      "team": "[email protected]",
+      "pos": 678,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616246784
+        }
+      }
+    },
+    {
+      "id": "1041",
+      "team": "Jakom11",
+      "pos": 679,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616251602
+        }
+      }
+    },
+    {
+      "id": "286",
+      "team": "B3arcave",
+      "pos": 680,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616253593
+        }
+      }
+    }
+  ],
+  "date": 1616166000,
+  "name": "LINE CTF"
+}
