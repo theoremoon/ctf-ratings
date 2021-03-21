@@ -1,0 +1,8055 @@
+{
+  "tasks": [
+    "ctfvc",
+    "Feedback",
+    "MineR Code",
+    "ForMatt Zelinsky",
+    "Entropy",
+    "SeaEssAreEph",
+    "speedrun-4",
+    "OTP1",
+    "beef-of-finitude",
+    "hot_diggity_dog",
+    "hot_diggity_dog_2",
+    "Morse Craft",
+    "Matthew Cracked?",
+    "Mega Chickens",
+    "Sandboxed ROP",
+    "Mountain Climber",
+    "Monumental Catext?",
+    "Mixed Columns",
+    "speedrun-2",
+    "Welcome to UDCTF",
+    "Guessing Game",
+    "OTP2",
+    "babyjeep",
+    "Tiny Tim",
+    "OTP3",
+    "conFidential searcH and dEstroy",
+    "PHEnomenal",
+    "speedrun-3",
+    "Me, Crack",
+    "speedrun-1",
+    "aHead Of The curve (Probably)",
+    "Transforms",
+    "EncrHeapt",
+    "compUDer",
+    "Rise and Shine",
+    "watman",
+    "Conway presents The Falcon",
+    "MCnu",
+    "Modest Cipher"
+  ],
+  "standings": [
+    {
+      "id": "356",
+      "team": "DarkArmy",
+      "pos": 1,
+      "score": 9933,
+      "taskStats": {
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616148833
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616148856
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616152334
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616152385
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616156267
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616185756
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616188580
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616189990
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616191508
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616191645
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616192918
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616195003
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616196403
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616198434
+        },
+        "aHead Of The curve (Probably)": {
+          "points": "493",
+          "time": 1616198880
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616203379
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616215249
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616218017
+        },
+        "MCnu": {
+          "points": "489",
+          "time": 1616224793
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616226049
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616226290
+        },
+        "hot_diggity_dog_2": {
+          "points": "500",
+          "time": 1616234656
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616235103
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616236378
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616268029
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616269537
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616274642
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616276798
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616277198
+        },
+        "Monumental Catext?": {
+          "points": "492",
+          "time": 1616277720
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616279130
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616280591
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616280607
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616281137
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616281558
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616283709
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616292183
+        },
+        "babyjeep": {
+          "points": "497",
+          "time": 1616312293
+        }
+      }
+    },
+    {
+      "id": "18",
+      "team": "SeedFinding2021",
+      "pos": 2,
+      "score": 8984,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144416
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616145000
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616146120
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616146486
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616147275
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616149005
+        },
+        "aHead Of The curve (Probably)": {
+          "points": "493",
+          "time": 1616151337
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616152097
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616153099
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616155764
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616156091
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616158343
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616165768
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616182387
+        },
+        "MCnu": {
+          "points": "489",
+          "time": 1616191181
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616192895
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616193114
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616197237
+        },
+        "conFidential searcH and dEstroy": {
+          "points": "500",
+          "time": 1616202434
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616209562
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616217637
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616218546
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616221324
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616224533
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616228957
+        },
+        "Monumental Catext?": {
+          "points": "492",
+          "time": 1616231553
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616232160
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616232620
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616277254
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616285629
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616285954
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616287220
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616291383
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616298892
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616307812
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616310683
+        }
+      }
+    },
+    {
+      "id": "213",
+      "team": "MadrHacks",
+      "pos": 3,
+      "score": 8443,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144739
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616148205
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616149710
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616150049
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616153755
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616156469
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616158462
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616160356
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616193616
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616197878
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616198809
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616199855
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616200734
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616202914
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616203083
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616207516
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616209744
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616211178
+        },
+        "MCnu": {
+          "points": "489",
+          "time": 1616220350
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616220466
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616223943
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616232878
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616238954
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616240300
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616242655
+        },
+        "Monumental Catext?": {
+          "points": "492",
+          "time": 1616243642
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616280714
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616281266
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616281882
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616285243
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616289800
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616302794
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616307579
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616310162
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616314957
+        }
+      }
+    },
+    {
+      "id": "587",
+      "team": "ptm",
+      "pos": 4,
+      "score": 6428,
+      "taskStats": {
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616218446
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616218456
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616218470
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616219076
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616219185
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616220707
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616221408
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616222917
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616223911
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616224073
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616224664
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616225569
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616228476
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616228741
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616231264
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616239525
+        },
+        "Monumental Catext?": {
+          "points": "492",
+          "time": 1616240812
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616243920
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616245722
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616246511
+        },
+        "MCnu": {
+          "points": "489",
+          "time": 1616247325
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616255945
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616259198
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616291832
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616292715
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616292759
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616305052
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616307617
+        }
+      }
+    },
+    {
+      "id": "186",
+      "team": "👺",
+      "pos": 5,
+      "score": 5621,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144427
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616147356
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616148315
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616152270
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616185042
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616191312
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616191929
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616192409
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616232134
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616239917
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616240554
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616247166
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616249107
+        },
+        "babyjeep": {
+          "points": "497",
+          "time": 1616251355
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616254339
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616265343
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616266436
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616266528
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616267279
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616267474
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616269361
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616269377
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616269464
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616275316
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616275849
+        }
+      }
+    },
+    {
+      "id": "338",
+      "team": "Shellogg's",
+      "pos": 6,
+      "score": 4778,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146540
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616157281
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616160711
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616164337
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616165970
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616171158
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616200697
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616203010
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616203631
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616204487
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616205394
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616210175
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616226666
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616227089
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616229342
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616233718
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616234226
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616234344
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616292180
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616292940
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616296463
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616296993
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616297153
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616298031
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616299021
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616306005
+        },
+        "MCnu": {
+          "points": "489",
+          "time": 1616308131
+        }
+      }
+    },
+    {
+      "id": "154",
+      "team": "Blackjackets",
+      "pos": 7,
+      "score": 4473,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144752
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616149252
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616150983
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616156670
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616218420
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616219151
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616219601
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616224344
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616225546
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616227595
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616227615
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616229571
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616237417
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616259988
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616264922
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616287783
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616293063
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616303568
+        }
+      }
+    },
+    {
+      "id": "29",
+      "team": "De Dikke Dabbers",
+      "pos": 8,
+      "score": 4019,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144819
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616145531
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616146098
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616146249
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616147886
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616153172
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616161481
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616162651
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616195752
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616196636
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616203492
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616204850
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616205592
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616209420
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616212021
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616215461
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616232107
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616233512
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616234867
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616287537
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616290429
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616290859
+        }
+      }
+    },
+    {
+      "id": "63",
+      "team": "coldboots",
+      "pos": 9,
+      "score": 3997,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144445
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616145583
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616146420
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616148451
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616148731
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616149198
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616152325
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616158129
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616210863
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616211703
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616214083
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616215442
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616215870
+        },
+        "MCnu": {
+          "points": "489",
+          "time": 1616246577
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616251586
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616254548
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616255213
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616285923
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616287597
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616290564
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616290710
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616290891
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616309949
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616313954
+        }
+      }
+    },
+    {
+      "id": "122",
+      "team": "B3arcave",
+      "pos": 10,
+      "score": 3714,
+      "taskStats": {
+        "Transforms": {
+          "points": "75",
+          "time": 1616173632
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616179942
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616180182
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616181380
+        },
+        "aHead Of The curve (Probably)": {
+          "points": "493",
+          "time": 1616208610
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616223350
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616231419
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616237316
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616238726
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616241919
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616242721
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616245035
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616253572
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616253939
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616254479
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616256118
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616290116
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616292739
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616292847
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616296450
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616298601
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616299432
+        }
+      }
+    },
+    {
+      "id": "291",
+      "team": "hack^3",
+      "pos": 11,
+      "score": 3637,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616148962
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616151123
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616152586
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616210014
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616213558
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616219940
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616220814
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616223655
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616223885
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616226184
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616228475
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616233480
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616235095
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616243271
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616293423
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616293688
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616295042
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616295482
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616296178
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616298993
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616305637
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616307794
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616309038
+        }
+      }
+    },
+    {
+      "id": "642",
+      "team": "GeeseWithTeeth",
+      "pos": 12,
+      "score": 3031,
+      "taskStats": {
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616232511
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616233370
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616234331
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616249288
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616250747
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616256036
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616258054
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616262600
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616264034
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616264206
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616289470
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616290403
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616292978
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616298318
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616311140
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616311435
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616313724
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616314912
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616316731
+        }
+      }
+    },
+    {
+      "id": "125",
+      "team": "C00L_H00Bs",
+      "pos": 13,
+      "score": 2851,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144514
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616202148
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616213929
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616225679
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616236142
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616238170
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616240836
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616245086
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616247842
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616274717
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616277064
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616285118
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616288928
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616295948
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616298228
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616302289
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616307539
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616315228
+        }
+      }
+    },
+    {
+      "id": "224",
+      "team": "hacktime",
+      "pos": 14,
+      "score": 2851,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144510
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616207888
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616237310
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616238149
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616238699
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616241102
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616244352
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616246541
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616248047
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616276988
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616277631
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616285216
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616287880
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616288913
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616296155
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616302480
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616307662
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616315292
+        }
+      }
+    },
+    {
+      "id": "425",
+      "team": "chmod",
+      "pos": 15,
+      "score": 2804,
+      "taskStats": {
+        "MineR Code": {
+          "points": "50",
+          "time": 1616167605
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616169087
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616174865
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616179600
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616192246
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616195468
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616196622
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616223191
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616224639
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616240328
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616240395
+        },
+        "Monumental Catext?": {
+          "points": "492",
+          "time": 1616242993
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616246136
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616249468
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616272482
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616275545
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616276420
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616312507
+        }
+      }
+    },
+    {
+      "id": "358",
+      "team": "nada",
+      "pos": 16,
+      "score": 2692,
+      "taskStats": {
+        "Transforms": {
+          "points": "75",
+          "time": 1616152929
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616171929
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616183272
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616191089
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616192309
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616194195
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616194873
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616198810
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616217115
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616229248
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616255622
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616268734
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616270214
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616301664
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616307131
+        }
+      }
+    },
+    {
+      "id": "215",
+      "team": "אלוף",
+      "pos": 17,
+      "score": 2473,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616145908
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616152752
+        },
+        "aHead Of The curve (Probably)": {
+          "points": "493",
+          "time": 1616161830
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616165022
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616191180
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616201571
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616204644
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616208250
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616208778
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616210128
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616225922
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616227500
+        }
+      }
+    },
+    {
+      "id": "141",
+      "team": "StrixGoldhorn",
+      "pos": 18,
+      "score": 2381,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616167954
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616168715
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616168986
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616169590
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616172490
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616188543
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616201220
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616211327
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616253662
+        },
+        "MCnu": {
+          "points": "489",
+          "time": 1616255213
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616274640
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616274917
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616277122
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616281800
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616281963
+        }
+      }
+    },
+    {
+      "id": "550",
+      "team": "STeam",
+      "pos": 19,
+      "score": 2380,
+      "taskStats": {
+        "OTP1": {
+          "points": "284",
+          "time": 1616221560
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616221866
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616222207
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616223235
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616225662
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616229296
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616284912
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616286486
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616287762
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616287983
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616297118
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616303316
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616307104
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616309105
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616311245
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616311922
+        }
+      }
+    },
+    {
+      "id": "180",
+      "team": "Rakun",
+      "pos": 20,
+      "score": 2378,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616151489
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616158650
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616159680
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616221784
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616222235
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616250065
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616257985
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616259136
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616263065
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616299797
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616306292
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616308474
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616310036
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616310490
+        }
+      }
+    },
+    {
+      "id": "544",
+      "team": "CSI",
+      "pos": 21,
+      "score": 2378,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616212707
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616214443
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616216313
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616225433
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616228871
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616230436
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616305179
+        },
+        "babyjeep": {
+          "points": "497",
+          "time": 1616313190
+        }
+      }
+    },
+    {
+      "id": "414",
+      "team": "Dashu",
+      "pos": 22,
+      "score": 2375,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616162126
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616173233
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616177457
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616178196
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616231502
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616244549
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616296505
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616297452
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616314294
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616314508
+        }
+      }
+    },
+    {
+      "id": "410",
+      "team": "noraneco",
+      "pos": 23,
+      "score": 2347,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616161020
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616164349
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616182953
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616186755
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616187656
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616195218
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616210281
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616211644
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616216198
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616276917
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616303108
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616312812
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616315087
+        }
+      }
+    },
+    {
+      "id": "174",
+      "team": "HuntsvilleTechSupport",
+      "pos": 24,
+      "score": 2234,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144697
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616148253
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616149462
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616151274
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616155962
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616156491
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616157388
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616177071
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616190055
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616190803
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616191491
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616192069
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616193095
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616235146
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616237574
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616256319
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616314515
+        }
+      }
+    },
+    {
+      "id": "20",
+      "team": "Lev8L",
+      "pos": 25,
+      "score": 2214,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145245
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616214001
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616226233
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616239166
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616242713
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616255657
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616291864
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616292719
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616295928
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616297769
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616301835
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616309310
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616309998
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616312823
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616314753
+        }
+      }
+    },
+    {
+      "id": "21",
+      "team": "Lev9L",
+      "pos": 26,
+      "score": 2170,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145697
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616155707
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616239169
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616242823
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616247705
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616250159
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616254285
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616257558
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616258680
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616266972
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616283093
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616296469
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616296772
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616299469
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616301361
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616302250
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616313571
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616314112
+        }
+      }
+    },
+    {
+      "id": "130",
+      "team": "ICE_HBM",
+      "pos": 27,
+      "score": 2160,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616198191
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616205054
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616214801
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616215808
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616217070
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616217475
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616221839
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616223891
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616224424
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616230974
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616231035
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616232499
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616266044
+        }
+      }
+    },
+    {
+      "id": "134",
+      "team": "Red Knights",
+      "pos": 28,
+      "score": 2152,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616175164
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616179790
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616191878
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616201461
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616201727
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616201873
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616203395
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616290227
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616292617
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616293194
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616295483
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616300771
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616304382
+        }
+      }
+    },
+    {
+      "id": "295",
+      "team": "ebin_l33t_h4x0rm4n5",
+      "pos": 29,
+      "score": 2085,
+      "taskStats": {
+        "MineR Code": {
+          "points": "50",
+          "time": 1616208888
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616214556
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616215340
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616216692
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616219409
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616221574
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616227140
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616244117
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616245556
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616250961
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616293229
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616294533
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616308731
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616312037
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616314931
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616315006
+        }
+      }
+    },
+    {
+      "id": "482",
+      "team": "jt",
+      "pos": 30,
+      "score": 2078,
+      "taskStats": {
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616186101
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616260997
+        },
+        "babyjeep": {
+          "points": "497",
+          "time": 1616294950
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616298661
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616300556
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616301219
+        }
+      }
+    },
+    {
+      "id": "624",
+      "team": "excol",
+      "pos": 31,
+      "score": 2018,
+      "taskStats": {
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616226174
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616226385
+        },
+        "aHead Of The curve (Probably)": {
+          "points": "493",
+          "time": 1616228137
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616229421
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616229648
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616233529
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616236520
+        }
+      }
+    },
+    {
+      "id": "534",
+      "team": "Porg Pwn Platoon",
+      "pos": 32,
+      "score": 1982,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616199693
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616217034
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616223036
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616293421
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616295710
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616295974
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616296570
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616301943
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616302073
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616303219
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616305396
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616309561
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616315074
+        }
+      }
+    },
+    {
+      "id": "276",
+      "team": "greenhorn",
+      "pos": 33,
+      "score": 1812,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616148150
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616194393
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616208019
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616208460
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616228052
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616233158
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616242768
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616277970
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616279759
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616291741
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616292364
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616297680
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616297888
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616299030
+        }
+      }
+    },
+    {
+      "id": "214",
+      "team": "MadrHacksJr",
+      "pos": 34,
+      "score": 1701,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144483
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616150994
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616195246
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616197833
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616203856
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616205481
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616209598
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616209798
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616212254
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616212703
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616213650
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616221837
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616232015
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616284313
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616300443
+        }
+      }
+    },
+    {
+      "id": "598",
+      "team": "AchiPwn",
+      "pos": 35,
+      "score": 1656,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616217765
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616217794
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616220527
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616241264
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616248651
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616249698
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616250263
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616251815
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616252440
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616255177
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616256014
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616256672
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616290693
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616291197
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616291665
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616294123
+        }
+      }
+    },
+    {
+      "id": "301",
+      "team": "CrazyRussianHackers",
+      "pos": 36,
+      "score": 1644,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144516
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616145377
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616149689
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616152972
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616156192
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616159224
+        },
+        "aHead Of The curve (Probably)": {
+          "points": "493",
+          "time": 1616160383
+        }
+      }
+    },
+    {
+      "id": "167",
+      "team": "田埂",
+      "pos": 37,
+      "score": 1638,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616173677
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616179864
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616197196
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616248739
+        },
+        "babyjeep": {
+          "points": "497",
+          "time": 1616264834
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616310988
+        }
+      }
+    },
+    {
+      "id": "96",
+      "team": "WaletSec",
+      "pos": 38,
+      "score": 1613,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144502
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616162593
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616216404
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616221648
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616229864
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616236875
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616243434
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616245703
+        },
+        "Monumental Catext?": {
+          "points": "492",
+          "time": 1616253106
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616257021
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616284817
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616294673
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616297338
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616300905
+        }
+      }
+    },
+    {
+      "id": "115",
+      "team": "m1t0",
+      "pos": 39,
+      "score": 1586,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616260624
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616277766
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616287688
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616295480
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616301697
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616302161
+        }
+      }
+    },
+    {
+      "id": "170",
+      "team": "TeamShakti",
+      "pos": 40,
+      "score": 1583,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144459
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616275324
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616277505
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616285292
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616286190
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616288717
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616295480
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616299500
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616299647
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616304932
+        },
+        "watman": {
+          "points": "438",
+          "time": 1616314947
+        }
+      }
+    },
+    {
+      "id": "280",
+      "team": "k",
+      "pos": 41,
+      "score": 1581,
+      "taskStats": {
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616146012
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616146501
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616147956
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616275776
+        },
+        "ForMatt Zelinsky": {
+          "points": "461",
+          "time": 1616278450
+        }
+      }
+    },
+    {
+      "id": "316",
+      "team": "y0d31",
+      "pos": 42,
+      "score": 1547,
+      "taskStats": {
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616159400
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616160429
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616210353
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616216729
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616230719
+        }
+      }
+    },
+    {
+      "id": "398",
+      "team": "Lala5th",
+      "pos": 43,
+      "score": 1478,
+      "taskStats": {
+        "Entropy": {
+          "points": "468",
+          "time": 1616176708
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616196172
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616201014
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616210076
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616220218
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616232803
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616258050
+        }
+      }
+    },
+    {
+      "id": "37",
+      "team": "Team Name BE",
+      "pos": 44,
+      "score": 1462,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144476
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616147499
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616148518
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616148945
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616154745
+        },
+        "Matthew Cracked?": {
+          "points": "486",
+          "time": 1616162160
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616204650
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616205700
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616207905
+        }
+      }
+    },
+    {
+      "id": "79",
+      "team": "AntiBuddies",
+      "pos": 45,
+      "score": 1461,
+      "taskStats": {
+        "OTP1": {
+          "points": "284",
+          "time": 1616155388
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616155449
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616156713
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616157425
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616157671
+        },
+        "EncrHeapt": {
+          "points": "452",
+          "time": 1616160391
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616229861
+        }
+      }
+    },
+    {
+      "id": "48",
+      "team": "PatanjaliHax",
+      "pos": 46,
+      "score": 1423,
+      "taskStats": {
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616219647
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616219774
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616221061
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616237215
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616247767
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616276505
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616286939
+        },
+        "OTP3": {
+          "points": "482",
+          "time": 1616290577
+        }
+      }
+    },
+    {
+      "id": "424",
+      "team": "LinyTail",
+      "pos": 47,
+      "score": 1415,
+      "taskStats": {
+        "Transforms": {
+          "points": "75",
+          "time": 1616169003
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616173147
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616225238
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616227020
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616228017
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616258107
+        }
+      }
+    },
+    {
+      "id": "347",
+      "team": "CyberJags",
+      "pos": 48,
+      "score": 1408,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616147153
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616179568
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616180869
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616181381
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616185458
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616231487
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616232860
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616237298
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616238973
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616262302
+        }
+      }
+    },
+    {
+      "id": "107",
+      "team": "Terminal Cats",
+      "pos": 49,
+      "score": 1314,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144457
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616148406
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616149490
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616152855
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616194178
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616196701
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616201473
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616234141
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616237693
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616282106
+        }
+      }
+    },
+    {
+      "id": "113",
+      "team": "fr334aks",
+      "pos": 50,
+      "score": 1277,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144846
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616156148
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616156465
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616201751
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616209036
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616209591
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616289488
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616292165
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616295464
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616295886
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616297675
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616301020
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616301800
+        }
+      }
+    },
+    {
+      "id": "117",
+      "team": "TeamWBH",
+      "pos": 51,
+      "score": 1258,
+      "taskStats": {
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616166019
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616202684
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616205067
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616209811
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616241752
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616250111
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616294316
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616295959
+        },
+        "OTP2": {
+          "points": "422",
+          "time": 1616298842
+        }
+      }
+    },
+    {
+      "id": "126",
+      "team": "0xPolpettOwn",
+      "pos": 52,
+      "score": 1221,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144469
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616152632
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616152858
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616154828
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616174097
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616222968
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616235941
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616237579
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616250615
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616300078
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616301955
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616302298
+        }
+      }
+    },
+    {
+      "id": "629",
+      "team": "meraxes",
+      "pos": 53,
+      "score": 1162,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616240912
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616241046
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616241384
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616248350
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616249283
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616255399
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616258339
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616298729
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616303444
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616304443
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616306965
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616307693
+        }
+      }
+    },
+    {
+      "id": "631",
+      "team": "karidesler",
+      "pos": 54,
+      "score": 1127,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616226915
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616242646
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616248463
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616249306
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616251974
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616253344
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616255430
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616292953
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616308226
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616311520
+        }
+      }
+    },
+    {
+      "id": "628",
+      "team": "c0nc0rd4t",
+      "pos": 55,
+      "score": 1104,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616239165
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616247354
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616252246
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616284197
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616285897
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616287117
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616287766
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616291712
+        }
+      }
+    },
+    {
+      "id": "633",
+      "team": "Cyber@UC",
+      "pos": 56,
+      "score": 1063,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616238177
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616246953
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616247307
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616252005
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616252470
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616253194
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616253591
+        },
+        "Mixed Columns": {
+          "points": "333",
+          "time": 1616256168
+        }
+      }
+    },
+    {
+      "id": "456",
+      "team": "RPCA Cyber Club",
+      "pos": 57,
+      "score": 1013,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616258330
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616279227
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616281615
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616284998
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616297554
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616299592
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616310494
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616311600
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616313991
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616315454
+        }
+      }
+    },
+    {
+      "id": "145",
+      "team": "SadPlace1337",
+      "pos": 58,
+      "score": 1010,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616193958
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616209753
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616210606
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616217221
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616225037
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616226300
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616227000
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616229949
+        }
+      }
+    },
+    {
+      "id": "328",
+      "team": "Fword",
+      "pos": 59,
+      "score": 942,
+      "taskStats": {
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616148426
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616157282
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616159677
+        },
+        "compUDer": {
+          "points": "427",
+          "time": 1616166683
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616170420
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616175907
+        }
+      }
+    },
+    {
+      "id": "472",
+      "team": "ISITDTU",
+      "pos": 60,
+      "score": 927,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616295078
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616296209
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616296244
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616296292
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616298303
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616298986
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616300913
+        }
+      }
+    },
+    {
+      "id": "162",
+      "team": "Tkd-Alex",
+      "pos": 61,
+      "score": 908,
+      "taskStats": {
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616208531
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616209462
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616216205
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616245126
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616291980
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616295136
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616296160
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616297786
+        }
+      }
+    },
+    {
+      "id": "386",
+      "team": "TourRadar",
+      "pos": 62,
+      "score": 887,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616153360
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616155911
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616231092
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616231614
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616231688
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616301874
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616301957
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616302758
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616307206
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616312313
+        }
+      }
+    },
+    {
+      "id": "399",
+      "team": "R3n-AI-Ssance",
+      "pos": 63,
+      "score": 883,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616156863
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616239215
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616298034
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616298735
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616301640
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616302781
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616303921
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616307279
+        }
+      }
+    },
+    {
+      "id": "351",
+      "team": "PwnAlPesto",
+      "pos": 64,
+      "score": 878,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616202742
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616282803
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616282986
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616283693
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616289015
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616294154
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616303414
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616316078
+        }
+      }
+    },
+    {
+      "id": "289",
+      "team": "CSSA",
+      "pos": 65,
+      "score": 838,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616165698
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616204095
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616205037
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616274379
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616280393
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616281422
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616281864
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616282686
+        }
+      }
+    },
+    {
+      "id": "294",
+      "team": "Thehackerscrew",
+      "pos": 66,
+      "score": 838,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616165061
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616189956
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616190359
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616291170
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616292445
+        },
+        "speedrun-4": {
+          "points": "328",
+          "time": 1616293147
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616294307
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616295675
+        }
+      }
+    },
+    {
+      "id": "173",
+      "team": "Hacklabor",
+      "pos": 67,
+      "score": 747,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145687
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616236913
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616237870
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616264543
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616284956
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616287001
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616289725
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616291211
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616293588
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616297954
+        }
+      }
+    },
+    {
+      "id": "465",
+      "team": "H4CTF++;",
+      "pos": 68,
+      "score": 746,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616183971
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616189387
+        },
+        "Entropy": {
+          "points": "468",
+          "time": 1616193196
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616198841
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616210940
+        }
+      }
+    },
+    {
+      "id": "274",
+      "team": "bluehens_unaffiliated_students",
+      "pos": 69,
+      "score": 735,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616153577
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616155364
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616156255
+        },
+        "OTP1": {
+          "points": "284",
+          "time": 1616158973
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616161517
+        }
+      }
+    },
+    {
+      "id": "670",
+      "team": "KTeam",
+      "pos": 70,
+      "score": 707,
+      "taskStats": {
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616252023
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616258691
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616259605
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616281759
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616285388
+        }
+      }
+    },
+    {
+      "id": "512",
+      "team": "poigiatre",
+      "pos": 71,
+      "score": 705,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616192434
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616195761
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616197021
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616209645
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616212169
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616212538
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616305355
+        }
+      }
+    },
+    {
+      "id": "91",
+      "team": "#klukk",
+      "pos": 72,
+      "score": 700,
+      "taskStats": {
+        "compUDer": {
+          "points": "427",
+          "time": 1616200388
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616216523
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616253787
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616255623
+        }
+      }
+    },
+    {
+      "id": "305",
+      "team": "empty_",
+      "pos": 73,
+      "score": 697,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145689
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616148862
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616151760
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616199350
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616205708
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616306116
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616313723
+        }
+      }
+    },
+    {
+      "id": "361",
+      "team": "beerpwn",
+      "pos": 74,
+      "score": 683,
+      "taskStats": {
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616163270
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616166233
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616221424
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616224471
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616289763
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616294148
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616294368
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616296025
+        }
+      }
+    },
+    {
+      "id": "476",
+      "team": "TeamDansTonCul",
+      "pos": 75,
+      "score": 668,
+      "taskStats": {
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616181789
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616183508
+        },
+        "Sandboxed ROP": {
+          "points": "445",
+          "time": 1616219230
+        }
+      }
+    },
+    {
+      "id": "703",
+      "team": "SudowoodoDoAsWoodo",
+      "pos": 76,
+      "score": 635,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616290317
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616293285
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616293842
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616298194
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616301159
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616304764
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616305495
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616307443
+        }
+      }
+    },
+    {
+      "id": "594",
+      "team": "-_-",
+      "pos": 77,
+      "score": 571,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616216746
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616219662
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616220401
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616224256
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616228069
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616240460
+        }
+      }
+    },
+    {
+      "id": "368",
+      "team": "J",
+      "pos": 78,
+      "score": 553,
+      "taskStats": {
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616151116
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616152060
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616153347
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616180571
+        },
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616222475
+        }
+      }
+    },
+    {
+      "id": "136",
+      "team": "RKTEAM",
+      "pos": 79,
+      "score": 517,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616173198
+        },
+        "Me, Crack": {
+          "points": "296",
+          "time": 1616178687
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616180846
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616184618
+        }
+      }
+    },
+    {
+      "id": "257",
+      "team": "Wanna.One",
+      "pos": 80,
+      "score": 492,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616179644
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616213589
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616213928
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616230896
+        }
+      }
+    },
+    {
+      "id": "178",
+      "team": "FirstState",
+      "pos": 81,
+      "score": 450,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144644
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616148727
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616182806
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616219199
+        }
+      }
+    },
+    {
+      "id": "334",
+      "team": "OnlyFlags",
+      "pos": 82,
+      "score": 440,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146437
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616148216
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616150542
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616151397
+        }
+      }
+    },
+    {
+      "id": "469",
+      "team": "NopeSled",
+      "pos": 83,
+      "score": 427,
+      "taskStats": {
+        "compUDer": {
+          "points": "427",
+          "time": 1616266060
+        }
+      }
+    },
+    {
+      "id": "514",
+      "team": "snick",
+      "pos": 84,
+      "score": 413,
+      "taskStats": {
+        "MineR Code": {
+          "points": "50",
+          "time": 1616233672
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616234403
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616236187
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616242441
+        }
+      }
+    },
+    {
+      "id": "686",
+      "team": "xrzhev",
+      "pos": 85,
+      "score": 405,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616272556
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616274848
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616280207
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616280454
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616283598
+        }
+      }
+    },
+    {
+      "id": "304",
+      "team": "IVS",
+      "pos": 86,
+      "score": 385,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144567
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616160341
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616202872
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616281205
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616282936
+        }
+      }
+    },
+    {
+      "id": "627",
+      "team": "The Additional Payphones",
+      "pos": 87,
+      "score": 374,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616260168
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616261629
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616264221
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616312923
+        }
+      }
+    },
+    {
+      "id": "578",
+      "team": "Maurus",
+      "pos": 88,
+      "score": 359,
+      "taskStats": {
+        "OTP1": {
+          "points": "284",
+          "time": 1616215432
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616216232
+        }
+      }
+    },
+    {
+      "id": "604",
+      "team": "froz3n",
+      "pos": 89,
+      "score": 355,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616229450
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616229471
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616300716
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616301464
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616302020
+        }
+      }
+    },
+    {
+      "id": "685",
+      "team": "Atom",
+      "pos": 90,
+      "score": 350,
+      "taskStats": {
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616282092
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616285680
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616287978
+        }
+      }
+    },
+    {
+      "id": "46",
+      "team": "ri5e",
+      "pos": 91,
+      "score": 335,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616152131
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616254203
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616254383
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616298167
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616298788
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616300439
+        }
+      }
+    },
+    {
+      "id": "71",
+      "team": "BarSides",
+      "pos": 92,
+      "score": 331,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144479
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616256932
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616266488
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616299950
+        }
+      }
+    },
+    {
+      "id": "19",
+      "team": "πrates",
+      "pos": 93,
+      "score": 326,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144844
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616191223
+        },
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616291707
+        }
+      }
+    },
+    {
+      "id": "341",
+      "team": "Flaggermeister",
+      "pos": 94,
+      "score": 326,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616171689
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616214359
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616261608
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616295707
+        },
+        "Mega Chickens": {
+          "points": "166",
+          "time": 1616297752
+        }
+      }
+    },
+    {
+      "id": "519",
+      "team": "BurgerBob",
+      "pos": 95,
+      "score": 325,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616227837
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616229579
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616274265
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616274773
+        }
+      }
+    },
+    {
+      "id": "588",
+      "team": "assholes",
+      "pos": 96,
+      "score": 300,
+      "taskStats": {
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616219947
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616221864
+        }
+      }
+    },
+    {
+      "id": "596",
+      "team": "nullz",
+      "pos": 97,
+      "score": 300,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616226567
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616228533
+        }
+      }
+    },
+    {
+      "id": "644",
+      "team": "n00000b",
+      "pos": 98,
+      "score": 300,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616235032
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616237915
+        }
+      }
+    },
+    {
+      "id": "660",
+      "team": "GaL",
+      "pos": 99,
+      "score": 300,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616253401
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616256441
+        }
+      }
+    },
+    {
+      "id": "314",
+      "team": "Altarity",
+      "pos": 100,
+      "score": 292,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145082
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616146181
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616155448
+        }
+      }
+    },
+    {
+      "id": "124",
+      "team": "Polymero",
+      "pos": 101,
+      "score": 292,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616151495
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616192828
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616194971
+        }
+      }
+    },
+    {
+      "id": "443",
+      "team": "learner",
+      "pos": 102,
+      "score": 289,
+      "taskStats": {
+        "OTP1": {
+          "points": "284",
+          "time": 1616174917
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616176415
+        }
+      }
+    },
+    {
+      "id": "164",
+      "team": "kasiatutej",
+      "pos": 103,
+      "score": 287,
+      "taskStats": {
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616146136
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616197409
+        }
+      }
+    },
+    {
+      "id": "622",
+      "team": "dehunters",
+      "pos": 104,
+      "score": 285,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616224399
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616287718
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616297696
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616310942
+        },
+        "speedrun-2": {
+          "points": "50",
+          "time": 1616313505
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616316737
+        }
+      }
+    },
+    {
+      "id": "486",
+      "team": "CatGrepYourTail",
+      "pos": 105,
+      "score": 284,
+      "taskStats": {
+        "OTP1": {
+          "points": "284",
+          "time": 1616196548
+        }
+      }
+    },
+    {
+      "id": "717",
+      "team": "medo",
+      "pos": 106,
+      "score": 271,
+      "taskStats": {
+        "Rise and Shine": {
+          "points": "271",
+          "time": 1616305498
+        }
+      }
+    },
+    {
+      "id": "492",
+      "team": "MOCTF",
+      "pos": 107,
+      "score": 260,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616184826
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616299165
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616301503
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616305153
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616312077
+        }
+      }
+    },
+    {
+      "id": "336",
+      "team": "YabbaDoo",
+      "pos": 108,
+      "score": 255,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616156431
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616214321
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616303556
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616304746
+        }
+      }
+    },
+    {
+      "id": "179",
+      "team": ":v",
+      "pos": 109,
+      "score": 250,
+      "taskStats": {
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616302504
+        },
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616309517
+        }
+      }
+    },
+    {
+      "id": "144",
+      "team": "Area{51}",
+      "pos": 110,
+      "score": 235,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616188173
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616232544
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616233053
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616277460
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616277795
+        }
+      }
+    },
+    {
+      "id": "243",
+      "team": "bad@hacking",
+      "pos": 111,
+      "score": 228,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144886
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616150080
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616152752
+        }
+      }
+    },
+    {
+      "id": "339",
+      "team": "acdwas",
+      "pos": 112,
+      "score": 228,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616150021
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616158929
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616159231
+        }
+      }
+    },
+    {
+      "id": "498",
+      "team": "shallot",
+      "pos": 113,
+      "score": 223,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616190434
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616204123
+        }
+      }
+    },
+    {
+      "id": "582",
+      "team": "Hi Hello",
+      "pos": 114,
+      "score": 223,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616214347
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616220148
+        }
+      }
+    },
+    {
+      "id": "650",
+      "team": "raar",
+      "pos": 115,
+      "score": 223,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616238203
+        },
+        "Tiny Tim": {
+          "points": "123",
+          "time": 1616274096
+        }
+      }
+    },
+    {
+      "id": "161",
+      "team": "Stevens Cyber Defense Team",
+      "pos": 116,
+      "score": 222,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144660
+        },
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616224580
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616312821
+        }
+      }
+    },
+    {
+      "id": "429",
+      "team": "mikoan",
+      "pos": 117,
+      "score": 212,
+      "taskStats": {
+        "PHEnomenal": {
+          "points": "212",
+          "time": 1616168131
+        }
+      }
+    },
+    {
+      "id": "543",
+      "team": "goipoi",
+      "pos": 118,
+      "score": 212,
+      "taskStats": {
+        "Mountain Climber": {
+          "points": "212",
+          "time": 1616202994
+        }
+      }
+    },
+    {
+      "id": "573",
+      "team": "Senko",
+      "pos": 119,
+      "score": 210,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616211783
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616218315
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616220105
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616272762
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616274315
+        }
+      }
+    },
+    {
+      "id": "290",
+      "team": "a1on3",
+      "pos": 120,
+      "score": 205,
+      "taskStats": {
+        "MineR Code": {
+          "points": "50",
+          "time": 1616212505
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616214638
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616219367
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616301603
+        }
+      }
+    },
+    {
+      "id": "413",
+      "team": "xSTF",
+      "pos": 121,
+      "score": 200,
+      "taskStats": {
+        "SeaEssAreEph": {
+          "points": "200",
+          "time": 1616253945
+        }
+      }
+    },
+    {
+      "id": "39",
+      "team": "d4rkc0de",
+      "pos": 122,
+      "score": 175,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616213568
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616267537
+        }
+      }
+    },
+    {
+      "id": "607",
+      "team": "StarJammers",
+      "pos": 123,
+      "score": 155,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616245639
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616261273
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616262033
+        }
+      }
+    },
+    {
+      "id": "571",
+      "team": "4h_kids",
+      "pos": 124,
+      "score": 154,
+      "taskStats": {
+        "MineR Code": {
+          "points": "50",
+          "time": 1616226027
+        },
+        "Guessing Game": {
+          "points": "99",
+          "time": 1616249892
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616250252
+        }
+      }
+    },
+    {
+      "id": "108",
+      "team": "csw",
+      "pos": 125,
+      "score": 152,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145171
+        },
+        "Morse Craft": {
+          "points": "147",
+          "time": 1616315707
+        }
+      }
+    },
+    {
+      "id": "138",
+      "team": "Ganofins",
+      "pos": 126,
+      "score": 110,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616291127
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616291206
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616295759
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616312481
+        }
+      }
+    },
+    {
+      "id": "333",
+      "team": "CarpeDien",
+      "pos": 127,
+      "score": 110,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616148014
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616159780
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616160041
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616316256
+        }
+      }
+    },
+    {
+      "id": "133",
+      "team": "KGB_sec",
+      "pos": 128,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145380
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616156985
+        }
+      }
+    },
+    {
+      "id": "177",
+      "team": "ladon.xyz",
+      "pos": 129,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616151059
+        },
+        "Modest Cipher": {
+          "points": "50",
+          "time": 1616154342
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616158966
+        }
+      }
+    },
+    {
+      "id": "169",
+      "team": "NU",
+      "pos": 130,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144838
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616169947
+        }
+      }
+    },
+    {
+      "id": "181",
+      "team": "onotch",
+      "pos": 131,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616177651
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616191703
+        }
+      }
+    },
+    {
+      "id": "250",
+      "team": "redtapeCTF",
+      "pos": 132,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616148528
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616202051
+        }
+      }
+    },
+    {
+      "id": "198",
+      "team": "My4nM4r",
+      "pos": 133,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145267
+        },
+        "ctfvc": {
+          "points": "100",
+          "time": 1616276329
+        }
+      }
+    },
+    {
+      "id": "85",
+      "team": "somayi2021",
+      "pos": 134,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616257748
+        },
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616281095
+        }
+      }
+    },
+    {
+      "id": "222",
+      "team": "derelict",
+      "pos": 135,
+      "score": 105,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144539
+        },
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616312315
+        }
+      }
+    },
+    {
+      "id": "383",
+      "team": "derp",
+      "pos": 136,
+      "score": 100,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616154864
+        }
+      }
+    },
+    {
+      "id": "230",
+      "team": "hj",
+      "pos": 137,
+      "score": 100,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616175534
+        }
+      }
+    },
+    {
+      "id": "510",
+      "team": "mustafasandal",
+      "pos": 138,
+      "score": 100,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616193598
+        }
+      }
+    },
+    {
+      "id": "545",
+      "team": "MoonBack",
+      "pos": 139,
+      "score": 100,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616205391
+        }
+      }
+    },
+    {
+      "id": "132",
+      "team": "auouo",
+      "pos": 140,
+      "score": 100,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616210760
+        }
+      }
+    },
+    {
+      "id": "152",
+      "team": "DegenerationB",
+      "pos": 141,
+      "score": 100,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616221775
+        }
+      }
+    },
+    {
+      "id": "613",
+      "team": "e^iπ+1day",
+      "pos": 142,
+      "score": 100,
+      "taskStats": {
+        "ctfvc": {
+          "points": "100",
+          "time": 1616221970
+        }
+      }
+    },
+    {
+      "id": "657",
+      "team": "zer0",
+      "pos": 143,
+      "score": 100,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616259012
+        }
+      }
+    },
+    {
+      "id": "319",
+      "team": "shrabhas@gmail.com",
+      "pos": 144,
+      "score": 100,
+      "taskStats": {
+        "beef-of-finitude": {
+          "points": "100",
+          "time": 1616292636
+        }
+      }
+    },
+    {
+      "id": "716",
+      "team": "huydoppa",
+      "pos": 145,
+      "score": 100,
+      "taskStats": {
+        "speedrun-3": {
+          "points": "100",
+          "time": 1616313008
+        }
+      }
+    },
+    {
+      "id": "135",
+      "team": "Hellsender",
+      "pos": 146,
+      "score": 80,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616178948
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616194745
+        }
+      }
+    },
+    {
+      "id": "65",
+      "team": "hackking",
+      "pos": 147,
+      "score": 80,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145216
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616212413
+        }
+      }
+    },
+    {
+      "id": "13",
+      "team": "fzhshzh",
+      "pos": 148,
+      "score": 80,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616252619
+        },
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616253144
+        }
+      }
+    },
+    {
+      "id": "142",
+      "team": "Omaviat",
+      "pos": 149,
+      "score": 80,
+      "taskStats": {
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616299496
+        },
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616303909
+        }
+      }
+    },
+    {
+      "id": "241",
+      "team": "The15thStandard",
+      "pos": 150,
+      "score": 80,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144676
+        },
+        "Transforms": {
+          "points": "75",
+          "time": 1616315137
+        }
+      }
+    },
+    {
+      "id": "593",
+      "team": "yxzda",
+      "pos": 151,
+      "score": 75,
+      "taskStats": {
+        "Transforms": {
+          "points": "75",
+          "time": 1616221730
+        }
+      }
+    },
+    {
+      "id": "641",
+      "team": "ATMteam",
+      "pos": 152,
+      "score": 75,
+      "taskStats": {
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616236244
+        }
+      }
+    },
+    {
+      "id": "706",
+      "team": "0v3rf1ow",
+      "pos": 153,
+      "score": 75,
+      "taskStats": {
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616293506
+        }
+      }
+    },
+    {
+      "id": "725",
+      "team": "GetPwndN00b",
+      "pos": 154,
+      "score": 75,
+      "taskStats": {
+        "hot_diggity_dog": {
+          "points": "75",
+          "time": 1616309816
+        }
+      }
+    },
+    {
+      "id": "572",
+      "team": "The Cyber Grabs",
+      "pos": 155,
+      "score": 60,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616210817
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616281666
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616291508
+        }
+      }
+    },
+    {
+      "id": "73",
+      "team": "Dreaming ostrich",
+      "pos": 156,
+      "score": 60,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145171
+        },
+        "MineR Code": {
+          "points": "50",
+          "time": 1616181319
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616301788
+        }
+      }
+    },
+    {
+      "id": "58",
+      "team": "jammedsignal",
+      "pos": 157,
+      "score": 55,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616223394
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616237546
+        }
+      }
+    },
+    {
+      "id": "246",
+      "team": "LoLzz",
+      "pos": 158,
+      "score": 55,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146317
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616252549
+        }
+      }
+    },
+    {
+      "id": "523",
+      "team": "Asmolia",
+      "pos": 159,
+      "score": 55,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616196500
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616253994
+        }
+      }
+    },
+    {
+      "id": "695",
+      "team": "$Dark_Warrior$",
+      "pos": 160,
+      "score": 55,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616279187
+        },
+        "Conway presents The Falcon": {
+          "points": "50",
+          "time": 1616281721
+        }
+      }
+    },
+    {
+      "id": "99",
+      "team": "3rk1n",
+      "pos": 161,
+      "score": 55,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145820
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616286798
+        }
+      }
+    },
+    {
+      "id": "234",
+      "team": "someone,idk",
+      "pos": 162,
+      "score": 55,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616180213
+        },
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616309418
+        }
+      }
+    },
+    {
+      "id": "499",
+      "team": "nihonjin",
+      "pos": 163,
+      "score": 50,
+      "taskStats": {
+        "MineR Code": {
+          "points": "50",
+          "time": 1616214379
+        }
+      }
+    },
+    {
+      "id": "715",
+      "team": "noob_hunter",
+      "pos": 164,
+      "score": 50,
+      "taskStats": {
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616299534
+        }
+      }
+    },
+    {
+      "id": "705",
+      "team": "HunGry",
+      "pos": 165,
+      "score": 50,
+      "taskStats": {
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616301214
+        }
+      }
+    },
+    {
+      "id": "210",
+      "team": "alpha1",
+      "pos": 166,
+      "score": 50,
+      "taskStats": {
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616304729
+        }
+      }
+    },
+    {
+      "id": "724",
+      "team": "V3N0M",
+      "pos": 167,
+      "score": 50,
+      "taskStats": {
+        "speedrun-1": {
+          "points": "50",
+          "time": 1616308539
+        }
+      }
+    },
+    {
+      "id": "652",
+      "team": "solitude avenger",
+      "pos": 168,
+      "score": 10,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616282407
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616282467
+        }
+      }
+    },
+    {
+      "id": "366",
+      "team": "r29er",
+      "pos": 169,
+      "score": 10,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616149597
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616292847
+        }
+      }
+    },
+    {
+      "id": "249",
+      "team": "noobster",
+      "pos": 170,
+      "score": 10,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145374
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616299406
+        }
+      }
+    },
+    {
+      "id": "554",
+      "team": "whitehathacker8181",
+      "pos": 171,
+      "score": 10,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616204409
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616305860
+        }
+      }
+    },
+    {
+      "id": "597",
+      "team": "IsolatingBeforeItWasCool",
+      "pos": 172,
+      "score": 10,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616217326
+        },
+        "Feedback": {
+          "points": "5",
+          "time": 1616306337
+        }
+      }
+    },
+    {
+      "id": "260",
+      "team": "0x_SHilling",
+      "pos": 173,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144463
+        }
+      }
+    },
+    {
+      "id": "303",
+      "team": "lllllllllllllllll",
+      "pos": 174,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144470
+        }
+      }
+    },
+    {
+      "id": "275",
+      "team": "Yoink",
+      "pos": 175,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144470
+        }
+      }
+    },
+    {
+      "id": "121",
+      "team": "R0GU3_H4CK",
+      "pos": 176,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144472
+        }
+      }
+    },
+    {
+      "id": "312",
+      "team": "XSS Addicts",
+      "pos": 177,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144477
+        }
+      }
+    },
+    {
+      "id": "313",
+      "team": "butt0wsk1",
+      "pos": 178,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144485
+        }
+      }
+    },
+    {
+      "id": "166",
+      "team": "Capture Is The Answer",
+      "pos": 179,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144506
+        }
+      }
+    },
+    {
+      "id": "112",
+      "team": "OneManTeam",
+      "pos": 180,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144522
+        }
+      }
+    },
+    {
+      "id": "27",
+      "team": "cactus",
+      "pos": 181,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144547
+        }
+      }
+    },
+    {
+      "id": "288",
+      "team": "nithin",
+      "pos": 182,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144585
+        }
+      }
+    },
+    {
+      "id": "225",
+      "team": "FEJM.CTF",
+      "pos": 183,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144591
+        }
+      }
+    },
+    {
+      "id": "189",
+      "team": "f_50c13ty",
+      "pos": 184,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144598
+        }
+      }
+    },
+    {
+      "id": "235",
+      "team": "cybersecurity",
+      "pos": 185,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144601
+        }
+      }
+    },
+    {
+      "id": "309",
+      "team": "Priyansh",
+      "pos": 186,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144602
+        }
+      }
+    },
+    {
+      "id": "297",
+      "team": "KSKCrack",
+      "pos": 187,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144618
+        }
+      }
+    },
+    {
+      "id": "244",
+      "team": "CSUSB",
+      "pos": 188,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144665
+        }
+      }
+    },
+    {
+      "id": "192",
+      "team": "nomad",
+      "pos": 189,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144727
+        }
+      }
+    },
+    {
+      "id": "322",
+      "team": "teamIndia",
+      "pos": 190,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144781
+        }
+      }
+    },
+    {
+      "id": "242",
+      "team": "anonymous2021",
+      "pos": 191,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144853
+        }
+      }
+    },
+    {
+      "id": "67",
+      "team": "FTA",
+      "pos": 192,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144867
+        }
+      }
+    },
+    {
+      "id": "323",
+      "team": "k150",
+      "pos": 193,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144875
+        }
+      }
+    },
+    {
+      "id": "153",
+      "team": "Pengg0damn",
+      "pos": 194,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616144909
+        }
+      }
+    },
+    {
+      "id": "326",
+      "team": "error",
+      "pos": 195,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145133
+        }
+      }
+    },
+    {
+      "id": "320",
+      "team": "blue_faang",
+      "pos": 196,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145237
+        }
+      }
+    },
+    {
+      "id": "327",
+      "team": "nukelawe",
+      "pos": 197,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145290
+        }
+      }
+    },
+    {
+      "id": "236",
+      "team": "trade_names",
+      "pos": 198,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145365
+        }
+      }
+    },
+    {
+      "id": "331",
+      "team": "m4dara",
+      "pos": 199,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145585
+        }
+      }
+    },
+    {
+      "id": "64",
+      "team": "Cyber_Sky",
+      "pos": 200,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145818
+        }
+      }
+    },
+    {
+      "id": "332",
+      "team": "0rgism",
+      "pos": 201,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145818
+        }
+      }
+    },
+    {
+      "id": "44",
+      "team": "Exodus",
+      "pos": 202,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145853
+        }
+      }
+    },
+    {
+      "id": "187",
+      "team": "Reloaded",
+      "pos": 203,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616145879
+        }
+      }
+    },
+    {
+      "id": "211",
+      "team": "4k3l4rr3",
+      "pos": 204,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146097
+        }
+      }
+    },
+    {
+      "id": "94",
+      "team": "HackForce",
+      "pos": 205,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146277
+        }
+      }
+    },
+    {
+      "id": "68",
+      "team": "mighty duck",
+      "pos": 206,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146370
+        }
+      }
+    },
+    {
+      "id": "38",
+      "team": "0ra",
+      "pos": 207,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146402
+        }
+      }
+    },
+    {
+      "id": "272",
+      "team": "Xix",
+      "pos": 208,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146422
+        }
+      }
+    },
+    {
+      "id": "128",
+      "team": "m4genta",
+      "pos": 209,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616146850
+        }
+      }
+    },
+    {
+      "id": "293",
+      "team": "OverDover",
+      "pos": 210,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616147018
+        }
+      }
+    },
+    {
+      "id": "202",
+      "team": "Groove",
+      "pos": 211,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616147080
+        }
+      }
+    },
+    {
+      "id": "77",
+      "team": "Sunnies Club",
+      "pos": 212,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616147143
+        }
+      }
+    },
+    {
+      "id": "150",
+      "team": "sp4nk3rs",
+      "pos": 213,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616147567
+        }
+      }
+    },
+    {
+      "id": "28",
+      "team": "Mini0n$",
+      "pos": 214,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616148764
+        }
+      }
+    },
+    {
+      "id": "363",
+      "team": "Itsx4CC",
+      "pos": 215,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616149352
+        }
+      }
+    },
+    {
+      "id": "359",
+      "team": "potatoborn",
+      "pos": 216,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616149571
+        }
+      }
+    },
+    {
+      "id": "155",
+      "team": "Ethan Moore",
+      "pos": 217,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616150103
+        }
+      }
+    },
+    {
+      "id": "370",
+      "team": "Terminally Online",
+      "pos": 218,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616150192
+        }
+      }
+    },
+    {
+      "id": "357",
+      "team": "afonseca",
+      "pos": 219,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616150242
+        }
+      }
+    },
+    {
+      "id": "367",
+      "team": "SN",
+      "pos": 220,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616150355
+        }
+      }
+    },
+    {
+      "id": "372",
+      "team": "n00b",
+      "pos": 221,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616150530
+        }
+      }
+    },
+    {
+      "id": "240",
+      "team": "Sl3mmet",
+      "pos": 222,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616151869
+        }
+      }
+    },
+    {
+      "id": "266",
+      "team": "Blue_HENS",
+      "pos": 223,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616152234
+        }
+      }
+    },
+    {
+      "id": "379",
+      "team": "sorvast",
+      "pos": 224,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616152350
+        }
+      }
+    },
+    {
+      "id": "23",
+      "team": "Hockey123",
+      "pos": 225,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616152613
+        }
+      }
+    },
+    {
+      "id": "286",
+      "team": "newb#101",
+      "pos": 226,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616153040
+        }
+      }
+    },
+    {
+      "id": "380",
+      "team": "romir_patel",
+      "pos": 227,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616153181
+        }
+      }
+    },
+    {
+      "id": "208",
+      "team": "BackMoon",
+      "pos": 228,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616153270
+        }
+      }
+    },
+    {
+      "id": "90",
+      "team": "hoo$tr0ng",
+      "pos": 229,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616153315
+        }
+      }
+    },
+    {
+      "id": "253",
+      "team": "ro0tex",
+      "pos": 230,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616153455
+        }
+      }
+    },
+    {
+      "id": "391",
+      "team": "3CL1P$3",
+      "pos": 231,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616154594
+        }
+      }
+    },
+    {
+      "id": "298",
+      "team": "Let's rage to the moon",
+      "pos": 232,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616154941
+        }
+      }
+    },
+    {
+      "id": "393",
+      "team": "Krachwumente",
+      "pos": 233,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616155727
+        }
+      }
+    },
+    {
+      "id": "129",
+      "team": "h4kjam04",
+      "pos": 234,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616155857
+        }
+      }
+    },
+    {
+      "id": "229",
+      "team": "Kuality",
+      "pos": 235,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616157115
+        }
+      }
+    },
+    {
+      "id": "190",
+      "team": "nurga",
+      "pos": 236,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616157898
+        }
+      }
+    },
+    {
+      "id": "273",
+      "team": "h4ck7u5",
+      "pos": 237,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616157905
+        }
+      }
+    },
+    {
+      "id": "195",
+      "team": "GOLFBALLZBYTHESEA",
+      "pos": 238,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616158038
+        }
+      }
+    },
+    {
+      "id": "120",
+      "team": "stankc",
+      "pos": 239,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616159057
+        }
+      }
+    },
+    {
+      "id": "300",
+      "team": "korujaceyz",
+      "pos": 240,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616159296
+        }
+      }
+    },
+    {
+      "id": "119",
+      "team": "exntrc",
+      "pos": 241,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616159525
+        }
+      }
+    },
+    {
+      "id": "403",
+      "team": "EagleEye",
+      "pos": 242,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616159692
+        }
+      }
+    },
+    {
+      "id": "409",
+      "team": "DI",
+      "pos": 243,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616160397
+        }
+      }
+    },
+    {
+      "id": "407",
+      "team": "LNJ",
+      "pos": 244,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616160680
+        }
+      }
+    },
+    {
+      "id": "411",
+      "team": "TheZakMan",
+      "pos": 245,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616160758
+        }
+      }
+    },
+    {
+      "id": "165",
+      "team": "W4t4sh1N0T34m",
+      "pos": 246,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616161804
+        }
+      }
+    },
+    {
+      "id": "140",
+      "team": "AMAZONE",
+      "pos": 247,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616163900
+        }
+      }
+    },
+    {
+      "id": "25",
+      "team": "OutrunOutlast",
+      "pos": 248,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616164806
+        }
+      }
+    },
+    {
+      "id": "219",
+      "team": "ChoucrouteFTW",
+      "pos": 249,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616165093
+        }
+      }
+    },
+    {
+      "id": "223",
+      "team": "NVMind",
+      "pos": 250,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616165253
+        }
+      }
+    },
+    {
+      "id": "247",
+      "team": "KapiSec",
+      "pos": 251,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616167539
+        }
+      }
+    },
+    {
+      "id": "433",
+      "team": "hilllxx1",
+      "pos": 252,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616167642
+        }
+      }
+    },
+    {
+      "id": "435",
+      "team": "Parrot Party",
+      "pos": 253,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616167796
+        }
+      }
+    },
+    {
+      "id": "218",
+      "team": "c1rc3",
+      "pos": 254,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616167953
+        }
+      }
+    },
+    {
+      "id": "436",
+      "team": "polarity_express",
+      "pos": 255,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616168622
+        }
+      }
+    },
+    {
+      "id": "438",
+      "team": "noone...",
+      "pos": 256,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616168862
+        }
+      }
+    },
+    {
+      "id": "408",
+      "team": "Turing - ITBA",
+      "pos": 257,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616169428
+        }
+      }
+    },
+    {
+      "id": "446",
+      "team": "Lights of Pineapples",
+      "pos": 258,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616170216
+        }
+      }
+    },
+    {
+      "id": "74",
+      "team": "GanSw",
+      "pos": 259,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616170984
+        }
+      }
+    },
+    {
+      "id": "448",
+      "team": "k3rb3r0s_disk",
+      "pos": 260,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616171263
+        }
+      }
+    },
+    {
+      "id": "450",
+      "team": "fr1t0",
+      "pos": 261,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616171617
+        }
+      }
+    },
+    {
+      "id": "237",
+      "team": "MQCybersec",
+      "pos": 262,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616173167
+        }
+      }
+    },
+    {
+      "id": "270",
+      "team": "Hashbrowns",
+      "pos": 263,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616174375
+        }
+      }
+    },
+    {
+      "id": "460",
+      "team": "cute cat cult",
+      "pos": 264,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616174526
+        }
+      }
+    },
+    {
+      "id": "72",
+      "team": "Antivirus",
+      "pos": 265,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616177171
+        }
+      }
+    },
+    {
+      "id": "114",
+      "team": "f@tst@cks",
+      "pos": 266,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616178385
+        }
+      }
+    },
+    {
+      "id": "473",
+      "team": "Crib_Warrior",
+      "pos": 267,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616178718
+        }
+      }
+    },
+    {
+      "id": "261",
+      "team": "BlackLion",
+      "pos": 268,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616178921
+        }
+      }
+    },
+    {
+      "id": "49",
+      "team": "test12358",
+      "pos": 269,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616178958
+        }
+      }
+    },
+    {
+      "id": "200",
+      "team": "Sinn3rB0y5",
+      "pos": 270,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616179170
+        }
+      }
+    },
+    {
+      "id": "292",
+      "team": "L0g!c B0mb",
+      "pos": 271,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616181121
+        }
+      }
+    },
+    {
+      "id": "478",
+      "team": "hamayanhamayan",
+      "pos": 272,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616181152
+        }
+      }
+    },
+    {
+      "id": "480",
+      "team": "N0Named",
+      "pos": 273,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616182951
+        }
+      }
+    },
+    {
+      "id": "97",
+      "team": "FAANGUPTA",
+      "pos": 274,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616183310
+        }
+      }
+    },
+    {
+      "id": "490",
+      "team": "r4t5_",
+      "pos": 275,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616184768
+        }
+      }
+    },
+    {
+      "id": "92",
+      "team": "karipap",
+      "pos": 276,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616185605
+        }
+      }
+    },
+    {
+      "id": "78",
+      "team": "pop86",
+      "pos": 277,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616185904
+        }
+      }
+    },
+    {
+      "id": "60",
+      "team": "h0lysh1t",
+      "pos": 278,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616189355
+        }
+      }
+    },
+    {
+      "id": "484",
+      "team": "NO PWN NO FUN",
+      "pos": 279,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616189505
+        }
+      }
+    },
+    {
+      "id": "466",
+      "team": "Cr0nu3",
+      "pos": 280,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616190490
+        }
+      }
+    },
+    {
+      "id": "507",
+      "team": "soloJo",
+      "pos": 281,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616191181
+        }
+      }
+    },
+    {
+      "id": "515",
+      "team": "CTFkids",
+      "pos": 282,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616193662
+        }
+      }
+    },
+    {
+      "id": "264",
+      "team": "incident-f0x",
+      "pos": 283,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616194293
+        }
+      }
+    },
+    {
+      "id": "531",
+      "team": "free",
+      "pos": 284,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616198797
+        }
+      }
+    },
+    {
+      "id": "521",
+      "team": "abcdef",
+      "pos": 285,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616199499
+        }
+      }
+    },
+    {
+      "id": "535",
+      "team": "0ldd4ve@protonmail.com",
+      "pos": 286,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616199643
+        }
+      }
+    },
+    {
+      "id": "239",
+      "team": "Deadshot",
+      "pos": 287,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616200149
+        }
+      }
+    },
+    {
+      "id": "520",
+      "team": "Kafang",
+      "pos": 288,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616200822
+        }
+      }
+    },
+    {
+      "id": "157",
+      "team": "Gpierro31",
+      "pos": 289,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616201423
+        }
+      }
+    },
+    {
+      "id": "420",
+      "team": "0x90r00t",
+      "pos": 290,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616202505
+        }
+      }
+    },
+    {
+      "id": "539",
+      "team": "PeasantBlood",
+      "pos": 291,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616203078
+        }
+      }
+    },
+    {
+      "id": "389",
+      "team": "CTF{Runn3rs}",
+      "pos": 292,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616203380
+        }
+      }
+    },
+    {
+      "id": "131",
+      "team": "tf&test",
+      "pos": 293,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616204026
+        }
+      }
+    },
+    {
+      "id": "555",
+      "team": "mnkz",
+      "pos": 294,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616205239
+        }
+      }
+    },
+    {
+      "id": "284",
+      "team": "Unitatis",
+      "pos": 295,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616205758
+        }
+      }
+    },
+    {
+      "id": "30",
+      "team": "Peekyboo",
+      "pos": 296,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616214196
+        }
+      }
+    },
+    {
+      "id": "69",
+      "team": "army_of_one",
+      "pos": 297,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616214786
+        }
+      }
+    },
+    {
+      "id": "591",
+      "team": "League of Shadows",
+      "pos": 298,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616216230
+        }
+      }
+    },
+    {
+      "id": "602",
+      "team": "break_the_code",
+      "pos": 299,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616217642
+        }
+      }
+    },
+    {
+      "id": "15",
+      "team": "Cyber Wildcats",
+      "pos": 300,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616219806
+        }
+      }
+    },
+    {
+      "id": "606",
+      "team": "HomeAlone",
+      "pos": 301,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616220022
+        }
+      }
+    },
+    {
+      "id": "611",
+      "team": "cooperra",
+      "pos": 302,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616220151
+        }
+      }
+    },
+    {
+      "id": "245",
+      "team": "nek0n0mic0n",
+      "pos": 303,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616222110
+        }
+      }
+    },
+    {
+      "id": "620",
+      "team": "FeldMaresciallo",
+      "pos": 304,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616223058
+        }
+      }
+    },
+    {
+      "id": "615",
+      "team": "crackers",
+      "pos": 305,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616223128
+        }
+      }
+    },
+    {
+      "id": "259",
+      "team": "Republic of Gamers",
+      "pos": 306,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616223620
+        }
+      }
+    },
+    {
+      "id": "102",
+      "team": "apostle's group",
+      "pos": 307,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616224688
+        }
+      }
+    },
+    {
+      "id": "637",
+      "team": "Granny Got Gains",
+      "pos": 308,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616229834
+        }
+      }
+    },
+    {
+      "id": "640",
+      "team": "Kim",
+      "pos": 309,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616231019
+        }
+      }
+    },
+    {
+      "id": "647",
+      "team": "s0o0b2",
+      "pos": 310,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616234682
+        }
+      }
+    },
+    {
+      "id": "617",
+      "team": "Miscellaneous",
+      "pos": 311,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616236301
+        }
+      }
+    },
+    {
+      "id": "321",
+      "team": "Pok1",
+      "pos": 312,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616237782
+        }
+      }
+    },
+    {
+      "id": "662",
+      "team": "th3c0rt3x",
+      "pos": 313,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616241574
+        }
+      }
+    },
+    {
+      "id": "664",
+      "team": "aguascalientes",
+      "pos": 314,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616243238
+        }
+      }
+    },
+    {
+      "id": "667",
+      "team": "m4lw4r3",
+      "pos": 315,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616244550
+        }
+      }
+    },
+    {
+      "id": "668",
+      "team": "Cheese Firewall",
+      "pos": 316,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616245954
+        }
+      }
+    },
+    {
+      "id": "527",
+      "team": "r00ts",
+      "pos": 317,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616268808
+        }
+      }
+    },
+    {
+      "id": "683",
+      "team": "11BinaryBishops",
+      "pos": 318,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616271011
+        }
+      }
+    },
+    {
+      "id": "147",
+      "team": "L0G1C",
+      "pos": 319,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616273898
+        }
+      }
+    },
+    {
+      "id": "688",
+      "team": "irNoobs",
+      "pos": 320,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616273966
+        }
+      }
+    },
+    {
+      "id": "690",
+      "team": "c1p@rr",
+      "pos": 321,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616275910
+        }
+      }
+    },
+    {
+      "id": "698",
+      "team": "solopart",
+      "pos": 322,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616286327
+        }
+      }
+    },
+    {
+      "id": "712",
+      "team": "21212121",
+      "pos": 323,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616298725
+        }
+      }
+    },
+    {
+      "id": "689",
+      "team": "Empty",
+      "pos": 324,
+      "score": 5,
+      "taskStats": {
+        "Welcome to UDCTF": {
+          "points": "5",
+          "time": 1616303514
+        }
+      }
+    }
+  ],
+  "date": 1616166000,
+  "name": "BlueHens CTF 2021"
+}
