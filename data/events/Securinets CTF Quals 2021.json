@@ -1,0 +1,4861 @@
+{
+  "tasks": [
+    "Shilaformi",
+    "Special",
+    "Warmup",
+    "Welcome",
+    "RUN!",
+    "w3f",
+    "death note",
+    "Hack The Empire",
+    "Mixed",
+    "KarDi Bee X",
+    "kill shot",
+    "MiTM Revenge",
+    "success",
+    "What App is on Fire?",
+    "Bypass TheEmperor's guards",
+    "Sign it!",
+    "membership management",
+    "YAY",
+    "Little Baby Rev",
+    "MiTM",
+    "Exfiltration"
+  ],
+  "standings": [
+    {
+      "id": "1592",
+      "team": "Super Guesser",
+      "pos": 1,
+      "score": 16184,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227573
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616227870
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229056
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616229883
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616231264
+        },
+        "KarDi Bee X": {
+          "points": "988",
+          "time": 1616245619
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616248353
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616257535
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616257962
+        },
+        "success": {
+          "points": "957",
+          "time": 1616260178
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616261560
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616263327
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616267639
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616270291
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616270538
+        },
+        "membership management": {
+          "points": "988",
+          "time": 1616274619
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616279825
+        },
+        "w3f": {
+          "points": "995",
+          "time": 1616284827
+        },
+        "YAY": {
+          "points": "988",
+          "time": 1616286455
+        },
+        "Mixed": {
+          "points": "1000",
+          "time": 1616291082
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616291249
+        }
+      }
+    },
+    {
+      "id": "1650",
+      "team": "bi0s",
+      "pos": 2,
+      "score": 14189,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227251
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616228416
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616230255
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616234656
+        },
+        "membership management": {
+          "points": "988",
+          "time": 1616235232
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616235709
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616237858
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616248370
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616266528
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616268561
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616277917
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616278471
+        },
+        "success": {
+          "points": "957",
+          "time": 1616278785
+        },
+        "KarDi Bee X": {
+          "points": "988",
+          "time": 1616286533
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616289373
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616291243
+        },
+        "YAY": {
+          "points": "988",
+          "time": 1616292060
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616295425
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616298363
+        }
+      }
+    },
+    {
+      "id": "1788",
+      "team": "greunion",
+      "pos": 3,
+      "score": 13429,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227263
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616233342
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616236984
+        },
+        "KarDi Bee X": {
+          "points": "988",
+          "time": 1616238091
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616243181
+        },
+        "w3f": {
+          "points": "995",
+          "time": 1616244677
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616246380
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616246491
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616249996
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616258184
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616260016
+        },
+        "YAY": {
+          "points": "988",
+          "time": 1616265002
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616267120
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616271845
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616275916
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616300545
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616304985
+        },
+        "Mixed": {
+          "points": "1000",
+          "time": 1616311095
+        }
+      }
+    },
+    {
+      "id": "2015",
+      "team": "zer0pts",
+      "pos": 4,
+      "score": 12213,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616258436
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616260638
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616261508
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616262894
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616263541
+        },
+        "success": {
+          "points": "957",
+          "time": 1616266016
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616267238
+        },
+        "membership management": {
+          "points": "988",
+          "time": 1616269502
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616270919
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616271331
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616272363
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616276085
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616278894
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616284535
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616286766
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616301070
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616310014
+        }
+      }
+    },
+    {
+      "id": "1836",
+      "team": "ARESx",
+      "pos": 5,
+      "score": 10463,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227562
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616232561
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616234100
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616234438
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616237899
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616242607
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616245180
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616253733
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616268238
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616289082
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616292142
+        },
+        "membership management": {
+          "points": "988",
+          "time": 1616303409
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616304581
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616304733
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616306107
+        }
+      }
+    },
+    {
+      "id": "1683",
+      "team": "Fword",
+      "pos": 6,
+      "score": 10454,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227574
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229074
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616229157
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616229263
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616231502
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616238918
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616240412
+        },
+        "KarDi Bee X": {
+          "points": "988",
+          "time": 1616243630
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616257991
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616284285
+        },
+        "YAY": {
+          "points": "988",
+          "time": 1616295527
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616298954
+        },
+        "w3f": {
+          "points": "995",
+          "time": 1616302536
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616307783
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616312505
+        }
+      }
+    },
+    {
+      "id": "1869",
+      "team": "YABALGUYS",
+      "pos": 7,
+      "score": 9355,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227701
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616227878
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616232727
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616240760
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616262929
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616265915
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616268452
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616277934
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616279431
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616287892
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616292145
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616295285
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616303142
+        },
+        "success": {
+          "points": "957",
+          "time": 1616305813
+        }
+      }
+    },
+    {
+      "id": "1848",
+      "team": "The Flat Network Society",
+      "pos": 8,
+      "score": 9214,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616228016
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616228284
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616235957
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616239626
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616242248
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616250617
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616253759
+        },
+        "YAY": {
+          "points": "988",
+          "time": 1616255627
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616259381
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616266530
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616302274
+        },
+        "membership management": {
+          "points": "988",
+          "time": 1616312380
+        },
+        "success": {
+          "points": "957",
+          "time": 1616313504
+        }
+      }
+    },
+    {
+      "id": "2050",
+      "team": "AmpunBangJago",
+      "pos": 9,
+      "score": 9034,
+      "taskStats": {
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616272704
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616272744
+        },
+        "KarDi Bee X": {
+          "points": "988",
+          "time": 1616272825
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616272882
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616272934
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616275532
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616278349
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616283488
+        },
+        "success": {
+          "points": "957",
+          "time": 1616301971
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616304874
+        },
+        "w3f": {
+          "points": "995",
+          "time": 1616306896
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616306985
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616311309
+        }
+      }
+    },
+    {
+      "id": "1784",
+      "team": "zh3r0",
+      "pos": 10,
+      "score": 8886,
+      "taskStats": {
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616246006
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616246285
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616250969
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616252878
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616273390
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616275574
+        },
+        "membership management": {
+          "points": "988",
+          "time": 1616275765
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616278846
+        },
+        "success": {
+          "points": "957",
+          "time": 1616291040
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616297687
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616300009
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616310888
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616313327
+        }
+      }
+    },
+    {
+      "id": "1577",
+      "team": "WreckTheLine",
+      "pos": 11,
+      "score": 8379,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227258
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616227660
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616227901
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616229713
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616230812
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616233023
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616234790
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616238021
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616243264
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616244580
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616281940
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616297075
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616298414
+        }
+      }
+    },
+    {
+      "id": "1596",
+      "team": "AntiBuddies",
+      "pos": 12,
+      "score": 7558,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228056
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229160
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616243030
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616243350
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616245295
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616247501
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616248715
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616258383
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616278141
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616299933
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616305288
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616309526
+        }
+      }
+    },
+    {
+      "id": "1607",
+      "team": "Maple Bacon",
+      "pos": 13,
+      "score": 7449,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616234072
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616243321
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616249537
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616251350
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616257318
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616258695
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616261306
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616282754
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616289419
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616295290
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616298806
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616310272
+        }
+      }
+    },
+    {
+      "id": "1862",
+      "team": "Sentry Whale",
+      "pos": 14,
+      "score": 7238,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227541
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229041
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616230200
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616233346
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616234332
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616250726
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616302809
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616303287
+        },
+        "KarDi Bee X": {
+          "points": "988",
+          "time": 1616308113
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616308978
+        },
+        "success": {
+          "points": "957",
+          "time": 1616309405
+        }
+      }
+    },
+    {
+      "id": "1570",
+      "team": "Defenit",
+      "pos": 15,
+      "score": 6197,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616258738
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616273361
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616275544
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616279720
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616292482
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616296239
+        },
+        "w3f": {
+          "points": "995",
+          "time": 1616299471
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616307244
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616311055
+        },
+        "success": {
+          "points": "957",
+          "time": 1616311927
+        }
+      }
+    },
+    {
+      "id": "1921",
+      "team": "Black Bauhinia",
+      "pos": 16,
+      "score": 5731,
+      "taskStats": {
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616235480
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616235484
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616235495
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616235716
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616243059
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616245310
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616268493
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616271093
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616292191
+        }
+      }
+    },
+    {
+      "id": "1805",
+      "team": "warlockrootx",
+      "pos": 17,
+      "score": 5495,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229211
+        },
+        "KarDi Bee X": {
+          "points": "988",
+          "time": 1616235462
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616239528
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616251470
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616272265
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616286325
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616301614
+        },
+        "YAY": {
+          "points": "988",
+          "time": 1616308692
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616312685
+        }
+      }
+    },
+    {
+      "id": "1561",
+      "team": "PortSwingers",
+      "pos": 18,
+      "score": 5125,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227715
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616233552
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616250006
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616294499
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616306337
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616306599
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616309439
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616309497
+        }
+      }
+    },
+    {
+      "id": "1598",
+      "team": "K3RN3L4RMY",
+      "pos": 19,
+      "score": 5008,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227253
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229216
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616238913
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616246222
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616257787
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616296092
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616304082
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616304583
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616311913
+        }
+      }
+    },
+    {
+      "id": "1682",
+      "team": "LES NERDS",
+      "pos": 20,
+      "score": 4835,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227511
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616238027
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616243899
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616258127
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616267271
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616267946
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616302839
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616309784
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616312807
+        }
+      }
+    },
+    {
+      "id": "2040",
+      "team": "x6C6F747573",
+      "pos": 21,
+      "score": 4163,
+      "taskStats": {
+        "MiTM": {
+          "points": "559",
+          "time": 1616268762
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616270630
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616274489
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616276321
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616279297
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616279426
+        }
+      }
+    },
+    {
+      "id": "1653",
+      "team": "kasiatutej",
+      "pos": 22,
+      "score": 4163,
+      "taskStats": {
+        "Special": {
+          "points": "908",
+          "time": 1616233331
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616237304
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616241743
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616241976
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616297122
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616302960
+        }
+      }
+    },
+    {
+      "id": "1812",
+      "team": "Goburin'",
+      "pos": 23,
+      "score": 3939,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227592
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616232742
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616236674
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616246119
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616284902
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616288196
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616299236
+        }
+      }
+    },
+    {
+      "id": "2011",
+      "team": "LYYL",
+      "pos": 24,
+      "score": 3651,
+      "taskStats": {
+        "kill shot": {
+          "points": "810",
+          "time": 1616260600
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616275885
+        },
+        "membership management": {
+          "points": "988",
+          "time": 1616277973
+        },
+        "success": {
+          "points": "957",
+          "time": 1616287610
+        }
+      }
+    },
+    {
+      "id": "1835",
+      "team": "Sup'Hackers",
+      "pos": 25,
+      "score": 3540,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227226
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616237370
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616241570
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616292002
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616297591
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616298282
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616307576
+        }
+      }
+    },
+    {
+      "id": "1693",
+      "team": "h4tum",
+      "pos": 26,
+      "score": 3313,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229476
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616230360
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616282694
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616289409
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616290030
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616297704
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616307767
+        }
+      }
+    },
+    {
+      "id": "2008",
+      "team": "mikoan",
+      "pos": 27,
+      "score": 3205,
+      "taskStats": {
+        "MiTM": {
+          "points": "559",
+          "time": 1616260436
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616269610
+        },
+        "Shilaformi": {
+          "points": "940",
+          "time": 1616282150
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616289180
+        }
+      }
+    },
+    {
+      "id": "1833",
+      "team": "th3jackers",
+      "pos": 28,
+      "score": 3158,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227645
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616230238
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616234272
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616236869
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616246542
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616246717
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616257673
+        }
+      }
+    },
+    {
+      "id": "1659",
+      "team": "Kalmarunionen",
+      "pos": 29,
+      "score": 3125,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616252042
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616260027
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616262475
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616265273
+        },
+        "Sign it!": {
+          "points": "949",
+          "time": 1616269321
+        }
+      }
+    },
+    {
+      "id": "1751",
+      "team": "TheGoonies",
+      "pos": 30,
+      "score": 2929,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616239241
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616252862
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616275226
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616279684
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616304630
+        },
+        "success": {
+          "points": "957",
+          "time": 1616311379
+        }
+      }
+    },
+    {
+      "id": "1742",
+      "team": "Cyber-Trace",
+      "pos": 31,
+      "score": 2910,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228107
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616231839
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616241950
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616249208
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616294412
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616302221
+        }
+      }
+    },
+    {
+      "id": "1834",
+      "team": "night_is_dark_and_full...",
+      "pos": 32,
+      "score": 2535,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227258
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616239761
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616243602
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616256624
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616261259
+        }
+      }
+    },
+    {
+      "id": "1766",
+      "team": "ret2school",
+      "pos": 33,
+      "score": 2521,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616228621
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616228718
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616234973
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616284133
+        },
+        "YAY": {
+          "points": "988",
+          "time": 1616298849
+        }
+      }
+    },
+    {
+      "id": "1889",
+      "team": "CyberErudites",
+      "pos": 34,
+      "score": 2309,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228464
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229931
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616233595
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616237665
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616306974
+        }
+      }
+    },
+    {
+      "id": "1700",
+      "team": "fearless",
+      "pos": 35,
+      "score": 2182,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228584
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616232092
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616241839
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616250456
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616286692
+        }
+      }
+    },
+    {
+      "id": "1615",
+      "team": "d4rkc0de",
+      "pos": 36,
+      "score": 2050,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616258374
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616261484
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616268995
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616293105
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616297628
+        }
+      }
+    },
+    {
+      "id": "1685",
+      "team": "RIO",
+      "pos": 37,
+      "score": 1996,
+      "taskStats": {
+        "MiTM": {
+          "points": "559",
+          "time": 1616241884
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616242332
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616250087
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616307574
+        }
+      }
+    },
+    {
+      "id": "1668",
+      "team": "DarkArmy",
+      "pos": 38,
+      "score": 1856,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227544
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229087
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616243798
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616298651
+        }
+      }
+    },
+    {
+      "id": "1974",
+      "team": "TourRadar",
+      "pos": 39,
+      "score": 1751,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616241042
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616247582
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616281566
+        }
+      }
+    },
+    {
+      "id": "1725",
+      "team": "RootLee",
+      "pos": 40,
+      "score": 1735,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227695
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229012
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616234726
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616301352
+        }
+      }
+    },
+    {
+      "id": "2060",
+      "team": "thehackerscrew",
+      "pos": 41,
+      "score": 1727,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616278914
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616306790
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616312521
+        }
+      }
+    },
+    {
+      "id": "2035",
+      "team": "20H",
+      "pos": 42,
+      "score": 1706,
+      "taskStats": {
+        "kill shot": {
+          "points": "810",
+          "time": 1616284709
+        },
+        "death note": {
+          "points": "896",
+          "time": 1616289084
+        }
+      }
+    },
+    {
+      "id": "1603",
+      "team": "T35H",
+      "pos": 43,
+      "score": 1589,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227307
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616294859
+        },
+        "Hack The Empire": {
+          "points": "884",
+          "time": 1616305591
+        }
+      }
+    },
+    {
+      "id": "1787",
+      "team": "ISITDTU",
+      "pos": 44,
+      "score": 1544,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227676
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616271262
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616281416
+        },
+        "kill shot": {
+          "points": "810",
+          "time": 1616300869
+        }
+      }
+    },
+    {
+      "id": "1674",
+      "team": "TEAM0001",
+      "pos": 45,
+      "score": 1466,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227735
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616230563
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616252819
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616253901
+        }
+      }
+    },
+    {
+      "id": "1722",
+      "team": "Tsami",
+      "pos": 46,
+      "score": 1396,
+      "taskStats": {
+        "Warmup": {
+          "points": "453",
+          "time": 1616251981
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616301581
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616312357
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616312621
+        }
+      }
+    },
+    {
+      "id": "2016",
+      "team": "skiddies",
+      "pos": 47,
+      "score": 1366,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616257409
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616297296
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616301239
+        }
+      }
+    },
+    {
+      "id": "1732",
+      "team": "N30Z30N",
+      "pos": 48,
+      "score": 1366,
+      "taskStats": {
+        "MiTM": {
+          "points": "559",
+          "time": 1616247233
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616247288
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616301730
+        }
+      }
+    },
+    {
+      "id": "2004",
+      "team": "Sam.ninja",
+      "pos": 49,
+      "score": 1289,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616251649
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616253500
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616260262
+        }
+      }
+    },
+    {
+      "id": "1586",
+      "team": "ruisilva",
+      "pos": 50,
+      "score": 1187,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227541
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616250844
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616255818
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616289720
+        }
+      }
+    },
+    {
+      "id": "1930",
+      "team": "1eq0and1ne0",
+      "pos": 51,
+      "score": 1187,
+      "taskStats": {
+        "Warmup": {
+          "points": "453",
+          "time": 1616232061
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616236361
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616237853
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616311061
+        }
+      }
+    },
+    {
+      "id": "1697",
+      "team": "empty_",
+      "pos": 52,
+      "score": 1162,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227708
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616299871
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616302492
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616313049
+        }
+      }
+    },
+    {
+      "id": "1783",
+      "team": "Reds",
+      "pos": 53,
+      "score": 1087,
+      "taskStats": {
+        "Warmup": {
+          "points": "453",
+          "time": 1616235921
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616236089
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616237273
+        }
+      }
+    },
+    {
+      "id": "1651",
+      "team": "Tkd-Alex",
+      "pos": 54,
+      "score": 1087,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233982
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616238213
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616242717
+        }
+      }
+    },
+    {
+      "id": "1657",
+      "team": "Scavenger Security",
+      "pos": 55,
+      "score": 1080,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227248
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616230800
+        },
+        "RUN!": {
+          "points": "930",
+          "time": 1616264928
+        }
+      }
+    },
+    {
+      "id": "1926",
+      "team": "ntropy",
+      "pos": 56,
+      "score": 1058,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616246265
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616246276
+        },
+        "Special": {
+          "points": "908",
+          "time": 1616306345
+        }
+      }
+    },
+    {
+      "id": "2000",
+      "team": "HackerChai",
+      "pos": 57,
+      "score": 957,
+      "taskStats": {
+        "success": {
+          "points": "957",
+          "time": 1616281047
+        }
+      }
+    },
+    {
+      "id": "2037",
+      "team": "16j",
+      "pos": 58,
+      "score": 896,
+      "taskStats": {
+        "death note": {
+          "points": "896",
+          "time": 1616290598
+        }
+      }
+    },
+    {
+      "id": "1937",
+      "team": "HuntsvilleTechSupport",
+      "pos": 59,
+      "score": 843,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233948
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616262485
+        }
+      }
+    },
+    {
+      "id": "2087",
+      "team": "PTZCTF",
+      "pos": 60,
+      "score": 843,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616292550
+        },
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616294979
+        }
+      }
+    },
+    {
+      "id": "2118",
+      "team": "GetPwndN00b",
+      "pos": 61,
+      "score": 843,
+      "taskStats": {
+        "Exfiltration": {
+          "points": "793",
+          "time": 1616305573
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616305627
+        }
+      }
+    },
+    {
+      "id": "2111",
+      "team": "Wooooiii",
+      "pos": 62,
+      "score": 810,
+      "taskStats": {
+        "kill shot": {
+          "points": "810",
+          "time": 1616303992
+        }
+      }
+    },
+    {
+      "id": "1750",
+      "team": "TMU",
+      "pos": 63,
+      "score": 807,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228344
+        },
+        "MiTM Revenge": {
+          "points": "757",
+          "time": 1616268824
+        }
+      }
+    },
+    {
+      "id": "1648",
+      "team": "Th3_Order_Of_th3_pH0en1x",
+      "pos": 64,
+      "score": 805,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228415
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616240032
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616297854
+        }
+      }
+    },
+    {
+      "id": "1691",
+      "team": "fuomag9",
+      "pos": 65,
+      "score": 805,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616291807
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616292786
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616304683
+        }
+      }
+    },
+    {
+      "id": "1738",
+      "team": "PWr Synt@x Err0r",
+      "pos": 66,
+      "score": 709,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616246027
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616250607
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616301345
+        }
+      }
+    },
+    {
+      "id": "1647",
+      "team": "dummyH",
+      "pos": 67,
+      "score": 705,
+      "taskStats": {
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616256005
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616258490
+        }
+      }
+    },
+    {
+      "id": "1814",
+      "team": "Enigma",
+      "pos": 68,
+      "score": 705,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616249081
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616277294
+        }
+      }
+    },
+    {
+      "id": "1616",
+      "team": "vulnfreak",
+      "pos": 69,
+      "score": 705,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227606
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616282686
+        }
+      }
+    },
+    {
+      "id": "1590",
+      "team": "Antivirus",
+      "pos": 70,
+      "score": 705,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616270837
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616284950
+        }
+      }
+    },
+    {
+      "id": "1789",
+      "team": "beer0cat",
+      "pos": 71,
+      "score": 705,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227757
+        },
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616302233
+        }
+      }
+    },
+    {
+      "id": "1958",
+      "team": "Sitoka",
+      "pos": 72,
+      "score": 655,
+      "taskStats": {
+        "What App is on Fire?": {
+          "points": "655",
+          "time": 1616245609
+        }
+      }
+    },
+    {
+      "id": "1723",
+      "team": "Aatrox",
+      "pos": 73,
+      "score": 634,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230081
+        },
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616236575
+        }
+      }
+    },
+    {
+      "id": "1823",
+      "team": "Casper",
+      "pos": 74,
+      "score": 634,
+      "taskStats": {
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616260810
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616263919
+        }
+      }
+    },
+    {
+      "id": "2058",
+      "team": "Polymero",
+      "pos": 75,
+      "score": 609,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616278122
+        },
+        "MiTM": {
+          "points": "559",
+          "time": 1616290317
+        }
+      }
+    },
+    {
+      "id": "1795",
+      "team": "CYberMouflons",
+      "pos": 76,
+      "score": 603,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227692
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616229250
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616232589
+        }
+      }
+    },
+    {
+      "id": "1755",
+      "team": "skriLL",
+      "pos": 77,
+      "score": 584,
+      "taskStats": {
+        "Bypass TheEmperor's guards": {
+          "points": "584",
+          "time": 1616277916
+        }
+      }
+    },
+    {
+      "id": "1994",
+      "team": "solo399",
+      "pos": 78,
+      "score": 559,
+      "taskStats": {
+        "MiTM": {
+          "points": "559",
+          "time": 1616250778
+        }
+      }
+    },
+    {
+      "id": "2010",
+      "team": "tjade273",
+      "pos": 79,
+      "score": 559,
+      "taskStats": {
+        "MiTM": {
+          "points": "559",
+          "time": 1616255726
+        }
+      }
+    },
+    {
+      "id": "1746",
+      "team": "m1dn8",
+      "pos": 80,
+      "score": 503,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616231737
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616238328
+        }
+      }
+    },
+    {
+      "id": "1660",
+      "team": "0x8Layer",
+      "pos": 81,
+      "score": 503,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227833
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616264718
+        }
+      }
+    },
+    {
+      "id": "1822",
+      "team": "agniblanc225",
+      "pos": 82,
+      "score": 503,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232006
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616300706
+        }
+      }
+    },
+    {
+      "id": "2092",
+      "team": "NicDumZ",
+      "pos": 83,
+      "score": 503,
+      "taskStats": {
+        "Warmup": {
+          "points": "453",
+          "time": 1616301802
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616301860
+        }
+      }
+    },
+    {
+      "id": "1740",
+      "team": "backspace",
+      "pos": 84,
+      "score": 503,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227510
+        },
+        "Warmup": {
+          "points": "453",
+          "time": 1616311107
+        }
+      }
+    },
+    {
+      "id": "2007",
+      "team": "born2scan",
+      "pos": 85,
+      "score": 453,
+      "taskStats": {
+        "Warmup": {
+          "points": "453",
+          "time": 1616255510
+        }
+      }
+    },
+    {
+      "id": "1584",
+      "team": "LSE",
+      "pos": 86,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227254
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616228809
+        }
+      }
+    },
+    {
+      "id": "1879",
+      "team": "1x0x2",
+      "pos": 87,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227848
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229100
+        }
+      }
+    },
+    {
+      "id": "1564",
+      "team": "HsVcs",
+      "pos": 88,
+      "score": 150,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229134
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616229152
+        }
+      }
+    },
+    {
+      "id": "1829",
+      "team": "acdwas",
+      "pos": 89,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228376
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616229442
+        }
+      }
+    },
+    {
+      "id": "1785",
+      "team": "CTF Community",
+      "pos": 90,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227625
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616231561
+        }
+      }
+    },
+    {
+      "id": "1919",
+      "team": "Ba Sing Sec",
+      "pos": 91,
+      "score": 150,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616232391
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616232429
+        }
+      }
+    },
+    {
+      "id": "1864",
+      "team": "irNoobs",
+      "pos": 92,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227331
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616233010
+        }
+      }
+    },
+    {
+      "id": "1991",
+      "team": "onotch",
+      "pos": 93,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616245506
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616246147
+        }
+      }
+    },
+    {
+      "id": "1728",
+      "team": "S3R3N1TY{CTFT}",
+      "pos": 94,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227286
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616256444
+        }
+      }
+    },
+    {
+      "id": "1779",
+      "team": "fr334aks",
+      "pos": 95,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227533
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616273856
+        }
+      }
+    },
+    {
+      "id": "1786",
+      "team": "ByeRose",
+      "pos": 96,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229125
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616280985
+        }
+      }
+    },
+    {
+      "id": "1594",
+      "team": "pattern",
+      "pos": 97,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616282525
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616285744
+        }
+      }
+    },
+    {
+      "id": "1715",
+      "team": "ISwearIGoogledIt",
+      "pos": 98,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616245786
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616287850
+        }
+      }
+    },
+    {
+      "id": "1585",
+      "team": "coldboots",
+      "pos": 99,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228548
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616287896
+        }
+      }
+    },
+    {
+      "id": "1677",
+      "team": "(l00p3r1n0;cat) > fs0c...",
+      "pos": 100,
+      "score": 150,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228261
+        },
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616288441
+        }
+      }
+    },
+    {
+      "id": "2079",
+      "team": "wdnmd",
+      "pos": 101,
+      "score": 150,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616294711
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616295828
+        }
+      }
+    },
+    {
+      "id": "2027",
+      "team": "Weak But Leet",
+      "pos": 102,
+      "score": 150,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616263134
+        },
+        "Welcome": {
+          "points": "50",
+          "time": 1616306287
+        }
+      }
+    },
+    {
+      "id": "1892",
+      "team": "Jgrusko",
+      "pos": 103,
+      "score": 100,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616230655
+        }
+      }
+    },
+    {
+      "id": "1906",
+      "team": "fibonhack",
+      "pos": 104,
+      "score": 100,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616230876
+        }
+      }
+    },
+    {
+      "id": "1949",
+      "team": "team_krabath",
+      "pos": 105,
+      "score": 100,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616236959
+        }
+      }
+    },
+    {
+      "id": "1979",
+      "team": "abhay",
+      "pos": 106,
+      "score": 100,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616244505
+        }
+      }
+    },
+    {
+      "id": "1997",
+      "team": "Bibendi",
+      "pos": 107,
+      "score": 100,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616255373
+        }
+      }
+    },
+    {
+      "id": "1735",
+      "team": "Mail.ru",
+      "pos": 108,
+      "score": 100,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616275199
+        }
+      }
+    },
+    {
+      "id": "2083",
+      "team": "hogefuga",
+      "pos": 109,
+      "score": 100,
+      "taskStats": {
+        "Little Baby Rev": {
+          "points": "100",
+          "time": 1616294386
+        }
+      }
+    },
+    {
+      "id": "1844",
+      "team": "SecuriTN",
+      "pos": 110,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227253
+        }
+      }
+    },
+    {
+      "id": "1665",
+      "team": "Cytex",
+      "pos": 111,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227255
+        }
+      }
+    },
+    {
+      "id": "1625",
+      "team": "stankc",
+      "pos": 112,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227265
+        }
+      }
+    },
+    {
+      "id": "1865",
+      "team": "ClownCrew",
+      "pos": 113,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227280
+        }
+      }
+    },
+    {
+      "id": "1827",
+      "team": "HusSec Un!c0rn",
+      "pos": 114,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227284
+        }
+      }
+    },
+    {
+      "id": "1617",
+      "team": "notaflag{sorry}",
+      "pos": 115,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227290
+        }
+      }
+    },
+    {
+      "id": "1670",
+      "team": "4k3l4rr3",
+      "pos": 116,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227298
+        }
+      }
+    },
+    {
+      "id": "1730",
+      "team": "ajili",
+      "pos": 117,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227300
+        }
+      }
+    },
+    {
+      "id": "1643",
+      "team": "Hellblazer",
+      "pos": 118,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227304
+        }
+      }
+    },
+    {
+      "id": "1711",
+      "team": "kwazy_cupcakes",
+      "pos": 119,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227310
+        }
+      }
+    },
+    {
+      "id": "1853",
+      "team": "bit_by_bit",
+      "pos": 120,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227311
+        }
+      }
+    },
+    {
+      "id": "1593",
+      "team": "apostle's group",
+      "pos": 121,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227311
+        }
+      }
+    },
+    {
+      "id": "1798",
+      "team": "noob-atbash",
+      "pos": 122,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227328
+        }
+      }
+    },
+    {
+      "id": "1863",
+      "team": "BackMoon",
+      "pos": 123,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227329
+        }
+      }
+    },
+    {
+      "id": "1838",
+      "team": "The Sheriff",
+      "pos": 124,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227339
+        }
+      }
+    },
+    {
+      "id": "1832",
+      "team": "ToTheMoon",
+      "pos": 125,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227368
+        }
+      }
+    },
+    {
+      "id": "1815",
+      "team": "IsolatingBeforeItWasCool",
+      "pos": 126,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227512
+        }
+      }
+    },
+    {
+      "id": "1707",
+      "team": "CarpeDien",
+      "pos": 127,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227515
+        }
+      }
+    },
+    {
+      "id": "1799",
+      "team": "Reloaded",
+      "pos": 128,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227528
+        }
+      }
+    },
+    {
+      "id": "1559",
+      "team": "YarTech",
+      "pos": 129,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227552
+        }
+      }
+    },
+    {
+      "id": "1820",
+      "team": "Pengg0damn",
+      "pos": 130,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227555
+        }
+      }
+    },
+    {
+      "id": "1846",
+      "team": "Gromba",
+      "pos": 131,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227563
+        }
+      }
+    },
+    {
+      "id": "1724",
+      "team": "Xenox",
+      "pos": 132,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227607
+        }
+      }
+    },
+    {
+      "id": "1837",
+      "team": "TheHammer",
+      "pos": 133,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227608
+        }
+      }
+    },
+    {
+      "id": "1695",
+      "team": "RDM",
+      "pos": 134,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227610
+        }
+      }
+    },
+    {
+      "id": "1710",
+      "team": "werPl0y",
+      "pos": 135,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227614
+        }
+      }
+    },
+    {
+      "id": "1646",
+      "team": "pwnlab",
+      "pos": 136,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227627
+        }
+      }
+    },
+    {
+      "id": "1761",
+      "team": "obelus",
+      "pos": 137,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227634
+        }
+      }
+    },
+    {
+      "id": "1810",
+      "team": "curveball",
+      "pos": 138,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227638
+        }
+      }
+    },
+    {
+      "id": "1713",
+      "team": "M_HACKER",
+      "pos": 139,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227670
+        }
+      }
+    },
+    {
+      "id": "1703",
+      "team": "Kim",
+      "pos": 140,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227672
+        }
+      }
+    },
+    {
+      "id": "1874",
+      "team": "cybers",
+      "pos": 141,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227707
+        }
+      }
+    },
+    {
+      "id": "1729",
+      "team": "DALANSI",
+      "pos": 142,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227749
+        }
+      }
+    },
+    {
+      "id": "1673",
+      "team": "K0TN",
+      "pos": 143,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227777
+        }
+      }
+    },
+    {
+      "id": "1830",
+      "team": "trtd",
+      "pos": 144,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227827
+        }
+      }
+    },
+    {
+      "id": "1777",
+      "team": "WhatTheFlag",
+      "pos": 145,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227849
+        }
+      }
+    },
+    {
+      "id": "1623",
+      "team": "UnsafeTeam",
+      "pos": 146,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227853
+        }
+      }
+    },
+    {
+      "id": "1872",
+      "team": "hack-me",
+      "pos": 147,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227853
+        }
+      }
+    },
+    {
+      "id": "1734",
+      "team": "Kakaweya",
+      "pos": 148,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616227992
+        }
+      }
+    },
+    {
+      "id": "1802",
+      "team": "SSS",
+      "pos": 149,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228004
+        }
+      }
+    },
+    {
+      "id": "1610",
+      "team": "Terminal Cats",
+      "pos": 150,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228008
+        }
+      }
+    },
+    {
+      "id": "1819",
+      "team": "0xD3AD",
+      "pos": 151,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228018
+        }
+      }
+    },
+    {
+      "id": "1878",
+      "team": "ctfChallenger",
+      "pos": 152,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228023
+        }
+      }
+    },
+    {
+      "id": "1831",
+      "team": "les amigos",
+      "pos": 153,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228040
+        }
+      }
+    },
+    {
+      "id": "1560",
+      "team": "C0ra1",
+      "pos": 154,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228048
+        }
+      }
+    },
+    {
+      "id": "1811",
+      "team": "Deckcard23",
+      "pos": 155,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228057
+        }
+      }
+    },
+    {
+      "id": "1767",
+      "team": "Team_Matrix",
+      "pos": 156,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228120
+        }
+      }
+    },
+    {
+      "id": "1842",
+      "team": "infected.tn",
+      "pos": 157,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228132
+        }
+      }
+    },
+    {
+      "id": "1888",
+      "team": "butt0wsk1",
+      "pos": 158,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228310
+        }
+      }
+    },
+    {
+      "id": "1716",
+      "team": "sadcat",
+      "pos": 159,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228353
+        }
+      }
+    },
+    {
+      "id": "1684",
+      "team": "nec0n0mic0n",
+      "pos": 160,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228360
+        }
+      }
+    },
+    {
+      "id": "1876",
+      "team": "cyberkittens",
+      "pos": 161,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228405
+        }
+      }
+    },
+    {
+      "id": "1622",
+      "team": "nithin",
+      "pos": 162,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228673
+        }
+      }
+    },
+    {
+      "id": "1885",
+      "team": "teapot",
+      "pos": 163,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228698
+        }
+      }
+    },
+    {
+      "id": "1709",
+      "team": "3a_chikha",
+      "pos": 164,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228749
+        }
+      }
+    },
+    {
+      "id": "1857",
+      "team": "Minn0",
+      "pos": 165,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616228823
+        }
+      }
+    },
+    {
+      "id": "1895",
+      "team": "Ouroboros",
+      "pos": 166,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229005
+        }
+      }
+    },
+    {
+      "id": "1792",
+      "team": "shellpwn",
+      "pos": 167,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229188
+        }
+      }
+    },
+    {
+      "id": "1859",
+      "team": "InfoSecIITR",
+      "pos": 168,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229358
+        }
+      }
+    },
+    {
+      "id": "1576",
+      "team": "Asuri",
+      "pos": 169,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229457
+        }
+      }
+    },
+    {
+      "id": "1905",
+      "team": "whitehathacker8181",
+      "pos": 170,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229737
+        }
+      }
+    },
+    {
+      "id": "1718",
+      "team": "7abch9leu_team",
+      "pos": 171,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616229891
+        }
+      }
+    },
+    {
+      "id": "1563",
+      "team": "p1r4t3d",
+      "pos": 172,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230067
+        }
+      }
+    },
+    {
+      "id": "1910",
+      "team": "seed",
+      "pos": 173,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230110
+        }
+      }
+    },
+    {
+      "id": "1909",
+      "team": "destroyers",
+      "pos": 174,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230181
+        }
+      }
+    },
+    {
+      "id": "1604",
+      "team": "3rk1n",
+      "pos": 175,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230261
+        }
+      }
+    },
+    {
+      "id": "1626",
+      "team": "Bristol Hackers",
+      "pos": 176,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230499
+        }
+      }
+    },
+    {
+      "id": "1913",
+      "team": "mahfuz",
+      "pos": 177,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230567
+        }
+      }
+    },
+    {
+      "id": "1793",
+      "team": "Area{51}",
+      "pos": 178,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230595
+        }
+      }
+    },
+    {
+      "id": "1900",
+      "team": "SI_Z43BI",
+      "pos": 179,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230620
+        }
+      }
+    },
+    {
+      "id": "1800",
+      "team": "TSRIAfrica",
+      "pos": 180,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616230894
+        }
+      }
+    },
+    {
+      "id": "1601",
+      "team": "HackForce",
+      "pos": 181,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616231175
+        }
+      }
+    },
+    {
+      "id": "1918",
+      "team": "welovecp",
+      "pos": 182,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616231318
+        }
+      }
+    },
+    {
+      "id": "1706",
+      "team": "SafeBits",
+      "pos": 183,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616231747
+        }
+      }
+    },
+    {
+      "id": "1929",
+      "team": "erikkabir",
+      "pos": 184,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232194
+        }
+      }
+    },
+    {
+      "id": "1931",
+      "team": "beargrylls",
+      "pos": 185,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232369
+        }
+      }
+    },
+    {
+      "id": "1702",
+      "team": "SayebElKorsi",
+      "pos": 186,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232385
+        }
+      }
+    },
+    {
+      "id": "1932",
+      "team": "CTF{Alex}",
+      "pos": 187,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232532
+        }
+      }
+    },
+    {
+      "id": "1698",
+      "team": "VIVA PPQ",
+      "pos": 188,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232590
+        }
+      }
+    },
+    {
+      "id": "1935",
+      "team": "20mars",
+      "pos": 189,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232677
+        }
+      }
+    },
+    {
+      "id": "1763",
+      "team": "Pyrous",
+      "pos": 190,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616232869
+        }
+      }
+    },
+    {
+      "id": "1816",
+      "team": "L'@fter",
+      "pos": 191,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616233123
+        }
+      }
+    },
+    {
+      "id": "1941",
+      "team": "b00t_Error1890",
+      "pos": 192,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616234368
+        }
+      }
+    },
+    {
+      "id": "1605",
+      "team": "Shellphish",
+      "pos": 193,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616234692
+        }
+      }
+    },
+    {
+      "id": "1943",
+      "team": "h4ck7u5",
+      "pos": 194,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235053
+        }
+      }
+    },
+    {
+      "id": "1720",
+      "team": "Fsociety00.bat",
+      "pos": 195,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235194
+        }
+      }
+    },
+    {
+      "id": "1944",
+      "team": "OverDover",
+      "pos": 196,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235259
+        }
+      }
+    },
+    {
+      "id": "1744",
+      "team": "PHhackers",
+      "pos": 197,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235509
+        }
+      }
+    },
+    {
+      "id": "1804",
+      "team": "Omaviat",
+      "pos": 198,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235729
+        }
+      }
+    },
+    {
+      "id": "1808",
+      "team": "Blunkt",
+      "pos": 199,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235847
+        }
+      }
+    },
+    {
+      "id": "1950",
+      "team": "XSS Addicts",
+      "pos": 200,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616235976
+        }
+      }
+    },
+    {
+      "id": "1951",
+      "team": "TopWing",
+      "pos": 201,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616236430
+        }
+      }
+    },
+    {
+      "id": "1581",
+      "team": "Stout Boys",
+      "pos": 202,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616236972
+        }
+      }
+    },
+    {
+      "id": "1791",
+      "team": "Wamm",
+      "pos": 203,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616237088
+        }
+      }
+    },
+    {
+      "id": "1745",
+      "team": "Flagable",
+      "pos": 204,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616237341
+        }
+      }
+    },
+    {
+      "id": "1692",
+      "team": "BoRa9",
+      "pos": 205,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616237895
+        }
+      }
+    },
+    {
+      "id": "1955",
+      "team": "back2b",
+      "pos": 206,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616237896
+        }
+      }
+    },
+    {
+      "id": "1671",
+      "team": "h4ck0c10ck",
+      "pos": 207,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616238192
+        }
+      }
+    },
+    {
+      "id": "1904",
+      "team": "hackDZ",
+      "pos": 208,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616238909
+        }
+      }
+    },
+    {
+      "id": "1965",
+      "team": "N3cr0g1z3r",
+      "pos": 209,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616239027
+        }
+      }
+    },
+    {
+      "id": "1719",
+      "team": "zyto",
+      "pos": 210,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616239451
+        }
+      }
+    },
+    {
+      "id": "1968",
+      "team": "EvilBunnyWrote",
+      "pos": 211,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616239857
+        }
+      }
+    },
+    {
+      "id": "1964",
+      "team": "M2-OX",
+      "pos": 212,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616240307
+        }
+      }
+    },
+    {
+      "id": "1973",
+      "team": "BlackICE Zed",
+      "pos": 213,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616241082
+        }
+      }
+    },
+    {
+      "id": "1977",
+      "team": "KXTI_MAKHUS",
+      "pos": 214,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616241860
+        }
+      }
+    },
+    {
+      "id": "1978",
+      "team": "iAmz3r0Luck",
+      "pos": 215,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616241948
+        }
+      }
+    },
+    {
+      "id": "1897",
+      "team": "d@ti",
+      "pos": 216,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616242206
+        }
+      }
+    },
+    {
+      "id": "1775",
+      "team": "whoami",
+      "pos": 217,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616243666
+        }
+      }
+    },
+    {
+      "id": "1990",
+      "team": "-_-",
+      "pos": 218,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616244714
+        }
+      }
+    },
+    {
+      "id": "1959",
+      "team": "Pionnerz",
+      "pos": 219,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616245859
+        }
+      }
+    },
+    {
+      "id": "1953",
+      "team": "manarouj",
+      "pos": 220,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616247122
+        }
+      }
+    },
+    {
+      "id": "1553",
+      "team": "Mini0n$",
+      "pos": 221,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616249114
+        }
+      }
+    },
+    {
+      "id": "1999",
+      "team": "newb#101",
+      "pos": 222,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616249302
+        }
+      }
+    },
+    {
+      "id": "1754",
+      "team": "noraneco",
+      "pos": 223,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616250725
+        }
+      }
+    },
+    {
+      "id": "2001",
+      "team": "ash3r",
+      "pos": 224,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616251119
+        }
+      }
+    },
+    {
+      "id": "1860",
+      "team": "DreadPirateRoberts",
+      "pos": 225,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616251460
+        }
+      }
+    },
+    {
+      "id": "1737",
+      "team": "Nabil",
+      "pos": 226,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616252856
+        }
+      }
+    },
+    {
+      "id": "1680",
+      "team": "CSUSB",
+      "pos": 227,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616253173
+        }
+      }
+    },
+    {
+      "id": "1575",
+      "team": "fzhshzh",
+      "pos": 228,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616254156
+        }
+      }
+    },
+    {
+      "id": "2013",
+      "team": "b1rds_of_pr3y",
+      "pos": 229,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616254918
+        }
+      }
+    },
+    {
+      "id": "1664",
+      "team": "f_50c13ty",
+      "pos": 230,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616256446
+        }
+      }
+    },
+    {
+      "id": "1572",
+      "team": "T34M1",
+      "pos": 231,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616256580
+        }
+      }
+    },
+    {
+      "id": "1568",
+      "team": "ri5e",
+      "pos": 232,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616257147
+        }
+      }
+    },
+    {
+      "id": "2022",
+      "team": "poigiatre",
+      "pos": 233,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616258768
+        }
+      }
+    },
+    {
+      "id": "2014",
+      "team": "procyon A",
+      "pos": 234,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616258885
+        }
+      }
+    },
+    {
+      "id": "1752",
+      "team": "Hack@Sec",
+      "pos": 235,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616259390
+        }
+      }
+    },
+    {
+      "id": "1621",
+      "team": "dealbreaker",
+      "pos": 236,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616259997
+        }
+      }
+    },
+    {
+      "id": "1773",
+      "team": "Bulldozer",
+      "pos": 237,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616260737
+        }
+      }
+    },
+    {
+      "id": "2029",
+      "team": "D4rk Sid3",
+      "pos": 238,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616261837
+        }
+      }
+    },
+    {
+      "id": "1549",
+      "team": "PrVrTxLL",
+      "pos": 239,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616262132
+        }
+      }
+    },
+    {
+      "id": "1591",
+      "team": "GanSw",
+      "pos": 240,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616264313
+        }
+      }
+    },
+    {
+      "id": "1776",
+      "team": "y4ngyy",
+      "pos": 241,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616265419
+        }
+      }
+    },
+    {
+      "id": "2041",
+      "team": "etherknot",
+      "pos": 242,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616267739
+        }
+      }
+    },
+    {
+      "id": "2039",
+      "team": "BlackLion",
+      "pos": 243,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616267878
+        }
+      }
+    },
+    {
+      "id": "2049",
+      "team": "ikeario",
+      "pos": 244,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616272578
+        }
+      }
+    },
+    {
+      "id": "1633",
+      "team": "Red Knights",
+      "pos": 245,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616272714
+        }
+      }
+    },
+    {
+      "id": "2053",
+      "team": "xrzhev",
+      "pos": 246,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616273165
+        }
+      }
+    },
+    {
+      "id": "2054",
+      "team": "freak",
+      "pos": 247,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616274123
+        }
+      }
+    },
+    {
+      "id": "1611",
+      "team": "c1p@rr",
+      "pos": 248,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616275844
+        }
+      }
+    },
+    {
+      "id": "1567",
+      "team": "Exodus",
+      "pos": 249,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616278750
+        }
+      }
+    },
+    {
+      "id": "2062",
+      "team": "$Dark_Warriors$",
+      "pos": 250,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616279110
+        }
+      }
+    },
+    {
+      "id": "2066",
+      "team": "r4t5_",
+      "pos": 251,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616282379
+        }
+      }
+    },
+    {
+      "id": "2070",
+      "team": "Senko",
+      "pos": 252,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616284349
+        }
+      }
+    },
+    {
+      "id": "2071",
+      "team": "The Cyber Grabs",
+      "pos": 253,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616284837
+        }
+      }
+    },
+    {
+      "id": "2056",
+      "team": "whatactf",
+      "pos": 254,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616285376
+        }
+      }
+    },
+    {
+      "id": "1701",
+      "team": "Slab Allocator",
+      "pos": 255,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616285443
+        }
+      }
+    },
+    {
+      "id": "2074",
+      "team": "s0o0b2",
+      "pos": 256,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616286129
+        }
+      }
+    },
+    {
+      "id": "2080",
+      "team": "Tomato",
+      "pos": 257,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616289542
+        }
+      }
+    },
+    {
+      "id": "2073",
+      "team": "N0Named",
+      "pos": 258,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616289852
+        }
+      }
+    },
+    {
+      "id": "2085",
+      "team": "ITGembel",
+      "pos": 259,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616291785
+        }
+      }
+    },
+    {
+      "id": "1771",
+      "team": "HUn75M4n",
+      "pos": 260,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616292899
+        }
+      }
+    },
+    {
+      "id": "2098",
+      "team": "tttt11",
+      "pos": 261,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616296055
+        }
+      }
+    },
+    {
+      "id": "2038",
+      "team": "NO PWN NO FUN",
+      "pos": 262,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616296175
+        }
+      }
+    },
+    {
+      "id": "2102",
+      "team": "7050",
+      "pos": 263,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616296309
+        }
+      }
+    },
+    {
+      "id": "1821",
+      "team": "Flaggermeister",
+      "pos": 264,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616296381
+        }
+      }
+    },
+    {
+      "id": "2104",
+      "team": "EliteSploit",
+      "pos": 265,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616296787
+        }
+      }
+    },
+    {
+      "id": "2106",
+      "team": "UnDefuse",
+      "pos": 266,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616299189
+        }
+      }
+    },
+    {
+      "id": "2122",
+      "team": "munjur",
+      "pos": 267,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616306917
+        }
+      }
+    },
+    {
+      "id": "1661",
+      "team": "m4dluck",
+      "pos": 268,
+      "score": 50,
+      "taskStats": {
+        "Welcome": {
+          "points": "50",
+          "time": 1616308941
+        }
+      }
+    }
+  ],
+  "date": 1616252400,
+  "name": "Securinets CTF Quals 2021"
+}
