@@ -21,7 +21,7 @@ class LegacyCTFdScraper():
 
         self.mode = 'teams'
         if 'mode' in kwargs:
-            self.mode = kwargs["mode"] # type: str
+            self.mode = kwargs["mode"]  # type: str
 
     def _get(self, path):
         s = requests.Session()
@@ -38,12 +38,22 @@ class LegacyCTFdScraper():
         r = self._get("/scoreboard")
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
+
+        hdr = soup.select("#scoreboard thead th")
+        score_index = -1
+        for i, th in enumerate(hdr):
+            if re.match(r"^score$", th.text, re.IGNORECASE):
+                score_index = i
+                break
+        else:
+            raise ValueError("[-] failed to find score index")
+
         trs = soup.select("#scoreboard tbody tr")
         teams = []
         for tr in trs:
             id = tr.find("a")["href"].split("/")[-1]
             name = tr.find("a").text.strip()
-            score = int(tr.find_all("td")[-1].text)
+            score = int(tr.find_all("td")[score_index].text)
             teams.append({"id": id, "team": name, "pos": len(teams) + 1, "score": score, "taskStats": {}})
         logger.warning("[+] done")
         return teams
@@ -76,7 +86,7 @@ class LegacyCTFdScraper():
         for i in range(len(teams)):
             if i % 10 == 0:
                 time.sleep(0.5)
-                logger.warning("[+] progress: {}/{}".format(i+1, len(teams)))
+                logger.warning("[+] progress: {}/{}".format(i + 1, len(teams)))
 
             solves = self._team_solves(teams[i]["id"])
             tasks.update(solves.keys())
