@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "nuxt": "^2.14.12"
+    "nuxt": "^2.15.3"
   },
   "name": "CTF-ratings",
   "scripts": {
