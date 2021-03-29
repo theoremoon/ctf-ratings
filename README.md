@@ -59,6 +59,7 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - vishwaCTF 2021 (cloudflare protection)
 - BCA CTF 2021 (no scoreserver)
 - White-Hats Break the Syntax CTF (ssl handshake failed)
+- Volga CTF2021 Qualifier (non-scrapable original platform)
 
 ## Author
 
