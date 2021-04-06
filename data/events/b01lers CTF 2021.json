@@ -1,0 +1,3111 @@
+{
+  "standings": [
+    {
+      "pos": 1,
+      "team": "flagbot",
+      "score": 11162,
+      "taskStats": {
+        "RSASSS": null,
+        "Baby double XOR": null,
+        "Unlucky Strike": null,
+        "Cold War Gets Hotter": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "Pyjailgolf 3": null,
+        "Pyjail 4": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "Bars, Windchests, Vocals": null,
+        "NLPeter Rabbit": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "boiledvm": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "scrapyard_scramble": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "polygl0ts",
+      "score": 10663,
+      "taskStats": {
+        "RSASSS": null,
+        "Baby double XOR": null,
+        "Unlucky Strike": null,
+        "Cold War Gets Hotter": null,
+        "Double XOR": null,
+        "Reasonable Security Ahead": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "Pyjailgolf 3": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "Bars, Windchests, Vocals": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "scrapyard_scramble": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "Shellphish",
+      "score": 8179,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "Pyjailgolf 3": null,
+        "Pyjail 4": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "boiledvm": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "scrapyard_scramble": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "Buckeye Bureau of BOF",
+      "score": 8170,
+      "taskStats": {
+        "RSASSS": null,
+        "Unlucky Strike": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Pyjailgolf 3": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "Bars, Windchests, Vocals": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "scrapyard_scramble": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "PFS",
+      "score": 7186,
+      "taskStats": {
+        "RSASSS": null,
+        "Baby double XOR": null,
+        "Unlucky Strike": null,
+        "Reasonable Security Ahead": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "NSNC": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "bi0s",
+      "score": 7178,
+      "taskStats": {
+        "RSASSS": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "boiledvm": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "scrapyard_scramble": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "Maple Bacon",
+      "score": 6684,
+      "taskStats": {
+        "RSASSS": null,
+        "Baby double XOR": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "Bars, Windchests, Vocals": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "1000words": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "SIGPwny",
+      "score": 6223,
+      "taskStats": {
+        "RSASSS": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "Pyjailgolf 3": null,
+        "Pyjail 4": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "Bars, Windchests, Vocals": null,
+        "rooted_v1": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "1000words": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "0nlyFlags",
+      "score": 5218,
+      "taskStats": {
+        "RSASSS": null,
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "scrapyard_scramble": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "FireShell",
+      "score": 5211,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "Pyjailgolf 3": null,
+        "NSNC": null,
+        "Bars, Windchests, Vocals": null,
+        "NLPeter Rabbit": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "TU Delft CTF Team",
+      "score": 5199,
+      "taskStats": {
+        "Cold War Gets Hotter": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Pyjailgolf 3": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "1000words": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "trckster",
+      "score": 4857,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "NSNC": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "scrapyard_scramble": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "zh3r0",
+      "score": 4735,
+      "taskStats": {
+        "RSASSS": null,
+        "Baby double XOR": null,
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "Middleagedheap": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "sln.1550",
+      "score": 4226,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "Stack Canariis",
+      "score": 3306,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "Middleagedheap": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "Robot Mafia",
+      "score": 3305,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "NLPeter Rabbit": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "burner_herz0g",
+      "score": 3303,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "bunnydance": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "score": 3283,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "1000words": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "Glizzycoin",
+      "score": 2823,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Elfcraft": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "pwntera",
+      "score": 2748,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "K3RN3L4RMY",
+      "score": 2596,
+      "taskStats": {
+        "RSASSS": null,
+        "Baby double XOR": null,
+        "Unlucky Strike": null,
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "Venom",
+      "score": 2473,
+      "taskStats": {
+        "NSNC": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "cew",
+      "score": 2467,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "scrapyard_scramble": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "bronson113",
+      "score": 2439,
+      "taskStats": {
+        "Baby double XOR": null,
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "Noparensjail": null,
+        "Pyjailgolf 3": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "HuntsvilleTechSupport",
+      "score": 2407,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "th3jackers",
+      "score": 2342,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "rooted_v1": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "PTZCTF",
+      "score": 2318,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "AntiBuddies",
+      "score": 2247,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "Kza",
+      "score": 2232,
+      "taskStats": {
+        "Elfcraft": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "1000words": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "Ainsetin",
+      "score": 2086,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "d4rkc0de",
+      "score": 1980,
+      "taskStats": {
+        "RSASSS": null,
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "suckstobeus",
+      "score": 1939,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "hackerschool",
+      "score": 1877,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "Elfcraft": null,
+        "Bars, Windchests, Vocals": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "PROtatoes",
+      "score": 1828,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "1sNone",
+      "score": 1728,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "PatanjaliHax",
+      "score": 1722,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "0ne_d1recti0n",
+      "score": 1717,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "Polymero",
+      "score": 1688,
+      "taskStats": {
+        "RSASSS": null,
+        "Baby double XOR": null,
+        "Unlucky Strike": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "0xPolpettOwn",
+      "score": 1664,
+      "taskStats": {
+        "NSNC": null,
+        "Elfcraft": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "bluehens",
+      "score": 1611,
+      "taskStats": {
+        "NSNC": null,
+        "Bars, Windchests, Vocals": null,
+        "NLPeter Rabbit": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "smarmellez",
+      "score": 1553,
+      "taskStats": {
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "fitsec",
+      "score": 1525,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "roulette_wheel": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "RPCA Cyber Club",
+      "score": 1507,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "Terminal Cats",
+      "score": 1453,
+      "taskStats": {
+        "NSNC": null,
+        "swirler": null,
+        "taped": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "da3m0nsl4yer",
+      "score": 1449,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "flag{}_____Orz",
+      "score": 1449,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "Dashu",
+      "score": 1406,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "roulette_wheel": null,
+        "scrapyard_scramble": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "4096",
+      "score": 1389,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "NLPeter Rabbit": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "crumb",
+      "score": 1327,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "obelus",
+      "score": 1231,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "Hypasec",
+      "score": 1212,
+      "taskStats": {
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "hack^3",
+      "score": 1174,
+      "taskStats": {
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "Asura",
+      "score": 1174,
+      "taskStats": {
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "Red Knights ",
+      "score": 1149,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "rooted_v1": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "NicDumZ",
+      "score": 1138,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "dehunters",
+      "score": 1138,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "1337B01S",
+      "score": 1138,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "Firebasky后援团",
+      "score": 1120,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "404-Error",
+      "score": 1108,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "NSNC": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "noraneco",
+      "score": 1091,
+      "taskStats": {
+        "RSASSS": null,
+        "Unlucky Strike": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "ruisilva",
+      "score": 1072,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "Sat3lite",
+      "score": 1066,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "weenie_hut_general": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "ONW Cyber",
+      "score": 1034,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "sixbananas",
+      "score": 1034,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "0xdecafbad ",
+      "score": 1034,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "hooli",
+      "score": 956,
+      "taskStats": {
+        "NSNC": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "n5bt",
+      "score": 956,
+      "taskStats": {
+        "NSNC": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "Hamad",
+      "score": 956,
+      "taskStats": {
+        "NSNC": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "Qui3t0wL",
+      "score": 956,
+      "taskStats": {
+        "NSNC": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "Friendly Hacks",
+      "score": 956,
+      "taskStats": {
+        "NSNC": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "MQCybersec",
+      "score": 948,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "The_Investors",
+      "score": 948,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "S1CT",
+      "score": 920,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "DJ",
+      "score": 920,
+      "taskStats": {
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "OstrichXYZ",
+      "score": 920,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "RhinehartsOysterBar",
+      "score": 920,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "lonixal357",
+      "score": 920,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "ki",
+      "score": 920,
+      "taskStats": {
+        "rooted_v1": null,
+        "rooted_v2": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "AUEHC",
+      "score": 917,
+      "taskStats": {
+        "Cold War Gets Hotter": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "born2scan",
+      "score": 854,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "Antivirus",
+      "score": 854,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "PR1PEN",
+      "score": 854,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "fred",
+      "score": 854,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "TuxTheXplorer",
+      "score": 848,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "irNoobs",
+      "score": 797,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "flagHunters",
+      "score": 797,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "Fword",
+      "score": 759,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "kalidows",
+      "score": 759,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "0xK4ws",
+      "score": 759,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "Area{51}",
+      "score": 759,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "BB",
+      "score": 748,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "Pyjailgolf 2": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "pishcm",
+      "score": 720,
+      "taskStats": {
+        "swirler": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "Charisse",
+      "score": 693,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "clevrcode",
+      "score": 659,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "Debily",
+      "score": 615,
+      "taskStats": {
+        "NSNC": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "mcmayh☰m",
+      "score": 615,
+      "taskStats": {
+        "NSNC": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "lamar_curry",
+      "score": 593,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "weenie_hut_general": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "HereJustForTheReversing",
+      "score": 592,
+      "taskStats": {
+        "1000words": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "exzettabyte",
+      "score": 579,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "scimus_verum",
+      "score": 579,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "brrr",
+      "score": 579,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "hamayanhamayan",
+      "score": 579,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "BlazerKun",
+      "score": 579,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "noob-atbash",
+      "score": 579,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "offsec2021",
+      "score": 579,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "rycbar",
+      "score": 559,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "swirler": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "Abicim",
+      "score": 541,
+      "taskStats": {
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "[n57u]KaziHbI4",
+      "score": 541,
+      "taskStats": {
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "Muzi-T34m",
+      "score": 541,
+      "taskStats": {
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "fLAGers",
+      "score": 541,
+      "taskStats": {
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "MemeTeams",
+      "score": 541,
+      "taskStats": {
+        "swirler": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "LemonPrefect",
+      "score": 515,
+      "taskStats": {
+        "NSNC": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "wuuuuuuuu",
+      "score": 491,
+      "taskStats": {
+        "roulette_wheel": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "jesen",
+      "score": 479,
+      "taskStats": {
+        "sanity": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "byc_404",
+      "score": 479,
+      "taskStats": {
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "HackingByte",
+      "score": 479,
+      "taskStats": {
+        "sanity": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "justice",
+      "score": 479,
+      "taskStats": {
+        "gdpr": null,
+        "lorem_ipsum": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "coldboots",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "0xZ3R0",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "CSSA",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "Aruls",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "skyepodium",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "DeepWater",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "Kraken",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "r4t5_",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "AmTrain",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "Ch3lLIST4",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "daPwn",
+      "score": 475,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "GrüberliOpenCTF",
+      "score": 441,
+      "taskStats": {
+        "swirler": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "RE is my liƒe",
+      "score": 418,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "vulnfreak",
+      "score": 418,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "STeam",
+      "score": 418,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "Cyber Warriors",
+      "score": 418,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "bestbestbest",
+      "score": 418,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "zarbout",
+      "score": 375,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "d@zzling n00bs",
+      "score": 375,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "KapiSec",
+      "score": 375,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "nullptr",
+      "score": 375,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "blin",
+      "score": 375,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "RickRollers",
+      "score": 375,
+      "taskStats": {
+        "Pyjailgolf 1": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "noob",
+      "score": 318,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "PwningJarvis",
+      "score": 318,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "혜나당신딸이에요",
+      "score": 318,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "rast1235",
+      "score": 318,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "Bare Minimum",
+      "score": 318,
+      "taskStats": {
+        "weenie_hut_general": null,
+        "sanity": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "is3ka1",
+      "score": 275,
+      "taskStats": {
+        "Pyjailgolf 1": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "Obama Nation",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "0ryp",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "usernamehere",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "testest",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "aa",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "ri5e",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "Nande Nande",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "x2w",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "or4nge",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "Volcano",
+      "score": 218,
+      "taskStats": {
+        "weenie_hut_general": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "Travis Weir",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": "3abker",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": ".....",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "stankc",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "Onlyfeet CTF",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "daemons_hunters",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "Zam's Team",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "The(403)Fruit",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "Kernel Sanders",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "MUTENET",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "poigiatre",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "pakekoding",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "outOfCheese",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "GUIS",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "$Dark_Warrior$",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "blacViking",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "NO PWN NO FUN",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "genesys",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "Pengg0damn",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "karidesler",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "HACK-WARE",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "h4ck7u5",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "The Cyber Grabs",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "ZK0oL",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "The_Slayers",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "raederwass",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "lx0",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "nithin",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "FCAP",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "Bortecine Sec",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "7RedViolin",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "Akesh",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "Kaisen Army",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "RUserious",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "ash3r",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "NCTOP",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "TahSec",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "Glutton",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "Bornunique911",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "name.rand()",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "Jakom",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "Ajai",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "0x01d5",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "NoTeam",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "Deadlock_Team",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "white-give",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "IsolatingBeforeItWasCool",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "erikkabir",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "karipap",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "CuBocan",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "HEALTH-E",
+      "score": 200,
+      "taskStats": {
+        "sanity": null,
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "TokelauPTB",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "haha_yeah",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "NoTeamName",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "SnowM3n",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "q_",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "4k3l4rr3",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "0x435446",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "CloudMonsters",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": "megalokafes",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "S@n!t!z3r",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "ByteClub",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "ataner",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "hello!",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "TeamCarRamRod",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "GetPwndN00b",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "Asura_Maru",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "theak",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "ZaIPEK",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "SortaLegal",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "XCdawgs",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "fzhshzh",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "Phantester",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "Create;Destroy;Refine ",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "rasta~warlords",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "Team_Matrix",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "An0nym0u$",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "L10n5",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "Boron Throwers",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "HackmeOut",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "ttt",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "DasRealBert",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "K0TN",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "b1rds_of_pr3y",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "0xnoob",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "x-soleral",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "just1ce_le4gu3",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "l0n3w0lf",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "mugi",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "League of Shadows",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "cebaifc",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "GanSw",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "Slow_Hash",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "5ICC53GV",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "Omaviat",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "RKTEAM",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "HACKWARE",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": "ISwearIGoogledIt",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "GetPwned",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "katecef",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "Flaggermeister",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "mikejam",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "NaPoPhe",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "h4ckx0r5",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "The CyberSamurai",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "C0ra1",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "Mini0n$",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "glo12345",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "Slonser",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "loneWolf",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "ciccio",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "<OOO>",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "CapitalZer0",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "tnb",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "EffectRenan",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "3cc334",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "gasslurd",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "SecureMature",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "TheGoonies",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "Hacklabor",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "king",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "AchiPwn",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "Gateway",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "Los Calostros",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "SkellyBG",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "L3o",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "2020",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "1231231321321321321321",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "My4nM4r",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "Misaka",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 287,
+      "team": "nex_noob",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 288,
+      "team": "N0Named",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 289,
+      "team": "Tf&test",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 290,
+      "team": "The Guardian",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 291,
+      "team": "P@Ge2mE",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 292,
+      "team": "XDDDD",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 293,
+      "team": "me2nuk",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 294,
+      "team": "ouillle",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 295,
+      "team": "T414c0m",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 296,
+      "team": "T3chn00",
+      "score": 100,
+      "taskStats": {
+        "gdpr": null
+      }
+    },
+    {
+      "pos": 297,
+      "team": "processing",
+      "score": 100,
+      "taskStats": {
+        "sanity": null
+      }
+    }
+  ],
+  "tasks": [
+    "RSASSS",
+    "Baby double XOR",
+    "Unlucky Strike",
+    "Cold War Gets Hotter",
+    "Double XOR",
+    "Reasonable Security Ahead",
+    "Pyjailgolf 1",
+    "Pyjailgolf 2",
+    "Noparensjail",
+    "Pyjailgolf 3",
+    "Pyjail 4",
+    "NSNC",
+    "Elfcraft",
+    "Bars, Windchests, Vocals",
+    "NLPeter Rabbit",
+    "rooted_v1",
+    "rooted_v2",
+    "bunnydance",
+    "banksy",
+    "Middleagedheap",
+    "boiledvm",
+    "weenie_hut_general",
+    "swirler",
+    "roulette_wheel",
+    "1000words",
+    "scrapyard_scramble",
+    "taped",
+    "sanity",
+    "gdpr",
+    "lorem_ipsum"
+  ],
+  "date": 1617462000,
+  "name": "b01lers CTF 2021"
+}
