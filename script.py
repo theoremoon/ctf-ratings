@@ -2,9 +2,9 @@ import argparse
 import sys
 import json
 from datetime import datetime
-from lib.scraper import BSidesSFScraper, D3CTFScraper, CTFdScraper, LegacyCTFdScraper
+from lib.scraper import BSidesSFScraper, D3CTFScraper, CTFdScraper, LegacyCTFdScraper, CTFxScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper}
 
 def main():
     parser = argparse.ArgumentParser()
@@ -13,6 +13,7 @@ def main():
     parser.add_argument("url")
     parser.add_argument("--platform", default="ctfd")
     parser.add_argument("--session")
+    parser.add_argument("--cookies")
     parser.add_argument("--token")
     parser.add_argument("--mode", default="teams")
 
@@ -21,7 +22,7 @@ def main():
         print("Currently supported platforms are: {}".format(PLATFORMS.keys()), file=sys.stderr)
         quit(1)
 
-    scraper = PLATFORMS[args.platform](args.url, session=args.session, mode=args.mode, token=args.token)
+    scraper = PLATFORMS[args.platform](args.url, session=args.session, mode=args.mode, token=args.token, cookies=args.cookies)
     data = scraper.scoreboard()
     data["date"] = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
     data["name"] = args.name
