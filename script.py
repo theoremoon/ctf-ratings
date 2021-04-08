@@ -2,9 +2,9 @@ import argparse
 import sys
 import json
 from datetime import datetime
-from lib.scraper import BSidesSFScraper, D3CTFScraper, CTFdScraper, LegacyCTFdScraper, CTFxScraper
+from lib.scraper import BSidesSFScraper, D3CTFScraper, CTFdScraper, LegacyCTFdScraper, CTFxScraper, AngstromCTFScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
