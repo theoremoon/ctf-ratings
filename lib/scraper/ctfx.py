@@ -16,7 +16,7 @@ class CTFxScraper():
         self.url = url
         cookies = SimpleCookie()
         if "cookies" in kwargs:
-            cookies.load(kwargs["cookies"]) 
+            cookies.load(kwargs["cookies"])
 
         if "session" in kwargs:
             cookies["login_tokens"] = kwargs["session"]
