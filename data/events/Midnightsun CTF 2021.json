@@ -1,0 +1,3785 @@
+{
+  "standings": [
+    {
+      "pos": 1,
+      "team": "More Smoked Leet Chicken",
+      "score": 5176,
+      "taskStats": {
+        "sanity": null,
+        "Flash Out!": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "twi-light": null,
+        "Flag controller": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "brohammer": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "signalino": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "perfect blue",
+      "score": 4943,
+      "taskStats": {
+        "sanity": null,
+        "Flash Out!": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Flag controller": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "brohammer": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "signalino": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "An Equal Mix",
+      "score": 4063,
+      "taskStats": {
+        "sanity": null,
+        "Flash Out!": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "twi-light": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "brohammer": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "DiceGang",
+      "score": 3549,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Flag controller": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "brohammer": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "signalino": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "bootplug",
+      "score": 3441,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "signalino": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "WreckTheLine",
+      "score": 2969,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "ocat_024": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "uuunderflow",
+      "score": 2813,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "Corrupted pwnis",
+      "score": 2783,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "signalino": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "Kalmarunionen",
+      "score": 2733,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "AlKor",
+      "score": 2585,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "Super Guesser",
+      "score": 2553,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "r00timentary",
+      "score": 2515,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "twi-light": null,
+        "Flag controller": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "oVER9000": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "RedRocket",
+      "score": 2499,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "Dragon Sector",
+      "score": 2307,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "brohammer": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "signalino": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "TRXXX",
+      "score": 2007,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "XxTSJxX",
+      "score": 1926,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "dbcsig_64434": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - dan": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "ID10Ts",
+      "score": 1895,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - craig": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "Bushwhackers",
+      "score": 1850,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "twi-light": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "oVER9000": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "ALLES",
+      "score": 1746,
+      "taskStats": {
+        "sanity": null,
+        "Flash Out!": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "signalino": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "0ops",
+      "score": 1694,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "KTHCTF0x1",
+      "score": 1684,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "dbcsig_64434": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "justCatTheFish",
+      "score": 1680,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Flag controller": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "AntiBuddies",
+      "score": 1531,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "hideandseek": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "The Flat Network Society",
+      "score": 1520,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "watevr",
+      "score": 1436,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "hxp",
+      "score": 1434,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "dbcsig_64434": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "bi0s",
+      "score": 1407,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "Tower of Hanoi",
+      "score": 1401,
+      "taskStats": {
+        "sanity": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "Never Stop Exploiting",
+      "score": 1393,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Shapes": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "Starrust Crusaders",
+      "score": 1319,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "STT",
+      "score": 1297,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "greunion",
+      "score": 1258,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "Shellphish",
+      "score": 1252,
+      "taskStats": {
+        "sanity": null,
+        "dbcsig_64434": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "ret2school",
+      "score": 1250,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "ISITDTU",
+      "score": 1212,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "ARESx",
+      "score": 1103,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "ocat_024": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "TokyoWesterns",
+      "score": 1066,
+      "taskStats": {
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "brohammer": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "upbhack",
+      "score": 1023,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "0nlyFlags",
+      "score": 1006,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "the3000",
+      "score": 998,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "Spotless",
+      "score": 983,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "Hermes",
+      "score": 922,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null,
+        "dbcsig_64434": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "Albany",
+      "score": 888,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "EPT",
+      "score": 868,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "PGiatasti",
+      "score": 860,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "Armia Prezesa",
+      "score": 829,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "h4tum",
+      "score": 822,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "Maple Bacon",
+      "score": 790,
+      "taskStats": {
+        "sanity": null,
+        "Flash Out!": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "LionHack",
+      "score": 768,
+      "taskStats": {
+        "sanity": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "SPRUSH",
+      "score": 767,
+      "taskStats": {
+        "sanity": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "ptm",
+      "score": 745,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "K3RN3L4RMY",
+      "score": 740,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "Team Name BE",
+      "score": 736,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "SaturnX",
+      "score": 734,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "gurkburk": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "zh3r0",
+      "score": 683,
+      "taskStats": {
+        "sanity": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "MailRu",
+      "score": 675,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "oVER9000": null,
+        "labyrevnt": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "Criminals",
+      "score": 644,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "Les Cadets Rouges",
+      "score": 641,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "Polaris",
+      "score": 641,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "KUDoS",
+      "score": 641,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "Ph0t1n1a",
+      "score": 640,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "kr3ts",
+      "score": 638,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "NYUSEC",
+      "score": 627,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "F03v3ryY0ung",
+      "score": 626,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "Balsn",
+      "score": 619,
+      "taskStats": {
+        "sanity": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "gurkburk": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "kthxbye",
+      "score": 619,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "Omegapoint",
+      "score": 619,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "TeamC8",
+      "score": 615,
+      "taskStats": {
+        "sanity": null,
+        "fsociety": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "Vespiary",
+      "score": 612,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "EvilBunnyWrote",
+      "score": 599,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "geanu": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "C4T BuT S4D",
+      "score": 597,
+      "taskStats": {
+        "sanity": null,
+        "blueberry pop": null,
+        "murmur": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "FAUST",
+      "score": 574,
+      "taskStats": {
+        "sanity": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "Dashu",
+      "score": 573,
+      "taskStats": {
+        "sanity": null,
+        "murmur": null,
+        "An ARM ...": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "th3jackers",
+      "score": 567,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "0x01d5",
+      "score": 560,
+      "taskStats": {
+        "sanity": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "tiny baby",
+      "score": 544,
+      "taskStats": {
+        "sanity": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "Sommar2020",
+      "score": 517,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "dcua",
+      "score": 512,
+      "taskStats": {
+        "sanity": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "ChaGU Seniors",
+      "score": 498,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "RPISEC",
+      "score": 481,
+      "taskStats": {
+        "sanity": null,
+        "brohammer": null,
+        "labyrevnt": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "dqi",
+      "score": 460,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "WeAreScientists",
+      "score": 456,
+      "taskStats": {
+        "sanity": null,
+        "geanu": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "Kugelschreiber",
+      "score": 439,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "Avoiding Success",
+      "score": 433,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "Fword",
+      "score": 433,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "labyrevnt": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "MadrHacks",
+      "score": 432,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "Antivirus",
+      "score": 428,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "hideandseek": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "NicDumZ",
+      "score": 424,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "Mayas",
+      "score": 419,
+      "taskStats": {
+        "sanity": null,
+        "Shapes": null,
+        "Corporate MFA": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "LuftensHjaltar",
+      "score": 413,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "lapwn",
+      "score": 404,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "Social Engineering Xperts",
+      "score": 404,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "Bumbodosan",
+      "score": 404,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "TeamAardvark",
+      "score": 385,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "fsociety": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "PFS",
+      "score": 381,
+      "taskStats": {
+        "sanity": null,
+        "fsociety": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "d4rkc0de",
+      "score": 368,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "labyrevnt": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "noraneco",
+      "score": 361,
+      "taskStats": {
+        "sanity": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "g1v3m3chee53",
+      "score": 353,
+      "taskStats": {
+        "sanity": null,
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "IndianTuesday",
+      "score": 339,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "Contrail",
+      "score": 339,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "WannaOne",
+      "score": 339,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "NSVSecurity",
+      "score": 337,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "Team NDA",
+      "score": 333,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - alice": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "3rd string",
+      "score": 333,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - bob": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "VietCongSoldiers",
+      "score": 329,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "murmur": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "flib",
+      "score": 326,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "CyberPhage",
+      "score": 324,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "VsCrew",
+      "score": 311,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "DuckDuckNo",
+      "score": 311,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "tantei3",
+      "score": 303,
+      "taskStats": {
+        "Backup - bob": null,
+        "Backup - alice": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "kasiatutej",
+      "score": 278,
+      "taskStats": {
+        "sanity": null,
+        "ocat_024": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "LosFuzzys",
+      "score": 273,
+      "taskStats": {
+        "sanity": null,
+        "labyrevnt": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "Testausserveri",
+      "score": 244,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "NotSoPros",
+      "score": 242,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "Cybix",
+      "score": 242,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "UdagawaWhiteBears",
+      "score": 240,
+      "taskStats": {
+        "sanity": null,
+        "Backup - bob": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "two lonely samurai",
+      "score": 231,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "Red Knights",
+      "score": 231,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "freedom dive",
+      "score": 231,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "labyrevnt": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "AtBash",
+      "score": 224,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "KMABUCKY",
+      "score": 224,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "backspace",
+      "score": 222,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "Team Steam Stream",
+      "score": 222,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "born2scan",
+      "score": 222,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "TEAM0001",
+      "score": 222,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "Bulba Hackers",
+      "score": 220,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null,
+        "Backup - bob": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "bmtd",
+      "score": 179,
+      "taskStats": {
+        "sanity": null,
+        "Backup - frank": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "Rolling",
+      "score": 173,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "Its4xCC",
+      "score": 173,
+      "taskStats": {
+        "sanity": null,
+        "SoaringDisco": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "MemeTeam",
+      "score": 171,
+      "taskStats": {
+        "sanity": null,
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "ModelActors",
+      "score": 165,
+      "taskStats": {
+        "sanity": null,
+        "murmur": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "Porg Pwn Platoon",
+      "score": 165,
+      "taskStats": {
+        "sanity": null,
+        "murmur": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "p4",
+      "score": 160,
+      "taskStats": {
+        "sanity": null,
+        "labyrevnt": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "TMU",
+      "score": 160,
+      "taskStats": {
+        "sanity": null,
+        "labyrevnt": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "HsVcs",
+      "score": 160,
+      "taskStats": {
+        "sanity": null,
+        "labyrevnt": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "fibonhack",
+      "score": 153,
+      "taskStats": {
+        "sanity": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "meeboo",
+      "score": 153,
+      "taskStats": {
+        "sanity": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "dodododo",
+      "score": 153,
+      "taskStats": {
+        "sanity": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "bluehens",
+      "score": 153,
+      "taskStats": {
+        "sanity": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "archegoszwl",
+      "score": 153,
+      "taskStats": {
+        "sanity": null,
+        "geanu": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "AZ",
+      "score": 151,
+      "taskStats": {
+        "sanity": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "Naked Monkey Club",
+      "score": 151,
+      "taskStats": {
+        "sanity": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "Team Senapsslunga",
+      "score": 151,
+      "taskStats": {
+        "sanity": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "derelict",
+      "score": 151,
+      "taskStats": {
+        "sanity": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "ASZ",
+      "score": 151,
+      "taskStats": {
+        "sanity": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "dealbreaker",
+      "score": 151,
+      "taskStats": {
+        "sanity": null,
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "ESCAL8",
+      "score": 149,
+      "taskStats": {
+        "sanity": null,
+        "Backup - alice": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "r00tcause",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "AchiPwn",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "Lorem Ipsec",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "xtal",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "Bernhard",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "BinaryBears",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "EToolz",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "lolcads",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "hmm",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "BinaryBearsJunior",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": "LES NERDS",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": "weebs4laifu",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "ruisilva",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "HuntsvilleTechSupport",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "xSTF",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "TeamH4C",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "MoonBack",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "mugi",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "Wani Hackase",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "Asuri",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "AmTrain",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "Fak3ctf",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "onotch",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "ri5e",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "Common",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "Prolog4Life",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "sudoScience",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "brrr",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "L00perino",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "Corax",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "RootLee",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "InsertFunnyName",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "room2042",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "fdev1",
+      "score": 129,
+      "taskStats": {
+        "sanity": null,
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "dtuhoang",
+      "score": 113,
+      "taskStats": {
+        "Backup - eve": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "guetsec",
+      "score": 95,
+      "taskStats": {
+        "geanu": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "SCatyt2021",
+      "score": 95,
+      "taskStats": {
+        "geanu": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "AlisaSimps",
+      "score": 93,
+      "taskStats": {
+        "gurkburk": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "byc404",
+      "score": 71,
+      "taskStats": {
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "blabla",
+      "score": 71,
+      "taskStats": {
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "badfirmware",
+      "score": 71,
+      "taskStats": {
+        "Corporate MFA": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "ChaGU Students",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "PallasAthenaCTF",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "CTF Community",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "Kza",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "middaymoon",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "FKb0yzen",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "malmoeware",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "ksociety",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "Loxdal",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "xil",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "Hacker House",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "Kraken",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "NBNL",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "jo31",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "rigamaroo",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "CyberFlamingos",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "TheGoonies",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "negative1",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "SHU",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "MV9rwGOf08",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "Norwegian Defence Cyber Academy",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "burnerherz0g",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "Firebaskyupup",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "Ness",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "Blackjackets",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "WestMecTeam7",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "u3w",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": "0x90r00t",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "sixstars",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "Omaviat",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "PTI",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "TeamMK",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "PwningJarvis",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "IsolatingBeforeItWasCool",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "nublets",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "zeuqix",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "Dev",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "juus0",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "sympki",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "ONIT",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "5 THIEVES",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "Solid",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "WestMecTeam1",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "Dark Dot Defect",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "redtapeCTF",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "PwN3v3rY7h1nG",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "Pan Rex 1337",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "AndayWalaBurger",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "hope",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "coldboots",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "astr1ck",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "uitknk",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "My little pony",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "Flying Pwnicorns",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "Gateway",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "harpoteamteam",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "pwn for Satan",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "ScimusVerum",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "mainframe is gonners pog",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "The Gokstorp 2",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "raederwass",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "mahfuz",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "wlacarbo",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "n00b",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "darkside",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": "SubUrban",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "HusSec Unicorn",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "justiceleague",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "Colony",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "csictf",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "RiSc5",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "4096",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "BackMoon",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "acdwas",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "ntomsic",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "badhacking",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "abhay",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "NMK",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "page2me",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "retr0",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "Stack",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "BetaSecuriteam",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "c0nc0rd4t",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "zfgh4x",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "pic0wn",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "EliteSploit",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "WestMecTeam2",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "GrepLoaders",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "outOfCheese",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "WestMecTeam3",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "pxinxas",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "rustscan",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "Volcano",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "Firebolt",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "NoTeam",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "fob",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "lxf42",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "OctaC0re",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 287,
+      "team": "X1P",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 288,
+      "team": "WestMecTeam8",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 289,
+      "team": "fr4gment",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 290,
+      "team": "internot",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 291,
+      "team": "SSAT",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 292,
+      "team": "Arigato",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 293,
+      "team": "T3K4",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 294,
+      "team": "WestMecTeam5",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 295,
+      "team": "Karatus",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 296,
+      "team": "WestMecTeam6",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 297,
+      "team": "fzhshzh",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 298,
+      "team": "0x325",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 299,
+      "team": "WestMecTeam4",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 300,
+      "team": "K0TN",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 301,
+      "team": "L40B3nD4n",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 302,
+      "team": "IDK",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 303,
+      "team": "NCTOP",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 304,
+      "team": "Phoenix",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 305,
+      "team": "Re123",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 306,
+      "team": "Team Matrix",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 307,
+      "team": "Alabama",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 308,
+      "team": "RJCyber",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 309,
+      "team": "th31nk",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 310,
+      "team": "AgentP",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 311,
+      "team": "Terminal Cats",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 312,
+      "team": "AWD",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 313,
+      "team": "regusabun",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 314,
+      "team": "m4karoni",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 315,
+      "team": "c0wb3ll",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 316,
+      "team": "ctfkiddies",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 317,
+      "team": "Sakerhetskontoret",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 318,
+      "team": "testteam",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 319,
+      "team": "KCSC",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 320,
+      "team": "poigiatre",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 321,
+      "team": "Smurfz",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 322,
+      "team": "L10n5",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 323,
+      "team": "OverDover",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 324,
+      "team": "Cyber Ninja",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 325,
+      "team": "b34v3rs",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 326,
+      "team": "4k3l4rr3",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 327,
+      "team": "Erebor",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 328,
+      "team": "qt",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 329,
+      "team": "Slab Allocator",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 330,
+      "team": "snwo",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 331,
+      "team": "echobash",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 332,
+      "team": "newbie99",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 333,
+      "team": "yu1hpa",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 334,
+      "team": "UyUnderflow",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 335,
+      "team": "ZaIPEK",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 336,
+      "team": "kxtimakhus",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 337,
+      "team": "teamM397",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 338,
+      "team": "Nezu",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 339,
+      "team": "Fatbytes",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 340,
+      "team": "Zzz",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 341,
+      "team": "Kamrater",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 342,
+      "team": "RPCA Cyber Club",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 343,
+      "team": "karipap",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 344,
+      "team": "SecureMature",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 345,
+      "team": "Born2Root",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 346,
+      "team": "MaTim",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 347,
+      "team": "homesarr",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 348,
+      "team": "lost in the rabbit hole",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    },
+    {
+      "pos": 349,
+      "team": "r5",
+      "score": 58,
+      "taskStats": {
+        "sanity": null
+      }
+    }
+  ],
+  "tasks": [
+    "sanity",
+    "Flash Out!",
+    "blueberry pop",
+    "SoaringDisco",
+    "twi-light",
+    "Flag controller",
+    "ocat_024",
+    "dbcsig_64434",
+    "Shapes",
+    "fsociety",
+    "Corporate MFA",
+    "hideandseek",
+    "murmur",
+    "An ARM ...",
+    "brohammer",
+    "oVER9000",
+    "labyrevnt",
+    "gurkburk",
+    "geanu",
+    "signalino",
+    "Backup - bob",
+    "In bits...",
+    "Backup - dan",
+    "Backup - alice",
+    "Backup - eve",
+    "Backup - craig",
+    "Backup - frank"
+  ],
+  "date": 1617980400,
+  "name": "Midnightsun CTF 2021"
+}
