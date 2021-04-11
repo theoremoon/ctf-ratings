@@ -60,6 +60,7 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - BCA CTF 2021 (no scoreserver)
 - White-Hats Break the Syntax CTF (ssl handshake failed)
 - Volga CTF2021 Qualifier (non-scrapable original platform)
+- BSides Canberra CTF 2021 (scoreboard closed already)
 
 ## Author
 
