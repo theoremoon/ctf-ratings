@@ -4,3 +4,4 @@ from lib.scraper.ctfd_legacy import LegacyCTFdScraper
 from lib.scraper.ctfd import CTFdScraper
 from lib.scraper.ctfx import CTFxScraper
 from lib.scraper.angstromctf import AngstromCTFScraper
+from lib.scraper.midnightsun import MidnightsunScraper
