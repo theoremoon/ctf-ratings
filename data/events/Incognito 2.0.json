@@ -1,0 +1,7203 @@
+{
+  "tasks": [
+    "Redbull gives you ...",
+    "Mah Eyes are RED",
+    "Alphanumerals",
+    "Feedback",
+    "Sponsor",
+    "Simple Login",
+    "Chronicle",
+    "Sanity Check",
+    "Voyage",
+    "Astral Plane",
+    "Heads-UP",
+    "Cold VVars",
+    "Access My Contract",
+    "Ez",
+    "Brown Munde!!",
+    "Not Common",
+    "Metamorphosis",
+    "Library",
+    "GameBuzz"
+  ],
+  "standings": [
+    {
+      "team": "0nlyFlags",
+      "pos": 1,
+      "score": 3448,
+      "id": 187,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598344
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599042
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599476
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599679
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618614584
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618615848
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618635917
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618635962
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618639183
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618639727
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618647096
+        },
+        "Cold VVars": {
+          "points": 548,
+          "time": 1618654826
+        },
+        "Chronicle": {
+          "points": 1200,
+          "time": 1618683317
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618685756
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618724184
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618725928
+        }
+      }
+    },
+    {
+      "team": "Sin Cere",
+      "pos": 2,
+      "score": 3428,
+      "id": 185,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598483
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601187
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618601201
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618602266
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618602540
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618604462
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618609193
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618626987
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618640750
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618646046
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618647087
+        },
+        "Cold VVars": {
+          "points": 548,
+          "time": 1618660132
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618684890
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618726643
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618726754
+        },
+        "Chronicle": {
+          "points": 1200,
+          "time": 1618727203
+        }
+      }
+    },
+    {
+      "team": "n0sk1LLju5th4x",
+      "pos": 3,
+      "score": 2878,
+      "id": 74,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598384
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598832
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599043
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618599487
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599804
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618607715
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618608463
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618608574
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618637353
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618638447
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618642058
+        },
+        "Cold VVars": {
+          "points": 548,
+          "time": 1618660729
+        },
+        "Metamorphosis": {
+          "points": 650,
+          "time": 1618687604
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618688222
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618721564
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618727159
+        }
+      }
+    },
+    {
+      "team": "warlock_rootx",
+      "pos": 4,
+      "score": 2612,
+      "id": 27,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598474
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618598525
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602586
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618602625
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618625176
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618644281
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618644514
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618645572
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618645655
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618646038
+        },
+        "Chronicle": {
+          "points": 1200,
+          "time": 1618663150
+        },
+        "Cold VVars": {
+          "points": 548,
+          "time": 1618679624
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618680232
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618725469
+        }
+      }
+    },
+    {
+      "team": "Class3E",
+      "pos": 5,
+      "score": 2387,
+      "id": 66,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598383
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598529
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618598826
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600451
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601952
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618606205
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618607297
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618607559
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618645927
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618646236
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618676757
+        },
+        "Chronicle": {
+          "points": 1200,
+          "time": 1618677471
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618681704
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618682387
+        }
+      }
+    },
+    {
+      "team": "randoms",
+      "pos": 6,
+      "score": 2248,
+      "id": 51,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598339
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598683
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599045
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602197
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618602969
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618603726
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618609237
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618640712
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618644101
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618647660
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618647935
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618680692
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618685113
+        },
+        "Cold VVars": {
+          "points": 548,
+          "time": 1618697210
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618727175
+        }
+      }
+    },
+    {
+      "team": "Kali Billi",
+      "pos": 7,
+      "score": 1755,
+      "id": 261,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598357
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598493
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599067
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618600136
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618604061
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618605933
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618614250
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618615690
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618640867
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618648738
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618664687
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618681271
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618682771
+        },
+        "Cold VVars": {
+          "points": 548,
+          "time": 1618726437
+        }
+      }
+    },
+    {
+      "team": "thisteamhasnoname",
+      "pos": 8,
+      "score": 1680,
+      "id": 87,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598522
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599146
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618602860
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618604353
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618607204
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618607625
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618608098
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618609640
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618613930
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618644007
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618686886
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618696118
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618703357
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618717132
+        }
+      }
+    },
+    {
+      "team": "InfoSecIITR",
+      "pos": 9,
+      "score": 1456,
+      "id": 85,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598627
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599074
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599559
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618600387
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618600406
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618645249
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618647927
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618648476
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618663506
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618692540
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618695531
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618696989
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618725051
+        }
+      }
+    },
+    {
+      "team": "C0nt1n3nt4l",
+      "pos": 10,
+      "score": 1436,
+      "id": 84,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598587
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599046
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599343
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599967
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618600298
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618643639
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618645927
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618646087
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618664723
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618668609
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618682775
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618682995
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618722134
+        }
+      }
+    },
+    {
+      "team": "malmoeware",
+      "pos": 11,
+      "score": 1357,
+      "id": 39,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598560
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600246
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618601264
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601467
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618605387
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618613929
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618614084
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618650538
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618669350
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618671043
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618674386
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618683839
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618692736
+        }
+      }
+    },
+    {
+      "team": "ssh.connect",
+      "pos": 12,
+      "score": 1357,
+      "id": 313,
+      "taskStats": {
+        "Not Common": {
+          "points": 50,
+          "time": 1618601322
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601348
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618601443
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601509
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618612944
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618613298
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618638546
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618671059
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618681654
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618683184
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618687245
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618690620
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618693700
+        }
+      }
+    },
+    {
+      "team": "vulnfreak",
+      "pos": 13,
+      "score": 1307,
+      "id": 386,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618633972
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618634376
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618635152
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618635406
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618639424
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618639773
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618642122
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618651962
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618652245
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618672642
+        },
+        "Cold VVars": {
+          "points": 548,
+          "time": 1618686986
+        }
+      }
+    },
+    {
+      "team": "s0lid4rity",
+      "pos": 14,
+      "score": 1207,
+      "id": 276,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598354
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599274
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618599949
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601596
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601800
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618612623
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618612810
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618616514
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618618677
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618644066
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618656218
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618683772
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618692258
+        }
+      }
+    },
+    {
+      "team": "理性がない",
+      "pos": 15,
+      "score": 1197,
+      "id": 354,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618622326
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618622408
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618623281
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618623381
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618623441
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618623515
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618626801
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618638363
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618640264
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618653262
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618668149
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618669393
+        }
+      }
+    },
+    {
+      "team": "Its4xCC",
+      "pos": 16,
+      "score": 1189,
+      "id": 124,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598343
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600349
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601241
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618610881
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618611294
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618647222
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618647582
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618650119
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618655488
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618688646
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618689030
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618690016
+        }
+      }
+    },
+    {
+      "team": "Incarcecon",
+      "pos": 17,
+      "score": 1187,
+      "id": 135,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598424
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598512
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618598811
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600460
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601494
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618606434
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618607319
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618639295
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618646545
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618647296
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618680400
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618680652
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618689901
+        }
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 18,
+      "score": 1073,
+      "id": 96,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618602321
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618603231
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618603269
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618603324
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618613472
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618647375
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618678750
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618726904
+        }
+      }
+    },
+    {
+      "team": "TheMonkeyCage",
+      "pos": 19,
+      "score": 1017,
+      "id": 203,
+      "taskStats": {
+        "Ez": {
+          "points": 10,
+          "time": 1618616344
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618618169
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618618584
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618620217
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618673792
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618680149
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618699026
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618699301
+        },
+        "Metamorphosis": {
+          "points": 650,
+          "time": 1618711598
+        }
+      }
+    },
+    {
+      "team": "A",
+      "pos": 20,
+      "score": 767,
+      "id": 325,
+      "taskStats": {
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618606914
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618607106
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618607151
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618644654
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618665847
+        }
+      }
+    },
+    {
+      "team": "fLAGers",
+      "pos": 21,
+      "score": 749,
+      "id": 262,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598580
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599139
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618600755
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618600862
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618691501
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618692042
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618695394
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618695547
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618695805
+        }
+      }
+    },
+    {
+      "team": "cyb3rL4b5",
+      "pos": 22,
+      "score": 720,
+      "id": 483,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618674130
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618674288
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618674530
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618676376
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618681126
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618682056
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618682677
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618720775
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618723207
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618726596
+        }
+      }
+    },
+    {
+      "team": "Killer Queen",
+      "pos": 23,
+      "score": 716,
+      "id": 324,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618604545
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618605286
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618605354
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618605857
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618608821
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618608926
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618614942
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618670369
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618672625
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618692806
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618697923
+        }
+      }
+    },
+    {
+      "team": "BIT CRIMINALS",
+      "pos": 24,
+      "score": 700,
+      "id": 480,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618673730
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618673802
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618674037
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618676044
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618676667
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618677228
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618680038
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618680643
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618687120
+        },
+        "Astral Plane": {
+          "points": 343,
+          "time": 1618690221
+        }
+      }
+    },
+    {
+      "team": "CyberSpace",
+      "pos": 25,
+      "score": 696,
+      "id": 403,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618639526
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618639600
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618641024
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618641208
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618641651
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618642271
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618647977
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618651758
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618655796
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618673646
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618705643
+        }
+      }
+    },
+    {
+      "team": "Lonely Drivers",
+      "pos": 26,
+      "score": 695,
+      "id": 177,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599526
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599593
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601276
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601433
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618628066
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618628325
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618640117
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618640217
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618677499
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618684451
+        }
+      }
+    },
+    {
+      "team": "HugsForBugs",
+      "pos": 27,
+      "score": 695,
+      "id": 179,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598334
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598973
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599948
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618605730
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618610114
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618615713
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618640262
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618640314
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618677949
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618687475
+        }
+      }
+    },
+    {
+      "team": "kirito",
+      "pos": 28,
+      "score": 695,
+      "id": 54,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600660
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600739
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618665547
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618668174
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618677523
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618680302
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618690668
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618691125
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618704018
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618719457
+        }
+      }
+    },
+    {
+      "team": "Team C!p#3r",
+      "pos": 29,
+      "score": 695,
+      "id": 2,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598385
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599543
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600997
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618663064
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618679867
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618681489
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618694338
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618723594
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618723758
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618724948
+        }
+      }
+    },
+    {
+      "team": "Z3Ro",
+      "pos": 30,
+      "score": 621,
+      "id": 328,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618606336
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618606418
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618607518
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618610973
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618614258
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618619833
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618673286
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618673808
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618674352
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618690524
+        }
+      }
+    },
+    {
+      "team": "enderaoe",
+      "pos": 31,
+      "score": 611,
+      "id": 162,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618620956
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618621845
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618623409
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618624473
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618627105
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618629354
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618635408
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618639425
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618656509
+        }
+      }
+    },
+    {
+      "team": "0FU5C4T3",
+      "pos": 32,
+      "score": 600,
+      "id": 67,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599025
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599246
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618600760
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618603189
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618608433
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618643827
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618648332
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618649985
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618682158
+        }
+      }
+    },
+    {
+      "team": "/etc/apt/sources.list",
+      "pos": 33,
+      "score": 575,
+      "id": 223,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598453
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599080
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599918
+        },
+        "Mah Eyes are RED": {
+          "points": 493,
+          "time": 1618688568
+        }
+      }
+    },
+    {
+      "team": "Neme$is",
+      "pos": 34,
+      "score": 561,
+      "id": 119,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598365
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598865
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601694
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618646524
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618648191
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618649993
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618651765
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618653576
+        }
+      }
+    },
+    {
+      "team": "Meu_Sec",
+      "pos": 35,
+      "score": 530,
+      "id": 139,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598382
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599592
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599906
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618600882
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618658060
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618675259
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618682613
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618685233
+        }
+      }
+    },
+    {
+      "team": "M1dnytExplo17z",
+      "pos": 36,
+      "score": 530,
+      "id": 266,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599612
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618600649
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602837
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618641315
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618653684
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618711249
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618721250
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618722841
+        }
+      }
+    },
+    {
+      "team": "Kings",
+      "pos": 37,
+      "score": 521,
+      "id": 37,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598403
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600647
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618683087
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618683330
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618683734
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618684019
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618685609
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618726240
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618727318
+        }
+      }
+    },
+    {
+      "team": "krazykitty",
+      "pos": 38,
+      "score": 456,
+      "id": 485,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618674983
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618675143
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618676537
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618677797
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618683014
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618727307
+        }
+      }
+    },
+    {
+      "team": "CSKMA",
+      "pos": 39,
+      "score": 451,
+      "id": 486,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618675384
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618675628
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618677124
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618677537
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618680017
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618680678
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618685750
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618709541
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618711416
+        }
+      }
+    },
+    {
+      "team": "curveball",
+      "pos": 40,
+      "score": 446,
+      "id": 201,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618636265
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618636295
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618642201
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618652178
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618652306
+        }
+      }
+    },
+    {
+      "team": "de4dl0ck",
+      "pos": 41,
+      "score": 446,
+      "id": 428,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618649913
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618650350
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618650847
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618653976
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618655230
+        }
+      }
+    },
+    {
+      "team": "SUID",
+      "pos": 42,
+      "score": 396,
+      "id": 322,
+      "taskStats": {
+        "Not Common": {
+          "points": 50,
+          "time": 1618603871
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618603996
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618604040
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618604376
+        },
+        "Library": {
+          "points": 244,
+          "time": 1618609095
+        }
+      }
+    },
+    {
+      "team": "Furious Giant Dark Bugs",
+      "pos": 43,
+      "score": 391,
+      "id": 263,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598804
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618600350
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602755
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618603192
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618605502
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618666897
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618691444
+        }
+      }
+    },
+    {
+      "team": "RogersCoolKids",
+      "pos": 44,
+      "score": 388,
+      "id": 18,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600893
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601012
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618605960
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618607956
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618613018
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618616874
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618622716
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618678386
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618679973
+        }
+      }
+    },
+    {
+      "team": "BitCriminals2.0",
+      "pos": 45,
+      "score": 377,
+      "id": 453,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618659471
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618659611
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618660183
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618662008
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618675245
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618675316
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618678016
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618680502
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618720815
+        }
+      }
+    },
+    {
+      "team": "Flaggermeister",
+      "pos": 46,
+      "score": 356,
+      "id": 202,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600613
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600762
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618600794
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618600802
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618602080
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618712684
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618712804
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618713081
+        }
+      }
+    },
+    {
+      "team": "C0d3 Bre4k3rs",
+      "pos": 47,
+      "score": 346,
+      "id": 427,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618649305
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618649367
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618653051
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618667282
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618667953
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618669840
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618681170
+        }
+      }
+    },
+    {
+      "team": "ZombieShroom",
+      "pos": 48,
+      "score": 337,
+      "id": 17,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598544
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599239
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618599396
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600761
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601670
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618676222
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618680432
+        }
+      }
+    },
+    {
+      "team": "My4nM4r",
+      "pos": 49,
+      "score": 326,
+      "id": 265,
+      "taskStats": {
+        "Library": {
+          "points": 244,
+          "time": 1618640167
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618648895
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618649209
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618649766
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618651019
+        }
+      }
+    },
+    {
+      "team": "H4CK3R1616",
+      "pos": 50,
+      "score": 317,
+      "id": 343,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618615839
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618615850
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618615861
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618615883
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618615972
+        }
+      }
+    },
+    {
+      "team": "Dora The Exploiters",
+      "pos": 51,
+      "score": 316,
+      "id": 64,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618629269
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618629725
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618634205
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618639968
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618640155
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618642389
+        }
+      }
+    },
+    {
+      "team": "Flag_smashers",
+      "pos": 52,
+      "score": 297,
+      "id": 394,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618636417
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618636580
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618637798
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618640575
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618640970
+        }
+      }
+    },
+    {
+      "team": "inferno",
+      "pos": 53,
+      "score": 296,
+      "id": 116,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618632483
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618632587
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618636815
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618641189
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618641247
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618648678
+        }
+      }
+    },
+    {
+      "team": "noob101",
+      "pos": 54,
+      "score": 296,
+      "id": 163,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599147
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599562
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599939
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618601043
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618675389
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618675716
+        }
+      }
+    },
+    {
+      "team": "ONE OK HACK",
+      "pos": 55,
+      "score": 286,
+      "id": 21,
+      "taskStats": {
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618598534
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598713
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618604067
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618607019
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618613664
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618673275
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618687105
+        }
+      }
+    },
+    {
+      "team": "King of the Hill",
+      "pos": 56,
+      "score": 272,
+      "id": 19,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599740
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599828
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600652
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618607172
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618612958
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618638986
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618685409
+        }
+      }
+    },
+    {
+      "team": "PatanjaliHax",
+      "pos": 57,
+      "score": 272,
+      "id": 43,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598457
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599083
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601103
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618601349
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618604090
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618640810
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618722645
+        }
+      }
+    },
+    {
+      "team": "bestbestbest",
+      "pos": 58,
+      "score": 271,
+      "id": 417,
+      "taskStats": {
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618646284
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618647033
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618648948
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618649083
+        },
+        "Heads-UP": {
+          "points": 148,
+          "time": 1618718582
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618719644
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618719921
+        }
+      }
+    },
+    {
+      "team": "NaijaSecForce",
+      "pos": 59,
+      "score": 267,
+      "id": 157,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618612374
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618612482
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618642715
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618643206
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618643665
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618644074
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618645069
+        }
+      }
+    },
+    {
+      "team": "RPCA Cyber Club",
+      "pos": 60,
+      "score": 267,
+      "id": 210,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618616786
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618616860
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618617337
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618617793
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618618447
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618654883
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618655758
+        }
+      }
+    },
+    {
+      "team": "Nameshield-CTF",
+      "pos": 61,
+      "score": 262,
+      "id": 60,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618608559
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618608675
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618670595
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618689701
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618690181
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618692407
+        }
+      }
+    },
+    {
+      "team": "cypher",
+      "pos": 62,
+      "score": 252,
+      "id": 49,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599028
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618601245
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601379
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618645230
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618646287
+        }
+      }
+    },
+    {
+      "team": "toor97",
+      "pos": 63,
+      "score": 252,
+      "id": 548,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618723254
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618723385
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618723601
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618723950
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618724402
+        }
+      }
+    },
+    {
+      "team": "XD",
+      "pos": 64,
+      "score": 244,
+      "id": 384,
+      "taskStats": {
+        "Library": {
+          "points": 244,
+          "time": 1618639898
+        }
+      }
+    },
+    {
+      "team": "WeirdNames",
+      "pos": 65,
+      "score": 243,
+      "id": 6,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598415
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599219
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618600240
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618603150
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618608306
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618608408
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618681386
+        }
+      }
+    },
+    {
+      "team": "nucleant",
+      "pos": 66,
+      "score": 240,
+      "id": 444,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618655386
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618655884
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618655974
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618657447
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618658037
+        }
+      }
+    },
+    {
+      "team": "FallenSky",
+      "pos": 67,
+      "score": 236,
+      "id": 476,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618670956
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618671143
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618680797
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618682460
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618684442
+        }
+      }
+    },
+    {
+      "team": "cryp_$ec",
+      "pos": 68,
+      "score": 233,
+      "id": 413,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618645250
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618645329
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618645778
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618646006
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618646323
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618647733
+        }
+      }
+    },
+    {
+      "team": "Pwnzorz",
+      "pos": 69,
+      "score": 233,
+      "id": 237,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598366
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598574
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599030
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618613564
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618647689
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618647836
+        }
+      }
+    },
+    {
+      "team": "Henthai",
+      "pos": 70,
+      "score": 232,
+      "id": 86,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598602
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599112
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599375
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599982
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618600316
+        }
+      }
+    },
+    {
+      "team": "FirstPlay",
+      "pos": 71,
+      "score": 227,
+      "id": 289,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618598993
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618600010
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618610490
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618614069
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618615212
+        }
+      }
+    },
+    {
+      "team": "hfasfas",
+      "pos": 72,
+      "score": 224,
+      "id": 469,
+      "taskStats": {
+        "Library": {
+          "points": 244,
+          "time": 1618692340
+        }
+      }
+    },
+    {
+      "team": "F Society",
+      "pos": 73,
+      "score": 222,
+      "id": 128,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598527
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599192
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599355
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601113
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618659784
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618683009
+        }
+      }
+    },
+    {
+      "team": "flag smashers",
+      "pos": 74,
+      "score": 212,
+      "id": 81,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618607480
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618608650
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618610223
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618611149
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618634919
+        }
+      }
+    },
+    {
+      "team": "Friendly Hacks",
+      "pos": 75,
+      "score": 211,
+      "id": 248,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618602539
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618604937
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618606432
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618609373
+        }
+      }
+    },
+    {
+      "team": "Catastrophe",
+      "pos": 76,
+      "score": 211,
+      "id": 382,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618632717
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618635824
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618636001
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618637442
+        }
+      }
+    },
+    {
+      "team": "Area{51}",
+      "pos": 77,
+      "score": 202,
+      "id": 250,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598356
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618598638
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601644
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618602791
+        }
+      }
+    },
+    {
+      "team": "Five Miles Out",
+      "pos": 78,
+      "score": 202,
+      "id": 245,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601559
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601665
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618603761
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618604573
+        }
+      }
+    },
+    {
+      "team": "E_Corp",
+      "pos": 79,
+      "score": 202,
+      "id": 172,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601349
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601423
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618605711
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618606957
+        }
+      }
+    },
+    {
+      "team": "CSI",
+      "pos": 80,
+      "score": 202,
+      "id": 294,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598348
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618605470
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618606493
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618607061
+        }
+      }
+    },
+    {
+      "team": "IsolatingBeforeItWasCool",
+      "pos": 81,
+      "score": 202,
+      "id": 365,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618627241
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618627757
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618628130
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618628362
+        }
+      }
+    },
+    {
+      "team": "The Cyber Grabs",
+      "pos": 82,
+      "score": 202,
+      "id": 82,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598340
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618598609
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618628448
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618630088
+        }
+      }
+    },
+    {
+      "team": "Team_Matrix",
+      "pos": 83,
+      "score": 202,
+      "id": 192,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618635007
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618635095
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618636698
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618642757
+        }
+      }
+    },
+    {
+      "team": "aletheia",
+      "pos": 84,
+      "score": 202,
+      "id": 12,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618640235
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618640898
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618660128
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618660203
+        }
+      }
+    },
+    {
+      "team": "trøjan_h0rs3s",
+      "pos": 85,
+      "score": 202,
+      "id": 107,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598755
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618600414
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602248
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618608256
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618614473
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618682476
+        }
+      }
+    },
+    {
+      "team": "Dragonfly",
+      "pos": 86,
+      "score": 202,
+      "id": 168,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618641135
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618644291
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618667776
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618689566
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618689640
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618689890
+        }
+      }
+    },
+    {
+      "team": "BIT CRIMINALS V2",
+      "pos": 87,
+      "score": 202,
+      "id": 491,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618676446
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618676564
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618679954
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618720489
+        }
+      }
+    },
+    {
+      "team": "hackcoeur",
+      "pos": 88,
+      "score": 201,
+      "id": 238,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618649049
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618653572
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618658058
+        }
+      }
+    },
+    {
+      "team": "Asdfdf",
+      "pos": 89,
+      "score": 192,
+      "id": 540,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618709260
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618709364
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618709827
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618710233
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618711147
+        }
+      }
+    },
+    {
+      "team": "guyhurisbot",
+      "pos": 90,
+      "score": 184,
+      "id": 488,
+      "taskStats": {
+        "Simple Login": {
+          "points": 84,
+          "time": 1618675941
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618676233
+        }
+      }
+    },
+    {
+      "team": "cheesecheesecheese",
+      "pos": 91,
+      "score": 181,
+      "id": 253,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598474
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601108
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618605797
+        }
+      }
+    },
+    {
+      "team": "Wanna.One",
+      "pos": 92,
+      "score": 166,
+      "id": 271,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618634711
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618635231
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618658520
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618658579
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618659242
+        }
+      }
+    },
+    {
+      "team": "XNOR",
+      "pos": 93,
+      "score": 161,
+      "id": 68,
+      "taskStats": {
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601396
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601570
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618603090
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618686664
+        }
+      }
+    },
+    {
+      "team": "flag{}___Orz",
+      "pos": 94,
+      "score": 152,
+      "id": 218,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600428
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600493
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618601381
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618601989
+        }
+      }
+    },
+    {
+      "team": "h4ck7u5",
+      "pos": 95,
+      "score": 152,
+      "id": 341,
+      "taskStats": {
+        "Not Common": {
+          "points": 50,
+          "time": 1618613639
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618613702
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618613854
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618614828
+        }
+      }
+    },
+    {
+      "team": "CRUSADERS",
+      "pos": 96,
+      "score": 152,
+      "id": 40,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618603941
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618604022
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618604268
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618660007
+        }
+      }
+    },
+    {
+      "team": "TGDocs807",
+      "pos": 97,
+      "score": 152,
+      "id": 519,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618686672
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618686710
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618687351
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618712131
+        }
+      }
+    },
+    {
+      "team": "Kza",
+      "pos": 98,
+      "score": 151,
+      "id": 445,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618655435
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618655543
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618656543
+        }
+      }
+    },
+    {
+      "team": "HotNum",
+      "pos": 99,
+      "score": 143,
+      "id": 252,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598389
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602726
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618627824
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618628252
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618679547
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618697592
+        }
+      }
+    },
+    {
+      "team": "Peppercon",
+      "pos": 100,
+      "score": 133,
+      "id": 367,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618629648
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618629989
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618630133
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618632698
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618633307
+        }
+      }
+    },
+    {
+      "team": "TokyoGhoul",
+      "pos": 101,
+      "score": 133,
+      "id": 155,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618644957
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618645096
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618651033
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618651204
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618652259
+        }
+      }
+    },
+    {
+      "team": "4c1d_k47",
+      "pos": 102,
+      "score": 133,
+      "id": 106,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618653214
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618653298
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618655811
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618657188
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618657806
+        }
+      }
+    },
+    {
+      "team": "MonkOnMars",
+      "pos": 103,
+      "score": 132,
+      "id": 170,
+      "taskStats": {
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618618901
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618620502
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618629385
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618630398
+        }
+      }
+    },
+    {
+      "team": "noob",
+      "pos": 104,
+      "score": 121,
+      "id": 517,
+      "taskStats": {
+        "Ez": {
+          "points": 10,
+          "time": 1618685909
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618686035
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618688248
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618689144
+        }
+      }
+    },
+    {
+      "team": "StrixGoldhorn",
+      "pos": 105,
+      "score": 112,
+      "id": 194,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618619212
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618619622
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618619808
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618620763
+        }
+      }
+    },
+    {
+      "team": "/Tʀɩŋɩtƴ_Wʌʀʀɩoʀ\\",
+      "pos": 106,
+      "score": 112,
+      "id": 122,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618611163
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618611192
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618625078
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618628311
+        }
+      }
+    },
+    {
+      "team": "Coasthackers",
+      "pos": 107,
+      "score": 112,
+      "id": 73,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618603422
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618603991
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618606403
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618685210
+        }
+      }
+    },
+    {
+      "team": "KING_OF_MONSTERS",
+      "pos": 108,
+      "score": 112,
+      "id": 254,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598417
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618599476
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601522
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618689127
+        }
+      }
+    },
+    {
+      "team": "2>/dev/null",
+      "pos": 109,
+      "score": 111,
+      "id": 196,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599046
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618624694
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618684803
+        }
+      }
+    },
+    {
+      "team": "Leet Legacies",
+      "pos": 110,
+      "score": 102,
+      "id": 297,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599197
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600304
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618600527
+        }
+      }
+    },
+    {
+      "team": "GauchoViking",
+      "pos": 111,
+      "score": 102,
+      "id": 284,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598596
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618599253
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600958
+        }
+      }
+    },
+    {
+      "team": "malmoeware0x01",
+      "pos": 112,
+      "score": 102,
+      "id": 310,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600983
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601032
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618604878
+        }
+      }
+    },
+    {
+      "team": "CTSecUK",
+      "pos": 113,
+      "score": 102,
+      "id": 275,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618606377
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618606436
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618607600
+        }
+      }
+    },
+    {
+      "team": "da3m0nsl4yer",
+      "pos": 114,
+      "score": 102,
+      "id": 9,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618606629
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618606660
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618607674
+        }
+      }
+    },
+    {
+      "team": "phasetw0",
+      "pos": 115,
+      "score": 102,
+      "id": 344,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618616395
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618616463
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618617162
+        }
+      }
+    },
+    {
+      "team": "Ammas_Hackers",
+      "pos": 116,
+      "score": 102,
+      "id": 371,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618628910
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618629020
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618629302
+        }
+      }
+    },
+    {
+      "team": "abcdef",
+      "pos": 117,
+      "score": 102,
+      "id": 232,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618628678
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618628835
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618629901
+        }
+      }
+    },
+    {
+      "team": "0xSAZZAD",
+      "pos": 118,
+      "score": 102,
+      "id": 200,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618647744
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618648550
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618649184
+        }
+      }
+    },
+    {
+      "team": "K1MCH1_W0RR10R",
+      "pos": 119,
+      "score": 102,
+      "id": 213,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618644626
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618644842
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618652229
+        }
+      }
+    },
+    {
+      "team": "Twjerry",
+      "pos": 120,
+      "score": 102,
+      "id": 273,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618650627
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618652300
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618655699
+        }
+      }
+    },
+    {
+      "team": "fzhshzh",
+      "pos": 121,
+      "score": 102,
+      "id": 78,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618659010
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618659385
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618660280
+        }
+      }
+    },
+    {
+      "team": "only1team",
+      "pos": 122,
+      "score": 102,
+      "id": 236,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618667178
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618667265
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618668028
+        }
+      }
+    },
+    {
+      "team": "ATMteam",
+      "pos": 123,
+      "score": 101,
+      "id": 302,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599490
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618600440
+        }
+      }
+    },
+    {
+      "team": "sebbekarl",
+      "pos": 124,
+      "score": 101,
+      "id": 272,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600685
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618603050
+        }
+      }
+    },
+    {
+      "team": "derelict",
+      "pos": 125,
+      "score": 101,
+      "id": 65,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618618375
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618619133
+        }
+      }
+    },
+    {
+      "team": "Fs0ciety00",
+      "pos": 126,
+      "score": 101,
+      "id": 61,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618622906
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618633250
+        }
+      }
+    },
+    {
+      "team": "Bin",
+      "pos": 127,
+      "score": 101,
+      "id": 389,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618635636
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618635757
+        }
+      }
+    },
+    {
+      "team": "PlzDon'tBeLast",
+      "pos": 128,
+      "score": 101,
+      "id": 399,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618638313
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618638607
+        }
+      }
+    },
+    {
+      "team": "Sec8",
+      "pos": 129,
+      "score": 101,
+      "id": 88,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618644161
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618645845
+        }
+      }
+    },
+    {
+      "team": "4k3l4rr3",
+      "pos": 130,
+      "score": 101,
+      "id": 118,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599815
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618658893
+        }
+      }
+    },
+    {
+      "team": "T",
+      "pos": 131,
+      "score": 101,
+      "id": 127,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618651454
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618674483
+        }
+      }
+    },
+    {
+      "team": "Cyber_Sky",
+      "pos": 132,
+      "score": 101,
+      "id": 493,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618677254
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618678591
+        }
+      }
+    },
+    {
+      "team": "pais",
+      "pos": 133,
+      "score": 100,
+      "id": 133,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618607940
+        }
+      }
+    },
+    {
+      "team": "NAZCA",
+      "pos": 134,
+      "score": 100,
+      "id": 353,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618621767
+        }
+      }
+    },
+    {
+      "team": "4096",
+      "pos": 135,
+      "score": 100,
+      "id": 90,
+      "taskStats": {
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618627839
+        }
+      }
+    },
+    {
+      "team": "H4KDIT",
+      "pos": 136,
+      "score": 100,
+      "id": 437,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618659871
+        }
+      }
+    },
+    {
+      "team": "Soviet YunYun",
+      "pos": 137,
+      "score": 100,
+      "id": 542,
+      "taskStats": {
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618716225
+        }
+      }
+    },
+    {
+      "team": "E",
+      "pos": 138,
+      "score": 96,
+      "id": 300,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598900
+        },
+        "Voyage": {
+          "points": 95,
+          "time": 1618599293
+        }
+      }
+    },
+    {
+      "team": "sustc_yes",
+      "pos": 139,
+      "score": 86,
+      "id": 404,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618640450
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618641868
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618643530
+        }
+      }
+    },
+    {
+      "team": "blacViking",
+      "pos": 140,
+      "score": 86,
+      "id": 396,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618636716
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618636814
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618652210
+        }
+      }
+    },
+    {
+      "team": "admin",
+      "pos": 141,
+      "score": 86,
+      "id": 429,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618650684
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618652007
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618653123
+        }
+      }
+    },
+    {
+      "team": "krack",
+      "pos": 142,
+      "score": 86,
+      "id": 420,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618647377
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618652986
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618655979
+        }
+      }
+    },
+    {
+      "team": "professionaln00bs",
+      "pos": 143,
+      "score": 86,
+      "id": 543,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618719533
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618720747
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618721218
+        }
+      }
+    },
+    {
+      "team": "Stuca",
+      "pos": 144,
+      "score": 85,
+      "id": 503,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618681008
+        },
+        "Simple Login": {
+          "points": 84,
+          "time": 1618698702
+        }
+      }
+    },
+    {
+      "team": "Cosmo",
+      "pos": 145,
+      "score": 84,
+      "id": 447,
+      "taskStats": {
+        "Simple Login": {
+          "points": 84,
+          "time": 1618657834
+        }
+      }
+    },
+    {
+      "team": "Angel Priya",
+      "pos": 146,
+      "score": 82,
+      "id": 130,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601453
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601479
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618601609
+        }
+      }
+    },
+    {
+      "team": "_Shakti_",
+      "pos": 147,
+      "score": 82,
+      "id": 79,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618623572
+        },
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618637845
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618676331
+        }
+      }
+    },
+    {
+      "team": "Johnny bhai",
+      "pos": 148,
+      "score": 81,
+      "id": 217,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598344
+        },
+        "Redbull gives you ...": {
+          "points": 100,
+          "time": 1618712451
+        }
+      }
+    },
+    {
+      "team": "dekhlenge",
+      "pos": 149,
+      "score": 80,
+      "id": 515,
+      "taskStats": {
+        "Alphanumerals": {
+          "points": 100,
+          "time": 1618722364
+        }
+      }
+    },
+    {
+      "team": "fff",
+      "pos": 150,
+      "score": 65,
+      "id": 368,
+      "taskStats": {
+        "Simple Login": {
+          "points": 84,
+          "time": 1618645261
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618654778
+        }
+      }
+    },
+    {
+      "team": "The_tglese_lost",
+      "pos": 151,
+      "score": 61,
+      "id": 129,
+      "taskStats": {
+        "Not Common": {
+          "points": 50,
+          "time": 1618603126
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618616416
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618688701
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 152,
+      "score": 52,
+      "id": 209,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618614467
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618615194
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618616854
+        }
+      }
+    },
+    {
+      "team": "LifeError",
+      "pos": 153,
+      "score": 52,
+      "id": 387,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618634480
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618634558
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618637199
+        }
+      }
+    },
+    {
+      "team": "m0xy",
+      "pos": 154,
+      "score": 52,
+      "id": 190,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618643101
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618643339
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618643892
+        }
+      }
+    },
+    {
+      "team": "playforfun",
+      "pos": 155,
+      "score": 52,
+      "id": 415,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618651406
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618651822
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618652429
+        }
+      }
+    },
+    {
+      "team": "Pengg0damn",
+      "pos": 156,
+      "score": 52,
+      "id": 101,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618676951
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618677182
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618678398
+        }
+      }
+    },
+    {
+      "team": "F/lying",
+      "pos": 157,
+      "score": 51,
+      "id": 388,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618634973
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618636025
+        }
+      }
+    },
+    {
+      "team": "NCTOP",
+      "pos": 158,
+      "score": 51,
+      "id": 231,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618638848
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618640699
+        }
+      }
+    },
+    {
+      "team": "RFJPUFNFQw",
+      "pos": 159,
+      "score": 51,
+      "id": 470,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618668892
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618670462
+        }
+      }
+    },
+    {
+      "team": "C00LT38M",
+      "pos": 160,
+      "score": 51,
+      "id": 539,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618707057
+        },
+        "Not Common": {
+          "points": 50,
+          "time": 1618707147
+        }
+      }
+    },
+    {
+      "team": "OPTIM",
+      "pos": 161,
+      "score": 50,
+      "id": 267,
+      "taskStats": {
+        "Not Common": {
+          "points": 50,
+          "time": 1618646762
+        }
+      }
+    },
+    {
+      "team": "xfers",
+      "pos": 162,
+      "score": 33,
+      "id": 57,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618651413
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618651717
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618651815
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618652657
+        }
+      }
+    },
+    {
+      "team": "craniaxe",
+      "pos": 163,
+      "score": 32,
+      "id": 433,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618651661
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618651973
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618652031
+        }
+      }
+    },
+    {
+      "team": "Ghost",
+      "pos": 164,
+      "score": 32,
+      "id": 454,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618659871
+        },
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618669368
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618669423
+        }
+      }
+    },
+    {
+      "team": "Knight Squad",
+      "pos": 165,
+      "score": 22,
+      "id": 50,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618635685
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618635740
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618722000
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618722074
+        }
+      }
+    },
+    {
+      "team": "M4D",
+      "pos": 166,
+      "score": 22,
+      "id": 484,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618674635
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618674687
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618676678
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618725172
+        }
+      }
+    },
+    {
+      "team": "XxS6907",
+      "pos": 167,
+      "score": 21,
+      "id": 449,
+      "taskStats": {
+        "Access My Contract": {
+          "points": 21,
+          "time": 1618679196
+        }
+      }
+    },
+    {
+      "team": "B'Hack'UP",
+      "pos": 168,
+      "score": 21,
+      "id": 524,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618687537
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618687581
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618687751
+        }
+      }
+    },
+    {
+      "team": "Viking_UESTC",
+      "pos": 169,
+      "score": 12,
+      "id": 241,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600079
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600251
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618617515
+        }
+      }
+    },
+    {
+      "team": "n3rd_h4ck",
+      "pos": 170,
+      "score": 12,
+      "id": 159,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618642105
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618642975
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618644273
+        }
+      }
+    },
+    {
+      "team": "Audran",
+      "pos": 171,
+      "score": 12,
+      "id": 432,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618651407
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618651471
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618651739
+        }
+      }
+    },
+    {
+      "team": "panzerfor",
+      "pos": 172,
+      "score": 12,
+      "id": 156,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618663058
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618663241
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618663346
+        }
+      }
+    },
+    {
+      "team": "Boloss 2.0",
+      "pos": 173,
+      "score": 12,
+      "id": 474,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618669256
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618669328
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618669634
+        }
+      }
+    },
+    {
+      "team": "' UNION SELECT 'hi",
+      "pos": 174,
+      "score": 12,
+      "id": 111,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618675304
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618675518
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618676164
+        }
+      }
+    },
+    {
+      "team": "BigFloppaTeam",
+      "pos": 175,
+      "score": 12,
+      "id": 71,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618640630
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618641036
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618691182
+        }
+      }
+    },
+    {
+      "team": "T3n4ci0us",
+      "pos": 176,
+      "score": 12,
+      "id": 240,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599789
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618612867
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618691963
+        }
+      }
+    },
+    {
+      "team": "alenezi",
+      "pos": 177,
+      "score": 12,
+      "id": 532,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618694940
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618695165
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618695311
+        }
+      }
+    },
+    {
+      "team": "HowComeCTFSoHard",
+      "pos": 178,
+      "score": 12,
+      "id": 63,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618704853
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618704917
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618704951
+        }
+      }
+    },
+    {
+      "team": "Zzz",
+      "pos": 179,
+      "score": 12,
+      "id": 546,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618719659
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618719769
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618720091
+        }
+      }
+    },
+    {
+      "team": "rexcode",
+      "pos": 180,
+      "score": 11,
+      "id": 392,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618637672
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618639138
+        }
+      }
+    },
+    {
+      "team": "404mdt",
+      "pos": 181,
+      "score": 11,
+      "id": 430,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618650590
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618652363
+        }
+      }
+    },
+    {
+      "team": "hamayanhamayan",
+      "pos": 182,
+      "score": 11,
+      "id": 468,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618668672
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618668893
+        }
+      }
+    },
+    {
+      "team": "h4ck3r1st",
+      "pos": 183,
+      "score": 11,
+      "id": 505,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618683276
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618683426
+        }
+      }
+    },
+    {
+      "team": "Scuttlefish",
+      "pos": 184,
+      "score": 11,
+      "id": 513,
+      "taskStats": {
+        "Feedback": {
+          "points": 10,
+          "time": 1618683953
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618684292
+        }
+      }
+    },
+    {
+      "team": "CH4NG414M44D4N",
+      "pos": 185,
+      "score": 11,
+      "id": 197,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618632153
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618684350
+        }
+      }
+    },
+    {
+      "team": "OhNoMyResponsibilities",
+      "pos": 186,
+      "score": 11,
+      "id": 518,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618684777
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618684953
+        }
+      }
+    },
+    {
+      "team": "New Spam Server Team 1",
+      "pos": 187,
+      "score": 11,
+      "id": 533,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618696065
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618696108
+        }
+      }
+    },
+    {
+      "team": "upside down bookcase",
+      "pos": 188,
+      "score": 11,
+      "id": 537,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618701996
+        },
+        "Ez": {
+          "points": 10,
+          "time": 1618702613
+        }
+      }
+    },
+    {
+      "team": "Devil_Land",
+      "pos": 189,
+      "score": 11,
+      "id": 547,
+      "taskStats": {
+        "Feedback": {
+          "points": 10,
+          "time": 1618720205
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618720328
+        }
+      }
+    },
+    {
+      "team": "L3o",
+      "pos": 190,
+      "score": 11,
+      "id": 219,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618627358
+        },
+        "Feedback": {
+          "points": 10,
+          "time": 1618724218
+        }
+      }
+    },
+    {
+      "team": "MemeTeam",
+      "pos": 191,
+      "score": 10,
+      "id": 41,
+      "taskStats": {
+        "Ez": {
+          "points": 10,
+          "time": 1618656777
+        }
+      }
+    },
+    {
+      "team": "Over The Top",
+      "pos": 192,
+      "score": 10,
+      "id": 456,
+      "taskStats": {
+        "Ez": {
+          "points": 10,
+          "time": 1618667952
+        }
+      }
+    },
+    {
+      "team": "cyberbangla",
+      "pos": 193,
+      "score": 10,
+      "id": 31,
+      "taskStats": {
+        "Feedback": {
+          "points": 10,
+          "time": 1618681422
+        }
+      }
+    },
+    {
+      "team": "SecureMature",
+      "pos": 194,
+      "score": 10,
+      "id": 497,
+      "taskStats": {
+        "Ez": {
+          "points": 10,
+          "time": 1618683757
+        }
+      }
+    },
+    {
+      "team": "nyolo",
+      "pos": 195,
+      "score": 10,
+      "id": 536,
+      "taskStats": {
+        "Ez": {
+          "points": 10,
+          "time": 1618699172
+        }
+      }
+    },
+    {
+      "team": "lele",
+      "pos": 196,
+      "score": 2,
+      "id": 292,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598507
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599345
+        }
+      }
+    },
+    {
+      "team": "newbies",
+      "pos": 197,
+      "score": 2,
+      "id": 282,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598618
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599365
+        }
+      }
+    },
+    {
+      "team": "dad",
+      "pos": 198,
+      "score": 2,
+      "id": 5,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599857
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618599913
+        }
+      }
+    },
+    {
+      "team": "Reapers",
+      "pos": 199,
+      "score": 2,
+      "id": 58,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598969
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618600416
+        }
+      }
+    },
+    {
+      "team": "Sitoka",
+      "pos": 200,
+      "score": 2,
+      "id": 317,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601494
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601612
+        }
+      }
+    },
+    {
+      "team": "RKTEAM",
+      "pos": 201,
+      "score": 2,
+      "id": 318,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601671
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618601746
+        }
+      }
+    },
+    {
+      "team": "Lucy666",
+      "pos": 202,
+      "score": 2,
+      "id": 298,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598817
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602421
+        }
+      }
+    },
+    {
+      "team": "zangerange",
+      "pos": 203,
+      "score": 2,
+      "id": 181,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602580
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618602605
+        }
+      }
+    },
+    {
+      "team": "Sad Boys",
+      "pos": 204,
+      "score": 2,
+      "id": 257,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618602154
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602660
+        }
+      }
+    },
+    {
+      "team": "OverDover",
+      "pos": 205,
+      "score": 2,
+      "id": 321,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618602887
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602952
+        }
+      }
+    },
+    {
+      "team": "0xZ3R0",
+      "pos": 206,
+      "score": 2,
+      "id": 211,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618603068
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618603166
+        }
+      }
+    },
+    {
+      "team": "dd",
+      "pos": 207,
+      "score": 2,
+      "id": 222,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618603478
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618603735
+        }
+      }
+    },
+    {
+      "team": "TeamM397",
+      "pos": 208,
+      "score": 2,
+      "id": 141,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618604523
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618604904
+        }
+      }
+    },
+    {
+      "team": "IDCZ",
+      "pos": 209,
+      "score": 2,
+      "id": 171,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618605725
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618605783
+        }
+      }
+    },
+    {
+      "team": "HackForce",
+      "pos": 210,
+      "score": 2,
+      "id": 329,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618606364
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618606454
+        }
+      }
+    },
+    {
+      "team": "Bytersec_Squad",
+      "pos": 211,
+      "score": 2,
+      "id": 108,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600801
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618608619
+        }
+      }
+    },
+    {
+      "team": "sudo_team",
+      "pos": 212,
+      "score": 2,
+      "id": 239,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618608559
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618608655
+        }
+      }
+    },
+    {
+      "team": "CapitalZer0",
+      "pos": 213,
+      "score": 2,
+      "id": 334,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618608576
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618608719
+        }
+      }
+    },
+    {
+      "team": "Sementao",
+      "pos": 214,
+      "score": 2,
+      "id": 333,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618608661
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618609025
+        }
+      }
+    },
+    {
+      "team": "noone...",
+      "pos": 215,
+      "score": 2,
+      "id": 340,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618613220
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618613415
+        }
+      }
+    },
+    {
+      "team": "L10n5",
+      "pos": 216,
+      "score": 2,
+      "id": 345,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618617494
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618617605
+        }
+      }
+    },
+    {
+      "team": "drdoct3r",
+      "pos": 217,
+      "score": 2,
+      "id": 348,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618619588
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618619624
+        }
+      }
+    },
+    {
+      "team": "G3m4tri4",
+      "pos": 218,
+      "score": 2,
+      "id": 56,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618620851
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618620956
+        }
+      }
+    },
+    {
+      "team": "Karatus",
+      "pos": 219,
+      "score": 2,
+      "id": 349,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618620919
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618620966
+        }
+      }
+    },
+    {
+      "team": "UmU",
+      "pos": 220,
+      "score": 2,
+      "id": 173,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618621118
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618621380
+        }
+      }
+    },
+    {
+      "team": "Xan0er",
+      "pos": 221,
+      "score": 2,
+      "id": 360,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618625847
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618626021
+        }
+      }
+    },
+    {
+      "team": "z3ro1",
+      "pos": 222,
+      "score": 2,
+      "id": 372,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618629349
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618629436
+        }
+      }
+    },
+    {
+      "team": "Children of the Code",
+      "pos": 223,
+      "score": 2,
+      "id": 380,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618632034
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618632088
+        }
+      }
+    },
+    {
+      "team": "Beginner's group",
+      "pos": 224,
+      "score": 2,
+      "id": 385,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618633484
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618633640
+        }
+      }
+    },
+    {
+      "team": "nekonyas",
+      "pos": 225,
+      "score": 2,
+      "id": 256,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618634007
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618634135
+        }
+      }
+    },
+    {
+      "team": "0e8X89496",
+      "pos": 226,
+      "score": 2,
+      "id": 62,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618634190
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618634330
+        }
+      }
+    },
+    {
+      "team": "MQCybersec",
+      "pos": 227,
+      "score": 2,
+      "id": 402,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618639293
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618639400
+        }
+      }
+    },
+    {
+      "team": "r4t5_",
+      "pos": 228,
+      "score": 2,
+      "id": 409,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618640440
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618640542
+        }
+      }
+    },
+    {
+      "team": "ixix2634",
+      "pos": 229,
+      "score": 2,
+      "id": 406,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618640043
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618640596
+        }
+      }
+    },
+    {
+      "team": "newbie",
+      "pos": 230,
+      "score": 2,
+      "id": 183,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618644068
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618644631
+        }
+      }
+    },
+    {
+      "team": "@[add_text_here]",
+      "pos": 231,
+      "score": 2,
+      "id": 418,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618646501
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618646620
+        }
+      }
+    },
+    {
+      "team": "lAvengersl",
+      "pos": 232,
+      "score": 2,
+      "id": 249,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618624643
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618647026
+        }
+      }
+    },
+    {
+      "team": "Kaleta_team",
+      "pos": 233,
+      "score": 2,
+      "id": 426,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618650329
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618650379
+        }
+      }
+    },
+    {
+      "team": "P@Ge2mE",
+      "pos": 234,
+      "score": 2,
+      "id": 423,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618649601
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618650669
+        }
+      }
+    },
+    {
+      "team": "Blackout",
+      "pos": 235,
+      "score": 2,
+      "id": 436,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618653283
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618653335
+        }
+      }
+    },
+    {
+      "team": "All Your Flags",
+      "pos": 236,
+      "score": 2,
+      "id": 442,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618654882
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618655285
+        }
+      }
+    },
+    {
+      "team": "ret2school",
+      "pos": 237,
+      "score": 2,
+      "id": 452,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618658814
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618658856
+        }
+      }
+    },
+    {
+      "team": "redcode",
+      "pos": 238,
+      "score": 2,
+      "id": 455,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618660801
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618660859
+        }
+      }
+    },
+    {
+      "team": "Team",
+      "pos": 239,
+      "score": 2,
+      "id": 182,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618662819
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618663054
+        }
+      }
+    },
+    {
+      "team": "D3vi1_d0G_e1337z",
+      "pos": 240,
+      "score": 2,
+      "id": 269,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618665877
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618666142
+        }
+      }
+    },
+    {
+      "team": "Alyesia",
+      "pos": 241,
+      "score": 2,
+      "id": 467,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618668806
+        },
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618668834
+        }
+      }
+    },
+    {
+      "team": "Team_SALVATORE",
+      "pos": 242,
+      "score": 2,
+      "id": 477,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618670841
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618671076
+        }
+      }
+    },
+    {
+      "team": "destroyers",
+      "pos": 243,
+      "score": 2,
+      "id": 492,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618676871
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618677005
+        }
+      }
+    },
+    {
+      "team": "p0isonP4wn",
+      "pos": 244,
+      "score": 2,
+      "id": 509,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618682713
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618682865
+        }
+      }
+    },
+    {
+      "team": "TriangleMen",
+      "pos": 245,
+      "score": 2,
+      "id": 523,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618687545
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618687593
+        }
+      }
+    },
+    {
+      "team": "XDDD",
+      "pos": 246,
+      "score": 2,
+      "id": 530,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618694561
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618694638
+        }
+      }
+    },
+    {
+      "team": "poigiatre",
+      "pos": 247,
+      "score": 2,
+      "id": 541,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618712494
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618713240
+        }
+      }
+    },
+    {
+      "team": "Cyber Ninja",
+      "pos": 248,
+      "score": 2,
+      "id": 29,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618725766
+        },
+        "Sponsor": {
+          "points": 1,
+          "time": 1618726020
+        }
+      }
+    },
+    {
+      "team": "DeepWater",
+      "pos": 249,
+      "score": 1,
+      "id": 189,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598403
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 250,
+      "score": 1,
+      "id": 296,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598455
+        }
+      }
+    },
+    {
+      "team": "dehunters",
+      "pos": 251,
+      "score": 1,
+      "id": 287,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618598725
+        }
+      }
+    },
+    {
+      "team": "BackMoon",
+      "pos": 252,
+      "score": 1,
+      "id": 299,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599021
+        }
+      }
+    },
+    {
+      "team": "md4",
+      "pos": 253,
+      "score": 1,
+      "id": 281,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599256
+        }
+      }
+    },
+    {
+      "team": "IDontKnow",
+      "pos": 254,
+      "score": 1,
+      "id": 301,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599310
+        }
+      }
+    },
+    {
+      "team": "flaghunting",
+      "pos": 255,
+      "score": 1,
+      "id": 215,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599320
+        }
+      }
+    },
+    {
+      "team": "fr334aks",
+      "pos": 256,
+      "score": 1,
+      "id": 89,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599717
+        }
+      }
+    },
+    {
+      "team": "HypeNah",
+      "pos": 257,
+      "score": 1,
+      "id": 305,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599766
+        }
+      }
+    },
+    {
+      "team": "c04571",
+      "pos": 258,
+      "score": 1,
+      "id": 72,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618599849
+        }
+      }
+    },
+    {
+      "team": "king",
+      "pos": 259,
+      "score": 1,
+      "id": 306,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600274
+        }
+      }
+    },
+    {
+      "team": "hsaias",
+      "pos": 260,
+      "score": 1,
+      "id": 307,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600307
+        }
+      }
+    },
+    {
+      "team": "NAIB",
+      "pos": 261,
+      "score": 1,
+      "id": 309,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618600431
+        }
+      }
+    },
+    {
+      "team": "jaffacake",
+      "pos": 262,
+      "score": 1,
+      "id": 316,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601418
+        }
+      }
+    },
+    {
+      "team": "GetPwndN00b",
+      "pos": 263,
+      "score": 1,
+      "id": 320,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618601932
+        }
+      }
+    },
+    {
+      "team": "127.0.0.1",
+      "pos": 264,
+      "score": 1,
+      "id": 188,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618602333
+        }
+      }
+    },
+    {
+      "team": "testentry",
+      "pos": 265,
+      "score": 1,
+      "id": 149,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618604019
+        }
+      }
+    },
+    {
+      "team": "lol",
+      "pos": 266,
+      "score": 1,
+      "id": 327,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618606336
+        }
+      }
+    },
+    {
+      "team": "Slab Allocator",
+      "pos": 267,
+      "score": 1,
+      "id": 143,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618606833
+        }
+      }
+    },
+    {
+      "team": "ARMAGEDDON",
+      "pos": 268,
+      "score": 1,
+      "id": 195,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618607518
+        }
+      }
+    },
+    {
+      "team": "ch1m1churr1",
+      "pos": 269,
+      "score": 1,
+      "id": 331,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618607601
+        }
+      }
+    },
+    {
+      "team": "base64",
+      "pos": 270,
+      "score": 1,
+      "id": 205,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618607676
+        }
+      }
+    },
+    {
+      "team": "derp",
+      "pos": 271,
+      "score": 1,
+      "id": 335,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618608933
+        }
+      }
+    },
+    {
+      "team": "Exodius",
+      "pos": 272,
+      "score": 1,
+      "id": 337,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618610788
+        }
+      }
+    },
+    {
+      "team": "pl0_pwn3r",
+      "pos": 273,
+      "score": 1,
+      "id": 165,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618613165
+        }
+      }
+    },
+    {
+      "team": "W0LF",
+      "pos": 274,
+      "score": 1,
+      "id": 342,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618614721
+        }
+      }
+    },
+    {
+      "team": "begopa",
+      "pos": 275,
+      "score": 1,
+      "id": 355,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618622844
+        }
+      }
+    },
+    {
+      "team": "Bl00d M00n",
+      "pos": 276,
+      "score": 1,
+      "id": 246,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618624006
+        }
+      }
+    },
+    {
+      "team": "Duke_l33t0",
+      "pos": 277,
+      "score": 1,
+      "id": 77,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618624841
+        }
+      }
+    },
+    {
+      "team": "Flag",
+      "pos": 278,
+      "score": 1,
+      "id": 359,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618625154
+        }
+      }
+    },
+    {
+      "team": "CTF PARTY",
+      "pos": 279,
+      "score": 1,
+      "id": 138,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618626785
+        }
+      }
+    },
+    {
+      "team": "NUBS",
+      "pos": 280,
+      "score": 1,
+      "id": 224,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618626879
+        }
+      }
+    },
+    {
+      "team": "ri5e",
+      "pos": 281,
+      "score": 1,
+      "id": 351,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618627164
+        }
+      }
+    },
+    {
+      "team": "waw_team",
+      "pos": 282,
+      "score": 1,
+      "id": 362,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618627546
+        }
+      }
+    },
+    {
+      "team": "Raven",
+      "pos": 283,
+      "score": 1,
+      "id": 370,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618628371
+        }
+      }
+    },
+    {
+      "team": "TurnNull",
+      "pos": 284,
+      "score": 1,
+      "id": 374,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618629666
+        }
+      }
+    },
+    {
+      "team": "No0p",
+      "pos": 285,
+      "score": 1,
+      "id": 376,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618630566
+        }
+      }
+    },
+    {
+      "team": "Spartans",
+      "pos": 286,
+      "score": 1,
+      "id": 158,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618633139
+        }
+      }
+    },
+    {
+      "team": "subrsp0x27",
+      "pos": 287,
+      "score": 1,
+      "id": 398,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618638326
+        }
+      }
+    },
+    {
+      "team": "just_for_wrecking_my_brain",
+      "pos": 288,
+      "score": 1,
+      "id": 401,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618639152
+        }
+      }
+    },
+    {
+      "team": "NSA",
+      "pos": 289,
+      "score": 1,
+      "id": 229,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618639240
+        }
+      }
+    },
+    {
+      "team": "Martial_Law_Enforcer",
+      "pos": 290,
+      "score": 1,
+      "id": 410,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618640755
+        }
+      }
+    },
+    {
+      "team": "DegenerationB",
+      "pos": 291,
+      "score": 1,
+      "id": 102,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618641286
+        }
+      }
+    },
+    {
+      "team": "Prime Squad",
+      "pos": 292,
+      "score": 1,
+      "id": 166,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618641345
+        }
+      }
+    },
+    {
+      "team": "Horde",
+      "pos": 293,
+      "score": 1,
+      "id": 412,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618641421
+        }
+      }
+    },
+    {
+      "team": "binan",
+      "pos": 294,
+      "score": 1,
+      "id": 160,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618642264
+        }
+      }
+    },
+    {
+      "team": "simplelog",
+      "pos": 295,
+      "score": 1,
+      "id": 46,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618646579
+        }
+      }
+    },
+    {
+      "team": "Ronn1n",
+      "pos": 296,
+      "score": 1,
+      "id": 422,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618647653
+        }
+      }
+    },
+    {
+      "team": "dead_soul53",
+      "pos": 297,
+      "score": 1,
+      "id": 438,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618653765
+        }
+      }
+    },
+    {
+      "team": "arnial's team",
+      "pos": 298,
+      "score": 1,
+      "id": 169,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618662425
+        }
+      }
+    },
+    {
+      "team": "K3RN3L4RMY",
+      "pos": 299,
+      "score": 1,
+      "id": 457,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618662451
+        }
+      }
+    },
+    {
+      "team": "Pomelo",
+      "pos": 300,
+      "score": 1,
+      "id": 100,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618663444
+        }
+      }
+    },
+    {
+      "team": "TamedRodents",
+      "pos": 301,
+      "score": 1,
+      "id": 464,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618668397
+        }
+      }
+    },
+    {
+      "team": "any",
+      "pos": 302,
+      "score": 1,
+      "id": 472,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618668962
+        }
+      }
+    },
+    {
+      "team": "pis",
+      "pos": 303,
+      "score": 1,
+      "id": 473,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618669169
+        }
+      }
+    },
+    {
+      "team": "PTIT_TheDreamer",
+      "pos": 304,
+      "score": 1,
+      "id": 475,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618669778
+        }
+      }
+    },
+    {
+      "team": "s3c_g33k",
+      "pos": 305,
+      "score": 1,
+      "id": 478,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618670849
+        }
+      }
+    },
+    {
+      "team": "byte",
+      "pos": 306,
+      "score": 1,
+      "id": 481,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618673824
+        }
+      }
+    },
+    {
+      "team": "League of Shadows",
+      "pos": 307,
+      "score": 1,
+      "id": 482,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618673959
+        }
+      }
+    },
+    {
+      "team": "Xmen",
+      "pos": 308,
+      "score": 1,
+      "id": 153,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618677614
+        }
+      }
+    },
+    {
+      "team": "isaru66",
+      "pos": 309,
+      "score": 1,
+      "id": 494,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618678682
+        }
+      }
+    },
+    {
+      "team": "0x01d5",
+      "pos": 310,
+      "score": 1,
+      "id": 499,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618679122
+        }
+      }
+    },
+    {
+      "team": "isec-U.O",
+      "pos": 311,
+      "score": 1,
+      "id": 501,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618679857
+        }
+      }
+    },
+    {
+      "team": "testteam",
+      "pos": 312,
+      "score": 1,
+      "id": 507,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618681704
+        }
+      }
+    },
+    {
+      "team": "tyl3rsec",
+      "pos": 313,
+      "score": 1,
+      "id": 504,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618681905
+        }
+      }
+    },
+    {
+      "team": "cyberdatum",
+      "pos": 314,
+      "score": 1,
+      "id": 508,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618682583
+        }
+      }
+    },
+    {
+      "team": "Hashdogs",
+      "pos": 315,
+      "score": 1,
+      "id": 510,
+      "taskStats": {
+        "Sponsor": {
+          "points": 1,
+          "time": 1618682684
+        }
+      }
+    },
+    {
+      "team": "absolem",
+      "pos": 316,
+      "score": 1,
+      "id": 511,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618683814
+        }
+      }
+    },
+    {
+      "team": "Ok",
+      "pos": 317,
+      "score": 1,
+      "id": 4,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618684264
+        }
+      }
+    },
+    {
+      "team": "Closers",
+      "pos": 318,
+      "score": 1,
+      "id": 528,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618690764
+        }
+      }
+    },
+    {
+      "team": "KapiSec",
+      "pos": 319,
+      "score": 1,
+      "id": 69,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 1,
+          "time": 1618693713
+        }
+      }
+    }
+  ],
+  "date": 1618585200,
+  "name": "Incognito 2.0"
+}
