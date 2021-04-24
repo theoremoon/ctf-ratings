@@ -60,6 +60,7 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - White-Hats Break the Syntax CTF (ssl handshake failed)
 - Volga CTF2021 Qualifier (non-scrapable original platform)
 - BSides Canberra CTF 2021 (scoreboard closed already)
+- Cyber Apocalypse 2021 (how do I scrape htb ctf platform?)
 
 ## Author
 
