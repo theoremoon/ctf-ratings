@@ -2,9 +2,7 @@ import requests
 from urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
 from urllib.parse import urljoin
-from datetime import datetime
 from logging import getLogger, StreamHandler, Formatter
-from tqdm import tqdm
 from http.cookies import SimpleCookie
 
 logger = getLogger(__name__)
