@@ -1,0 +1,3162 @@
+{
+  "tasks": [
+    "S4CTF{Are_You_Alive!}",
+    "Baby-XoR",
+    "Baby-IQ",
+    "Baby-RSA",
+    "Merles",
+    "Malady",
+    "Khayyam",
+    "Genie",
+    "Phillip",
+    "OhBabyBaby",
+    "Miss Me",
+    "Heap Heap",
+    "Manga Store",
+    "Pwnership",
+    "b64lib",
+    "junior-login",
+    "junior-jwt",
+    "junior-php",
+    "file-upload",
+    "So Safe Website",
+    "another note app",
+    "ninidibi",
+    "bisquite",
+    "Tom",
+    "Determinant",
+    "Secure Protocol",
+    "PTS",
+    "Warm Welcome",
+    "Redge",
+    "RE Diary",
+    "Dive in to Numbers",
+    "Water Color",
+    "Compiler Hell",
+    "tertiary",
+    "Bug Report 1",
+    "Bug Report 2",
+    "Survey"
+  ],
+  "standings": [
+    {
+      "team": "Super Guesser",
+      "pos": 1,
+      "score": 8935,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Malady": null,
+        "Khayyam": null,
+        "Genie": null,
+        "Phillip": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "Heap Heap": null,
+        "Manga Store": null,
+        "Pwnership": null,
+        "b64lib": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "file-upload": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Determinant": null,
+        "Secure Protocol": null,
+        "PTS": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "RE Diary": null,
+        "Dive in to Numbers": null,
+        "Water Color": null,
+        "Compiler Hell": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 2,
+      "score": 7981,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Malady": null,
+        "Khayyam": null,
+        "Genie": null,
+        "Phillip": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "Heap Heap": null,
+        "Manga Store": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "file-upload": null,
+        "So Safe Website": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Determinant": null,
+        "Secure Protocol": null,
+        "PTS": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "RE Diary": null,
+        "Water Color": null,
+        "Compiler Hell": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "zh3r0",
+      "pos": 3,
+      "score": 5035,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Khayyam": null,
+        "Genie": null,
+        "Phillip": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "Heap Heap": null,
+        "Manga Store": null,
+        "Pwnership": null,
+        "b64lib": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "RE Diary": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "0nlyFlags",
+      "pos": 4,
+      "score": 4732,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Khayyam": null,
+        "Genie": null,
+        "Phillip": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Determinant": null,
+        "PTS": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "RE Diary": null,
+        "Water Color": null,
+        "tertiary": null,
+        "Bug Report 1": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "GEB2L",
+      "pos": 5,
+      "score": 4145,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Khayyam": null,
+        "Genie": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Determinant": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "RE Diary": null,
+        "Water Color": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "skateboarding dog",
+      "pos": 6,
+      "score": 3361,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Malady": null,
+        "Khayyam": null,
+        "Genie": null,
+        "Phillip": null,
+        "OhBabyBaby": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Determinant": null,
+        "PTS": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "riticalc",
+      "pos": 7,
+      "score": 3273,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Khayyam": null,
+        "Genie": null,
+        "OhBabyBaby": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Determinant": null,
+        "Secure Protocol": null,
+        "PTS": null,
+        "Warm Welcome": null,
+        "Compiler Hell": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "7sukuy0mi",
+      "pos": 8,
+      "score": 2952,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Khayyam": null,
+        "Genie": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Determinant": null,
+        "PTS": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "AbyssalCruelty",
+      "pos": 9,
+      "score": 2375,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "tertiary": null,
+        "Bug Report 1": null,
+        "Bug Report 2": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "K3RN3L4RMY",
+      "pos": 10,
+      "score": 2311,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Merles": null,
+        "Khayyam": null,
+        "Genie": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "NotSure",
+      "pos": 11,
+      "score": 2131,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "Hermes1320",
+      "pos": 12,
+      "score": 1855,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Malady": null,
+        "Khayyam": null,
+        "Genie": null,
+        "Phillip": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 13,
+      "score": 1853,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "Heap Heap": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "kasiatutej",
+      "pos": 14,
+      "score": 1827,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Malady": null,
+        "Khayyam": null,
+        "Genie": null,
+        "Phillip": null
+      }
+    },
+    {
+      "team": "HaghGoyan",
+      "pos": 15,
+      "score": 1775,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "tu2nd0wnf02wh4t",
+      "pos": 16,
+      "score": 1705,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "TMU",
+      "pos": 17,
+      "score": 1677,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Khayyam": null,
+        "Genie": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "CSI",
+      "pos": 18,
+      "score": 1571,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Merles": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "Determinant": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Termax",
+      "pos": 19,
+      "score": 1357,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Tom": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "Pororos",
+      "pos": 20,
+      "score": 1181,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-RSA": null,
+        "Khayyam": null,
+        "Genie": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "ninidibi": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "SessionChunk",
+      "pos": 21,
+      "score": 1162,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 22,
+      "score": 1095,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "Redge": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "nullz",
+      "pos": 23,
+      "score": 1064,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "OhBabyBaby": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "NAVER Cloud",
+      "pos": 24,
+      "score": 1064,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "OhBabyBaby": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Inner Savages",
+      "pos": 25,
+      "score": 994,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "irRaptors 2",
+      "pos": 26,
+      "score": 993,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Merles": null,
+        "junior-jwt": null,
+        "junior-php": null,
+        "ninidibi": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "perspolis",
+      "pos": 27,
+      "score": 985,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "PTS": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "<script>alert(\"Ping\")</script>",
+      "pos": 28,
+      "score": 844,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "OhBabyBaby": null,
+        "junior-login": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "MorningLightMountain",
+      "pos": 29,
+      "score": 816,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "ri5e",
+      "pos": 30,
+      "score": 754,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "flag{}___Orz",
+      "pos": 31,
+      "score": 734,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-IQ": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "ninidibi": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "GRAIL TEAM",
+      "pos": 32,
+      "score": 670,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Disqualified",
+      "pos": 33,
+      "score": 663,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "ninidibi": null,
+        "PTS": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "rpjim",
+      "pos": 34,
+      "score": 659,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null,
+        "Miss Me": null,
+        "junior-login": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "RPCA Cyber Club",
+      "pos": 35,
+      "score": 643,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "byc_404",
+      "pos": 36,
+      "score": 594,
+      "taskStats": {
+        "junior-login": null,
+        "junior-jwt": null,
+        "junior-php": null
+      }
+    },
+    {
+      "team": "cew",
+      "pos": 37,
+      "score": 586,
+      "taskStats": {
+        "Warm Welcome": null,
+        "Water Color": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "APA Razi",
+      "pos": 38,
+      "score": 585,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "arku1",
+      "pos": 39,
+      "score": 574,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "empty_",
+      "pos": 40,
+      "score": 571,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Khayyam": null,
+        "OhBabyBaby": null,
+        "Warm Welcome": null,
+        "tertiary": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "Greedy Wolves",
+      "pos": 41,
+      "score": 561,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "ninidibi": null,
+        "bisquite": null
+      }
+    },
+    {
+      "team": "gru80967@eoopy.com",
+      "pos": 42,
+      "score": 545,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Khayyam": null
+      }
+    },
+    {
+      "team": "APA-UMZ",
+      "pos": 43,
+      "score": 514,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "junior-login": null,
+        "junior-jwt": null,
+        "Warm Welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "fhohwa",
+      "pos": 44,
+      "score": 471,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "DarkPwners",
+      "pos": 45,
+      "score": 436,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null,
+        "junior-jwt": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Wanna.One",
+      "pos": 46,
+      "score": 434,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null,
+        "junior-php": null
+      }
+    },
+    {
+      "team": "BTC",
+      "pos": 47,
+      "score": 418,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "egg",
+      "pos": 48,
+      "score": 409,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "junior-jwt": null,
+        "junior-php": null
+      }
+    },
+    {
+      "team": "WAT3RM3LON",
+      "pos": 49,
+      "score": 403,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "Yenafar",
+      "pos": 50,
+      "score": 393,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Baby-RSA": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "Alcoh0L Forc3",
+      "pos": 51,
+      "score": 342,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "ninidibi": null,
+        "bisquite": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "stdnoerr",
+      "pos": 52,
+      "score": 323,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null,
+        "Miss Me": null
+      }
+    },
+    {
+      "team": "sashaCTF",
+      "pos": 53,
+      "score": 323,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null,
+        "Miss Me": null
+      }
+    },
+    {
+      "team": "inlovewith_codemiko_technician",
+      "pos": 54,
+      "score": 323,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null,
+        "Miss Me": null
+      }
+    },
+    {
+      "team": "oden",
+      "pos": 55,
+      "score": 307,
+      "taskStats": {
+        "OhBabyBaby": null,
+        "Miss Me": null
+      }
+    },
+    {
+      "team": "PatanjaliHax",
+      "pos": 56,
+      "score": 289,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "ninidibi": null,
+        "Warm Welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "flagHunters",
+      "pos": 57,
+      "score": 285,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "junior-jwt": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "xisop",
+      "pos": 58,
+      "score": 278,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "junior-login": null
+      }
+    },
+    {
+      "team": "peach",
+      "pos": 59,
+      "score": 277,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null,
+        "Warm Welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "豌豆糯米队",
+      "pos": 60,
+      "score": 275,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "junior-php": null
+      }
+    },
+    {
+      "team": "FFF",
+      "pos": 61,
+      "score": 265,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "dcua",
+      "pos": 62,
+      "score": 265,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "CyKor",
+      "pos": 63,
+      "score": 265,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Tomas: The Professional",
+      "pos": 64,
+      "score": 265,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "exitzero.de",
+      "pos": 65,
+      "score": 265,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Geekster",
+      "pos": 66,
+      "score": 264,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-IQ": null,
+        "junior-jwt": null
+      }
+    },
+    {
+      "team": "Oo0",
+      "pos": 67,
+      "score": 251,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-RSA": null
+      }
+    },
+    {
+      "team": "poteji9090",
+      "pos": 68,
+      "score": 251,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-RSA": null
+      }
+    },
+    {
+      "team": "L3o",
+      "pos": 69,
+      "score": 228,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "ninidibi": null,
+        "Warm Welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "CTFcan",
+      "pos": 70,
+      "score": 219,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "hamayanhamayan",
+      "pos": 71,
+      "score": 217,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "junior-login": null
+      }
+    },
+    {
+      "team": "Binan",
+      "pos": 72,
+      "score": 204,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Dashu",
+      "pos": 73,
+      "score": 204,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "mashiro",
+      "pos": 74,
+      "score": 201,
+      "taskStats": {
+        "junior-login": null
+      }
+    },
+    {
+      "team": "Ov3rH4ck",
+      "pos": 75,
+      "score": 200,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "ninidibi": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "TRUE",
+      "pos": 76,
+      "score": 191,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null
+      }
+    },
+    {
+      "team": "Proest@",
+      "pos": 77,
+      "score": 191,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Baby-IQ": null
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 78,
+      "score": 188,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "4k3l4rr3",
+      "pos": 79,
+      "score": 187,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "ninidibi": null
+      }
+    },
+    {
+      "team": "50kk0",
+      "pos": 80,
+      "score": 186,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "bisquite": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "Random_Ctf_Name",
+      "pos": 81,
+      "score": 179,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "c0wb3ll",
+      "pos": 82,
+      "score": 175,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "tozo",
+      "pos": 83,
+      "score": 175,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 84,
+      "score": 151,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "Hacky Easter",
+      "pos": 85,
+      "score": 151,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "anat0mist",
+      "pos": 86,
+      "score": 151,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "GanSw",
+      "pos": 87,
+      "score": 151,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 88,
+      "score": 151,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "Apachee",
+      "pos": 89,
+      "score": 151,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "UMZ",
+      "pos": 90,
+      "score": 151,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "SuiCide",
+      "pos": 91,
+      "score": 150,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "junior-jwt": null
+      }
+    },
+    {
+      "team": "HACKWARE",
+      "pos": 92,
+      "score": 130,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "tertiary": null
+      }
+    },
+    {
+      "team": "Killer Queen",
+      "pos": 93,
+      "score": 114,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "l0wlife",
+      "pos": 94,
+      "score": 114,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "bum-bhole",
+      "pos": 95,
+      "score": 114,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "G2mtu",
+      "pos": 96,
+      "score": 114,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 97,
+      "score": 114,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "EthicalCookieLovers",
+      "pos": 98,
+      "score": 105,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "mehrdad",
+      "pos": 99,
+      "score": 105,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "Avocari",
+      "pos": 100,
+      "score": 105,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "armitage",
+      "pos": 101,
+      "score": 98,
+      "taskStats": {
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "ffff",
+      "pos": 102,
+      "score": 98,
+      "taskStats": {
+        "OhBabyBaby": null
+      }
+    },
+    {
+      "team": "Lynch",
+      "pos": 103,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "Veno",
+      "pos": 104,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "pais",
+      "pos": 105,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "Area{51}",
+      "pos": 106,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "TreRnerd",
+      "pos": 107,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "lazy grad students",
+      "pos": 108,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "arnial's team",
+      "pos": 109,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "pickahut",
+      "pos": 110,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "Closers",
+      "pos": 111,
+      "score": 90,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "Xenolith",
+      "pos": 112,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "taurus",
+      "pos": 113,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "Team_Matrix",
+      "pos": 114,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "Barbaresoft",
+      "pos": 115,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "Friendly Hacks",
+      "pos": 116,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "Lababu bomb",
+      "pos": 117,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "sherlock",
+      "pos": 118,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "HirTeam",
+      "pos": 119,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "HSA",
+      "pos": 120,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "her0zer0",
+      "pos": 121,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "Enterprize1",
+      "pos": 122,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "Xx813xX",
+      "pos": 123,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "OctaC0re",
+      "pos": 124,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "poigiatre",
+      "pos": 125,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "morya",
+      "pos": 126,
+      "score": 77,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Baby-XoR": null
+      }
+    },
+    {
+      "team": "The Haftkhan",
+      "pos": 127,
+      "score": 74,
+      "taskStats": {
+        "Warm Welcome": null
+      }
+    },
+    {
+      "team": "sor9ly",
+      "pos": 128,
+      "score": 44,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "cyberbangla",
+      "pos": 129,
+      "score": 44,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "Ultra Security Team",
+      "pos": 130,
+      "score": 44,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "whitehathacker8181",
+      "pos": 131,
+      "score": 44,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "flyfree",
+      "pos": 132,
+      "score": 44,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "KapiSec",
+      "pos": 133,
+      "score": 44,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null,
+        "Survey": null
+      }
+    },
+    {
+      "team": "test",
+      "pos": 134,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "TTeam",
+      "pos": 135,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "R3MAN3",
+      "pos": 136,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Hope'*'me",
+      "pos": 137,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "evilsockets",
+      "pos": 138,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "exec(hack)",
+      "pos": 139,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "حصین",
+      "pos": 140,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "BackMoon",
+      "pos": 141,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "toxichunters",
+      "pos": 142,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Fr0gz",
+      "pos": 143,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "DumbChicks",
+      "pos": 144,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Miscellaneous",
+      "pos": 145,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "mrdata",
+      "pos": 146,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "silentshinigamii",
+      "pos": 147,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "L10n5",
+      "pos": 148,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "allafhaaa",
+      "pos": 149,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Lol1012",
+      "pos": 150,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Pr0m3th3u3s",
+      "pos": 151,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "TestTeam007",
+      "pos": 152,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Darkness",
+      "pos": 153,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Cyber_Sky",
+      "pos": 154,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "7h3w4lk3r",
+      "pos": 155,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "7minremain",
+      "pos": 156,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "spear",
+      "pos": 157,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Dark Souls",
+      "pos": 158,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "hollywarrior1_team",
+      "pos": 159,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "ahmads",
+      "pos": 160,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "hacker101",
+      "pos": 161,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "EwerNeo",
+      "pos": 162,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "hackcoeur",
+      "pos": 163,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "The Cyber Grabs",
+      "pos": 164,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Hojjat",
+      "pos": 165,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "R&D_CCA",
+      "pos": 166,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "StolenBytes",
+      "pos": 167,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Exodius",
+      "pos": 168,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Butter",
+      "pos": 169,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "NewTeam",
+      "pos": 170,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "None",
+      "pos": 171,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "TTM",
+      "pos": 172,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Chaos",
+      "pos": 173,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "R",
+      "pos": 174,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "pepega",
+      "pos": 175,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "m4lw4r3",
+      "pos": 176,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Darkbeast",
+      "pos": 177,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "zuzu",
+      "pos": 178,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Hackatsuki",
+      "pos": 179,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "se.zone",
+      "pos": 180,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "SOLO",
+      "pos": 181,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "MayDay",
+      "pos": 182,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "army_of_one",
+      "pos": 183,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "M1dnytExplo17z",
+      "pos": 184,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Hooli",
+      "pos": 185,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "geek2",
+      "pos": 186,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "javox",
+      "pos": 187,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "ZabivnoyApelsin!",
+      "pos": 188,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "k",
+      "pos": 189,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "MHHteam",
+      "pos": 190,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Hacking Help",
+      "pos": 191,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "thecontainerisalie",
+      "pos": 192,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "gruf",
+      "pos": 193,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "kgrzk",
+      "pos": 194,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "SaudiPwners",
+      "pos": 195,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "The PySec Team",
+      "pos": 196,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Sanshikiyoukan",
+      "pos": 197,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "PersianCats",
+      "pos": 198,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Catastrophe",
+      "pos": 199,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "LotusAssembly",
+      "pos": 200,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "fzhshzh",
+      "pos": 201,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "z3r01",
+      "pos": 202,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "prequelinjections",
+      "pos": 203,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "StrixGoldhorn",
+      "pos": 204,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "CAT",
+      "pos": 205,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "torrentFunk",
+      "pos": 206,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "There is nothing left for him except the longing for another gamble",
+      "pos": 207,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "WhiteHat2021",
+      "pos": 208,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "The Mag Warriors",
+      "pos": 209,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "skullxploit",
+      "pos": 210,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "MEOW",
+      "pos": 211,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "silla",
+      "pos": 212,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Blackout3",
+      "pos": 213,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "losers",
+      "pos": 214,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Reapers",
+      "pos": 215,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "l33t",
+      "pos": 216,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "KING_OF_MONSTERS",
+      "pos": 217,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "$Dark_Warrior$",
+      "pos": 218,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Deadshot",
+      "pos": 219,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Isaac",
+      "pos": 220,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "devnull",
+      "pos": 221,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Ammas_Hackers",
+      "pos": 222,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "pitza",
+      "pos": 223,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "PARSECT",
+      "pos": 224,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "MasihBelajar",
+      "pos": 225,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "TmT",
+      "pos": 226,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "WestDun01",
+      "pos": 227,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "noop",
+      "pos": 228,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "cby234",
+      "pos": 229,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "NCTOP",
+      "pos": 230,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "c1ph3r",
+      "pos": 231,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "mikejam",
+      "pos": 232,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Horde",
+      "pos": 233,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "p0rkan0x",
+      "pos": 234,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Raf",
+      "pos": 235,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "noTeam",
+      "pos": 236,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "<OOO>",
+      "pos": 237,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Rasser",
+      "pos": 238,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "123123",
+      "pos": 239,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "HxH",
+      "pos": 240,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Biasalah",
+      "pos": 241,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Venom",
+      "pos": 242,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "blue sky",
+      "pos": 243,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "hackk",
+      "pos": 244,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "ouillle",
+      "pos": 245,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "IsolatingBeforeItWasCool",
+      "pos": 246,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "N0000B",
+      "pos": 247,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "deadsoul53",
+      "pos": 248,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "stndrt",
+      "pos": 249,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "inquisti0n",
+      "pos": 250,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "felfel",
+      "pos": 251,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "zwhubuntu",
+      "pos": 252,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "H4CKM3",
+      "pos": 253,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "A",
+      "pos": 254,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "AUWO",
+      "pos": 255,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "raederwass",
+      "pos": 256,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "ihatecoding",
+      "pos": 257,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Setup",
+      "pos": 258,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "ms0l34ndr",
+      "pos": 259,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Thehackerscrew",
+      "pos": 260,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Omaviat",
+      "pos": 261,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "byte",
+      "pos": 262,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "SecureMature",
+      "pos": 263,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "nishiwakki",
+      "pos": 264,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "1x0x2",
+      "pos": 265,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Rottweiler Cat",
+      "pos": 266,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "CyberRoot",
+      "pos": 267,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "HackForce",
+      "pos": 268,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "gh05t",
+      "pos": 269,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "ATMteam",
+      "pos": 270,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "sayN0m0r3",
+      "pos": 271,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Shepard990Teame",
+      "pos": 272,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Amdy",
+      "pos": 273,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "TourRadar",
+      "pos": 274,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "noob",
+      "pos": 275,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Aptitude",
+      "pos": 276,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "SPC-ACM",
+      "pos": 277,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "badsctr",
+      "pos": 278,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Team8",
+      "pos": 279,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "gambith",
+      "pos": 280,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "vaceb",
+      "pos": 281,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "T3n4ci0us",
+      "pos": 282,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "nteam",
+      "pos": 283,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Zzz",
+      "pos": 284,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "ixix2634",
+      "pos": 285,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "hogehoge",
+      "pos": 286,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "PTIT_TheDreamer",
+      "pos": 287,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "R4V4N",
+      "pos": 288,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "AGallonFlags",
+      "pos": 289,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "2ndTeam",
+      "pos": 290,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Cyber Ninja",
+      "pos": 291,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "lAvengersl",
+      "pos": 292,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "TeamH4C",
+      "pos": 293,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "falcon",
+      "pos": 294,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "byte",
+      "pos": 295,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "psyx",
+      "pos": 296,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Slab Allocator",
+      "pos": 297,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "karipap",
+      "pos": 298,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "UrlBin",
+      "pos": 299,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "MQCybersec",
+      "pos": 300,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "doubleRatchet",
+      "pos": 301,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "NotHotdog",
+      "pos": 302,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "HsVcs",
+      "pos": 303,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "N3rds",
+      "pos": 304,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "test",
+      "pos": 305,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Break_The_Rules",
+      "pos": 306,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "Cosmo",
+      "pos": 307,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "b0o5t3d",
+      "pos": 308,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "pixxxel",
+      "pos": 309,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "MQCybersec",
+      "pos": 310,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "E.Corp",
+      "pos": 311,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    },
+    {
+      "team": "w1ldc4t",
+      "pos": 312,
+      "score": 16,
+      "taskStats": {
+        "S4CTF{Are_You_Alive!}": null
+      }
+    }
+  ],
+  "date": 1619103600,
+  "name": "S4CTF 2021"
+}
