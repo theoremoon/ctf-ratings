@@ -61,6 +61,9 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - Volga CTF2021 Qualifier (non-scrapable original platform)
 - BSides Canberra CTF 2021 (scoreboard closed already)
 - Cyber Apocalypse 2021 (how do I scrape htb ctf platform?)
+- Hero CTF v3 (bot check)
+- WPICTF (cloudflare)
+- TAMU CTF (cannot see solved tasks of other teams)
 
 ## Author
 
