@@ -1,0 +1,6103 @@
+{
+  "tasks": [
+    "say-hellooo",
+    "cozen",
+    "baby-a-fallen-lap-ray",
+    "mra",
+    "nooombers",
+    "nooopster",
+    "exploit-for-dummies",
+    "mooosl",
+    "mama-a-fallen-lap-ray",
+    "rick",
+    "gran-a-fallen-lap-ray",
+    "coooinbase",
+    "coooinbase-kernel",
+    "pza999",
+    "qoo-or-ooo",
+    "rad",
+    "tiamat",
+    "segnalooo",
+    "back-to-qoo",
+    "smart-cryptooo",
+    "looocked-ooout",
+    "still-loooked-out",
+    "threefactooorx",
+    "pooow-buddy",
+    "pooow-pal"
+  ],
+  "standings": [
+    {
+      "team": "PPP",
+      "pos": 1,
+      "score": 3484,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827572
+        },
+        "mra": {
+          "time": 1619845566
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619863246
+        },
+        "exploit-for-dummies": {
+          "time": 1619873432
+        },
+        "nooopster": {
+          "time": 1619883498
+        },
+        "mooosl": {
+          "time": 1619892977
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619901337
+        },
+        "coooinbase": {
+          "time": 1619902765
+        },
+        "coooinbase-kernel": {
+          "time": 1619903930
+        },
+        "qoo-or-ooo": {
+          "time": 1619907785
+        },
+        "rick": {
+          "time": 1619908150
+        },
+        "nooombers": {
+          "time": 1619913274
+        },
+        "segnalooo": {
+          "time": 1619925683
+        },
+        "back-to-qoo": {
+          "time": 1619928782
+        },
+        "pooow-buddy": {
+          "time": 1619958346
+        },
+        "threefactooorx": {
+          "time": 1619979412
+        },
+        "rad": {
+          "time": 1619992285
+        },
+        "smart-cryptooo": {
+          "time": 1619995127
+        },
+        "tiamat": {
+          "time": 1619997721
+        }
+      }
+    },
+    {
+      "team": "Katzebin",
+      "pos": 2,
+      "score": 3279,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829834
+        },
+        "mra": {
+          "time": 1619844965
+        },
+        "nooombers": {
+          "time": 1619850307
+        },
+        "nooopster": {
+          "time": 1619856694
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619864740
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619867121
+        },
+        "mooosl": {
+          "time": 1619894544
+        },
+        "rick": {
+          "time": 1619895611
+        },
+        "qoo-or-ooo": {
+          "time": 1619917692
+        },
+        "back-to-qoo": {
+          "time": 1619924231
+        },
+        "threefactooorx": {
+          "time": 1619935901
+        },
+        "coooinbase": {
+          "time": 1619937804
+        },
+        "pooow-buddy": {
+          "time": 1619946991
+        },
+        "coooinbase-kernel": {
+          "time": 1619948457
+        },
+        "tiamat": {
+          "time": 1619953435
+        },
+        "segnalooo": {
+          "time": 1619977220
+        },
+        "smart-cryptooo": {
+          "time": 1619980660
+        },
+        "gran-a-fallen-lap-ray": {
+          "time": 1619989866
+        }
+      }
+    },
+    {
+      "team": "Tea Deliverers",
+      "pos": 3,
+      "score": 3275,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828175
+        },
+        "mra": {
+          "time": 1619849608
+        },
+        "nooombers": {
+          "time": 1619854769
+        },
+        "nooopster": {
+          "time": 1619861607
+        },
+        "qoo-or-ooo": {
+          "time": 1619902725
+        },
+        "rick": {
+          "time": 1619909395
+        },
+        "back-to-qoo": {
+          "time": 1619926192
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619938749
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619938908
+        },
+        "threefactooorx": {
+          "time": 1619939764
+        },
+        "pooow-buddy": {
+          "time": 1619948835
+        },
+        "coooinbase": {
+          "time": 1619958322
+        },
+        "coooinbase-kernel": {
+          "time": 1619960960
+        },
+        "mooosl": {
+          "time": 1619967464
+        },
+        "smart-cryptooo": {
+          "time": 1619970200
+        },
+        "segnalooo": {
+          "time": 1619980352
+        },
+        "tiamat": {
+          "time": 1619987701
+        },
+        "exploit-for-dummies": {
+          "time": 1619989316
+        },
+        "pooow-pal": {
+          "time": 1619995152
+        }
+      }
+    },
+    {
+      "team": "HITCON ⚔ Balsn",
+      "pos": 4,
+      "score": 2960,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829112
+        },
+        "nooombers": {
+          "time": 1619850869
+        },
+        "mra": {
+          "time": 1619853009
+        },
+        "nooopster": {
+          "time": 1619876340
+        },
+        "exploit-for-dummies": {
+          "time": 1619892351
+        },
+        "mooosl": {
+          "time": 1619899315
+        },
+        "qoo-or-ooo": {
+          "time": 1619900753
+        },
+        "rick": {
+          "time": 1619928680
+        },
+        "smart-cryptooo": {
+          "time": 1619932835
+        },
+        "back-to-qoo": {
+          "time": 1619941100
+        },
+        "threefactooorx": {
+          "time": 1619946304
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619949006
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619949887
+        },
+        "pooow-buddy": {
+          "time": 1619954939
+        },
+        "coooinbase-kernel": {
+          "time": 1619969610
+        },
+        "coooinbase": {
+          "time": 1619969723
+        },
+        "segnalooo": {
+          "time": 1619976671
+        },
+        "pooow-pal": {
+          "time": 1619988965
+        }
+      }
+    },
+    {
+      "team": "r3kapig",
+      "pos": 5,
+      "score": 2641,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829274
+        },
+        "mra": {
+          "time": 1619853862
+        },
+        "nooombers": {
+          "time": 1619866514
+        },
+        "nooopster": {
+          "time": 1619867728
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619870843
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619872169
+        },
+        "rick": {
+          "time": 1619902740
+        },
+        "qoo-or-ooo": {
+          "time": 1619919091
+        },
+        "back-to-qoo": {
+          "time": 1619922447
+        },
+        "threefactooorx": {
+          "time": 1619933415
+        },
+        "mooosl": {
+          "time": 1619935158
+        },
+        "pooow-buddy": {
+          "time": 1619945464
+        },
+        "tiamat": {
+          "time": 1619955333
+        },
+        "coooinbase": {
+          "time": 1619965692
+        },
+        "exploit-for-dummies": {
+          "time": 1619972688
+        },
+        "segnalooo": {
+          "time": 1619984678
+        },
+        "coooinbase-kernel": {
+          "time": 1619987214
+        }
+      }
+    },
+    {
+      "team": "PTB_WTL",
+      "pos": 6,
+      "score": 2464,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619846673
+        },
+        "nooombers": {
+          "time": 1619874304
+        },
+        "mra": {
+          "time": 1619877413
+        },
+        "nooopster": {
+          "time": 1619888288
+        },
+        "rick": {
+          "time": 1619901032
+        },
+        "qoo-or-ooo": {
+          "time": 1619904496
+        },
+        "exploit-for-dummies": {
+          "time": 1619946294
+        },
+        "threefactooorx": {
+          "time": 1619952826
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619955762
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619957205
+        },
+        "coooinbase": {
+          "time": 1619958116
+        },
+        "pooow-buddy": {
+          "time": 1619961070
+        },
+        "coooinbase-kernel": {
+          "time": 1619964269
+        },
+        "back-to-qoo": {
+          "time": 1619976344
+        },
+        "segnalooo": {
+          "time": 1619994743
+        },
+        "tiamat": {
+          "time": 1619996604
+        }
+      }
+    },
+    {
+      "team": "StarBugs",
+      "pos": 7,
+      "score": 2452,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827876
+        },
+        "mra": {
+          "time": 1619842342
+        },
+        "nooombers": {
+          "time": 1619859812
+        },
+        "nooopster": {
+          "time": 1619862805
+        },
+        "mooosl": {
+          "time": 1619910347
+        },
+        "coooinbase": {
+          "time": 1619917398
+        },
+        "coooinbase-kernel": {
+          "time": 1619921641
+        },
+        "qoo-or-ooo": {
+          "time": 1619925707
+        },
+        "rick": {
+          "time": 1619929124
+        },
+        "back-to-qoo": {
+          "time": 1619936418
+        },
+        "threefactooorx": {
+          "time": 1619938900
+        },
+        "pooow-buddy": {
+          "time": 1619942941
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619948200
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619949268
+        },
+        "segnalooo": {
+          "time": 1619972136
+        },
+        "pooow-pal": {
+          "time": 1619988457
+        }
+      }
+    },
+    {
+      "team": "NorseCode",
+      "pos": 8,
+      "score": 2365,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827924
+        },
+        "mra": {
+          "time": 1619851089
+        },
+        "nooopster": {
+          "time": 1619865550
+        },
+        "nooombers": {
+          "time": 1619895410
+        },
+        "qoo-or-ooo": {
+          "time": 1619902471
+        },
+        "coooinbase": {
+          "time": 1619908969
+        },
+        "rick": {
+          "time": 1619915181
+        },
+        "coooinbase-kernel": {
+          "time": 1619940425
+        },
+        "threefactooorx": {
+          "time": 1619943459
+        },
+        "back-to-qoo": {
+          "time": 1619951249
+        },
+        "pooow-buddy": {
+          "time": 1619956191
+        },
+        "exploit-for-dummies": {
+          "time": 1619961381
+        },
+        "smart-cryptooo": {
+          "time": 1619993496
+        },
+        "pooow-pal": {
+          "time": 1619998987
+        },
+        "segnalooo": {
+          "time": 1619999077
+        }
+      }
+    },
+    {
+      "team": "Nu1L",
+      "pos": 9,
+      "score": 2326,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829700
+        },
+        "mra": {
+          "time": 1619843816
+        },
+        "nooopster": {
+          "time": 1619852124
+        },
+        "nooombers": {
+          "time": 1619859947
+        },
+        "rick": {
+          "time": 1619925101
+        },
+        "mooosl": {
+          "time": 1619931866
+        },
+        "qoo-or-ooo": {
+          "time": 1619932502
+        },
+        "threefactooorx": {
+          "time": 1619938024
+        },
+        "coooinbase": {
+          "time": 1619940460
+        },
+        "back-to-qoo": {
+          "time": 1619942753
+        },
+        "pooow-buddy": {
+          "time": 1619947254
+        },
+        "coooinbase-kernel": {
+          "time": 1619952116
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619961926
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619965660
+        },
+        "exploit-for-dummies": {
+          "time": 1619968926
+        },
+        "segnalooo": {
+          "time": 1619989979
+        }
+      }
+    },
+    {
+      "team": "Shellphish",
+      "pos": 10,
+      "score": 2295,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827523
+        },
+        "mra": {
+          "time": 1619849422
+        },
+        "nooombers": {
+          "time": 1619852985
+        },
+        "nooopster": {
+          "time": 1619865488
+        },
+        "exploit-for-dummies": {
+          "time": 1619924862
+        },
+        "qoo-or-ooo": {
+          "time": 1619930998
+        },
+        "back-to-qoo": {
+          "time": 1619933188
+        },
+        "rick": {
+          "time": 1619935427
+        },
+        "coooinbase": {
+          "time": 1619939015
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619946672
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619946937
+        },
+        "coooinbase-kernel": {
+          "time": 1619948442
+        },
+        "pooow-buddy": {
+          "time": 1619955394
+        },
+        "threefactooorx": {
+          "time": 1619957241
+        },
+        "tiamat": {
+          "time": 1619983159
+        }
+      }
+    },
+    {
+      "team": "mhackeroni",
+      "pos": 11,
+      "score": 2161,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828433
+        },
+        "mra": {
+          "time": 1619865804
+        },
+        "nooombers": {
+          "time": 1619881387
+        },
+        "nooopster": {
+          "time": 1619886833
+        },
+        "rick": {
+          "time": 1619897758
+        },
+        "qoo-or-ooo": {
+          "time": 1619904655
+        },
+        "coooinbase": {
+          "time": 1619917203
+        },
+        "coooinbase-kernel": {
+          "time": 1619952662
+        },
+        "pooow-buddy": {
+          "time": 1619954714
+        },
+        "threefactooorx": {
+          "time": 1619961251
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619966503
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619966806
+        },
+        "back-to-qoo": {
+          "time": 1619972152
+        },
+        "mooosl": {
+          "time": 1619972490
+        },
+        "segnalooo": {
+          "time": 1619999738
+        }
+      }
+    },
+    {
+      "team": "侍",
+      "pos": 12,
+      "score": 1984,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827720
+        },
+        "mra": {
+          "time": 1619845747
+        },
+        "nooopster": {
+          "time": 1619850306
+        },
+        "nooombers": {
+          "time": 1619878936
+        },
+        "qoo-or-ooo": {
+          "time": 1619903731
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619932294
+        },
+        "back-to-qoo": {
+          "time": 1619945438
+        },
+        "threefactooorx": {
+          "time": 1619946644
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619953122
+        },
+        "pooow-buddy": {
+          "time": 1619960496
+        },
+        "coooinbase": {
+          "time": 1619962602
+        },
+        "rick": {
+          "time": 1619962898
+        },
+        "coooinbase-kernel": {
+          "time": 1619967928
+        },
+        "segnalooo": {
+          "time": 1619994216
+        }
+      }
+    },
+    {
+      "team": "Organizers",
+      "pos": 13,
+      "score": 1980,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828125
+        },
+        "mra": {
+          "time": 1619858954
+        },
+        "nooopster": {
+          "time": 1619860504
+        },
+        "rick": {
+          "time": 1619903889
+        },
+        "qoo-or-ooo": {
+          "time": 1619904762
+        },
+        "nooombers": {
+          "time": 1619941495
+        },
+        "back-to-qoo": {
+          "time": 1619944157
+        },
+        "pooow-buddy": {
+          "time": 1619945317
+        },
+        "coooinbase": {
+          "time": 1619952178
+        },
+        "coooinbase-kernel": {
+          "time": 1619955438
+        },
+        "threefactooorx": {
+          "time": 1619972134
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619987704
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619990008
+        },
+        "exploit-for-dummies": {
+          "time": 1619997784
+        }
+      }
+    },
+    {
+      "team": "PFS",
+      "pos": 14,
+      "score": 1908,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828204
+        },
+        "mra": {
+          "time": 1619850527
+        },
+        "nooopster": {
+          "time": 1619878522
+        },
+        "rick": {
+          "time": 1619893219
+        },
+        "exploit-for-dummies": {
+          "time": 1619904981
+        },
+        "nooombers": {
+          "time": 1619915520
+        },
+        "coooinbase": {
+          "time": 1619923616
+        },
+        "coooinbase-kernel": {
+          "time": 1619930573
+        },
+        "threefactooorx": {
+          "time": 1619950155
+        },
+        "mooosl": {
+          "time": 1619950394
+        },
+        "segnalooo": {
+          "time": 1619961792
+        },
+        "pooow-buddy": {
+          "time": 1619967369
+        },
+        "qoo-or-ooo": {
+          "time": 1619973157
+        },
+        "back-to-qoo": {
+          "time": 1619974988
+        }
+      }
+    },
+    {
+      "team": "DiceGang",
+      "pos": 15,
+      "score": 1908,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827664
+        },
+        "mra": {
+          "time": 1619846704
+        },
+        "nooopster": {
+          "time": 1619853303
+        },
+        "nooombers": {
+          "time": 1619880925
+        },
+        "qoo-or-ooo": {
+          "time": 1619901382
+        },
+        "exploit-for-dummies": {
+          "time": 1619903842
+        },
+        "back-to-qoo": {
+          "time": 1619922350
+        },
+        "threefactooorx": {
+          "time": 1619932270
+        },
+        "rick": {
+          "time": 1619946486
+        },
+        "segnalooo": {
+          "time": 1619950068
+        },
+        "coooinbase": {
+          "time": 1619959941
+        },
+        "coooinbase-kernel": {
+          "time": 1619963743
+        },
+        "pooow-buddy": {
+          "time": 1619966505
+        },
+        "mooosl": {
+          "time": 1619993496
+        }
+      }
+    },
+    {
+      "team": "uuunderflow",
+      "pos": 16,
+      "score": 1908,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828645
+        },
+        "mra": {
+          "time": 1619849964
+        },
+        "nooombers": {
+          "time": 1619871537
+        },
+        "nooopster": {
+          "time": 1619876658
+        },
+        "threefactooorx": {
+          "time": 1619933564
+        },
+        "qoo-or-ooo": {
+          "time": 1619942990
+        },
+        "pooow-buddy": {
+          "time": 1619947882
+        },
+        "back-to-qoo": {
+          "time": 1619953549
+        },
+        "mooosl": {
+          "time": 1619955107
+        },
+        "segnalooo": {
+          "time": 1619955940
+        },
+        "coooinbase": {
+          "time": 1619967440
+        },
+        "coooinbase-kernel": {
+          "time": 1619970357
+        },
+        "exploit-for-dummies": {
+          "time": 1619989144
+        },
+        "rick": {
+          "time": 1619998500
+        }
+      }
+    },
+    {
+      "team": "0daysober",
+      "pos": 17,
+      "score": 1731,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828767
+        },
+        "mra": {
+          "time": 1619859003
+        },
+        "nooopster": {
+          "time": 1619888251
+        },
+        "coooinbase": {
+          "time": 1619904241
+        },
+        "coooinbase-kernel": {
+          "time": 1619908996
+        },
+        "nooombers": {
+          "time": 1619938907
+        },
+        "qoo-or-ooo": {
+          "time": 1619948669
+        },
+        "back-to-qoo": {
+          "time": 1619949229
+        },
+        "pooow-buddy": {
+          "time": 1619952815
+        },
+        "threefactooorx": {
+          "time": 1619959360
+        },
+        "segnalooo": {
+          "time": 1619988985
+        },
+        "exploit-for-dummies": {
+          "time": 1619989339
+        },
+        "rick": {
+          "time": 1619993625
+        }
+      }
+    },
+    {
+      "team": "/bin/tw",
+      "pos": 18,
+      "score": 1731,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828984
+        },
+        "mra": {
+          "time": 1619853631
+        },
+        "nooombers": {
+          "time": 1619863602
+        },
+        "nooopster": {
+          "time": 1619876198
+        },
+        "exploit-for-dummies": {
+          "time": 1619894224
+        },
+        "qoo-or-ooo": {
+          "time": 1619922001
+        },
+        "back-to-qoo": {
+          "time": 1619932467
+        },
+        "threefactooorx": {
+          "time": 1619935041
+        },
+        "pooow-buddy": {
+          "time": 1619969161
+        },
+        "segnalooo": {
+          "time": 1619971739
+        },
+        "rick": {
+          "time": 1619976856
+        },
+        "coooinbase": {
+          "time": 1619996941
+        },
+        "coooinbase-kernel": {
+          "time": 1619999189
+        }
+      }
+    },
+    {
+      "team": "SuperBlue",
+      "pos": 19,
+      "score": 1688,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827993
+        },
+        "nooombers": {
+          "time": 1619848377
+        },
+        "mra": {
+          "time": 1619851468
+        },
+        "nooopster": {
+          "time": 1619867369
+        },
+        "qoo-or-ooo": {
+          "time": 1619906279
+        },
+        "rick": {
+          "time": 1619919711
+        },
+        "back-to-qoo": {
+          "time": 1619931437
+        },
+        "coooinbase": {
+          "time": 1619935404
+        },
+        "coooinbase-kernel": {
+          "time": 1619939031
+        },
+        "pooow-buddy": {
+          "time": 1619940549
+        },
+        "threefactooorx": {
+          "time": 1619947399
+        },
+        "pooow-pal": {
+          "time": 1619992903
+        }
+      }
+    },
+    {
+      "team": "Tasteless",
+      "pos": 20,
+      "score": 1608,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619840799
+        },
+        "mra": {
+          "time": 1619850010
+        },
+        "nooopster": {
+          "time": 1619865194
+        },
+        "nooombers": {
+          "time": 1619910358
+        },
+        "exploit-for-dummies": {
+          "time": 1619921841
+        },
+        "qoo-or-ooo": {
+          "time": 1619930948
+        },
+        "back-to-qoo": {
+          "time": 1619931358
+        },
+        "threefactooorx": {
+          "time": 1619957108
+        },
+        "pooow-buddy": {
+          "time": 1619970516
+        },
+        "rick": {
+          "time": 1619990880
+        },
+        "mooosl": {
+          "time": 1619996478
+        },
+        "segnalooo": {
+          "time": 1619998133
+        }
+      }
+    },
+    {
+      "team": "MoreBushSmokedWhackers",
+      "pos": 21,
+      "score": 1598,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619865080
+        },
+        "mra": {
+          "time": 1619875449
+        },
+        "nooopster": {
+          "time": 1619892196
+        },
+        "exploit-for-dummies": {
+          "time": 1619941063
+        },
+        "threefactooorx": {
+          "time": 1619941112
+        },
+        "rick": {
+          "time": 1619951630
+        },
+        "pooow-buddy": {
+          "time": 1619970469
+        },
+        "pooow-pal": {
+          "time": 1619985268
+        },
+        "coooinbase": {
+          "time": 1619990227
+        },
+        "qoo-or-ooo": {
+          "time": 1619991016
+        },
+        "coooinbase-kernel": {
+          "time": 1619997529
+        }
+      }
+    },
+    {
+      "team": "MapleBacon",
+      "pos": 22,
+      "score": 1586,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827749
+        },
+        "baby-a-fallen-lap-ray": {
+          "time": 1619859229
+        },
+        "mama-a-fallen-lap-ray": {
+          "time": 1619876223
+        },
+        "mra": {
+          "time": 1619878467
+        },
+        "qoo-or-ooo": {
+          "time": 1619908538
+        },
+        "back-to-qoo": {
+          "time": 1619933058
+        },
+        "gran-a-fallen-lap-ray": {
+          "time": 1619962335
+        },
+        "threefactooorx": {
+          "time": 1619996086
+        },
+        "pooow-buddy": {
+          "time": 1619998815
+        }
+      }
+    },
+    {
+      "team": "⚔️TSJ⚔️",
+      "pos": 23,
+      "score": 1423,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829703
+        },
+        "nooombers": {
+          "time": 1619861356
+        },
+        "mra": {
+          "time": 1619866948
+        },
+        "nooopster": {
+          "time": 1619869350
+        },
+        "mooosl": {
+          "time": 1619917002
+        },
+        "threefactooorx": {
+          "time": 1619930485
+        },
+        "qoo-or-ooo": {
+          "time": 1619936721
+        },
+        "back-to-qoo": {
+          "time": 1619944265
+        },
+        "pooow-buddy": {
+          "time": 1619953972
+        },
+        "rick": {
+          "time": 1619974566
+        },
+        "coooinbase": {
+          "time": 1619999122
+        }
+      }
+    },
+    {
+      "team": "RPISEC",
+      "pos": 24,
+      "score": 1419,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829844
+        },
+        "mra": {
+          "time": 1619850434
+        },
+        "nooopster": {
+          "time": 1619854969
+        },
+        "nooombers": {
+          "time": 1619887156
+        },
+        "qoo-or-ooo": {
+          "time": 1619907439
+        },
+        "coooinbase": {
+          "time": 1619927379
+        },
+        "coooinbase-kernel": {
+          "time": 1619933355
+        },
+        "threefactooorx": {
+          "time": 1619941736
+        },
+        "back-to-qoo": {
+          "time": 1619960058
+        },
+        "pooow-buddy": {
+          "time": 1619965690
+        },
+        "segnalooo": {
+          "time": 1619990519
+        }
+      }
+    },
+    {
+      "team": "koreanbadass",
+      "pos": 25,
+      "score": 1415,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829618
+        },
+        "nooopster": {
+          "time": 1619851792
+        },
+        "mra": {
+          "time": 1619853676
+        },
+        "nooombers": {
+          "time": 1619875236
+        },
+        "exploit-for-dummies": {
+          "time": 1619922450
+        },
+        "qoo-or-ooo": {
+          "time": 1619936976
+        },
+        "back-to-qoo": {
+          "time": 1619938511
+        },
+        "threefactooorx": {
+          "time": 1619941459
+        },
+        "coooinbase": {
+          "time": 1619956328
+        },
+        "pooow-buddy": {
+          "time": 1619959135
+        },
+        "coooinbase-kernel": {
+          "time": 1619961757
+        }
+      }
+    },
+    {
+      "team": "K-Students",
+      "pos": 26,
+      "score": 1274,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829873
+        },
+        "mra": {
+          "time": 1619847904
+        },
+        "nooopster": {
+          "time": 1619864687
+        },
+        "nooombers": {
+          "time": 1619884676
+        },
+        "rick": {
+          "time": 1619926763
+        },
+        "qoo-or-ooo": {
+          "time": 1619936492
+        },
+        "back-to-qoo": {
+          "time": 1619939856
+        },
+        "threefactooorx": {
+          "time": 1619944359
+        },
+        "pooow-buddy": {
+          "time": 1619950992
+        },
+        "mooosl": {
+          "time": 1619984716
+        }
+      }
+    },
+    {
+      "team": "OSUSEC",
+      "pos": 27,
+      "score": 1250,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828896
+        },
+        "nooombers": {
+          "time": 1619862452
+        },
+        "mra": {
+          "time": 1619873072
+        },
+        "coooinbase-kernel": {
+          "time": 1619894465
+        },
+        "coooinbase": {
+          "time": 1619895224
+        },
+        "nooopster": {
+          "time": 1619902708
+        },
+        "qoo-or-ooo": {
+          "time": 1619914408
+        },
+        "threefactooorx": {
+          "time": 1619977362
+        },
+        "pooow-buddy": {
+          "time": 1619985567
+        },
+        "back-to-qoo": {
+          "time": 1619987410
+        }
+      }
+    },
+    {
+      "team": "noproplem",
+      "pos": 28,
+      "score": 1194,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619849541
+        },
+        "mra": {
+          "time": 1619855460
+        },
+        "nooopster": {
+          "time": 1619860228
+        },
+        "nooombers": {
+          "time": 1619887884
+        },
+        "mooosl": {
+          "time": 1619957434
+        },
+        "pooow-buddy": {
+          "time": 1619959527
+        },
+        "rick": {
+          "time": 1619973409
+        },
+        "pooow-pal": {
+          "time": 1619991865
+        }
+      }
+    },
+    {
+      "team": "Never Stop Exploiting",
+      "pos": 29,
+      "score": 1156,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832223
+        },
+        "mra": {
+          "time": 1619858058
+        },
+        "nooopster": {
+          "time": 1619874553
+        },
+        "nooombers": {
+          "time": 1619916566
+        },
+        "threefactooorx": {
+          "time": 1619946273
+        },
+        "qoo-or-ooo": {
+          "time": 1619954467
+        },
+        "segnalooo": {
+          "time": 1619965590
+        },
+        "pooow-buddy": {
+          "time": 1619970588
+        },
+        "exploit-for-dummies": {
+          "time": 1619995167
+        }
+      }
+    },
+    {
+      "team": "C4T_BuT_S4D",
+      "pos": 30,
+      "score": 1135,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619858472
+        },
+        "nooopster": {
+          "time": 1619875514
+        },
+        "mra": {
+          "time": 1619877590
+        },
+        "qoo-or-ooo": {
+          "time": 1619943220
+        },
+        "back-to-qoo": {
+          "time": 1619945656
+        },
+        "rick": {
+          "time": 1619950857
+        },
+        "threefactooorx": {
+          "time": 1619954510
+        },
+        "pooow-buddy": {
+          "time": 1619958028
+        },
+        "exploit-for-dummies": {
+          "time": 1619959302
+        }
+      }
+    },
+    {
+      "team": "rhackomandati",
+      "pos": 31,
+      "score": 1097,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830410
+        },
+        "mra": {
+          "time": 1619864781
+        },
+        "nooopster": {
+          "time": 1619876571
+        },
+        "nooombers": {
+          "time": 1619908165
+        },
+        "qoo-or-ooo": {
+          "time": 1619913606
+        },
+        "rick": {
+          "time": 1619948395
+        },
+        "back-to-qoo": {
+          "time": 1619951533
+        },
+        "threefactooorx": {
+          "time": 1619958105
+        },
+        "pooow-buddy": {
+          "time": 1619962213
+        }
+      }
+    },
+    {
+      "team": "Sauercloud",
+      "pos": 32,
+      "score": 1050,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832611
+        },
+        "mra": {
+          "time": 1619850444
+        },
+        "nooopster": {
+          "time": 1619870737
+        },
+        "coooinbase": {
+          "time": 1619960736
+        },
+        "coooinbase-kernel": {
+          "time": 1619961075
+        },
+        "threefactooorx": {
+          "time": 1619978803
+        },
+        "mooosl": {
+          "time": 1619990964
+        },
+        "qoo-or-ooo": {
+          "time": 1619993471
+        }
+      }
+    },
+    {
+      "team": "Dragon Sector",
+      "pos": 33,
+      "score": 1041,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831228
+        },
+        "mra": {
+          "time": 1619883297
+        },
+        "nooopster": {
+          "time": 1619890992
+        },
+        "segnalooo": {
+          "time": 1619937395
+        },
+        "pooow-buddy": {
+          "time": 1619961672
+        },
+        "coooinbase": {
+          "time": 1619985601
+        },
+        "coooinbase-kernel": {
+          "time": 1619994275
+        },
+        "qoo-or-ooo": {
+          "time": 1619997035
+        }
+      }
+    },
+    {
+      "team": "./Vespiary",
+      "pos": 34,
+      "score": 950,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838159
+        },
+        "nooombers": {
+          "time": 1619863362
+        },
+        "nooopster": {
+          "time": 1619894172
+        },
+        "mra": {
+          "time": 1619915424
+        },
+        "threefactooorx": {
+          "time": 1619956044
+        },
+        "pooow-buddy": {
+          "time": 1619976900
+        },
+        "qoo-or-ooo": {
+          "time": 1619982442
+        },
+        "back-to-qoo": {
+          "time": 1619985497
+        }
+      }
+    },
+    {
+      "team": "GatorSheavesMutably",
+      "pos": 35,
+      "score": 950,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619835495
+        },
+        "nooombers": {
+          "time": 1619891350
+        },
+        "qoo-or-ooo": {
+          "time": 1619911677
+        },
+        "mra": {
+          "time": 1619917120
+        },
+        "nooopster": {
+          "time": 1619922928
+        },
+        "back-to-qoo": {
+          "time": 1619935088
+        },
+        "pooow-buddy": {
+          "time": 1619982167
+        },
+        "threefactooorx": {
+          "time": 1619991082
+        }
+      }
+    },
+    {
+      "team": "Tea MSG",
+      "pos": 36,
+      "score": 950,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830583
+        },
+        "mra": {
+          "time": 1619855328
+        },
+        "nooopster": {
+          "time": 1619860505
+        },
+        "qoo-or-ooo": {
+          "time": 1619929675
+        },
+        "threefactooorx": {
+          "time": 1619937659
+        },
+        "back-to-qoo": {
+          "time": 1619957671
+        },
+        "nooombers": {
+          "time": 1619982354
+        },
+        "pooow-buddy": {
+          "time": 1619993903
+        }
+      }
+    },
+    {
+      "team": "Team Enu",
+      "pos": 37,
+      "score": 866,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829822
+        },
+        "mra": {
+          "time": 1619867586
+        },
+        "nooopster": {
+          "time": 1619888597
+        },
+        "threefactooorx": {
+          "time": 1619949261
+        },
+        "exploit-for-dummies": {
+          "time": 1619977073
+        },
+        "qoo-or-ooo": {
+          "time": 1619980693
+        },
+        "back-to-qoo": {
+          "time": 1619981931
+        }
+      }
+    },
+    {
+      "team": "null2root",
+      "pos": 38,
+      "score": 827,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830407
+        },
+        "mra": {
+          "time": 1619860288
+        },
+        "nooopster": {
+          "time": 1619881741
+        },
+        "nooombers": {
+          "time": 1619928063
+        },
+        "qoo-or-ooo": {
+          "time": 1619942540
+        },
+        "back-to-qoo": {
+          "time": 1619968792
+        },
+        "pooow-buddy": {
+          "time": 1619973594
+        }
+      }
+    },
+    {
+      "team": "zwnj",
+      "pos": 39,
+      "score": 827,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828881
+        },
+        "mra": {
+          "time": 1619859435
+        },
+        "nooopster": {
+          "time": 1619914242
+        },
+        "qoo-or-ooo": {
+          "time": 1619922602
+        },
+        "back-to-qoo": {
+          "time": 1619923935
+        },
+        "nooombers": {
+          "time": 1619930418
+        },
+        "pooow-buddy": {
+          "time": 1619996421
+        }
+      }
+    },
+    {
+      "team": "#71",
+      "pos": 40,
+      "score": 753,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836873
+        },
+        "mra": {
+          "time": 1619897511
+        },
+        "nooopster": {
+          "time": 1619951239
+        },
+        "threefactooorx": {
+          "time": 1619966264
+        },
+        "coooinbase": {
+          "time": 1619984709
+        },
+        "coooinbase-kernel": {
+          "time": 1619999026
+        }
+      }
+    },
+    {
+      "team": "hxp",
+      "pos": 41,
+      "score": 734,
+      "taskStats": {
+        "mra": {
+          "time": 1619862800
+        },
+        "say-hellooo": {
+          "time": 1619873651
+        },
+        "nooombers": {
+          "time": 1619948298
+        },
+        "rick": {
+          "time": 1619967033
+        },
+        "threefactooorx": {
+          "time": 1619986185
+        },
+        "pooow-buddy": {
+          "time": 1619993150
+        }
+      }
+    },
+    {
+      "team": "c0r3dump",
+      "pos": 42,
+      "score": 726,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860083
+        },
+        "mra": {
+          "time": 1619860291
+        },
+        "nooopster": {
+          "time": 1619868348
+        },
+        "rick": {
+          "time": 1619915050
+        },
+        "nooombers": {
+          "time": 1619953032
+        },
+        "pooow-buddy": {
+          "time": 1619978982
+        }
+      }
+    },
+    {
+      "team": "ids-TeamCC",
+      "pos": 43,
+      "score": 705,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836878
+        },
+        "nooopster": {
+          "time": 1619923325
+        },
+        "nooombers": {
+          "time": 1619923883
+        },
+        "qoo-or-ooo": {
+          "time": 1619951218
+        },
+        "back-to-qoo": {
+          "time": 1619961936
+        },
+        "mra": {
+          "time": 1619980593
+        }
+      }
+    },
+    {
+      "team": "ShelloWorld",
+      "pos": 44,
+      "score": 700,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828439
+        },
+        "mra": {
+          "time": 1619868548
+        },
+        "nooopster": {
+          "time": 1619876871
+        },
+        "qoo-or-ooo": {
+          "time": 1619965079
+        },
+        "pooow-buddy": {
+          "time": 1619966647
+        },
+        "back-to-qoo": {
+          "time": 1619972434
+        }
+      }
+    },
+    {
+      "team": "STT",
+      "pos": 45,
+      "score": 594,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830603
+        },
+        "qoo-or-ooo": {
+          "time": 1619907034
+        },
+        "back-to-qoo": {
+          "time": 1619955647
+        },
+        "threefactooorx": {
+          "time": 1619987604
+        },
+        "pooow-buddy": {
+          "time": 1619999000
+        }
+      }
+    },
+    {
+      "team": "CyberpUnk Jiu-jitsu Otters",
+      "pos": 46,
+      "score": 586,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619845170
+        },
+        "nooopster": {
+          "time": 1619870868
+        },
+        "qoo-or-ooo": {
+          "time": 1619967102
+        },
+        "back-to-qoo": {
+          "time": 1619986793
+        },
+        "pooow-buddy": {
+          "time": 1619987831
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 47,
+      "score": 580,
+      "taskStats": {
+        "mra": {
+          "time": 1619917658
+        },
+        "say-hellooo": {
+          "time": 1619925924
+        },
+        "qoo-or-ooo": {
+          "time": 1619962566
+        },
+        "pooow-buddy": {
+          "time": 1619978950
+        },
+        "threefactooorx": {
+          "time": 1619991387
+        }
+      }
+    },
+    {
+      "team": "Ultimate Remote workers",
+      "pos": 48,
+      "score": 577,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832206
+        },
+        "mra": {
+          "time": 1619856520
+        },
+        "nooombers": {
+          "time": 1619871257
+        },
+        "nooopster": {
+          "time": 1619872984
+        },
+        "qoo-or-ooo": {
+          "time": 1619968347
+        }
+      }
+    },
+    {
+      "team": "SPRUSH",
+      "pos": 49,
+      "score": 575,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619848549
+        },
+        "nooopster": {
+          "time": 1619888492
+        },
+        "mra": {
+          "time": 1619959532
+        },
+        "pooow-buddy": {
+          "time": 1619994417
+        },
+        "threefactooorx": {
+          "time": 1619999531
+        }
+      }
+    },
+    {
+      "team": "ELT",
+      "pos": 50,
+      "score": 573,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829449
+        },
+        "mra": {
+          "time": 1619886755
+        },
+        "nooopster": {
+          "time": 1619920064
+        },
+        "threefactooorx": {
+          "time": 1619941586
+        },
+        "qoo-or-ooo": {
+          "time": 1619974124
+        }
+      }
+    },
+    {
+      "team": "TheFlatNetworkSociety",
+      "pos": 51,
+      "score": 516,
+      "taskStats": {
+        "mra": {
+          "time": 1619881404
+        },
+        "nooopster": {
+          "time": 1619892264
+        },
+        "pooow-buddy": {
+          "time": 1619959125
+        },
+        "exploit-for-dummies": {
+          "time": 1619987701
+        }
+      }
+    },
+    {
+      "team": "Jacobs",
+      "pos": 52,
+      "score": 476,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828131
+        },
+        "nooombers": {
+          "time": 1619885145
+        },
+        "qoo-or-ooo": {
+          "time": 1619925646
+        },
+        "back-to-qoo": {
+          "time": 1619934372
+        }
+      }
+    },
+    {
+      "team": "L0remIpsec",
+      "pos": 53,
+      "score": 472,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619950573
+        },
+        "threefactooorx": {
+          "time": 1619968231
+        },
+        "qoo-or-ooo": {
+          "time": 1619985433
+        },
+        "back-to-qoo": {
+          "time": 1619994846
+        }
+      }
+    },
+    {
+      "team": "KITCTF",
+      "pos": 54,
+      "score": 464,
+      "taskStats": {
+        "nooopster": {
+          "time": 1619890210
+        },
+        "say-hellooo": {
+          "time": 1619891002
+        },
+        "qoo-or-ooo": {
+          "time": 1619992649
+        },
+        "back-to-qoo": {
+          "time": 1619994731
+        }
+      }
+    },
+    {
+      "team": "Ten*48",
+      "pos": 55,
+      "score": 463,
+      "taskStats": {
+        "mra": {
+          "time": 1619881471
+        },
+        "say-hellooo": {
+          "time": 1619911996
+        },
+        "qoo-or-ooo": {
+          "time": 1619934660
+        },
+        "back-to-qoo": {
+          "time": 1619953677
+        }
+      }
+    },
+    {
+      "team": "ID-10-T",
+      "pos": 56,
+      "score": 463,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619882032
+        },
+        "nooombers": {
+          "time": 1619977070
+        },
+        "qoo-or-ooo": {
+          "time": 1619989592
+        },
+        "nooopster": {
+          "time": 1619993426
+        }
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 57,
+      "score": 457,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829274
+        },
+        "mra": {
+          "time": 1619859792
+        },
+        "nooopster": {
+          "time": 1619876015
+        },
+        "nooombers": {
+          "time": 1619976029
+        }
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 58,
+      "score": 453,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619861708
+        },
+        "nooopster": {
+          "time": 1619897516
+        },
+        "mra": {
+          "time": 1619941550
+        },
+        "threefactooorx": {
+          "time": 1619962035
+        }
+      }
+    },
+    {
+      "team": "Vidar-Team",
+      "pos": 59,
+      "score": 453,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832098
+        },
+        "mra": {
+          "time": 1619865209
+        },
+        "nooopster": {
+          "time": 1619935025
+        },
+        "threefactooorx": {
+          "time": 1619976972
+        }
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 60,
+      "score": 453,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829542
+        },
+        "mra": {
+          "time": 1619871509
+        },
+        "nooopster": {
+          "time": 1619950305
+        },
+        "threefactooorx": {
+          "time": 1619985387
+        }
+      }
+    },
+    {
+      "team": "RobotMafia",
+      "pos": 61,
+      "score": 452,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828567
+        },
+        "nooopster": {
+          "time": 1619867696
+        },
+        "mra": {
+          "time": 1619947165
+        },
+        "pooow-buddy": {
+          "time": 1619985118
+        }
+      }
+    },
+    {
+      "team": "WashedUpResearchers",
+      "pos": 62,
+      "score": 452,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830246
+        },
+        "mra": {
+          "time": 1619913936
+        },
+        "pooow-buddy": {
+          "time": 1619981019
+        },
+        "nooopster": {
+          "time": 1619990598
+        }
+      }
+    },
+    {
+      "team": "DarkArmy",
+      "pos": 63,
+      "score": 450,
+      "taskStats": {
+        "mra": {
+          "time": 1619881824
+        },
+        "say-hellooo": {
+          "time": 1619928199
+        },
+        "nooopster": {
+          "time": 1619980119
+        },
+        "qoo-or-ooo": {
+          "time": 1619981305
+        }
+      }
+    },
+    {
+      "team": "Mayas",
+      "pos": 64,
+      "score": 450,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834579
+        },
+        "mra": {
+          "time": 1619924855
+        },
+        "qoo-or-ooo": {
+          "time": 1619933376
+        },
+        "nooopster": {
+          "time": 1619995918
+        }
+      }
+    },
+    {
+      "team": "h4tum",
+      "pos": 65,
+      "score": 401,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619857002
+        },
+        "mooosl": {
+          "time": 1619960534
+        },
+        "threefactooorx": {
+          "time": 1619994766
+        }
+      }
+    },
+    {
+      "team": "h_noson",
+      "pos": 66,
+      "score": 392,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836342
+        },
+        "mra": {
+          "time": 1619856369
+        },
+        "mooosl": {
+          "time": 1619965930
+        }
+      }
+    },
+    {
+      "team": "TheAdditionalPayphones",
+      "pos": 67,
+      "score": 349,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619840845
+        },
+        "qoo-or-ooo": {
+          "time": 1619931522
+        },
+        "back-to-qoo": {
+          "time": 1619998472
+        }
+      }
+    },
+    {
+      "team": "SaudiPwners",
+      "pos": 68,
+      "score": 348,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831210
+        },
+        "nooombers": {
+          "time": 1619911742
+        },
+        "qoo-or-ooo": {
+          "time": 1619926365
+        }
+      }
+    },
+    {
+      "team": "SugarCats",
+      "pos": 69,
+      "score": 346,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619839692
+        },
+        "threefactooorx": {
+          "time": 1619977772
+        },
+        "pooow-buddy": {
+          "time": 1619983106
+        }
+      }
+    },
+    {
+      "team": "LiquidTeam",
+      "pos": 70,
+      "score": 343,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847637
+        },
+        "qoo-or-ooo": {
+          "time": 1619964490
+        },
+        "pooow-buddy": {
+          "time": 1619986895
+        }
+      }
+    },
+    {
+      "team": "srdnlen",
+      "pos": 71,
+      "score": 343,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619852116
+        },
+        "nooopster": {
+          "time": 1619905933
+        },
+        "nooombers": {
+          "time": 1619989934
+        }
+      }
+    },
+    {
+      "team": "V&N",
+      "pos": 72,
+      "score": 342,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829787
+        },
+        "nooombers": {
+          "time": 1619892111
+        },
+        "mra": {
+          "time": 1619949711
+        }
+      }
+    },
+    {
+      "team": "Bawolff",
+      "pos": 73,
+      "score": 338,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829526
+        },
+        "nooopster": {
+          "time": 1619949194
+        },
+        "pooow-buddy": {
+          "time": 1619996093
+        }
+      }
+    },
+    {
+      "team": "Keyboard Monkeys",
+      "pos": 74,
+      "score": 336,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619857460
+        },
+        "nooopster": {
+          "time": 1619944563
+        },
+        "qoo-or-ooo": {
+          "time": 1619985582
+        }
+      }
+    },
+    {
+      "team": "0xbadf00d",
+      "pos": 75,
+      "score": 330,
+      "taskStats": {
+        "mra": {
+          "time": 1619959103
+        },
+        "say-hellooo": {
+          "time": 1619959533
+        },
+        "nooopster": {
+          "time": 1619962889
+        }
+      }
+    },
+    {
+      "team": "Re1n3r!",
+      "pos": 76,
+      "score": 330,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619885557
+        },
+        "nooopster": {
+          "time": 1619950119
+        },
+        "mra": {
+          "time": 1619963710
+        }
+      }
+    },
+    {
+      "team": "xtal",
+      "pos": 77,
+      "score": 330,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619837416
+        },
+        "mra": {
+          "time": 1619931702
+        },
+        "nooopster": {
+          "time": 1619982961
+        }
+      }
+    },
+    {
+      "team": "MidwestMinistryofMachines",
+      "pos": 78,
+      "score": 330,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827906
+        },
+        "nooopster": {
+          "time": 1619935402
+        },
+        "mra": {
+          "time": 1619993304
+        }
+      }
+    },
+    {
+      "team": "CYberMouflons",
+      "pos": 79,
+      "score": 330,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828987
+        },
+        "nooopster": {
+          "time": 1619888686
+        },
+        "mra": {
+          "time": 1619999574
+        }
+      }
+    },
+    {
+      "team": "tiny baby",
+      "pos": 80,
+      "score": 229,
+      "taskStats": {
+        "mra": {
+          "time": 1619929716
+        },
+        "nooopster": {
+          "time": 1619959311
+        }
+      }
+    },
+    {
+      "team": "K!nd4SUS",
+      "pos": 81,
+      "score": 228,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829191
+        },
+        "nooombers": {
+          "time": 1619874455
+        }
+      }
+    },
+    {
+      "team": "TeamBaguette",
+      "pos": 82,
+      "score": 224,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831265
+        },
+        "threefactooorx": {
+          "time": 1619962683
+        }
+      }
+    },
+    {
+      "team": "huli",
+      "pos": 83,
+      "score": 224,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838362
+        },
+        "threefactooorx": {
+          "time": 1619963496
+        }
+      }
+    },
+    {
+      "team": "hack^3",
+      "pos": 84,
+      "score": 224,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619857925
+        },
+        "threefactooorx": {
+          "time": 1619977108
+        }
+      }
+    },
+    {
+      "team": "MV9rwGOf08",
+      "pos": 85,
+      "score": 223,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619896861
+        },
+        "pooow-buddy": {
+          "time": 1619989309
+        }
+      }
+    },
+    {
+      "team": "Scavenger Security",
+      "pos": 86,
+      "score": 223,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860977
+        },
+        "pooow-buddy": {
+          "time": 1619990016
+        }
+      }
+    },
+    {
+      "team": "debug4RMY",
+      "pos": 87,
+      "score": 221,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829109
+        },
+        "qoo-or-ooo": {
+          "time": 1619916107
+        }
+      }
+    },
+    {
+      "team": "Dumb_bots",
+      "pos": 88,
+      "score": 221,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828279
+        },
+        "qoo-or-ooo": {
+          "time": 1619930750
+        }
+      }
+    },
+    {
+      "team": "Telnetcrew",
+      "pos": 89,
+      "score": 216,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619856534
+        },
+        "nooopster": {
+          "time": 1619879906
+        }
+      }
+    },
+    {
+      "team": "Cyber_Monkeys",
+      "pos": 90,
+      "score": 216,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619852465
+        },
+        "nooopster": {
+          "time": 1619886241
+        }
+      }
+    },
+    {
+      "team": "Team-0x7",
+      "pos": 91,
+      "score": 216,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619854550
+        },
+        "nooopster": {
+          "time": 1619911164
+        }
+      }
+    },
+    {
+      "team": "YOKARO-MON",
+      "pos": 92,
+      "score": 216,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619851395
+        },
+        "nooopster": {
+          "time": 1619918060
+        }
+      }
+    },
+    {
+      "team": "HuntsvilleTechSupport",
+      "pos": 93,
+      "score": 216,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830072
+        },
+        "nooopster": {
+          "time": 1619923829
+        }
+      }
+    },
+    {
+      "team": "zeez",
+      "pos": 94,
+      "score": 216,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619897788
+        },
+        "nooopster": {
+          "time": 1619937841
+        }
+      }
+    },
+    {
+      "team": "Nepnep",
+      "pos": 95,
+      "score": 216,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860437
+        },
+        "nooopster": {
+          "time": 1619946034
+        }
+      }
+    },
+    {
+      "team": "the3000",
+      "pos": 96,
+      "score": 215,
+      "taskStats": {
+        "mra": {
+          "time": 1619865139
+        },
+        "say-hellooo": {
+          "time": 1619865424
+        }
+      }
+    },
+    {
+      "team": "miniVenom",
+      "pos": 97,
+      "score": 215,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619874764
+        },
+        "mra": {
+          "time": 1619878008
+        }
+      }
+    },
+    {
+      "team": "ISITDTU",
+      "pos": 98,
+      "score": 215,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619858616
+        },
+        "mra": {
+          "time": 1619886562
+        }
+      }
+    },
+    {
+      "team": "shablul",
+      "pos": 99,
+      "score": 215,
+      "taskStats": {
+        "mra": {
+          "time": 1619909292
+        },
+        "say-hellooo": {
+          "time": 1619911872
+        }
+      }
+    },
+    {
+      "team": "Merak",
+      "pos": 100,
+      "score": 215,
+      "taskStats": {
+        "mra": {
+          "time": 1619923473
+        },
+        "say-hellooo": {
+          "time": 1619924473
+        }
+      }
+    },
+    {
+      "team": "I'm_GGonna",
+      "pos": 101,
+      "score": 215,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833302
+        },
+        "mra": {
+          "time": 1619925308
+        }
+      }
+    },
+    {
+      "team": "HackPack",
+      "pos": 102,
+      "score": 215,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830184
+        },
+        "mra": {
+          "time": 1619943825
+        }
+      }
+    },
+    {
+      "team": "F-Killer",
+      "pos": 103,
+      "score": 215,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830988
+        },
+        "mra": {
+          "time": 1619982857
+        }
+      }
+    },
+    {
+      "team": "Ba Sing Sec",
+      "pos": 104,
+      "score": 215,
+      "taskStats": {
+        "mra": {
+          "time": 1619997683
+        },
+        "say-hellooo": {
+          "time": 1619998089
+        }
+      }
+    },
+    {
+      "team": "touch /fish",
+      "pos": 105,
+      "score": 123,
+      "taskStats": {
+        "threefactooorx": {
+          "time": 1619980940
+        }
+      }
+    },
+    {
+      "team": "serial overkiller",
+      "pos": 106,
+      "score": 115,
+      "taskStats": {
+        "nooopster": {
+          "time": 1619867092
+        }
+      }
+    },
+    {
+      "team": "Corrupted Pwnis",
+      "pos": 107,
+      "score": 114,
+      "taskStats": {
+        "mra": {
+          "time": 1619876750
+        }
+      }
+    },
+    {
+      "team": "wawawa13",
+      "pos": 108,
+      "score": 114,
+      "taskStats": {
+        "mra": {
+          "time": 1619962570
+        }
+      }
+    },
+    {
+      "team": "pasten",
+      "pos": 109,
+      "score": 114,
+      "taskStats": {
+        "mra": {
+          "time": 1619984692
+        }
+      }
+    },
+    {
+      "team": "oo_oo_papa_papa",
+      "pos": 110,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827703
+        }
+      }
+    },
+    {
+      "team": "phasetw0",
+      "pos": 111,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827806
+        }
+      }
+    },
+    {
+      "team": "Contagion",
+      "pos": 112,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827865
+        }
+      }
+    },
+    {
+      "team": "Kittens",
+      "pos": 113,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619827955
+        }
+      }
+    },
+    {
+      "team": "solid-umbrella",
+      "pos": 114,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828170
+        }
+      }
+    },
+    {
+      "team": "kernelpoppers",
+      "pos": 115,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828172
+        }
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 116,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828206
+        }
+      }
+    },
+    {
+      "team": "NULL+Void",
+      "pos": 117,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828248
+        }
+      }
+    },
+    {
+      "team": "RavenSix",
+      "pos": 118,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828369
+        }
+      }
+    },
+    {
+      "team": "DarkWolfSolutions",
+      "pos": 119,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828450
+        }
+      }
+    },
+    {
+      "team": "CyberSUquad",
+      "pos": 120,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828455
+        }
+      }
+    },
+    {
+      "team": "d4rkc0de",
+      "pos": 121,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828493
+        }
+      }
+    },
+    {
+      "team": "bestbestbest",
+      "pos": 122,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828543
+        }
+      }
+    },
+    {
+      "team": "tooha",
+      "pos": 123,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828601
+        }
+      }
+    },
+    {
+      "team": "pizza",
+      "pos": 124,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828656
+        }
+      }
+    },
+    {
+      "team": "Haboob_Force",
+      "pos": 125,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828657
+        }
+      }
+    },
+    {
+      "team": "404inthe6",
+      "pos": 126,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828697
+        }
+      }
+    },
+    {
+      "team": "mcmayh☰m",
+      "pos": 127,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828727
+        }
+      }
+    },
+    {
+      "team": "VetCon",
+      "pos": 128,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619828733
+        }
+      }
+    },
+    {
+      "team": "burner_herz0g",
+      "pos": 129,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829093
+        }
+      }
+    },
+    {
+      "team": "NinjaTurtles",
+      "pos": 130,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829233
+        }
+      }
+    },
+    {
+      "team": "skateboardingdog",
+      "pos": 131,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829303
+        }
+      }
+    },
+    {
+      "team": "MocSec",
+      "pos": 132,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829349
+        }
+      }
+    },
+    {
+      "team": "w33t34m",
+      "pos": 133,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829392
+        }
+      }
+    },
+    {
+      "team": "hakors",
+      "pos": 134,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829841
+        }
+      }
+    },
+    {
+      "team": "fierceBadRAbbits",
+      "pos": 135,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619829973
+        }
+      }
+    },
+    {
+      "team": "DeathMetalDonkeyHunters",
+      "pos": 136,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830087
+        }
+      }
+    },
+    {
+      "team": "CSC427",
+      "pos": 137,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830110
+        }
+      }
+    },
+    {
+      "team": "Unwanted_MSware",
+      "pos": 138,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830113
+        }
+      }
+    },
+    {
+      "team": "ntr0py",
+      "pos": 139,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830452
+        }
+      }
+    },
+    {
+      "team": "yad3",
+      "pos": 140,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830653
+        }
+      }
+    },
+    {
+      "team": "HackingKilledTheRadioZone",
+      "pos": 141,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830791
+        }
+      }
+    },
+    {
+      "team": "B0NG0RE",
+      "pos": 142,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619830991
+        }
+      }
+    },
+    {
+      "team": "castilho",
+      "pos": 143,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831082
+        }
+      }
+    },
+    {
+      "team": "NewKidsOnTheBlockchain",
+      "pos": 144,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831097
+        }
+      }
+    },
+    {
+      "team": "ST4RT",
+      "pos": 145,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831308
+        }
+      }
+    },
+    {
+      "team": "3rd_string",
+      "pos": 146,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831679
+        }
+      }
+    },
+    {
+      "team": "N1ghth4wk",
+      "pos": 147,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619831766
+        }
+      }
+    },
+    {
+      "team": "RevolutionEra",
+      "pos": 148,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832030
+        }
+      }
+    },
+    {
+      "team": "WGUFowlOwls",
+      "pos": 149,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832037
+        }
+      }
+    },
+    {
+      "team": "SummerJedi",
+      "pos": 150,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832120
+        }
+      }
+    },
+    {
+      "team": "Fword",
+      "pos": 151,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832246
+        }
+      }
+    },
+    {
+      "team": "SSoD",
+      "pos": 152,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832246
+        }
+      }
+    },
+    {
+      "team": "T3n4ci0us",
+      "pos": 153,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832247
+        }
+      }
+    },
+    {
+      "team": "newb#101",
+      "pos": 154,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832335
+        }
+      }
+    },
+    {
+      "team": "zh3r0",
+      "pos": 155,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832381
+        }
+      }
+    },
+    {
+      "team": "Kza",
+      "pos": 156,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832486
+        }
+      }
+    },
+    {
+      "team": "W4RH4C|<",
+      "pos": 157,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832629
+        }
+      }
+    },
+    {
+      "team": "7deadlysins",
+      "pos": 158,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832696
+        }
+      }
+    },
+    {
+      "team": "BreakingEnigma",
+      "pos": 159,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832697
+        }
+      }
+    },
+    {
+      "team": "xSTF",
+      "pos": 160,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832768
+        }
+      }
+    },
+    {
+      "team": "h3X085",
+      "pos": 161,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832778
+        }
+      }
+    },
+    {
+      "team": "MadeInMIM",
+      "pos": 162,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832812
+        }
+      }
+    },
+    {
+      "team": "D3monSlayer",
+      "pos": 163,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832857
+        }
+      }
+    },
+    {
+      "team": "MQCybersec",
+      "pos": 164,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619832872
+        }
+      }
+    },
+    {
+      "team": "FalseFlag",
+      "pos": 165,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833023
+        }
+      }
+    },
+    {
+      "team": "Dc212",
+      "pos": 166,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833289
+        }
+      }
+    },
+    {
+      "team": "0xDoge",
+      "pos": 167,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833384
+        }
+      }
+    },
+    {
+      "team": "3_d0uche5_cl4b",
+      "pos": 168,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833508
+        }
+      }
+    },
+    {
+      "team": "DepartmentOfNetworkGanking",
+      "pos": 169,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833519
+        }
+      }
+    },
+    {
+      "team": "Monk3y Security",
+      "pos": 170,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833723
+        }
+      }
+    },
+    {
+      "team": "UndeadMyths",
+      "pos": 171,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833776
+        }
+      }
+    },
+    {
+      "team": "TeamBrotherHood",
+      "pos": 172,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833881
+        }
+      }
+    },
+    {
+      "team": "CAT-Security",
+      "pos": 173,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619833910
+        }
+      }
+    },
+    {
+      "team": "Neg9",
+      "pos": 174,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834063
+        }
+      }
+    },
+    {
+      "team": "0xCrypt0",
+      "pos": 175,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834111
+        }
+      }
+    },
+    {
+      "team": "Cntr0llz",
+      "pos": 176,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834311
+        }
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 177,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834385
+        }
+      }
+    },
+    {
+      "team": "B3NNY",
+      "pos": 178,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834584
+        }
+      }
+    },
+    {
+      "team": "Catastrophe",
+      "pos": 179,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834716
+        }
+      }
+    },
+    {
+      "team": "surpr!$3_m0th3rh@ckers",
+      "pos": 180,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834880
+        }
+      }
+    },
+    {
+      "team": "Whoami",
+      "pos": 181,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619834963
+        }
+      }
+    },
+    {
+      "team": "obelus",
+      "pos": 182,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619835032
+        }
+      }
+    },
+    {
+      "team": "efiens",
+      "pos": 183,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619835063
+        }
+      }
+    },
+    {
+      "team": "SectorZ",
+      "pos": 184,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619835434
+        }
+      }
+    },
+    {
+      "team": "DarkGrayHats",
+      "pos": 185,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619835479
+        }
+      }
+    },
+    {
+      "team": "so_its_ghidra_darkmode_then",
+      "pos": 186,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836264
+        }
+      }
+    },
+    {
+      "team": "hackyboiz",
+      "pos": 187,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836334
+        }
+      }
+    },
+    {
+      "team": "RedWheelBarrow",
+      "pos": 188,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836357
+        }
+      }
+    },
+    {
+      "team": "KapiSec",
+      "pos": 189,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836419
+        }
+      }
+    },
+    {
+      "team": "Hackappatoi",
+      "pos": 190,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836431
+        }
+      }
+    },
+    {
+      "team": "treebeard",
+      "pos": 191,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836460
+        }
+      }
+    },
+    {
+      "team": "OyuSec",
+      "pos": 192,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836468
+        }
+      }
+    },
+    {
+      "team": "hafofu",
+      "pos": 193,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836472
+        }
+      }
+    },
+    {
+      "team": "[sqrt(-1)+1]",
+      "pos": 194,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619836571
+        }
+      }
+    },
+    {
+      "team": "NTPNoobToPro",
+      "pos": 195,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619837059
+        }
+      }
+    },
+    {
+      "team": "helloMisery",
+      "pos": 196,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619837253
+        }
+      }
+    },
+    {
+      "team": "1C4RU5",
+      "pos": 197,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619837672
+        }
+      }
+    },
+    {
+      "team": "N0Named",
+      "pos": 198,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619837890
+        }
+      }
+    },
+    {
+      "team": "Unicorns of Security",
+      "pos": 199,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838068
+        }
+      }
+    },
+    {
+      "team": "LittleNarwhals",
+      "pos": 200,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838096
+        }
+      }
+    },
+    {
+      "team": "UMDCSEC",
+      "pos": 201,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838198
+        }
+      }
+    },
+    {
+      "team": "reinforchu",
+      "pos": 202,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838312
+        }
+      }
+    },
+    {
+      "team": "GG4Q",
+      "pos": 203,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838443
+        }
+      }
+    },
+    {
+      "team": "PolarisOne",
+      "pos": 204,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838711
+        }
+      }
+    },
+    {
+      "team": "Pri_mates",
+      "pos": 205,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838883
+        }
+      }
+    },
+    {
+      "team": "SaturnX",
+      "pos": 206,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619838962
+        }
+      }
+    },
+    {
+      "team": "Yamagi.com",
+      "pos": 207,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619839106
+        }
+      }
+    },
+    {
+      "team": "subrsp0x27",
+      "pos": 208,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619839592
+        }
+      }
+    },
+    {
+      "team": "irNoobs",
+      "pos": 209,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619839999
+        }
+      }
+    },
+    {
+      "team": "quantumhack",
+      "pos": 210,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619840774
+        }
+      }
+    },
+    {
+      "team": "Ravanan",
+      "pos": 211,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619841289
+        }
+      }
+    },
+    {
+      "team": "jtsec2",
+      "pos": 212,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619841367
+        }
+      }
+    },
+    {
+      "team": "wtfailure",
+      "pos": 213,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619841590
+        }
+      }
+    },
+    {
+      "team": "PatanjaliHax",
+      "pos": 214,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619841610
+        }
+      }
+    },
+    {
+      "team": "Aviators",
+      "pos": 215,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619841816
+        }
+      }
+    },
+    {
+      "team": "Cr4ckThump",
+      "pos": 216,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619842190
+        }
+      }
+    },
+    {
+      "team": "0x_SHilling",
+      "pos": 217,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619842755
+        }
+      }
+    },
+    {
+      "team": "ARA_ARA",
+      "pos": 218,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619843294
+        }
+      }
+    },
+    {
+      "team": "Ace0ne",
+      "pos": 219,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619843455
+        }
+      }
+    },
+    {
+      "team": "O_da",
+      "pos": 220,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619843545
+        }
+      }
+    },
+    {
+      "team": "PwningFrom127::1",
+      "pos": 221,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619843785
+        }
+      }
+    },
+    {
+      "team": "ForThePleasureOfEmojis",
+      "pos": 222,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619844305
+        }
+      }
+    },
+    {
+      "team": "InfoSecIITR",
+      "pos": 223,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619844378
+        }
+      }
+    },
+    {
+      "team": "Racco0N",
+      "pos": 224,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619844461
+        }
+      }
+    },
+    {
+      "team": "AWP?",
+      "pos": 225,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619844620
+        }
+      }
+    },
+    {
+      "team": "hdkz",
+      "pos": 226,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619845245
+        }
+      }
+    },
+    {
+      "team": "watch(SEASPIRACY)&&act(NOW)||go(EXTINCT)",
+      "pos": 227,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619845443
+        }
+      }
+    },
+    {
+      "team": "Spartan'Ravens",
+      "pos": 228,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619845894
+        }
+      }
+    },
+    {
+      "team": "ACaverna",
+      "pos": 229,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619846993
+        }
+      }
+    },
+    {
+      "team": "Byt3Scr4pp3rs",
+      "pos": 230,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847049
+        }
+      }
+    },
+    {
+      "team": "fr4gment",
+      "pos": 231,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847217
+        }
+      }
+    },
+    {
+      "team": "DrewPy",
+      "pos": 232,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847577
+        }
+      }
+    },
+    {
+      "team": "Geeky-Cat",
+      "pos": 233,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847657
+        }
+      }
+    },
+    {
+      "team": "norse",
+      "pos": 234,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847818
+        }
+      }
+    },
+    {
+      "team": "1nf1n1ty",
+      "pos": 235,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847850
+        }
+      }
+    },
+    {
+      "team": "SDSLabs",
+      "pos": 236,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619847854
+        }
+      }
+    },
+    {
+      "team": "spl0d3rz",
+      "pos": 237,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619848002
+        }
+      }
+    },
+    {
+      "team": "Supranatural",
+      "pos": 238,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619848794
+        }
+      }
+    },
+    {
+      "team": "TerminalCats",
+      "pos": 239,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619848916
+        }
+      }
+    },
+    {
+      "team": "FS0CIETY00",
+      "pos": 240,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619849444
+        }
+      }
+    },
+    {
+      "team": "AntiBuddies",
+      "pos": 241,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619849615
+        }
+      }
+    },
+    {
+      "team": "HugsForBugs",
+      "pos": 242,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619849994
+        }
+      }
+    },
+    {
+      "team": "Nemesis",
+      "pos": 243,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619850009
+        }
+      }
+    },
+    {
+      "team": "MonkOnMars",
+      "pos": 244,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619850286
+        }
+      }
+    },
+    {
+      "team": "CCUG",
+      "pos": 245,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619850430
+        }
+      }
+    },
+    {
+      "team": "cby234",
+      "pos": 246,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619851537
+        }
+      }
+    },
+    {
+      "team": "duks",
+      "pos": 247,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619851616
+        }
+      }
+    },
+    {
+      "team": "K.knock",
+      "pos": 248,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619851658
+        }
+      }
+    },
+    {
+      "team": "APA-Razi",
+      "pos": 249,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619851797
+        }
+      }
+    },
+    {
+      "team": "IZONE_FOREVER",
+      "pos": 250,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619852206
+        }
+      }
+    },
+    {
+      "team": "cyanhats",
+      "pos": 251,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619852383
+        }
+      }
+    },
+    {
+      "team": "PsychedelicRed",
+      "pos": 252,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619853065
+        }
+      }
+    },
+    {
+      "team": "L10n5",
+      "pos": 253,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619853833
+        }
+      }
+    },
+    {
+      "team": "InnotecLabs",
+      "pos": 254,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619854164
+        }
+      }
+    },
+    {
+      "team": "cyk0rji",
+      "pos": 255,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619854326
+        }
+      }
+    },
+    {
+      "team": "ReverseEntropy",
+      "pos": 256,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619854886
+        }
+      }
+    },
+    {
+      "team": "Par5if4l",
+      "pos": 257,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619855167
+        }
+      }
+    },
+    {
+      "team": "AdelaideB9",
+      "pos": 258,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619855668
+        }
+      }
+    },
+    {
+      "team": "itamare",
+      "pos": 259,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619855852
+        }
+      }
+    },
+    {
+      "team": "PEEPPEEP",
+      "pos": 260,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619856012
+        }
+      }
+    },
+    {
+      "team": "ZombieShroom",
+      "pos": 261,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619856274
+        }
+      }
+    },
+    {
+      "team": "NicDumZ",
+      "pos": 262,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619856705
+        }
+      }
+    },
+    {
+      "team": "MonSec",
+      "pos": 263,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619856961
+        }
+      }
+    },
+    {
+      "team": "AAA",
+      "pos": 264,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619857184
+        }
+      }
+    },
+    {
+      "team": "TEAM0001",
+      "pos": 265,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619857253
+        }
+      }
+    },
+    {
+      "team": "laopo",
+      "pos": 266,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619857690
+        }
+      }
+    },
+    {
+      "team": "DropSoft",
+      "pos": 267,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619858359
+        }
+      }
+    },
+    {
+      "team": "Tozo",
+      "pos": 268,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619858637
+        }
+      }
+    },
+    {
+      "team": "uranium235",
+      "pos": 269,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619859487
+        }
+      }
+    },
+    {
+      "team": "Th3_Order_Of_th3_pH0en1x",
+      "pos": 270,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619859504
+        }
+      }
+    },
+    {
+      "team": "blanc.",
+      "pos": 271,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619859918
+        }
+      }
+    },
+    {
+      "team": "NepZer0",
+      "pos": 272,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860202
+        }
+      }
+    },
+    {
+      "team": "tu.darmstadt.ctf",
+      "pos": 273,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860384
+        }
+      }
+    },
+    {
+      "team": "jokersec",
+      "pos": 274,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860576
+        }
+      }
+    },
+    {
+      "team": "or4nge",
+      "pos": 275,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860799
+        }
+      }
+    },
+    {
+      "team": "dcode",
+      "pos": 276,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860847
+        }
+      }
+    },
+    {
+      "team": "wasamusume",
+      "pos": 277,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619860873
+        }
+      }
+    },
+    {
+      "team": "SoddBaillKaill",
+      "pos": 278,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619861294
+        }
+      }
+    },
+    {
+      "team": "VTeam",
+      "pos": 279,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619861942
+        }
+      }
+    },
+    {
+      "team": "Inner Savages",
+      "pos": 280,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619862175
+        }
+      }
+    },
+    {
+      "team": "SecureMature",
+      "pos": 281,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619862920
+        }
+      }
+    },
+    {
+      "team": "Kittenz",
+      "pos": 282,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619863287
+        }
+      }
+    },
+    {
+      "team": "braket_ops",
+      "pos": 283,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619863315
+        }
+      }
+    },
+    {
+      "team": "NakedMonkeyClub",
+      "pos": 284,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619864154
+        }
+      }
+    },
+    {
+      "team": "WhiteFox",
+      "pos": 285,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619864614
+        }
+      }
+    },
+    {
+      "team": "4c1d_k47",
+      "pos": 286,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619865140
+        }
+      }
+    },
+    {
+      "team": "c4t_f14g.txt",
+      "pos": 287,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619865901
+        }
+      }
+    },
+    {
+      "team": "TechFlorous",
+      "pos": 288,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619866629
+        }
+      }
+    },
+    {
+      "team": "R00T3R5",
+      "pos": 289,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619866702
+        }
+      }
+    },
+    {
+      "team": "FlagSmasher",
+      "pos": 290,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619866847
+        }
+      }
+    },
+    {
+      "team": "fr334aks",
+      "pos": 291,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619868050
+        }
+      }
+    },
+    {
+      "team": "WaletSec",
+      "pos": 292,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619868271
+        }
+      }
+    },
+    {
+      "team": "SuckOps",
+      "pos": 293,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619868416
+        }
+      }
+    },
+    {
+      "team": "EvilBunnyWrote",
+      "pos": 294,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619868542
+        }
+      }
+    },
+    {
+      "team": "BetterDoneThanPerfect",
+      "pos": 295,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619868908
+        }
+      }
+    },
+    {
+      "team": "01000011 01000011 01000001",
+      "pos": 296,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869084
+        }
+      }
+    },
+    {
+      "team": "RootLee",
+      "pos": 297,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869085
+        }
+      }
+    },
+    {
+      "team": "Class3E",
+      "pos": 298,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869131
+        }
+      }
+    },
+    {
+      "team": "Team Name BE",
+      "pos": 299,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869162
+        }
+      }
+    },
+    {
+      "team": "SharksWithLazersPEWPEW",
+      "pos": 300,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869573
+        }
+      }
+    },
+    {
+      "team": "manchos",
+      "pos": 301,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869575
+        }
+      }
+    },
+    {
+      "team": "K0TN",
+      "pos": 302,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869727
+        }
+      }
+    },
+    {
+      "team": "TeamBaguettes",
+      "pos": 303,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619869984
+        }
+      }
+    },
+    {
+      "team": "Andrew-Bae",
+      "pos": 304,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619870511
+        }
+      }
+    },
+    {
+      "team": "Dobob",
+      "pos": 305,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619871493
+        }
+      }
+    },
+    {
+      "team": "u3w",
+      "pos": 306,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619871711
+        }
+      }
+    },
+    {
+      "team": "yeetEr",
+      "pos": 307,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619871937
+        }
+      }
+    },
+    {
+      "team": "PWr Synt@x Err0r",
+      "pos": 308,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619873296
+        }
+      }
+    },
+    {
+      "team": "TheHwackra",
+      "pos": 309,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619873526
+        }
+      }
+    },
+    {
+      "team": "bad@hacking",
+      "pos": 310,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619873873
+        }
+      }
+    },
+    {
+      "team": "DaHeed",
+      "pos": 311,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619875221
+        }
+      }
+    },
+    {
+      "team": "W018",
+      "pos": 312,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619875257
+        }
+      }
+    },
+    {
+      "team": "dcua",
+      "pos": 313,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619875995
+        }
+      }
+    },
+    {
+      "team": "ErdosAmphetamineAddicion",
+      "pos": 314,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619876161
+        }
+      }
+    },
+    {
+      "team": "\\x4247Sec",
+      "pos": 315,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619879683
+        }
+      }
+    },
+    {
+      "team": "skiddies",
+      "pos": 316,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619881235
+        }
+      }
+    },
+    {
+      "team": "Haydevil",
+      "pos": 317,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619881452
+        }
+      }
+    },
+    {
+      "team": "ruisilva",
+      "pos": 318,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619882193
+        }
+      }
+    },
+    {
+      "team": "3xpertz.1np",
+      "pos": 319,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619883601
+        }
+      }
+    },
+    {
+      "team": "lol123",
+      "pos": 320,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619883854
+        }
+      }
+    },
+    {
+      "team": "IIT(BHU)CyberSec",
+      "pos": 321,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619884717
+        }
+      }
+    },
+    {
+      "team": "noSuchTeam",
+      "pos": 322,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619884979
+        }
+      }
+    },
+    {
+      "team": "trojangoat",
+      "pos": 323,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619885905
+        }
+      }
+    },
+    {
+      "team": "0x8Layer",
+      "pos": 324,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619886073
+        }
+      }
+    },
+    {
+      "team": "GreenHat",
+      "pos": 325,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619886901
+        }
+      }
+    },
+    {
+      "team": "decepticons",
+      "pos": 326,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619887074
+        }
+      }
+    },
+    {
+      "team": "delta007x",
+      "pos": 327,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619888029
+        }
+      }
+    },
+    {
+      "team": "pfpwnd",
+      "pos": 328,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619889371
+        }
+      }
+    },
+    {
+      "team": "HusSec Unicorn",
+      "pos": 329,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619889828
+        }
+      }
+    },
+    {
+      "team": "Yahmasta",
+      "pos": 330,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619890614
+        }
+      }
+    },
+    {
+      "team": "HumBeerHainBc",
+      "pos": 331,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619892620
+        }
+      }
+    },
+    {
+      "team": "rock123",
+      "pos": 332,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619893142
+        }
+      }
+    },
+    {
+      "team": "Testausserveri",
+      "pos": 333,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619895239
+        }
+      }
+    },
+    {
+      "team": "0xZ3R0",
+      "pos": 334,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619895767
+        }
+      }
+    },
+    {
+      "team": "besoir",
+      "pos": 335,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619895795
+        }
+      }
+    },
+    {
+      "team": "dczia",
+      "pos": 336,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619895955
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 337,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619896088
+        }
+      }
+    },
+    {
+      "team": "HashSlingingHackers",
+      "pos": 338,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619896375
+        }
+      }
+    },
+    {
+      "team": "Legacyy",
+      "pos": 339,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619896902
+        }
+      }
+    },
+    {
+      "team": "N00Bv2.0",
+      "pos": 340,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619897067
+        }
+      }
+    },
+    {
+      "team": "Zook",
+      "pos": 341,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619899934
+        }
+      }
+    },
+    {
+      "team": "AstraCyber",
+      "pos": 342,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619900070
+        }
+      }
+    },
+    {
+      "team": "imesec1337",
+      "pos": 343,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619901158
+        }
+      }
+    },
+    {
+      "team": "ctf_in_kz",
+      "pos": 344,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619901214
+        }
+      }
+    },
+    {
+      "team": "P@nc4ke3aterz",
+      "pos": 345,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619901805
+        }
+      }
+    },
+    {
+      "team": "Hazardous",
+      "pos": 346,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619902521
+        }
+      }
+    },
+    {
+      "team": "DangKids,GetOffMyLan!",
+      "pos": 347,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619904048
+        }
+      }
+    },
+    {
+      "team": "455-7055",
+      "pos": 348,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619904236
+        }
+      }
+    },
+    {
+      "team": "DC702",
+      "pos": 349,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619904276
+        }
+      }
+    },
+    {
+      "team": "OctaC0re",
+      "pos": 350,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619904742
+        }
+      }
+    },
+    {
+      "team": "tirefire",
+      "pos": 351,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619906057
+        }
+      }
+    },
+    {
+      "team": "L:BCC1337",
+      "pos": 352,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619906442
+        }
+      }
+    },
+    {
+      "team": "SelSec",
+      "pos": 353,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619908653
+        }
+      }
+    },
+    {
+      "team": "sarma",
+      "pos": 354,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619909049
+        }
+      }
+    },
+    {
+      "team": "trøjan_h0rs3s",
+      "pos": 355,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619909140
+        }
+      }
+    },
+    {
+      "team": "R3MAN3",
+      "pos": 356,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619909702
+        }
+      }
+    },
+    {
+      "team": "./RED",
+      "pos": 357,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619909706
+        }
+      }
+    },
+    {
+      "team": "mm",
+      "pos": 358,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619909974
+        }
+      }
+    },
+    {
+      "team": "deerleader",
+      "pos": 359,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619910024
+        }
+      }
+    },
+    {
+      "team": "N33rdZ",
+      "pos": 360,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619910042
+        }
+      }
+    },
+    {
+      "team": "5866d102-627d-401f-96f5-1a9753851683",
+      "pos": 361,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619910474
+        }
+      }
+    },
+    {
+      "team": "UAC",
+      "pos": 362,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619910610
+        }
+      }
+    },
+    {
+      "team": "Chaocipher",
+      "pos": 363,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619910753
+        }
+      }
+    },
+    {
+      "team": "Carpedien",
+      "pos": 364,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619911661
+        }
+      }
+    },
+    {
+      "team": "EvilMuffinHa",
+      "pos": 365,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619912029
+        }
+      }
+    },
+    {
+      "team": "bingus",
+      "pos": 366,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619913359
+        }
+      }
+    },
+    {
+      "team": "ThereIsNoInfoRoma",
+      "pos": 367,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619913373
+        }
+      }
+    },
+    {
+      "team": "{crypto_attackers}",
+      "pos": 368,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619916076
+        }
+      }
+    },
+    {
+      "team": "nimdok",
+      "pos": 369,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619916295
+        }
+      }
+    },
+    {
+      "team": "gruf",
+      "pos": 370,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619916660
+        }
+      }
+    },
+    {
+      "team": "DasRealBert",
+      "pos": 371,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619916688
+        }
+      }
+    },
+    {
+      "team": "Pwnie Island",
+      "pos": 372,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619917299
+        }
+      }
+    },
+    {
+      "team": "ayelone1",
+      "pos": 373,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619919043
+        }
+      }
+    },
+    {
+      "team": "tHe_pLebS",
+      "pos": 374,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619920944
+        }
+      }
+    },
+    {
+      "team": "newbie_team",
+      "pos": 375,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619921363
+        }
+      }
+    },
+    {
+      "team": "c00c00r00c00",
+      "pos": 376,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619921375
+        }
+      }
+    },
+    {
+      "team": "JustAdam",
+      "pos": 377,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619922331
+        }
+      }
+    },
+    {
+      "team": "r00ts",
+      "pos": 378,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619922871
+        }
+      }
+    },
+    {
+      "team": "5280",
+      "pos": 379,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619926555
+        }
+      }
+    },
+    {
+      "team": "n0n$la$",
+      "pos": 380,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619932290
+        }
+      }
+    },
+    {
+      "team": "JustNotBob",
+      "pos": 381,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619933529
+        }
+      }
+    },
+    {
+      "team": "5drone",
+      "pos": 382,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619933952
+        }
+      }
+    },
+    {
+      "team": "Mr_Lucifer",
+      "pos": 383,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619935853
+        }
+      }
+    },
+    {
+      "team": "Poltergeist",
+      "pos": 384,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619936155
+        }
+      }
+    },
+    {
+      "team": "oscuro6879",
+      "pos": 385,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619941942
+        }
+      }
+    },
+    {
+      "team": "SudoWoodoDoasWoodo",
+      "pos": 386,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619943339
+        }
+      }
+    },
+    {
+      "team": "VXRL",
+      "pos": 387,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619944601
+        }
+      }
+    },
+    {
+      "team": "0x401",
+      "pos": 388,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619946174
+        }
+      }
+    },
+    {
+      "team": "Shell_hunters",
+      "pos": 389,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619946924
+        }
+      }
+    },
+    {
+      "team": "vertez",
+      "pos": 390,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619947187
+        }
+      }
+    },
+    {
+      "team": "hshui",
+      "pos": 391,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619948324
+        }
+      }
+    },
+    {
+      "team": "Lil_Nix",
+      "pos": 392,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619957804
+        }
+      }
+    },
+    {
+      "team": "2honrr",
+      "pos": 393,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619957916
+        }
+      }
+    },
+    {
+      "team": "AzureDragons",
+      "pos": 394,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619960079
+        }
+      }
+    },
+    {
+      "team": "Martial_Law_Enforcer",
+      "pos": 395,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619962148
+        }
+      }
+    },
+    {
+      "team": "Maurus",
+      "pos": 396,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619963052
+        }
+      }
+    },
+    {
+      "team": "whitecats",
+      "pos": 397,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619963898
+        }
+      }
+    },
+    {
+      "team": "LeetCTF",
+      "pos": 398,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619964869
+        }
+      }
+    },
+    {
+      "team": "pwnable-fs0ciety",
+      "pos": 399,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619964937
+        }
+      }
+    },
+    {
+      "team": "digial_turtle",
+      "pos": 400,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619965785
+        }
+      }
+    },
+    {
+      "team": "raywando1",
+      "pos": 401,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619967353
+        }
+      }
+    },
+    {
+      "team": "Killer Queen",
+      "pos": 402,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619967729
+        }
+      }
+    },
+    {
+      "team": "Glidermed",
+      "pos": 403,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619969466
+        }
+      }
+    },
+    {
+      "team": "wronganswer",
+      "pos": 404,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619969822
+        }
+      }
+    },
+    {
+      "team": "Lacznosc_Przyszlosc",
+      "pos": 405,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619969850
+        }
+      }
+    },
+    {
+      "team": "TheBlackEyedELITES",
+      "pos": 406,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619970398
+        }
+      }
+    },
+    {
+      "team": "Ranchers",
+      "pos": 407,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619971972
+        }
+      }
+    },
+    {
+      "team": "OnePunchMen",
+      "pos": 408,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619972644
+        }
+      }
+    },
+    {
+      "team": "0000x0000",
+      "pos": 409,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619973684
+        }
+      }
+    },
+    {
+      "team": "Asame",
+      "pos": 410,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619975680
+        }
+      }
+    },
+    {
+      "team": "Lemonz",
+      "pos": 411,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619976837
+        }
+      }
+    },
+    {
+      "team": "noplalic",
+      "pos": 412,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619977684
+        }
+      }
+    },
+    {
+      "team": "DokuDempa",
+      "pos": 413,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619978728
+        }
+      }
+    },
+    {
+      "team": "mnx",
+      "pos": 414,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619979033
+        }
+      }
+    },
+    {
+      "team": "TomSteer1",
+      "pos": 415,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619979963
+        }
+      }
+    },
+    {
+      "team": "notname",
+      "pos": 416,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619980328
+        }
+      }
+    },
+    {
+      "team": "Unknown Impact",
+      "pos": 417,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619980584
+        }
+      }
+    },
+    {
+      "team": "supernode",
+      "pos": 418,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619980724
+        }
+      }
+    },
+    {
+      "team": "gregf1",
+      "pos": 419,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619982321
+        }
+      }
+    },
+    {
+      "team": "ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooverflow!",
+      "pos": 420,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619983749
+        }
+      }
+    },
+    {
+      "team": "trashgordon",
+      "pos": 421,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619984830
+        }
+      }
+    },
+    {
+      "team": "Tronx",
+      "pos": 422,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619986814
+        }
+      }
+    },
+    {
+      "team": "sdsadwewq",
+      "pos": 423,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619987651
+        }
+      }
+    },
+    {
+      "team": "GnatsInMyHair",
+      "pos": 424,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619988340
+        }
+      }
+    },
+    {
+      "team": "badsctr",
+      "pos": 425,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619991305
+        }
+      }
+    },
+    {
+      "team": "The_Investors",
+      "pos": 426,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619992548
+        }
+      }
+    },
+    {
+      "team": "npc",
+      "pos": 427,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619992758
+        }
+      }
+    },
+    {
+      "team": "LeslieShow",
+      "pos": 428,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619994058
+        }
+      }
+    },
+    {
+      "team": "katagaitai",
+      "pos": 429,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619996671
+        }
+      }
+    },
+    {
+      "team": "CeruttiGino",
+      "pos": 430,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619997215
+        }
+      }
+    },
+    {
+      "team": "Buckys_Angels",
+      "pos": 431,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619997243
+        }
+      }
+    },
+    {
+      "team": "azriek",
+      "pos": 432,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619998092
+        }
+      }
+    },
+    {
+      "team": "Blackjack",
+      "pos": 433,
+      "score": 101,
+      "taskStats": {
+        "say-hellooo": {
+          "time": 1619998641
+        }
+      }
+    }
+  ],
+  "date": 1619794800,
+  "name": "DEF CON CTF Qualifier 2021"
+}
