@@ -11,7 +11,7 @@ handler = StreamHandler()
 handler.setFormatter(Formatter('%(asctime)-15s %(message)s'))
 logger.addHandler(handler)
 
-class The3000CTFScraper():
+class p4CTFScraper():
     def __init__(self, url, **kwargs):
         self.url = url
         cookies = SimpleCookie()
@@ -28,23 +28,23 @@ class The3000CTFScraper():
         s.mount("https://", HTTPAdapter(max_retries=retries))
         return s.get(urljoin(self.url, path), cookies=self.cookiejar)
 
-
     def scoreboard(self):
-        r = self._get("/rankingpp")
+        r = self._get("/scoreboard")
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
 
-        tasks = [task.text.strip() for task in soup.select(".panel-body .list-group-item-text")]
+        tasks = [task.text.strip() for task in soup.select("header-task")]
         trs = soup.select("table tbody tr")
 
         teams = []
         for tr in trs:
-            tds = tr.find_all("td")
             teams.append({
-                "pos": int(tds[0].text.strip()),
-                "team": tds[2].text.strip(),
-                "score": int(tds[3].text.strip()),
-                "taskStats": {task["title"]:None for task in tr.select("i.las")},
+                "pos": int(tr.select_one(".column-index").text.strip().rstrip(".")),
+                "team": tr.select_one(".column-nick").select("span")[1].text.strip(),
+                "score": int(tr.select_one(".column-total").text.strip()),
+                "taskStats": {task["data-task"]:{
+                    "time": int(task["data-solved_at"]),
+                }for task in tr.select(".column-solve")},
             })
 
         return {"standings": teams, "tasks": tasks}
