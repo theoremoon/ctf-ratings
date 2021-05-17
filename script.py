@@ -13,8 +13,9 @@ from lib.scraper.midnightsun import MidnightsunScraper
 from lib.scraper.plaidctf import PlaidCTFScraper
 from lib.scraper.asisctf import AsisCTFScraper
 from lib.scraper.defcon import DEFCONScraper
+from lib.scraper.the3000 import The3000CTFScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper, "3kctf": The3000CTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()

@@ -1,0 +1,674 @@
+{
+  "standings": [
+    {
+      "pos": 1,
+      "team": "Never Stop Exploiting",
+      "score": 8353,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Emoji": null,
+        "masterc": null,
+        "online_compiler": null,
+        "Crackme": null,
+        "echo": null,
+        "Layers": null,
+        "ASR": null,
+        "SMS": null,
+        "Microscopic Revenge": null,
+        "secure roots": null,
+        "p(a)wnshop": null,
+        "HelloWorld": null,
+        "Password Manager": null,
+        "Feedback": null,
+        "Imposter": null,
+        "Handvm": null,
+        "iterrun": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "Black Bauhinia",
+      "score": 7887,
+      "taskStats": {
+        "sponsors": null,
+        "SMS": null,
+        "crypto warmup": null,
+        "secure roots": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "Crackme": null,
+        "Imposter": null,
+        "Digital": null,
+        "Mokdad's Memories": null,
+        "Layers": null,
+        "p(a)wnshop": null,
+        "ASR": null,
+        "Feedback": null,
+        "masterc": null,
+        "ppaste": null,
+        "3K_SIGNER": null,
+        "Password Manager": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "zer0pts",
+      "score": 7871,
+      "taskStats": {
+        "crypto warmup": null,
+        "secure roots": null,
+        "echo": null,
+        "masterc": null,
+        "Emoji": null,
+        "online_compiler": null,
+        "sponsors": null,
+        "ASR": null,
+        "Imposter": null,
+        "SMS": null,
+        "p(a)wnshop": null,
+        "klibrary": null,
+        "Mokdad's Memories": null,
+        "iterrun": null,
+        "Digital": null,
+        "Feedback": null,
+        "stdout": null,
+        "Crackme": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "greunion",
+      "score": 6411,
+      "taskStats": {
+        "sponsors": null,
+        "online_compiler": null,
+        "Crackme": null,
+        "Emoji": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "Layers": null,
+        "Imposter": null,
+        "Password Manager": null,
+        "secure roots": null,
+        "Microscopic Revenge": null,
+        "ASR": null,
+        "3K_SIGNER": null,
+        "Feedback": null,
+        "p(a)wnshop": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "zh3r0",
+      "score": 6396,
+      "taskStats": {
+        "sponsors": null,
+        "masterc": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "stdout": null,
+        "online_compiler": null,
+        "Crackme": null,
+        "iterrun": null,
+        "ASR": null,
+        "Feedback": null,
+        "echo": null,
+        "secure roots": null,
+        "Emoji": null,
+        "Handvm": null,
+        "p(a)wnshop": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "Kalmarunionen",
+      "score": 4958,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "SMS": null,
+        "echo": null,
+        "Digital": null,
+        "Feedback": null,
+        "p(a)wnshop": null,
+        "secure roots": null,
+        "Emoji": null,
+        "ASR": null,
+        "klibrary": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "Fword",
+      "score": 3980,
+      "taskStats": {
+        "crypto warmup": null,
+        "sponsors": null,
+        "SMS": null,
+        "masterc": null,
+        "online_compiler": null,
+        "Crackme": null,
+        "Emoji": null,
+        "Layers": null,
+        "Microscopic Revenge": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "RadboudInstOfPwning",
+      "score": 3978,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "SMS": null,
+        "p(a)wnshop": null,
+        "Layers": null,
+        "masterc": null,
+        "echo": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "ISITDTU",
+      "score": 3967,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "SMS": null,
+        "masterc": null,
+        "Crackme": null,
+        "Imposter": null,
+        "Feedback": null,
+        "p(a)wnshop": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "Wanna.One",
+      "score": 3499,
+      "taskStats": {
+        "crypto warmup": null,
+        "sponsors": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "Imposter": null,
+        "SMS": null,
+        "Feedback": null,
+        "Crackme": null,
+        "Microscopic Revenge": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "blackpinker",
+      "score": 3484,
+      "taskStats": {
+        "crypto warmup": null,
+        "sponsors": null,
+        "SMS": null,
+        "Emoji": null,
+        "online_compiler": null,
+        "secure roots": null,
+        "Crackme": null,
+        "ASR": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "0nlyFlags",
+      "score": 3001,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "Crackme": null,
+        "secure roots": null,
+        "online_compiler": null,
+        "Feedback": null,
+        "Emoji": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "DSCVIT",
+      "score": 2099,
+      "taskStats": {
+        "sponsors": null,
+        "Emoji": null,
+        "p(a)wnshop": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "0x62EEN7EA",
+      "score": 2088,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Crackme": null,
+        "online_compiler": null,
+        "SMS": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "d4rkc0de",
+      "score": 2056,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "SMS": null,
+        "Emoji": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "ANWP",
+      "score": 2056,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "icypete",
+      "score": 2056,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "SMS": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "M30W",
+      "score": 1939,
+      "taskStats": {
+        "masterc": null,
+        "echo": null,
+        "iterrun": null,
+        "Handvm": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "CSI",
+      "score": 1674,
+      "taskStats": {
+        "crypto warmup": null,
+        "sponsors": null,
+        "Emoji": null,
+        "echo": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "CTF.SG",
+      "score": 1661,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "echo": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "NicDumZ",
+      "score": 1621,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "Kubie",
+      "score": 1273,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "secure roots": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "OpenToAll",
+      "score": 1268,
+      "taskStats": {
+        "online_compiler": null,
+        "sponsors": null,
+        "Emoji": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "R4v3ns",
+      "score": 1226,
+      "taskStats": {
+        "sponsors": null,
+        "online_compiler": null,
+        "Emoji": null,
+        "crypto warmup": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "Applied Cybersecurity Society",
+      "score": 1226,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "Emoji": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "miniPwny",
+      "score": 1193,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "[email protected]",
+      "score": 1193,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "Jacobs",
+      "score": 1193,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "empty_",
+      "score": 1183,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "online_compiler": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "patientTeam",
+      "score": 958,
+      "taskStats": {
+        "Crackme": null,
+        "Microscopic Revenge": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "bot3310",
+      "score": 883,
+      "taskStats": {
+        "masterc": null,
+        "Feedback": null,
+        "sponsors": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "xisop",
+      "score": 863,
+      "taskStats": {
+        "online_compiler": null,
+        "Emoji": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "byc_404",
+      "score": 863,
+      "taskStats": {
+        "online_compiler": null,
+        "Emoji": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "Killer Queen",
+      "score": 801,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Emoji": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "Enterprize1",
+      "score": 798,
+      "taskStats": {
+        "crypto warmup": null,
+        "SMS": null,
+        "sponsors": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "K3RN3L4RMY",
+      "score": 798,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "sounds_bad",
+      "score": 798,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "BearRepubl1c",
+      "score": 798,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "SMS": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "wiwam845",
+      "score": 798,
+      "taskStats": {
+        "crypto warmup": null,
+        "SMS": null,
+        "sponsors": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "haihoadao",
+      "score": 798,
+      "taskStats": {
+        "crypto warmup": null,
+        "sponsors": null,
+        "SMS": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "BoRa9",
+      "score": 788,
+      "taskStats": {
+        "sponsors": null,
+        "online_compiler": null,
+        "crypto warmup": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "HugsForBugs",
+      "score": 758,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "NotSoPros",
+      "score": 758,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "Jump2Flag",
+      "score": 758,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "Sinception",
+      "score": 758,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "Root Lee",
+      "score": 758,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "TeamName",
+      "score": 758,
+      "taskStats": {
+        "sponsors": null,
+        "crypto warmup": null,
+        "Feedback": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "BirdPerson",
+      "score": 488,
+      "taskStats": {
+        "sponsors": null,
+        "echo": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "kasiatutej",
+      "score": 475,
+      "taskStats": {
+        "secure roots": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "jay",
+      "score": 438,
+      "taskStats": {
+        "Emoji": null
+      }
+    }
+  ],
+  "tasks": [
+    "telnet",
+    "babyrtos",
+    "ppaste",
+    "HelloWorld",
+    "3K_SIGNER",
+    "klibrary",
+    "stdout",
+    "Mokdad's Mem ..",
+    "Digital",
+    "Handvm",
+    "Password Man ..",
+    "iterrun",
+    "Layers",
+    "Microscopic ..",
+    "Imposter",
+    "ASR",
+    "echo",
+    "masterc",
+    "p(a)wnshop",
+    "secure roots",
+    "Crackme",
+    "Emoji",
+    "SMS",
+    "online_compiler",
+    "Feedback",
+    "crypto warmup",
+    "sponsors"
+  ],
+  "date": 1621004400,
+  "name": "3kCTF 2021"
+}
