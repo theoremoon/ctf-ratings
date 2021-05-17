@@ -15,11 +15,8 @@ class The3000CTFScraper():
     def __init__(self, url, **kwargs):
         self.url = url
         cookies = SimpleCookie()
-        if "cookies" in kwargs:
+        if "cookies" in kwargs and kwargs["cookies"]:
             cookies.load(kwargs["cookies"])
-
-        if "session" in kwargs:
-            cookies["login_tokens"] = kwargs["session"]
 
         self.cookiejar = requests.cookies.RequestsCookieJar()
         self.cookiejar.update(cookies)
