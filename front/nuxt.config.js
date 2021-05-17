@@ -10,9 +10,9 @@ export default {
     //         /^\/team\/.+\//
     //     ]
     // },
-    // router: {
-    //     base: '/ctf-ratings/'
-    // },
+    router: {
+        base: '/ctf-ratings/'
+    },
     plugins: [
         '@/plugins/vue-virtual-scroll-list.js',
     ],
