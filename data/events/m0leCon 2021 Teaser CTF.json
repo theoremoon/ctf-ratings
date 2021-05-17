@@ -1,0 +1,5504 @@
+{
+  "tasks": [
+    "Obscurity",
+    "Giant log",
+    "m0lefans",
+    "Another Login",
+    "Puncher",
+    "Lucky-Fall",
+    "Left or right?",
+    "Yet Another Login",
+    "babysign",
+    "Waffle",
+    "Alternating key exchange",
+    "PeTaMorphosis",
+    "Donut Factory",
+    "Proof-of-Work",
+    "Obscurity-fixed",
+    "Automatic Rejection Machine",
+    "parallel-the-m0le",
+    "Little-Alchemy",
+    "m0lang",
+    "Key-Lottery"
+  ],
+  "standings": [
+    {
+      "team": "C4T BuT S4D",
+      "pos": 1,
+      "score": 3797,
+      "id": 497,
+      "taskStats": {
+        "babysign": {
+          "points": 89,
+          "time": 1621013523
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621014151
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014907
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014971
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621023390
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621038356
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621040868
+        },
+        "Obscurity-fixed": {
+          "points": 488,
+          "time": 1621055064
+        },
+        "Giant log": {
+          "points": 500,
+          "time": 1621057447
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621069887
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621074993
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621077149
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621081831
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621084290
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621090473
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621094390
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621095230
+        }
+      }
+    },
+    {
+      "team": "c0r3dump",
+      "pos": 2,
+      "score": 3656,
+      "id": 399,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011647
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012233
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621012977
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621020902
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621021625
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621024844
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621027207
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621034096
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621060143
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621074637
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621076066
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621077646
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621085056
+        },
+        "Obscurity-fixed": {
+          "points": 488,
+          "time": 1621086754
+        },
+        "m0lang": {
+          "points": 428,
+          "time": 1621091365
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621094314
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621096323
+        }
+      }
+    },
+    {
+      "team": "Bushwhackers",
+      "pos": 3,
+      "score": 3500,
+      "id": 425,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011671
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012838
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015403
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015447
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621016489
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621018965
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621025765
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621028151
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621028800
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621030787
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621038134
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621051575
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621063885
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621070358
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621088419
+        },
+        "m0lang": {
+          "points": 428,
+          "time": 1621089592
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621091412
+        }
+      }
+    },
+    {
+      "team": "WreckTheLine",
+      "pos": 4,
+      "score": 3500,
+      "id": 70,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011675
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621012856
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015452
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015890
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621019008
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621027492
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621027601
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621028603
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621036278
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621039345
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621066674
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621068442
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621071725
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621073991
+        },
+        "m0lang": {
+          "points": 428,
+          "time": 1621081754
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621083308
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621095447
+        }
+      }
+    },
+    {
+      "team": "Alpray",
+      "pos": 5,
+      "score": 3500,
+      "id": 375,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011741
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621014081
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621014295
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014662
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621015357
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621016414
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621017705
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621025084
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621042672
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621052388
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621057499
+        },
+        "m0lang": {
+          "points": 428,
+          "time": 1621058211
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621059859
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621065595
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621067788
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621070705
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621096182
+        }
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 6,
+      "score": 3404,
+      "id": 112,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011654
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621012447
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015007
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621016941
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621018870
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621025988
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621028874
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621032122
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621032362
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621033041
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621036472
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621039798
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621040153
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621045111
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621068432
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621069004
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621083753
+        }
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 7,
+      "score": 3088,
+      "id": 454,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621038107
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621039688
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621043447
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621043810
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621049092
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621052037
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621054106
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621055301
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621057789
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621059407
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621064549
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621071798
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621080785
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621081482
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621085159
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621087926
+        }
+      }
+    },
+    {
+      "team": "srdnlen",
+      "pos": 8,
+      "score": 3072,
+      "id": 16,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011653
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621013963
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015686
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621016277
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621025885
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621026099
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621034478
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621067828
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621073219
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621073928
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621074347
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621085258
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621086856
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621090472
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621091654
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621096093
+        }
+      }
+    },
+    {
+      "team": "fibonhack",
+      "pos": 9,
+      "score": 2988,
+      "id": 30,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011671
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013455
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015077
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015880
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621018121
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621025853
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621026336
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621037878
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621043524
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621067249
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621078832
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621084431
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621087250
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621087861
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621096231
+        }
+      }
+    },
+    {
+      "team": "Tower of Hanoi",
+      "pos": 10,
+      "score": 2740,
+      "id": 441,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011644
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012128
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621013401
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621013974
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621024046
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621028784
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621028895
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621034964
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621072577
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621074352
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621075979
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621080884
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621083697
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621084922
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621088448
+        }
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 11,
+      "score": 2070,
+      "id": 332,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011653
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015363
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621016354
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621017150
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621030577
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621061837
+        },
+        "m0lang": {
+          "points": 428,
+          "time": 1621064452
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621066257
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621067041
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621074326
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621082412
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621088261
+        }
+      }
+    },
+    {
+      "team": "PGiatasti",
+      "pos": 12,
+      "score": 1677,
+      "id": 93,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011761
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621018861
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621022358
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621024093
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621026840
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621028844
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621032712
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621072291
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621075636
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621080170
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621094634
+        }
+      }
+    },
+    {
+      "team": "greunion",
+      "pos": 13,
+      "score": 1505,
+      "id": 449,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621013390
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621016300
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621016621
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621023521
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621037554
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621039173
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621041712
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621046236
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621060887
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621090676
+        }
+      }
+    },
+    {
+      "team": "CeSeNA_Ulisse",
+      "pos": 14,
+      "score": 1505,
+      "id": 175,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011646
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621016132
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621016218
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621016304
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621028864
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621033426
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621036930
+        },
+        "parallel-the-m0le": {
+          "points": 316,
+          "time": 1621075964
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621081413
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621094574
+        }
+      }
+    },
+    {
+      "team": "bootplug",
+      "pos": 15,
+      "score": 1458,
+      "id": 462,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011652
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621012680
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013634
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015203
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621029242
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621030287
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621032367
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621034134
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621054559
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621085944
+        }
+      }
+    },
+    {
+      "team": "Babyptm-Giantptm",
+      "pos": 16,
+      "score": 1335,
+      "id": 9,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011674
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015575
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621017888
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621023815
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621035090
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621091413
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621094399
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621096701
+        }
+      }
+    },
+    {
+      "team": "InfoSecIITR",
+      "pos": 17,
+      "score": 1282,
+      "id": 368,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011737
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015807
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621018069
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621019874
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621066070
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621066718
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621076430
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621084781
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621094098
+        }
+      }
+    },
+    {
+      "team": "/dev/spritz",
+      "pos": 18,
+      "score": 1249,
+      "id": 403,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011670
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621018095
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621023734
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621033997
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621038543
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621077944
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621089962
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621094151
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621094863
+        }
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 19,
+      "score": 1243,
+      "id": 110,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012351
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621025576
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621042518
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621046479
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621072957
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621074000
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621081588
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621086441
+        }
+      }
+    },
+    {
+      "team": "polygl0ts",
+      "pos": 20,
+      "score": 1223,
+      "id": 450,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012568
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013444
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621024095
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621032224
+        },
+        "Puncher": {
+          "points": 332,
+          "time": 1621041836
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621046596
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621097246
+        }
+      }
+    },
+    {
+      "team": "Mayas",
+      "pos": 21,
+      "score": 1047,
+      "id": 370,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012134
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621044476
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621045031
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621051663
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621059926
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621060661
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621063028
+        }
+      }
+    },
+    {
+      "team": "RecursionFairies",
+      "pos": 22,
+      "score": 1015,
+      "id": 327,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011774
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621014163
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621014938
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621020906
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621030176
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621090050
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621097193
+        }
+      }
+    },
+    {
+      "team": "theinen",
+      "pos": 23,
+      "score": 900,
+      "id": 562,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621020993
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621027639
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621032299
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621052275
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621052657
+        }
+      }
+    },
+    {
+      "team": "ZenHack",
+      "pos": 24,
+      "score": 840,
+      "id": 57,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011707
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621012660
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013038
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621016565
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621027963
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621073526
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621075100
+        }
+      }
+    },
+    {
+      "team": "hack^3",
+      "pos": 25,
+      "score": 840,
+      "id": 279,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011690
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013258
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014355
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015189
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621033957
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621090911
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621096933
+        }
+      }
+    },
+    {
+      "team": "flexerilla",
+      "pos": 26,
+      "score": 840,
+      "id": 420,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011702
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015283
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621030985
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621032594
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621039983
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621082522
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621097735
+        }
+      }
+    },
+    {
+      "team": "born2scan",
+      "pos": 27,
+      "score": 836,
+      "id": 233,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013045
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621018980
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621025458
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621028619
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621063893
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621068481
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621082267
+        }
+      }
+    },
+    {
+      "team": "VTeam",
+      "pos": 28,
+      "score": 820,
+      "id": 382,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011761
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621017354
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621019300
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621037376
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621070270
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621074357
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621088956
+        }
+      }
+    },
+    {
+      "team": "bitb4ng",
+      "pos": 29,
+      "score": 805,
+      "id": 217,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011775
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012776
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014426
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621019543
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621030501
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621073849
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621094731
+        }
+      }
+    },
+    {
+      "team": "dm0",
+      "pos": 30,
+      "score": 753,
+      "id": 564,
+      "taskStats": {
+        "babysign": {
+          "points": 89,
+          "time": 1621064601
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621075639
+        },
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621085942
+        }
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 31,
+      "score": 716,
+      "id": 531,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621027159
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621045890
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621062871
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621068499
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621089785
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621094894
+        }
+      }
+    },
+    {
+      "team": "KCSC",
+      "pos": 32,
+      "score": 702,
+      "id": 393,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013614
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621041837
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621066007
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621074764
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621077375
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621084448
+        }
+      }
+    },
+    {
+      "team": "THackini",
+      "pos": 33,
+      "score": 687,
+      "id": 108,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012024
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621017521
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621020883
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621022461
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621074774
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621077715
+        }
+      }
+    },
+    {
+      "team": "TRX",
+      "pos": 34,
+      "score": 667,
+      "id": 478,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011659
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012163
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015433
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621020509
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621042562
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621065704
+        }
+      }
+    },
+    {
+      "team": "Onichan???",
+      "pos": 35,
+      "score": 653,
+      "id": 559,
+      "taskStats": {
+        "Another Login": {
+          "points": 165,
+          "time": 1621020980
+        },
+        "Yet Another Login": {
+          "points": 225,
+          "time": 1621052553
+        },
+        "Donut Factory": {
+          "points": 263,
+          "time": 1621055538
+        }
+      }
+    },
+    {
+      "team": "spritzers",
+      "pos": 36,
+      "score": 615,
+      "id": 416,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011644
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013738
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621013760
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621017093
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621032780
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621082285
+        }
+      }
+    },
+    {
+      "team": "PhishNChips",
+      "pos": 37,
+      "score": 615,
+      "id": 402,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621076449
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621076565
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621079243
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621082668
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621092622
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621095813
+        }
+      }
+    },
+    {
+      "team": "pwnthenope",
+      "pos": 38,
+      "score": 611,
+      "id": 123,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011676
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015229
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621016190
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621016997
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621088396
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621096640
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 39,
+      "score": 571,
+      "id": 614,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621041309
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621046856
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621048134
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621079184
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621094887
+        }
+      }
+    },
+    {
+      "team": "Hackappatoi",
+      "pos": 40,
+      "score": 518,
+      "id": 14,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012043
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015962
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621016705
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621028460
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621083208
+        }
+      }
+    },
+    {
+      "team": "LSE",
+      "pos": 41,
+      "score": 518,
+      "id": 223,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011637
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015723
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015938
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621017363
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621091142
+        }
+      }
+    },
+    {
+      "team": "r00tstici",
+      "pos": 42,
+      "score": 483,
+      "id": 142,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011658
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621024547
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621074061
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621074726
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621078564
+        }
+      }
+    },
+    {
+      "team": "mhackinina",
+      "pos": 43,
+      "score": 483,
+      "id": 312,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011682
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013444
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621018173
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621020078
+        },
+        "Little-Alchemy": {
+          "points": 190,
+          "time": 1621087386
+        }
+      }
+    },
+    {
+      "team": "n0n$la$",
+      "pos": 44,
+      "score": 477,
+      "id": 181,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012000
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014727
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621044008
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621044422
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621057030
+        }
+      }
+    },
+    {
+      "team": "ST4RT",
+      "pos": 45,
+      "score": 477,
+      "id": 84,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621042933
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621047624
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621057442
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621064326
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621070083
+        }
+      }
+    },
+    {
+      "team": "d4rkc0de",
+      "pos": 46,
+      "score": 477,
+      "id": 301,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011774
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013749
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621027252
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621029873
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621080849
+        }
+      }
+    },
+    {
+      "team": "sln.1550",
+      "pos": 47,
+      "score": 466,
+      "id": 306,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621049461
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621080975
+        },
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621097919
+        }
+      }
+    },
+    {
+      "team": "F03v3ryY0ung",
+      "pos": 48,
+      "score": 462,
+      "id": 64,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015009
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621045534
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621046379
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621061789
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621085643
+        }
+      }
+    },
+    {
+      "team": "ISITDTU",
+      "pos": 49,
+      "score": 458,
+      "id": 379,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012245
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013971
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014542
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621048504
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621051281
+        }
+      }
+    },
+    {
+      "team": "MorningLightMountain",
+      "pos": 50,
+      "score": 458,
+      "id": 647,
+      "taskStats": {
+        "Another Login": {
+          "points": 165,
+          "time": 1621049148
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621051344
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621052529
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621052655
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621071498
+        }
+      }
+    },
+    {
+      "team": "omega",
+      "pos": 51,
+      "score": 456,
+      "id": 510,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011916
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015203
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621025954
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621067569
+        }
+      }
+    },
+    {
+      "team": "SPhckUsi",
+      "pos": 52,
+      "score": 446,
+      "id": 81,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011636
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012627
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014563
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621029038
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621038410
+        }
+      }
+    },
+    {
+      "team": "MadrHacks",
+      "pos": 53,
+      "score": 446,
+      "id": 203,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014116
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621018251
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621022333
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621062489
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621082989
+        }
+      }
+    },
+    {
+      "team": "AWP?",
+      "pos": 54,
+      "score": 441,
+      "id": 271,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621023115
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621053792
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621053950
+        },
+        "Left or right?": {
+          "points": 225,
+          "time": 1621059550
+        }
+      }
+    },
+    {
+      "team": "Hermes",
+      "pos": 55,
+      "score": 421,
+      "id": 596,
+      "taskStats": {
+        "babysign": {
+          "points": 89,
+          "time": 1621028089
+        },
+        "Obscurity": {
+          "points": 332,
+          "time": 1621033210
+        }
+      }
+    },
+    {
+      "team": "Crypto Noob",
+      "pos": 56,
+      "score": 389,
+      "id": 350,
+      "taskStats": {
+        "Alternating key exchange": {
+          "points": 332,
+          "time": 1621072901
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621083810
+        }
+      }
+    },
+    {
+      "team": "0xfirelayer",
+      "pos": 57,
+      "score": 373,
+      "id": 329,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011997
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621014401
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621016291
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621093207
+        }
+      }
+    },
+    {
+      "team": "V:sCrew",
+      "pos": 58,
+      "score": 357,
+      "id": 378,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012276
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014280
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015267
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621032094
+        }
+      }
+    },
+    {
+      "team": "0FA",
+      "pos": 59,
+      "score": 357,
+      "id": 419,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621020012
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621022638
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621024844
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621034146
+        }
+      }
+    },
+    {
+      "team": "TWC",
+      "pos": 60,
+      "score": 357,
+      "id": 359,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011697
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621017586
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621023202
+        },
+        "m0lefans": {
+          "points": 153,
+          "time": 1621081856
+        }
+      }
+    },
+    {
+      "team": "DarkArmy",
+      "pos": 61,
+      "score": 330,
+      "id": 71,
+      "taskStats": {
+        "PeTaMorphosis": {
+          "points": 184,
+          "time": 1621067656
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621067859
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621068455
+        }
+      }
+    },
+    {
+      "team": "train60",
+      "pos": 62,
+      "score": 311,
+      "id": 250,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013415
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621083074
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621084084
+        }
+      }
+    },
+    {
+      "team": "beerpwn",
+      "pos": 63,
+      "score": 296,
+      "id": 36,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012366
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621071540
+        },
+        "Waffle": {
+          "points": 169,
+          "time": 1621079609
+        }
+      }
+    },
+    {
+      "team": "pwn&pizza",
+      "pos": 64,
+      "score": 293,
+      "id": 260,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012102
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015025
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621017299
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621018307
+        }
+      }
+    },
+    {
+      "team": "ArtAttHack",
+      "pos": 65,
+      "score": 293,
+      "id": 334,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011667
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013106
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621015620
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621021251
+        }
+      }
+    },
+    {
+      "team": "vubar",
+      "pos": 66,
+      "score": 293,
+      "id": 542,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014731
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015198
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621018183
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621022889
+        }
+      }
+    },
+    {
+      "team": "0xPolpettOwn",
+      "pos": 67,
+      "score": 293,
+      "id": 212,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011703
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015942
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621021215
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621028018
+        }
+      }
+    },
+    {
+      "team": "Team-0x7",
+      "pos": 68,
+      "score": 293,
+      "id": 339,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013682
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621028605
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621029407
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621032232
+        }
+      }
+    },
+    {
+      "team": "arrubba4.0",
+      "pos": 69,
+      "score": 293,
+      "id": 239,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012326
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621024794
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621027118
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621033633
+        }
+      }
+    },
+    {
+      "team": "g1v3m3chee53",
+      "pos": 70,
+      "score": 293,
+      "id": 349,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011848
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621014539
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621046182
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621049084
+        }
+      }
+    },
+    {
+      "team": "(mendung)10^6",
+      "pos": 71,
+      "score": 293,
+      "id": 77,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621050655
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621050666
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621052035
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621056557
+        }
+      }
+    },
+    {
+      "team": "CTF{Runn3rs}",
+      "pos": 72,
+      "score": 293,
+      "id": 384,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014442
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621016065
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621022426
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621069098
+        }
+      }
+    },
+    {
+      "team": "WeShowedUp",
+      "pos": 73,
+      "score": 293,
+      "id": 37,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011907
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621019608
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621020105
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621072236
+        }
+      }
+    },
+    {
+      "team": "oceanize",
+      "pos": 74,
+      "score": 293,
+      "id": 387,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621023325
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621025828
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621066476
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621078762
+        }
+      }
+    },
+    {
+      "team": "Woebegone Butt Monkeys",
+      "pos": 75,
+      "score": 293,
+      "id": 199,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621017419
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621019799
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621027395
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621089143
+        }
+      }
+    },
+    {
+      "team": "greenhorn",
+      "pos": 76,
+      "score": 293,
+      "id": 695,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621078873
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621080937
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621084708
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621089806
+        }
+      }
+    },
+    {
+      "team": "Red Knights",
+      "pos": 77,
+      "score": 282,
+      "id": 80,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621045497
+        },
+        "Automatic Rejection Machine": {
+          "points": 225,
+          "time": 1621054204
+        }
+      }
+    },
+    {
+      "team": "y0d31",
+      "pos": 78,
+      "score": 222,
+      "id": 616,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621051834
+        },
+        "Another Login": {
+          "points": 165,
+          "time": 1621051983
+        }
+      }
+    },
+    {
+      "team": "rhuang",
+      "pos": 79,
+      "score": 216,
+      "id": 96,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019129
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621021585
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621026337
+        }
+      }
+    },
+    {
+      "team": "degenbit",
+      "pos": 80,
+      "score": 216,
+      "id": 141,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012769
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621025696
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621039748
+        }
+      }
+    },
+    {
+      "team": "crypto22",
+      "pos": 81,
+      "score": 216,
+      "id": 629,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621039752
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621040660
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621051107
+        }
+      }
+    },
+    {
+      "team": "Defenit",
+      "pos": 82,
+      "score": 216,
+      "id": 244,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621054939
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621056199
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621058192
+        }
+      }
+    },
+    {
+      "team": "Edwow Math",
+      "pos": 83,
+      "score": 216,
+      "id": 342,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621080964
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621082164
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621082532
+        }
+      }
+    },
+    {
+      "team": "weiweiwei98",
+      "pos": 84,
+      "score": 216,
+      "id": 210,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621068659
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621073484
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621095020
+        }
+      }
+    },
+    {
+      "team": "uallerhack",
+      "pos": 85,
+      "score": 204,
+      "id": 107,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011794
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012185
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014902
+        }
+      }
+    },
+    {
+      "team": "SaturnX",
+      "pos": 86,
+      "score": 204,
+      "id": 360,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011657
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621013895
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621014991
+        }
+      }
+    },
+    {
+      "team": "Inshack@ti",
+      "pos": 87,
+      "score": 204,
+      "id": 337,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013160
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621015534
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621016120
+        }
+      }
+    },
+    {
+      "team": "R3hp1C",
+      "pos": 88,
+      "score": 204,
+      "id": 308,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012403
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013895
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621016515
+        }
+      }
+    },
+    {
+      "team": "PinkPirate",
+      "pos": 89,
+      "score": 204,
+      "id": 133,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012153
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621012851
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621016924
+        }
+      }
+    },
+    {
+      "team": "Monk3y Security",
+      "pos": 90,
+      "score": 204,
+      "id": 98,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013414
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014786
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621017088
+        }
+      }
+    },
+    {
+      "team": "tekn4MUTNA",
+      "pos": 91,
+      "score": 204,
+      "id": 485,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621014475
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621017039
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621017285
+        }
+      }
+    },
+    {
+      "team": "falliti",
+      "pos": 92,
+      "score": 204,
+      "id": 161,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015244
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621015522
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621021008
+        }
+      }
+    },
+    {
+      "team": "NZeroFive",
+      "pos": 93,
+      "score": 204,
+      "id": 230,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012509
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621020205
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621021336
+        }
+      }
+    },
+    {
+      "team": "xtal",
+      "pos": 94,
+      "score": 204,
+      "id": 587,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621025403
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621025440
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621029245
+        }
+      }
+    },
+    {
+      "team": "csc427",
+      "pos": 95,
+      "score": 204,
+      "id": 24,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621016373
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621024884
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621030759
+        }
+      }
+    },
+    {
+      "team": "free_funky_frogs",
+      "pos": 96,
+      "score": 204,
+      "id": 401,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621044620
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621049398
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621050246
+        }
+      }
+    },
+    {
+      "team": "nUb5",
+      "pos": 97,
+      "score": 204,
+      "id": 711,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621068932
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621071231
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621073199
+        }
+      }
+    },
+    {
+      "team": "elovneq",
+      "pos": 98,
+      "score": 204,
+      "id": 276,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012127
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621075431
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621095263
+        }
+      }
+    },
+    {
+      "team": "paulie",
+      "pos": 99,
+      "score": 146,
+      "id": 688,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621058122
+        },
+        "babysign": {
+          "points": 89,
+          "time": 1621083002
+        }
+      }
+    },
+    {
+      "team": "3vilbuff3r",
+      "pos": 100,
+      "score": 134,
+      "id": 380,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011842
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621012610
+        }
+      }
+    },
+    {
+      "team": "c0nc0rd4t",
+      "pos": 101,
+      "score": 134,
+      "id": 74,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011789
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621018889
+        }
+      }
+    },
+    {
+      "team": "xlr8_",
+      "pos": 102,
+      "score": 134,
+      "id": 546,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014833
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621020530
+        }
+      }
+    },
+    {
+      "team": "phasetw0",
+      "pos": 103,
+      "score": 134,
+      "id": 569,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621022650
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621024618
+        }
+      }
+    },
+    {
+      "team": "kerupuksambel",
+      "pos": 104,
+      "score": 134,
+      "id": 592,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621025574
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621031259
+        }
+      }
+    },
+    {
+      "team": "Mercury",
+      "pos": 105,
+      "score": 134,
+      "id": 336,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013234
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621070633
+        }
+      }
+    },
+    {
+      "team": "Class3E",
+      "pos": 106,
+      "score": 134,
+      "id": 128,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012269
+        },
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621070819
+        }
+      }
+    },
+    {
+      "team": "CyberTerun",
+      "pos": 107,
+      "score": 134,
+      "id": 91,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621086533
+        },
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621089121
+        }
+      }
+    },
+    {
+      "team": "anonymooz",
+      "pos": 108,
+      "score": 127,
+      "id": 453,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012108
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621013666
+        }
+      }
+    },
+    {
+      "team": "rbct",
+      "pos": 109,
+      "score": 127,
+      "id": 518,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012180
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621014056
+        }
+      }
+    },
+    {
+      "team": "Kuality",
+      "pos": 110,
+      "score": 127,
+      "id": 358,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011663
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621018303
+        }
+      }
+    },
+    {
+      "team": "Altissimo Livello",
+      "pos": 111,
+      "score": 127,
+      "id": 261,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011995
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621018844
+        }
+      }
+    },
+    {
+      "team": "Pizsi",
+      "pos": 112,
+      "score": 127,
+      "id": 247,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014111
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621020095
+        }
+      }
+    },
+    {
+      "team": "Corax",
+      "pos": 113,
+      "score": 127,
+      "id": 367,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621024181
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621024827
+        }
+      }
+    },
+    {
+      "team": "gr@s5",
+      "pos": 114,
+      "score": 127,
+      "id": 264,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012422
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621027283
+        }
+      }
+    },
+    {
+      "team": "KolbaszEsPalacsinta",
+      "pos": 115,
+      "score": 127,
+      "id": 216,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013566
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621027501
+        }
+      }
+    },
+    {
+      "team": "da3ss",
+      "pos": 116,
+      "score": 127,
+      "id": 598,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621027308
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621028194
+        }
+      }
+    },
+    {
+      "team": "Hackstorm",
+      "pos": 117,
+      "score": 127,
+      "id": 25,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621016450
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621029986
+        }
+      }
+    },
+    {
+      "team": "TEAM0001",
+      "pos": 118,
+      "score": 127,
+      "id": 414,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011713
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621030158
+        }
+      }
+    },
+    {
+      "team": "Gianvito",
+      "pos": 119,
+      "score": 127,
+      "id": 168,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621016075
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621031542
+        }
+      }
+    },
+    {
+      "team": "Neptunians",
+      "pos": 120,
+      "score": 127,
+      "id": 612,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621033066
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621037466
+        }
+      }
+    },
+    {
+      "team": "Kernel Sanders",
+      "pos": 121,
+      "score": 127,
+      "id": 351,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621016820
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621038186
+        }
+      }
+    },
+    {
+      "team": "DC919",
+      "pos": 122,
+      "score": 127,
+      "id": 620,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621038827
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621045419
+        }
+      }
+    },
+    {
+      "team": "spectre",
+      "pos": 123,
+      "score": 127,
+      "id": 617,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621034899
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621045484
+        }
+      }
+    },
+    {
+      "team": "NicDumZ",
+      "pos": 124,
+      "score": 127,
+      "id": 666,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621049653
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621050341
+        }
+      }
+    },
+    {
+      "team": "raw",
+      "pos": 125,
+      "score": 127,
+      "id": 340,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015442
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621050528
+        }
+      }
+    },
+    {
+      "team": "h454f",
+      "pos": 126,
+      "score": 127,
+      "id": 608,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621038624
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621050552
+        }
+      }
+    },
+    {
+      "team": "rooted",
+      "pos": 127,
+      "score": 127,
+      "id": 605,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621040514
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621051058
+        }
+      }
+    },
+    {
+      "team": "cylin",
+      "pos": 128,
+      "score": 127,
+      "id": 35,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621059142
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621061044
+        }
+      }
+    },
+    {
+      "team": "caesar",
+      "pos": 129,
+      "score": 127,
+      "id": 346,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621024048
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621068518
+        }
+      }
+    },
+    {
+      "team": "Phobos",
+      "pos": 130,
+      "score": 127,
+      "id": 22,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019335
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621070424
+        }
+      }
+    },
+    {
+      "team": "R0b51W3U3",
+      "pos": 131,
+      "score": 127,
+      "id": 274,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012625
+        },
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621072219
+        }
+      }
+    },
+    {
+      "team": "kasiatutej",
+      "pos": 132,
+      "score": 89,
+      "id": 117,
+      "taskStats": {
+        "babysign": {
+          "points": 89,
+          "time": 1621015481
+        }
+      }
+    },
+    {
+      "team": "ErPaciocco",
+      "pos": 133,
+      "score": 77,
+      "id": 533,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621013981
+        }
+      }
+    },
+    {
+      "team": "xamr00t",
+      "pos": 134,
+      "score": 77,
+      "id": 553,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621020260
+        }
+      }
+    },
+    {
+      "team": "dog06dm",
+      "pos": 135,
+      "score": 77,
+      "id": 624,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621047732
+        }
+      }
+    },
+    {
+      "team": "kamikon",
+      "pos": 136,
+      "score": 77,
+      "id": 661,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621053870
+        }
+      }
+    },
+    {
+      "team": "VietCongSoldiers",
+      "pos": 137,
+      "score": 77,
+      "id": 635,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621053871
+        }
+      }
+    },
+    {
+      "team": "eiPi1day",
+      "pos": 138,
+      "score": 77,
+      "id": 706,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621069676
+        }
+      }
+    },
+    {
+      "team": "noob-atbash",
+      "pos": 139,
+      "score": 77,
+      "id": 289,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621072587
+        }
+      }
+    },
+    {
+      "team": "dimasiki",
+      "pos": 140,
+      "score": 77,
+      "id": 723,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621075220
+        }
+      }
+    },
+    {
+      "team": "n0tl3ss",
+      "pos": 141,
+      "score": 77,
+      "id": 398,
+      "taskStats": {
+        "Lucky-Fall": {
+          "points": 77,
+          "time": 1621087704
+        }
+      }
+    },
+    {
+      "team": "nriver",
+      "pos": 142,
+      "score": 70,
+      "id": 262,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621018728
+        }
+      }
+    },
+    {
+      "team": "Sinn3rB0y5",
+      "pos": 143,
+      "score": 70,
+      "id": 67,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621030908
+        }
+      }
+    },
+    {
+      "team": "ratata",
+      "pos": 144,
+      "score": 70,
+      "id": 396,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621035411
+        }
+      }
+    },
+    {
+      "team": "sxfdb",
+      "pos": 145,
+      "score": 70,
+      "id": 625,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621038435
+        }
+      }
+    },
+    {
+      "team": "dsmouse",
+      "pos": 146,
+      "score": 70,
+      "id": 644,
+      "taskStats": {
+        "Key-Lottery": {
+          "points": 70,
+          "time": 1621045460
+        }
+      }
+    },
+    {
+      "team": "coldboots",
+      "pos": 147,
+      "score": 57,
+      "id": 188,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011645
+        }
+      }
+    },
+    {
+      "team": "CCIT-Napoli | 2021",
+      "pos": 148,
+      "score": 57,
+      "id": 162,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011656
+        }
+      }
+    },
+    {
+      "team": "StarHTML Crusaders",
+      "pos": 149,
+      "score": 57,
+      "id": 28,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011690
+        }
+      }
+    },
+    {
+      "team": "N1z0ku",
+      "pos": 150,
+      "score": 57,
+      "id": 483,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011734
+        }
+      }
+    },
+    {
+      "team": "robot15351",
+      "pos": 151,
+      "score": 57,
+      "id": 500,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011737
+        }
+      }
+    },
+    {
+      "team": "Nameshield-CTF",
+      "pos": 152,
+      "score": 57,
+      "id": 467,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011807
+        }
+      }
+    },
+    {
+      "team": "t3nners",
+      "pos": 153,
+      "score": 57,
+      "id": 471,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011830
+        }
+      }
+    },
+    {
+      "team": "noob",
+      "pos": 154,
+      "score": 57,
+      "id": 499,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011856
+        }
+      }
+    },
+    {
+      "team": "Gabibbo Family",
+      "pos": 155,
+      "score": 57,
+      "id": 326,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011871
+        }
+      }
+    },
+    {
+      "team": "TheTemple",
+      "pos": 156,
+      "score": 57,
+      "id": 151,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621011887
+        }
+      }
+    },
+    {
+      "team": "Jackpotter",
+      "pos": 157,
+      "score": 57,
+      "id": 377,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012018
+        }
+      }
+    },
+    {
+      "team": "giorgiosld",
+      "pos": 158,
+      "score": 57,
+      "id": 213,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012065
+        }
+      }
+    },
+    {
+      "team": "mxrco",
+      "pos": 159,
+      "score": 57,
+      "id": 448,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012082
+        }
+      }
+    },
+    {
+      "team": "GameDisplayer",
+      "pos": 160,
+      "score": 57,
+      "id": 104,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012102
+        }
+      }
+    },
+    {
+      "team": "hackius",
+      "pos": 161,
+      "score": 57,
+      "id": 40,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012172
+        }
+      }
+    },
+    {
+      "team": "crys2508",
+      "pos": 162,
+      "score": 57,
+      "id": 513,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012195
+        }
+      }
+    },
+    {
+      "team": "KennedyS",
+      "pos": 163,
+      "score": 57,
+      "id": 442,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012205
+        }
+      }
+    },
+    {
+      "team": "Otrebla",
+      "pos": 164,
+      "score": 57,
+      "id": 207,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012206
+        }
+      }
+    },
+    {
+      "team": "Isec-U.O",
+      "pos": 165,
+      "score": 57,
+      "id": 355,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012351
+        }
+      }
+    },
+    {
+      "team": "alabasterclay",
+      "pos": 166,
+      "score": 57,
+      "id": 316,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012516
+        }
+      }
+    },
+    {
+      "team": "Eug3n3B1xby",
+      "pos": 167,
+      "score": 57,
+      "id": 512,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012552
+        }
+      }
+    },
+    {
+      "team": "0x021F",
+      "pos": 168,
+      "score": 57,
+      "id": 525,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012688
+        }
+      }
+    },
+    {
+      "team": "En1gma",
+      "pos": 169,
+      "score": 57,
+      "id": 516,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012730
+        }
+      }
+    },
+    {
+      "team": "mattiabrandon",
+      "pos": 170,
+      "score": 57,
+      "id": 477,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012748
+        }
+      }
+    },
+    {
+      "team": "XCoder",
+      "pos": 171,
+      "score": 57,
+      "id": 507,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012816
+        }
+      }
+    },
+    {
+      "team": "notSanil",
+      "pos": 172,
+      "score": 57,
+      "id": 257,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012860
+        }
+      }
+    },
+    {
+      "team": "HsVcs",
+      "pos": 173,
+      "score": 57,
+      "id": 412,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012890
+        }
+      }
+    },
+    {
+      "team": "gandelpups",
+      "pos": 174,
+      "score": 57,
+      "id": 432,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621012924
+        }
+      }
+    },
+    {
+      "team": "cursed_hacker",
+      "pos": 175,
+      "score": 57,
+      "id": 27,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013015
+        }
+      }
+    },
+    {
+      "team": "Fs0ciety00",
+      "pos": 176,
+      "score": 57,
+      "id": 13,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013028
+        }
+      }
+    },
+    {
+      "team": "Apollone Artemis",
+      "pos": 177,
+      "score": 57,
+      "id": 492,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013070
+        }
+      }
+    },
+    {
+      "team": "RevolutionEra",
+      "pos": 178,
+      "score": 57,
+      "id": 82,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013156
+        }
+      }
+    },
+    {
+      "team": "Par5if4l",
+      "pos": 179,
+      "score": 57,
+      "id": 169,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013472
+        }
+      }
+    },
+    {
+      "team": "AmanPathak",
+      "pos": 180,
+      "score": 57,
+      "id": 470,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013603
+        }
+      }
+    },
+    {
+      "team": "TheMyths",
+      "pos": 181,
+      "score": 57,
+      "id": 452,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013615
+        }
+      }
+    },
+    {
+      "team": "HarlockOfficial",
+      "pos": 182,
+      "score": 57,
+      "id": 266,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013968
+        }
+      }
+    },
+    {
+      "team": "haruyaman",
+      "pos": 183,
+      "score": 57,
+      "id": 537,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621013999
+        }
+      }
+    },
+    {
+      "team": "luck4o",
+      "pos": 184,
+      "score": 57,
+      "id": 534,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014018
+        }
+      }
+    },
+    {
+      "team": "ItsTino",
+      "pos": 185,
+      "score": 57,
+      "id": 92,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014138
+        }
+      }
+    },
+    {
+      "team": "turing",
+      "pos": 186,
+      "score": 57,
+      "id": 78,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014178
+        }
+      }
+    },
+    {
+      "team": "alt+f4",
+      "pos": 187,
+      "score": 57,
+      "id": 520,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014295
+        }
+      }
+    },
+    {
+      "team": "Enterprize1",
+      "pos": 188,
+      "score": 57,
+      "id": 532,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014363
+        }
+      }
+    },
+    {
+      "team": "CR1SS",
+      "pos": 189,
+      "score": 57,
+      "id": 536,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014671
+        }
+      }
+    },
+    {
+      "team": "XXX-team",
+      "pos": 190,
+      "score": 57,
+      "id": 170,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014854
+        }
+      }
+    },
+    {
+      "team": "new/neon/dystopia",
+      "pos": 191,
+      "score": 57,
+      "id": 424,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621014935
+        }
+      }
+    },
+    {
+      "team": "OVELOSEC",
+      "pos": 192,
+      "score": 57,
+      "id": 428,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015325
+        }
+      }
+    },
+    {
+      "team": "n000b",
+      "pos": 193,
+      "score": 57,
+      "id": 246,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015414
+        }
+      }
+    },
+    {
+      "team": "Y2kz",
+      "pos": 194,
+      "score": 57,
+      "id": 374,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015549
+        }
+      }
+    },
+    {
+      "team": "Bart",
+      "pos": 195,
+      "score": 57,
+      "id": 481,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015623
+        }
+      }
+    },
+    {
+      "team": "WanderingBytes",
+      "pos": 196,
+      "score": 57,
+      "id": 154,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015782
+        }
+      }
+    },
+    {
+      "team": "Cuprum",
+      "pos": 197,
+      "score": 57,
+      "id": 234,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621015827
+        }
+      }
+    },
+    {
+      "team": "squ1rtl3",
+      "pos": 198,
+      "score": 57,
+      "id": 174,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621016880
+        }
+      }
+    },
+    {
+      "team": "kenanb",
+      "pos": 199,
+      "score": 57,
+      "id": 557,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621017898
+        }
+      }
+    },
+    {
+      "team": "NfinityParad0x",
+      "pos": 200,
+      "score": 57,
+      "id": 345,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621017996
+        }
+      }
+    },
+    {
+      "team": "Flaggermeister",
+      "pos": 201,
+      "score": 57,
+      "id": 411,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621018242
+        }
+      }
+    },
+    {
+      "team": "REE1337",
+      "pos": 202,
+      "score": 57,
+      "id": 488,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621018364
+        }
+      }
+    },
+    {
+      "team": "ex4722",
+      "pos": 203,
+      "score": 57,
+      "id": 463,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019164
+        }
+      }
+    },
+    {
+      "team": "H-mmer",
+      "pos": 204,
+      "score": 57,
+      "id": 229,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019253
+        }
+      }
+    },
+    {
+      "team": "Khonsu",
+      "pos": 205,
+      "score": 57,
+      "id": 47,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019297
+        }
+      }
+    },
+    {
+      "team": "ThePseudoAdmin",
+      "pos": 206,
+      "score": 57,
+      "id": 131,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019317
+        }
+      }
+    },
+    {
+      "team": "Najai",
+      "pos": 207,
+      "score": 57,
+      "id": 555,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019612
+        }
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 208,
+      "score": 57,
+      "id": 465,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621019871
+        }
+      }
+    },
+    {
+      "team": "blipp",
+      "pos": 209,
+      "score": 57,
+      "id": 576,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621020124
+        }
+      }
+    },
+    {
+      "team": "siraak",
+      "pos": 210,
+      "score": 57,
+      "id": 577,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621020245
+        }
+      }
+    },
+    {
+      "team": "Adrenaline",
+      "pos": 211,
+      "score": 57,
+      "id": 124,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621020305
+        }
+      }
+    },
+    {
+      "team": "HaS_CTF",
+      "pos": 212,
+      "score": 57,
+      "id": 575,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621020328
+        }
+      }
+    },
+    {
+      "team": "extr0py",
+      "pos": 213,
+      "score": 57,
+      "id": 320,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621020881
+        }
+      }
+    },
+    {
+      "team": "NobitaNobi",
+      "pos": 214,
+      "score": 57,
+      "id": 583,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621021400
+        }
+      }
+    },
+    {
+      "team": "Z3Ro",
+      "pos": 215,
+      "score": 57,
+      "id": 560,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621021675
+        }
+      }
+    },
+    {
+      "team": "h4ckad1a",
+      "pos": 216,
+      "score": 57,
+      "id": 277,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621022090
+        }
+      }
+    },
+    {
+      "team": "Otaku",
+      "pos": 217,
+      "score": 57,
+      "id": 436,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621022731
+        }
+      }
+    },
+    {
+      "team": "christiandipert",
+      "pos": 218,
+      "score": 57,
+      "id": 164,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621023449
+        }
+      }
+    },
+    {
+      "team": "BackMoon",
+      "pos": 219,
+      "score": 57,
+      "id": 565,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621023979
+        }
+      }
+    },
+    {
+      "team": "GioTad",
+      "pos": 220,
+      "score": 57,
+      "id": 586,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621024065
+        }
+      }
+    },
+    {
+      "team": "c0k0ie502",
+      "pos": 221,
+      "score": 57,
+      "id": 514,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621024611
+        }
+      }
+    },
+    {
+      "team": "pino",
+      "pos": 222,
+      "score": 57,
+      "id": 589,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621026269
+        }
+      }
+    },
+    {
+      "team": "gggiova",
+      "pos": 223,
+      "score": 57,
+      "id": 595,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621026698
+        }
+      }
+    },
+    {
+      "team": "butter overflow",
+      "pos": 224,
+      "score": 57,
+      "id": 303,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621028819
+        }
+      }
+    },
+    {
+      "team": "atorre98",
+      "pos": 225,
+      "score": 57,
+      "id": 160,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621029266
+        }
+      }
+    },
+    {
+      "team": "SelSec",
+      "pos": 226,
+      "score": 57,
+      "id": 606,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621029584
+        }
+      }
+    },
+    {
+      "team": "xSTF",
+      "pos": 227,
+      "score": 57,
+      "id": 603,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621030855
+        }
+      }
+    },
+    {
+      "team": "SgtVarmint",
+      "pos": 228,
+      "score": 57,
+      "id": 498,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621031311
+        }
+      }
+    },
+    {
+      "team": "BACE16",
+      "pos": 229,
+      "score": 57,
+      "id": 611,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621033568
+        }
+      }
+    },
+    {
+      "team": "gunjyo",
+      "pos": 230,
+      "score": 57,
+      "id": 501,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621036127
+        }
+      }
+    },
+    {
+      "team": "poigiatre",
+      "pos": 231,
+      "score": 57,
+      "id": 626,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621037607
+        }
+      }
+    },
+    {
+      "team": "Team6God",
+      "pos": 232,
+      "score": 57,
+      "id": 121,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621040476
+        }
+      }
+    },
+    {
+      "team": "Colony",
+      "pos": 233,
+      "score": 57,
+      "id": 366,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621044072
+        }
+      }
+    },
+    {
+      "team": "HaxoringPirate",
+      "pos": 234,
+      "score": 57,
+      "id": 519,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621044725
+        }
+      }
+    },
+    {
+      "team": "JediMindTricks",
+      "pos": 235,
+      "score": 57,
+      "id": 645,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621044950
+        }
+      }
+    },
+    {
+      "team": "NoBody",
+      "pos": 236,
+      "score": 57,
+      "id": 259,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621045721
+        }
+      }
+    },
+    {
+      "team": "sanchitdogra5",
+      "pos": 237,
+      "score": 57,
+      "id": 208,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621046723
+        }
+      }
+    },
+    {
+      "team": "Kratos",
+      "pos": 238,
+      "score": 57,
+      "id": 568,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621047340
+        }
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 239,
+      "score": 57,
+      "id": 290,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621048476
+        }
+      }
+    },
+    {
+      "team": "drdoctor",
+      "pos": 240,
+      "score": 57,
+      "id": 663,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621049254
+        }
+      }
+    },
+    {
+      "team": "LE37",
+      "pos": 241,
+      "score": 57,
+      "id": 668,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621050895
+        }
+      }
+    },
+    {
+      "team": "2honrr",
+      "pos": 242,
+      "score": 57,
+      "id": 371,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621051509
+        }
+      }
+    },
+    {
+      "team": "akinomas",
+      "pos": 243,
+      "score": 57,
+      "id": 674,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621051947
+        }
+      }
+    },
+    {
+      "team": "1nf1n1ty",
+      "pos": 244,
+      "score": 57,
+      "id": 675,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621052105
+        }
+      }
+    },
+    {
+      "team": "P&K",
+      "pos": 245,
+      "score": 57,
+      "id": 677,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621052305
+        }
+      }
+    },
+    {
+      "team": "H3LLF1R3",
+      "pos": 246,
+      "score": 57,
+      "id": 184,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621053870
+        }
+      }
+    },
+    {
+      "team": "EliteSploit",
+      "pos": 247,
+      "score": 57,
+      "id": 372,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621054123
+        }
+      }
+    },
+    {
+      "team": "PEEPEEP",
+      "pos": 248,
+      "score": 57,
+      "id": 472,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621055776
+        }
+      }
+    },
+    {
+      "team": "hamayanhamayan",
+      "pos": 249,
+      "score": 57,
+      "id": 646,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621056179
+        }
+      }
+    },
+    {
+      "team": "minion",
+      "pos": 250,
+      "score": 57,
+      "id": 686,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621056335
+        }
+      }
+    },
+    {
+      "team": "ri5e",
+      "pos": 251,
+      "score": 57,
+      "id": 62,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621057688
+        }
+      }
+    },
+    {
+      "team": "prokunal",
+      "pos": 252,
+      "score": 57,
+      "id": 314,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621059432
+        }
+      }
+    },
+    {
+      "team": "UnusedVariables",
+      "pos": 253,
+      "score": 57,
+      "id": 318,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621060675
+        }
+      }
+    },
+    {
+      "team": "ThereIsNoInfoRoma",
+      "pos": 254,
+      "score": 57,
+      "id": 144,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621060856
+        }
+      }
+    },
+    {
+      "team": "0xDoge",
+      "pos": 255,
+      "score": 57,
+      "id": 609,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621065729
+        }
+      }
+    },
+    {
+      "team": "R0073R5",
+      "pos": 256,
+      "score": 57,
+      "id": 192,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621067048
+        }
+      }
+    },
+    {
+      "team": "K!nd4SUS",
+      "pos": 257,
+      "score": 57,
+      "id": 703,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621067825
+        }
+      }
+    },
+    {
+      "team": "NorthWest",
+      "pos": 258,
+      "score": 57,
+      "id": 130,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621068443
+        }
+      }
+    },
+    {
+      "team": "hypnguyen",
+      "pos": 259,
+      "score": 57,
+      "id": 707,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621068506
+        }
+      }
+    },
+    {
+      "team": "larsbopark",
+      "pos": 260,
+      "score": 57,
+      "id": 434,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621069815
+        }
+      }
+    },
+    {
+      "team": "Tinfoil",
+      "pos": 261,
+      "score": 57,
+      "id": 75,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621071359
+        }
+      }
+    },
+    {
+      "team": "fiddler",
+      "pos": 262,
+      "score": 57,
+      "id": 269,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621072466
+        }
+      }
+    },
+    {
+      "team": "nks1ck",
+      "pos": 263,
+      "score": 57,
+      "id": 464,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621072714
+        }
+      }
+    },
+    {
+      "team": "miso",
+      "pos": 264,
+      "score": 57,
+      "id": 720,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621073128
+        }
+      }
+    },
+    {
+      "team": "fecklewick",
+      "pos": 265,
+      "score": 57,
+      "id": 618,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621073876
+        }
+      }
+    },
+    {
+      "team": "nighteye",
+      "pos": 266,
+      "score": 57,
+      "id": 725,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621076452
+        }
+      }
+    },
+    {
+      "team": "9ce2cea8",
+      "pos": 267,
+      "score": 57,
+      "id": 126,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621076914
+        }
+      }
+    },
+    {
+      "team": "uwu",
+      "pos": 268,
+      "score": 57,
+      "id": 701,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621078674
+        }
+      }
+    },
+    {
+      "team": "Martial_Law_Enforcer",
+      "pos": 269,
+      "score": 57,
+      "id": 731,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621079135
+        }
+      }
+    },
+    {
+      "team": "lazyturtle",
+      "pos": 270,
+      "score": 57,
+      "id": 730,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621079663
+        }
+      }
+    },
+    {
+      "team": "noyou",
+      "pos": 271,
+      "score": 57,
+      "id": 737,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621080830
+        }
+      }
+    },
+    {
+      "team": "aie",
+      "pos": 272,
+      "score": 57,
+      "id": 435,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621082046
+        }
+      }
+    },
+    {
+      "team": "binan",
+      "pos": 273,
+      "score": 57,
+      "id": 178,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621083405
+        }
+      }
+    },
+    {
+      "team": "Thehackerscrew",
+      "pos": 274,
+      "score": 57,
+      "id": 252,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621084240
+        }
+      }
+    },
+    {
+      "team": "b34v3r",
+      "pos": 275,
+      "score": 57,
+      "id": 573,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621084289
+        }
+      }
+    },
+    {
+      "team": "destroyers",
+      "pos": 276,
+      "score": 57,
+      "id": 744,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621087521
+        }
+      }
+    },
+    {
+      "team": "xisop",
+      "pos": 277,
+      "score": 57,
+      "id": 743,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621087611
+        }
+      }
+    },
+    {
+      "team": "EMPSec",
+      "pos": 278,
+      "score": 57,
+      "id": 460,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621088502
+        }
+      }
+    },
+    {
+      "team": "Martini",
+      "pos": 279,
+      "score": 57,
+      "id": 103,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621089950
+        }
+      }
+    },
+    {
+      "team": "gabeseet",
+      "pos": 280,
+      "score": 57,
+      "id": 20,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621091990
+        }
+      }
+    },
+    {
+      "team": "gruf",
+      "pos": 281,
+      "score": 57,
+      "id": 508,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621093941
+        }
+      }
+    },
+    {
+      "team": "HackNgelo",
+      "pos": 282,
+      "score": 57,
+      "id": 753,
+      "taskStats": {
+        "Proof-of-Work": {
+          "points": 57,
+          "time": 1621095008
+        }
+      }
+    }
+  ],
+  "date": 1621004400,
+  "name": "m0leCon 2021 Teaser CTF"
+}
