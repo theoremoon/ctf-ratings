@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+html,body{
+    padding: 0;
+    margin: 0;
+    font-family: arial,sans-serif;
+    height: 100%;
+}
+#__nuxt,#__layout{
+    height: 100%;
+}

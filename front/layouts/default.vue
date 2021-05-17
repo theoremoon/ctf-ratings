@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div style="height: 100%; display: flex; flex-direction: column;">
         <header>
             <div><NuxtLink :to="{name: 'index'}">CTF-Ratings</NuxtLink></div>
             <div><NuxtLink :to="{name: 'events'}">events</NuxtLink></div>
@@ -14,11 +14,6 @@
 </script>
 
 <style>
-html, body {
-    padding: 0;
-    margin: 0;
-    font-family: arial,sans-serif;
-}
 header {
     display: flex;
     padding: 0.5rem 1rem;
@@ -29,7 +24,7 @@ header>div {
     margin-right: 1rem;
 }
 main {
-    margin: 8px;
+    height: calc(100% - 2rem - 5px);
 }
 .flex {
     display: flex;
