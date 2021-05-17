@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 import re
 import time
 from logging import getLogger, StreamHandler, Formatter
+from http.cookies import SimpleCookie
+from tqdm import tqdm
 
 logger = getLogger(__name__)
 handler = StreamHandler()
@@ -16,8 +18,13 @@ logger.addHandler(handler)
 class LegacyCTFdScraper():
     def __init__(self, url, **kwargs):
         self.url = url
-        if "session" in kwargs:
-            self.session = kwargs["session"]
+
+        cookies = SimpleCookie()
+        if "cookies" in kwargs and kwargs["cookies"]:
+            cookies.load(kwargs["cookies"])
+
+        self.cookiejar = requests.cookies.RequestsCookieJar()
+        self.cookiejar.update(cookies)
 
         self.mode = 'teams'
         if 'mode' in kwargs:
@@ -28,10 +35,7 @@ class LegacyCTFdScraper():
         retries = Retry(total=5, backoff_factor=0.1, status_forcelist=[500, 501, 502, 503, 504])
         s.mount("http://", HTTPAdapter(max_retries=retries))
         s.mount("https://", HTTPAdapter(max_retries=retries))
-        if self.session:
-            return s.get(urljoin(self.url, path), cookies={'session': self.session})
-        else:
-            return s.get(urljoin(self.url, path))
+        return s.get(urljoin(self.url, path), cookies=self.cookiejar)
 
     def _teams(self):
         logger.warning("[+] get scoreboard...")
@@ -39,10 +43,12 @@ class LegacyCTFdScraper():
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
 
-        hdr = soup.select("#scoreboard thead th")
-        score_index = -1
+        hdr = soup.select("#scoreboard thead th, #scoreboard thead td")
+        if not hdr:
+            hdr = soup.select("thead th, thead td")
+
         for i, th in enumerate(hdr):
-            if re.match(r"^score$", th.text, re.IGNORECASE):
+            if re.match(r"^(score|value)$", th.text, re.IGNORECASE):
                 score_index = i
                 break
         else:
@@ -53,7 +59,7 @@ class LegacyCTFdScraper():
         for tr in trs:
             id = tr.find("a")["href"].split("/")[-1]
             name = tr.find("a").text.strip()
-            score = int(tr.find_all("td")[score_index].text)
+            score = int(tr.select("td, th")[score_index].text)
             teams.append({"id": id, "team": name, "pos": len(teams) + 1, "score": score, "taskStats": {}})
         logger.warning("[+] done")
         return teams
@@ -83,10 +89,9 @@ class LegacyCTFdScraper():
         teams = self._teams()
         tasks = set()
 
-        for i in range(len(teams)):
-            if i % 10 == 0:
+        for i in tqdm(range(len(teams))):
+            if i % 10 == 9:
                 time.sleep(0.5)
-                logger.warning("[+] progress: {}/{}".format(i + 1, len(teams)))
 
             solves = self._team_solves(teams[i]["id"])
             tasks.update(solves.keys())
