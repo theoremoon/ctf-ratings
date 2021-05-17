@@ -33,7 +33,7 @@ class p4CTFScraper():
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
 
-        tasks = [task.text.strip() for task in soup.select("header-task")]
+        tasks = [task.text.strip() for task in soup.select(".header-task")]
         trs = soup.select("table tbody tr")
 
         teams = []

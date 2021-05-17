@@ -2829,7 +2829,30 @@
       }
     }
   ],
-  "tasks": [],
+  "tasks": [
+    "Sanity Check",
+    "Almost perfect",
+    "CSPRNG",
+    "Fiend",
+    "Jamal",
+    "Tower of Power",
+    "Cry for help",
+    "Falsch",
+    "Linker Chess",
+    "Turtul",
+    "CUPS PDF",
+    "Framed",
+    "My Little Pwnie",
+    "Flag saver",
+    "GRUB",
+    "Playing cards",
+    "Eyes of a panther",
+    "Code review",
+    "Polite Notepad",
+    "Politer Notepad",
+    "Hotlinker",
+    "Remote Reports"
+  ],
   "date": 1621004400,
   "name": "OMH 2021 CTF"
 }
