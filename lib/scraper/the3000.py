@@ -29,12 +29,18 @@ class The3000CTFScraper():
         return s.get(urljoin(self.url, path), cookies=self.cookiejar)
 
 
+    def _tasks(self):
+        r = self._get("/challenges")
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        return [task.text.strip() for task in soup.select(".list-group-item-text")]
+
+
     def scoreboard(self):
+        tasks = self._tasks()
         r = self._get("/rankingpp")
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
-
-        tasks = [task.text.strip() for task in soup.select(".panel-body .list-group-item-text")]
         trs = soup.select("table tbody tr")
 
         teams = []
