@@ -1,0 +1,1949 @@
+{
+  "tasks": [
+    "Epic Game",
+    "Baby Homework",
+    "Poodle1",
+    "Asymmetric VOODOO",
+    "VOODOO Fault Injections",
+    "Stargate",
+    "Noisy Data",
+    "Anti",
+    "Crime Cloud",
+    "COP",
+    "Project Power",
+    "Hungry Lattice",
+    "Schrodinger's Cat",
+    "May the Fault",
+    "TicTac",
+    "Secure TPM",
+    "Not My Fault",
+    "Poodle2",
+    "Schrodinger's Cat 2",
+    "Super Super Mario",
+    "Pikatchu's Fault "
+  ],
+  "standings": [
+    {
+      "team": "bootplug",
+      "pos": 1,
+      "score": 5650,
+      "id": 327,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622488261
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622490234
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622492980
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622497357
+        },
+        "Noisy Data": {
+          "points": 200,
+          "time": 1622498084
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622511020
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622532721
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622534724
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622536961
+        },
+        "Hungry Lattice": {
+          "points": 600,
+          "time": 1622540959
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622547128
+        },
+        "Stargate": {
+          "points": 225,
+          "time": 1622549473
+        },
+        "Asymmetric VOODOO": {
+          "points": 250,
+          "time": 1622553245
+        },
+        "May the Fault": {
+          "points": 450,
+          "time": 1622562257
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622565446
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622571564
+        },
+        "Secure TPM": {
+          "points": 150,
+          "time": 1622573094
+        },
+        "Project Power": {
+          "points": 300,
+          "time": 1622579281
+        },
+        "Schrodinger's Cat": {
+          "points": 500,
+          "time": 1622588095
+        },
+        "Anti": {
+          "points": 450,
+          "time": 1622598100
+        },
+        "Schrodinger's Cat 2": {
+          "points": 100,
+          "time": 1622620213
+        }
+      }
+    },
+    {
+      "team": "HackingForSoju",
+      "pos": 2,
+      "score": 4950,
+      "id": 288,
+      "taskStats": {
+        "Noisy Data": {
+          "points": 200,
+          "time": 1622486142
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622489868
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622490373
+        },
+        "Project Power": {
+          "points": 300,
+          "time": 1622491440
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622492482
+        },
+        "Secure TPM": {
+          "points": 150,
+          "time": 1622492946
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622493519
+        },
+        "Stargate": {
+          "points": 225,
+          "time": 1622496705
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622498123
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622501183
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622509987
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622515260
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622516316
+        },
+        "Anti": {
+          "points": 450,
+          "time": 1622561150
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622563026
+        },
+        "May the Fault": {
+          "points": 450,
+          "time": 1622566969
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622577537
+        },
+        "Schrodinger's Cat": {
+          "points": 500,
+          "time": 1622578942
+        },
+        "Asymmetric VOODOO": {
+          "points": 250,
+          "time": 1622589546
+        }
+      }
+    },
+    {
+      "team": "M30W",
+      "pos": 3,
+      "score": 4600,
+      "id": 228,
+      "taskStats": {
+        "Epic Game": {
+          "points": 350,
+          "time": 1622476796
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622481765
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622487044
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622488451
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622490113
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622491730
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622491824
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622493225
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622526787
+        },
+        "Anti": {
+          "points": 450,
+          "time": 1622564617
+        },
+        "Stargate": {
+          "points": 225,
+          "time": 1622631088
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622631108
+        },
+        "Schrodinger's Cat": {
+          "points": 500,
+          "time": 1622631159
+        },
+        "Asymmetric VOODOO": {
+          "points": 250,
+          "time": 1622631182
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622631199
+        },
+        "May the Fault": {
+          "points": 450,
+          "time": 1622631217
+        },
+        "Project Power": {
+          "points": 300,
+          "time": 1622640117
+        }
+      }
+    },
+    {
+      "team": "Knightsec",
+      "pos": 4,
+      "score": 3800,
+      "id": 211,
+      "taskStats": {
+        "TicTac": {
+          "points": 75,
+          "time": 1622477002
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622478662
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622478935
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622483819
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622487484
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622489501
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622491654
+        },
+        "Stargate": {
+          "points": 225,
+          "time": 1622502405
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622562486
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622570625
+        },
+        "Anti": {
+          "points": 450,
+          "time": 1622573202
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622583682
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622585257
+        },
+        "May the Fault": {
+          "points": 450,
+          "time": 1622605256
+        },
+        "Asymmetric VOODOO": {
+          "points": 250,
+          "time": 1622612017
+        }
+      }
+    },
+    {
+      "team": "Bat Squad",
+      "pos": 5,
+      "score": 3800,
+      "id": 343,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622493242
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622494762
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622498408
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622561774
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622561786
+        },
+        "May the Fault": {
+          "points": 450,
+          "time": 1622561805
+        },
+        "Anti": {
+          "points": 450,
+          "time": 1622561818
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622561838
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622561861
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622567071
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622578333
+        },
+        "Stargate": {
+          "points": 225,
+          "time": 1622581817
+        },
+        "Asymmetric VOODOO": {
+          "points": 250,
+          "time": 1622628685
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622634629
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622641828
+        }
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 6,
+      "score": 3225,
+      "id": 196,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622476041
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622480108
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622480167
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622482123
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622502470
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622503456
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622511095
+        },
+        "Asymmetric VOODOO": {
+          "points": 250,
+          "time": 1622550128
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622556491
+        },
+        "May the Fault": {
+          "points": 450,
+          "time": 1622559074
+        },
+        "Anti": {
+          "points": 450,
+          "time": 1622560910
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622579549
+        },
+        "Stargate": {
+          "points": 225,
+          "time": 1622599668
+        }
+      }
+    },
+    {
+      "team": "CTF.SG",
+      "pos": 7,
+      "score": 2925,
+      "id": 305,
+      "taskStats": {
+        "COP": {
+          "points": 500,
+          "time": 1622508994
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622523343
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622528967
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622534360
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622534397
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622562278
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622568776
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622571642
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622612306
+        },
+        "Project Power": {
+          "points": 300,
+          "time": 1622615452
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622620833
+        },
+        "Noisy Data": {
+          "points": 200,
+          "time": 1622623105
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622625542
+        }
+      }
+    },
+    {
+      "team": "DragonSec SI",
+      "pos": 8,
+      "score": 2425,
+      "id": 316,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622494211
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622497151
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622501983
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622502330
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622507951
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622549692
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622557765
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622563767
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622565700
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622572110
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622584769
+        }
+      }
+    },
+    {
+      "team": "EPT",
+      "pos": 9,
+      "score": 2425,
+      "id": 183,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622480457
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622485057
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622487600
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622547537
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622551830
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622552365
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622553449
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622557167
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622568316
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622577568
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622619141
+        }
+      }
+    },
+    {
+      "team": "dm0n",
+      "pos": 10,
+      "score": 2350,
+      "id": 10,
+      "taskStats": {
+        "Epic Game": {
+          "points": 350,
+          "time": 1622479149
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622485459
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622490822
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622491403
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622553824
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622555079
+        },
+        "Anti": {
+          "points": 450,
+          "time": 1622561320
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622562406
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622566612
+        }
+      }
+    },
+    {
+      "team": "KSZK-SecurITeam",
+      "pos": 11,
+      "score": 1925,
+      "id": 213,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622480002
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622488236
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622496552
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622498706
+        },
+        "Noisy Data": {
+          "points": 200,
+          "time": 1622500266
+        },
+        "Project Power": {
+          "points": 300,
+          "time": 1622508995
+        },
+        "VOODOO Fault Injections": {
+          "points": 300,
+          "time": 1622634799
+        },
+        "Stargate": {
+          "points": 225,
+          "time": 1622639838
+        }
+      }
+    },
+    {
+      "team": "CSI",
+      "pos": 12,
+      "score": 1900,
+      "id": 511,
+      "taskStats": {
+        "Epic Game": {
+          "points": 350,
+          "time": 1622544565
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622544592
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622546046
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622546053
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622546623
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622546993
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622547141
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622563108
+        }
+      }
+    },
+    {
+      "team": "0nlyFlags",
+      "pos": 13,
+      "score": 1750,
+      "id": 488,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622534202
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622536886
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622549822
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622562415
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622602731
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622610215
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622611748
+        }
+      }
+    },
+    {
+      "team": "level_Zero",
+      "pos": 14,
+      "score": 1400,
+      "id": 159,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622483835
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622485437
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622492889
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622496349
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622501966
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622542383
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622622384
+        }
+      }
+    },
+    {
+      "team": "FreshMeat",
+      "pos": 15,
+      "score": 1300,
+      "id": 173,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622490825
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622502379
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622528606
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622550640
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622622773
+        }
+      }
+    },
+    {
+      "team": "rls1004",
+      "pos": 16,
+      "score": 1150,
+      "id": 419,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622523014
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622526399
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622535142
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622542013
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622545537
+        }
+      }
+    },
+    {
+      "team": "InfoSecIITR",
+      "pos": 17,
+      "score": 1125,
+      "id": 132,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622498745
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622535097
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622542423
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622547226
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622562479
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622640167
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622642237
+        }
+      }
+    },
+    {
+      "team": "mikoan",
+      "pos": 18,
+      "score": 975,
+      "id": 376,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622502011
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622502597
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622513617
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622516540
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622544916
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622547586
+        }
+      }
+    },
+    {
+      "team": "IIT(BHU)CyberSec",
+      "pos": 19,
+      "score": 950,
+      "id": 226,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622552986
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622583912
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622602195
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622614568
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622618057
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 20,
+      "score": 900,
+      "id": 72,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622503055
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622539416
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622539444
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622540874
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622541451
+        }
+      }
+    },
+    {
+      "team": "k",
+      "pos": 21,
+      "score": 850,
+      "id": 222,
+      "taskStats": {
+        "COP": {
+          "points": 500,
+          "time": 1622477588
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622479342
+        }
+      }
+    },
+    {
+      "team": "RedTeamLounge",
+      "pos": 22,
+      "score": 850,
+      "id": 58,
+      "taskStats": {
+        "Epic Game": {
+          "points": 350,
+          "time": 1622479231
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622494022
+        }
+      }
+    },
+    {
+      "team": "jt",
+      "pos": 23,
+      "score": 850,
+      "id": 551,
+      "taskStats": {
+        "Epic Game": {
+          "points": 350,
+          "time": 1622560007
+        },
+        "COP": {
+          "points": 500,
+          "time": 1622641757
+        }
+      }
+    },
+    {
+      "team": "rls1004_Hunter",
+      "pos": 24,
+      "score": 800,
+      "id": 529,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622555757
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622559126
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622560045
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622564554
+        }
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 25,
+      "score": 800,
+      "id": 541,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622555830
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622559830
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622623538
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622628179
+        }
+      }
+    },
+    {
+      "team": "TeamWBH",
+      "pos": 26,
+      "score": 750,
+      "id": 139,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622488595
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622532007
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622544679
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622572200
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622617760
+        }
+      }
+    },
+    {
+      "team": "Nightcrawlers",
+      "pos": 27,
+      "score": 750,
+      "id": 180,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622492610
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622514910
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622567504
+        },
+        "Poodle2": {
+          "points": 300,
+          "time": 1622641431
+        }
+      }
+    },
+    {
+      "team": "Cyber Giraffe",
+      "pos": 28,
+      "score": 600,
+      "id": 360,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622497829
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622502335
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622541794
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622563492
+        }
+      }
+    },
+    {
+      "team": "miscgang",
+      "pos": 29,
+      "score": 600,
+      "id": 497,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622545124
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622548703
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622573389
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622576112
+        }
+      }
+    },
+    {
+      "team": "FVK_CtF",
+      "pos": 30,
+      "score": 525,
+      "id": 399,
+      "taskStats": {
+        "TicTac": {
+          "points": 75,
+          "time": 1622514603
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622519169
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622595611
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622603088
+        }
+      }
+    },
+    {
+      "team": "JoshuaL",
+      "pos": 31,
+      "score": 500,
+      "id": 155,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622491399
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622502346
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622519555
+        }
+      }
+    },
+    {
+      "team": "PsychedelicRed",
+      "pos": 32,
+      "score": 500,
+      "id": 142,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622502931
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622528232
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622573954
+        }
+      }
+    },
+    {
+      "team": "WhyDoIHaveToCreateAFuckingTeamToPlay",
+      "pos": 33,
+      "score": 500,
+      "id": 573,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622571948
+        },
+        "Epic Game": {
+          "points": 350,
+          "time": 1622592287
+        }
+      }
+    },
+    {
+      "team": "poigiatre",
+      "pos": 34,
+      "score": 500,
+      "id": 54,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622549731
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622602902
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622635282
+        }
+      }
+    },
+    {
+      "team": "PatanjaliHax",
+      "pos": 35,
+      "score": 475,
+      "id": 56,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622494702
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622497764
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622538687
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622569859
+        }
+      }
+    },
+    {
+      "team": "BIT CRIMINALS",
+      "pos": 36,
+      "score": 450,
+      "id": 186,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622533239
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622572497
+        },
+        "Poodle1": {
+          "points": 200,
+          "time": 1622609705
+        }
+      }
+    },
+    {
+      "team": "noob-atbash",
+      "pos": 37,
+      "score": 400,
+      "id": 289,
+      "taskStats": {
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622490436
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622493174
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622566103
+        }
+      }
+    },
+    {
+      "team": "Fl4g Sm4sher",
+      "pos": 38,
+      "score": 400,
+      "id": 147,
+      "taskStats": {
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622483034
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622499110
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622566326
+        }
+      }
+    },
+    {
+      "team": "Team6God",
+      "pos": 39,
+      "score": 400,
+      "id": 400,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622535532
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622539133
+        },
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622619105
+        }
+      }
+    },
+    {
+      "team": "LosFuzzys",
+      "pos": 40,
+      "score": 375,
+      "id": 62,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622492611
+        },
+        "TicTac": {
+          "points": 75,
+          "time": 1622506030
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622509411
+        }
+      }
+    },
+    {
+      "team": "xisop",
+      "pos": 41,
+      "score": 350,
+      "id": 417,
+      "taskStats": {
+        "Epic Game": {
+          "points": 350,
+          "time": 1622628133
+        }
+      }
+    },
+    {
+      "team": "Kza",
+      "pos": 42,
+      "score": 300,
+      "id": 336,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622492224
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622537611
+        }
+      }
+    },
+    {
+      "team": "UnchiK0ng",
+      "pos": 43,
+      "score": 300,
+      "id": 167,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622511619
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622540926
+        }
+      }
+    },
+    {
+      "team": "batrr",
+      "pos": 44,
+      "score": 300,
+      "id": 543,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622567928
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622568720
+        }
+      }
+    },
+    {
+      "team": "sadge",
+      "pos": 45,
+      "score": 300,
+      "id": 64,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622508011
+        },
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622599672
+        }
+      }
+    },
+    {
+      "team": "pn-sec",
+      "pos": 46,
+      "score": 300,
+      "id": 29,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622543087
+        },
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622622939
+        }
+      }
+    },
+    {
+      "team": "Silver Catalysts",
+      "pos": 47,
+      "score": 300,
+      "id": 119,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622534169
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622628556
+        }
+      }
+    },
+    {
+      "team": "N30Z30N",
+      "pos": 48,
+      "score": 300,
+      "id": 392,
+      "taskStats": {
+        "Crime Cloud": {
+          "points": 150,
+          "time": 1622628836
+        },
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622628899
+        }
+      }
+    },
+    {
+      "team": "crypteau",
+      "pos": 49,
+      "score": 250,
+      "id": 104,
+      "taskStats": {
+        "Pikatchu's Fault ": {
+          "points": 100,
+          "time": 1622482364
+        },
+        "Not My Fault": {
+          "points": 150,
+          "time": 1622589363
+        }
+      }
+    },
+    {
+      "team": "segfault",
+      "pos": 50,
+      "score": 150,
+      "id": 188,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622478585
+        }
+      }
+    },
+    {
+      "team": "DeepWater",
+      "pos": 51,
+      "score": 150,
+      "id": 263,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622484146
+        }
+      }
+    },
+    {
+      "team": "AlchemistsOfKernel",
+      "pos": 52,
+      "score": 150,
+      "id": 199,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622485943
+        }
+      }
+    },
+    {
+      "team": "takenoko-gohan",
+      "pos": 53,
+      "score": 150,
+      "id": 217,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622487050
+        }
+      }
+    },
+    {
+      "team": "Sinn3rB0y5",
+      "pos": 54,
+      "score": 150,
+      "id": 61,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622487673
+        }
+      }
+    },
+    {
+      "team": "RookieOnes",
+      "pos": 55,
+      "score": 150,
+      "id": 113,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622487727
+        }
+      }
+    },
+    {
+      "team": "CommanderSwag",
+      "pos": 56,
+      "score": 150,
+      "id": 269,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622494281
+        }
+      }
+    },
+    {
+      "team": "Inner Savages",
+      "pos": 57,
+      "score": 150,
+      "id": 57,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622499571
+        }
+      }
+    },
+    {
+      "team": "NoReturn",
+      "pos": 58,
+      "score": 150,
+      "id": 51,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622499841
+        }
+      }
+    },
+    {
+      "team": "JH FC",
+      "pos": 59,
+      "score": 150,
+      "id": 143,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622515291
+        }
+      }
+    },
+    {
+      "team": "#ikutNCW2021",
+      "pos": 60,
+      "score": 150,
+      "id": 174,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622526660
+        }
+      }
+    },
+    {
+      "team": "howdoihack",
+      "pos": 61,
+      "score": 150,
+      "id": 154,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622528908
+        }
+      }
+    },
+    {
+      "team": "IdanBanani",
+      "pos": 62,
+      "score": 150,
+      "id": 267,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622530549
+        }
+      }
+    },
+    {
+      "team": "lilbashx",
+      "pos": 63,
+      "score": 150,
+      "id": 454,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622532505
+        }
+      }
+    },
+    {
+      "team": "4shes",
+      "pos": 64,
+      "score": 150,
+      "id": 36,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622541703
+        }
+      }
+    },
+    {
+      "team": "IchsaFichsa",
+      "pos": 65,
+      "score": 150,
+      "id": 220,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622544887
+        }
+      }
+    },
+    {
+      "team": "TheDucks",
+      "pos": 66,
+      "score": 150,
+      "id": 496,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622549194
+        }
+      }
+    },
+    {
+      "team": "onealmond",
+      "pos": 67,
+      "score": 150,
+      "id": 398,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622553048
+        }
+      }
+    },
+    {
+      "team": "Team Bagel",
+      "pos": 68,
+      "score": 150,
+      "id": 12,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622553469
+        }
+      }
+    },
+    {
+      "team": "inci",
+      "pos": 69,
+      "score": 150,
+      "id": 334,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622553845
+        }
+      }
+    },
+    {
+      "team": "Red Knights",
+      "pos": 70,
+      "score": 150,
+      "id": 69,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622556505
+        }
+      }
+    },
+    {
+      "team": "PatientTeam",
+      "pos": 71,
+      "score": 150,
+      "id": 442,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622566796
+        }
+      }
+    },
+    {
+      "team": "keksd0se",
+      "pos": 72,
+      "score": 150,
+      "id": 546,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622568960
+        }
+      }
+    },
+    {
+      "team": "evyatar9",
+      "pos": 73,
+      "score": 150,
+      "id": 3,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622573937
+        }
+      }
+    },
+    {
+      "team": "Flaggermeister",
+      "pos": 74,
+      "score": 150,
+      "id": 79,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622576895
+        }
+      }
+    },
+    {
+      "team": "null2root",
+      "pos": 75,
+      "score": 150,
+      "id": 492,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622589708
+        }
+      }
+    },
+    {
+      "team": "cccchhhh6819",
+      "pos": 76,
+      "score": 150,
+      "id": 504,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622603737
+        }
+      }
+    },
+    {
+      "team": "Dashu",
+      "pos": 77,
+      "score": 150,
+      "id": 616,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622613708
+        }
+      }
+    },
+    {
+      "team": "abcd",
+      "pos": 78,
+      "score": 150,
+      "id": 514,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622629050
+        }
+      }
+    },
+    {
+      "team": "etc2020",
+      "pos": 79,
+      "score": 150,
+      "id": 156,
+      "taskStats": {
+        "Baby Homework": {
+          "points": 150,
+          "time": 1622634492
+        }
+      }
+    },
+    {
+      "team": "Teledildonics",
+      "pos": 80,
+      "score": 150,
+      "id": 37,
+      "taskStats": {
+        "Super Super Mario": {
+          "points": 150,
+          "time": 1622638040
+        }
+      }
+    }
+  ],
+  "date": 1622473200,
+  "name": "ICHSA CTF"
+}
