@@ -64,6 +64,7 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - Hero CTF v3 (bot check)
 - WPICTF (cloudflare)
 - TAMU CTF (cannot see solved tasks of other teams)
+- pwn2win (I forgot to collect the scoreboard ;_;)
 
 ## Author
 
