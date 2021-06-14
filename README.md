@@ -65,6 +65,8 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - WPICTF (cloudflare)
 - TAMU CTF (cannot see solved tasks of other teams)
 - pwn2win (I forgot to collect the scoreboard ;_;)
+- Circle City Con CTF 2021 (scoreboard closed immediately after the competition)
+- THC CTF 2021 (registration closed immediately after the competition and challenges were only opened for the competitors)
 
 ## Author
 
