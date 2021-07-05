@@ -1,0 +1,4456 @@
+{
+  "standings": [
+    {
+      "pos": 1,
+      "team": "NeSE",
+      "score": "9203",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null,
+        "0XStream": null,
+        "vp": null,
+        "uc_baaaby": null,
+        "pypypypy": null,
+        "2rm1": null,
+        "uc_masteeer": null,
+        "1linephp": null,
+        "ListBook": null,
+        "worldcup": null,
+        "singer": null,
+        "GutHib": null,
+        "BabyHeap 2021": null,
+        "Survey": null,
+        "gas machine": null,
+        "soracon": null,
+        "how2mutate": null,
+        "lalamblambdadambda": null,
+        "FEA": null,
+        "Music": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "perfect blue",
+      "score": "7489",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "vp": null,
+        "GutHib": null,
+        "zer0lfsr-": null,
+        "ListBook": null,
+        "future": null,
+        "Music": null,
+        "gas machine": null,
+        "cloudpass": null,
+        "uc_masteeer": null,
+        "Survey": null,
+        "singer": null,
+        "uc_baaaby": null,
+        "Secure Storage": null,
+        "uc_goood": null,
+        "how2mutate": null,
+        "pypypypy": null,
+        "1linephp": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "emmmm",
+      "score": "7454",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "zer0lfsr-": null,
+        "vp": null,
+        "GutHib": null,
+        "uc_masteeer": null,
+        "lalamblambdadambda": null,
+        "worldcup": null,
+        "gas machine": null,
+        "singer": null,
+        "FEA": null,
+        "BabyHeap 2021": null,
+        "cloudpass": null,
+        "Survey": null,
+        "soracon": null,
+        "TCTF Share": null,
+        "pypypypy": null,
+        "FA51R_RE": null,
+        "1linephp": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "r3kapig",
+      "score": "6303",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "uc_baaaby": null,
+        "GutHib": null,
+        "vp": null,
+        "1linephp": null,
+        "ListBook": null,
+        "zer0lfsr-": null,
+        "uc_masteeer": null,
+        "worldcup": null,
+        "BabyHeap 2021": null,
+        "Survey": null,
+        "singer": null,
+        "pypypypy": null,
+        "uc_goood": null,
+        "gas machine": null,
+        "iOA": null,
+        "FEA": null,
+        "how2mutate": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "DiceGang",
+      "score": "6270",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "pypypypy": null,
+        "GutHib": null,
+        "ListBook": null,
+        "uc_baaaby": null,
+        "TCTF Share": null,
+        "uc_masteeer": null,
+        "zer0lfsr-": null,
+        "vp": null,
+        "singer": null,
+        "lalamblambdadambda": null,
+        "BabyHeap 2021": null,
+        "gas machine": null,
+        "FEA": null,
+        "Survey": null,
+        "future": null,
+        "FA51R_RE": null,
+        "1linephp": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "Redbud",
+      "score": "5652",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "GutHib": null,
+        "zer0lfsr-": null,
+        "uc_baaaby": null,
+        "1linephp": null,
+        "uc_masteeer": null,
+        "future": null,
+        "vp": null,
+        "how2mutate": null,
+        "tile": null,
+        "singer": null,
+        "FEA": null,
+        "Survey": null,
+        "worldcup": null,
+        "uc_goood": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "Dragon Sector",
+      "score": "5547",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "GutHib": null,
+        "vp": null,
+        "uc_baaaby": null,
+        "uc_masteeer": null,
+        "future": null,
+        "1linephp": null,
+        "uc_goood": null,
+        "FEA": null,
+        "singer": null,
+        "FA51R_RE": null,
+        "Survey": null,
+        "pypypypy": null,
+        "RV": null,
+        "worldcup": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "More Smoked Leet Chicken",
+      "score": "5533",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null,
+        "zer0lfsr+": null,
+        "zer0lfsr++": null,
+        "tile": null,
+        "GutHib": null,
+        "TCTF Share": null,
+        "cloudpass": null,
+        "singer": null,
+        "vp": null,
+        "future": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "Nu1L",
+      "score": "5380",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "1linephp": null,
+        "uc_baaaby": null,
+        "uc_masteeer": null,
+        "GutHib": null,
+        "how2mutate": null,
+        "vp": null,
+        "singer": null,
+        "FEA": null,
+        "BabyHeap 2021": null,
+        "soracon": null,
+        "lalamblambdadambda": null,
+        "Survey": null,
+        "worldcup": null,
+        "zer0lfsr-": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "r00timentary",
+      "score": "5034",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "iOA": null,
+        "GutHib": null,
+        "RV": null,
+        "FEA": null,
+        "FA51R_RE": null,
+        "singer": null,
+        "KoH": null,
+        "uc_masteeer": null,
+        "uc_baaaby": null,
+        "Survey": null,
+        "vp": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "hxp",
+      "score": "4956",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "ListBook": null,
+        "uc_baaaby": null,
+        "vp": null,
+        "uc_masteeer": null,
+        "1linephp": null,
+        "zer0lfsr-": null,
+        "gas machine": null,
+        "FEA": null,
+        "worldcup": null,
+        "uc_goood": null,
+        "Survey": null,
+        "pypypypy": null,
+        "future": null,
+        "singer": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "zer0pts",
+      "score": "4776",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null,
+        "ListBook": null,
+        "zer0lfsr-": null,
+        "uc_masteeer": null,
+        "vp": null,
+        "uc_baaaby": null,
+        "BabyHeap 2021": null,
+        "uc_goood": null,
+        "GutHib": null,
+        "singer": null,
+        "how2mutate": null,
+        "Survey": null,
+        "worldcup": null,
+        "gas machine": null,
+        "FA51R_RE": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "Balsn",
+      "score": "4203",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "checkin": null,
+        "GutHib": null,
+        "uc_baaaby": null,
+        "uc_masteeer": null,
+        "vp": null,
+        "uc_goood": null,
+        "BabyHeap 2021": null,
+        "singer": null,
+        "Survey": null,
+        "1linephp": null,
+        "gas machine": null,
+        "collision": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "Organizers",
+      "score": "4125",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "zer0lfsr-": null,
+        "vp": null,
+        "uc_baaaby": null,
+        "uc_masteeer": null,
+        "pypypypy": null,
+        "FEA": null,
+        "FA51R_RE": null,
+        "singer": null,
+        "lalamblambdadambda": null,
+        "Survey": null,
+        "future": null
+      }
+    },
+    {
+      "pos": 15,
+      "team": "W&amp;M",
+      "score": "3995",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "ListBook": null,
+        "uc_baaaby": null,
+        "1linephp": null,
+        "worldcup": null,
+        "singer": null,
+        "BabyHeap 2021": null,
+        "uc_masteeer": null,
+        "Survey": null,
+        "zer0lfsr-": null,
+        "pypypypy": null,
+        "vp": null,
+        "TCTF Share": null
+      }
+    },
+    {
+      "pos": 16,
+      "team": "Shellphish",
+      "score": "3070",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "GutHib": null,
+        "pypypypy": null,
+        "vp": null,
+        "uc_baaaby": null,
+        "BabyHeap 2021": null,
+        "checkin": null,
+        "uc_masteeer": null,
+        "uc_goood": null,
+        "future": null
+      }
+    },
+    {
+      "pos": 17,
+      "team": "AAA team",
+      "score": "2753",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "checkin": null,
+        "uc_masteeer": null,
+        "zer0lfsr-": null,
+        "1linephp": null,
+        "gas machine": null,
+        "singer": null,
+        "BabyHeap 2021": null,
+        "uc_baaaby": null,
+        "vp": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 18,
+      "team": "Kalmarunionen",
+      "score": "2421",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "zer0lfsr-": null,
+        "GutHib": null,
+        "uc_masteeer": null,
+        "uc_goood": null,
+        "uc_baaaby": null,
+        "singer": null,
+        "Survey": null,
+        "gas machine": null
+      }
+    },
+    {
+      "pos": 19,
+      "team": "就囤了这么几个，真没了",
+      "score": "2403",
+      "taskStats": {
+        "iOA": null,
+        "RV": null,
+        "FA51R_RE": null,
+        "GutHib": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 20,
+      "team": "Super Guesser",
+      "score": "2402",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null,
+        "vp": null,
+        "ListBook": null,
+        "worldcup": null,
+        "uc_masteeer": null,
+        "Survey": null,
+        "GutHib": null,
+        "1linephp": null,
+        "zer0lfsr+": null
+      }
+    },
+    {
+      "pos": 21,
+      "team": "./Vespiary",
+      "score": "2328",
+      "taskStats": {
+        "checkin": null,
+        "ListBook": null,
+        "welcome": null,
+        "pypypypy": null,
+        "uc_baaaby": null,
+        "GutHib": null,
+        "uc_masteeer": null,
+        "uc_goood": null,
+        "zer0lfsr-": null,
+        "Survey": null,
+        "singer": null
+      }
+    },
+    {
+      "pos": 22,
+      "team": "Bushwhackers",
+      "score": "2228",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "pypypypy": null,
+        "GutHib": null,
+        "uc_masteeer": null,
+        "uc_baaaby": null,
+        "1linephp": null,
+        "worldcup": null,
+        "vp": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 23,
+      "team": "c0r3dump",
+      "score": "2161",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null,
+        "FEA": null,
+        "FA51R_RE": null,
+        "TCTF Share": null,
+        "singer": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 24,
+      "team": "Black Bauhinia",
+      "score": "2150",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "zer0lfsr-": null,
+        "singer": null,
+        "vp": null,
+        "soracon": null,
+        "pypypypy": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 25,
+      "team": "TokyoWesterns",
+      "score": "2084",
+      "taskStats": {
+        "welcome": null,
+        "vp": null,
+        "uc_masteeer": null,
+        "checkin": null,
+        "ListBook": null,
+        "GutHib": null,
+        "FEA": null,
+        "BabyHeap 2021": null,
+        "1linephp": null
+      }
+    },
+    {
+      "pos": 26,
+      "team": "CNSS",
+      "score": "1979",
+      "taskStats": {
+        "welcome": null,
+        "uc_masteeer": null,
+        "checkin": null,
+        "lalamblambdadambda": null,
+        "vp": null,
+        "1linephp": null,
+        "Survey": null,
+        "singer": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 27,
+      "team": "XD_UN@protonmail.com",
+      "score": "1958",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "ListBook": null,
+        "uc_masteeer": null,
+        "gas machine": null,
+        "BabyHeap 2021": null,
+        "FEA": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 28,
+      "team": "L",
+      "score": "1778",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_baaaby": null,
+        "GutHib": null,
+        "uc_masteeer": null,
+        "singer": null,
+        "Survey": null,
+        "zer0lfsr-": null,
+        "pypypypy": null
+      }
+    },
+    {
+      "pos": 29,
+      "team": "ROIS",
+      "score": "1751",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "GutHib": null,
+        "checkin": null,
+        "1linephp": null,
+        "singer": null,
+        "Survey": null,
+        "soracon": null
+      }
+    },
+    {
+      "pos": 30,
+      "team": "Ph0t1n1a",
+      "score": "1635",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_masteeer": null,
+        "vp": null,
+        "uc_baaaby": null,
+        "zer0lfsr-": null,
+        "BabyHeap 2021": null
+      }
+    },
+    {
+      "pos": 31,
+      "team": "mode13h",
+      "score": "1591",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null,
+        "GutHib": null,
+        "zer0lfsr-": null,
+        "FA51R_RE": null,
+        "Survey": null,
+        "uc_baaaby": null,
+        "vp": null
+      }
+    },
+    {
+      "pos": 32,
+      "team": "TSG",
+      "score": "1509",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "worldcup": null,
+        "pypypypy": null,
+        "ListBook": null,
+        "zer0lfsr-": null
+      }
+    },
+    {
+      "pos": 33,
+      "team": "DAWN",
+      "score": "1493",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_baaaby": null,
+        "singer": null,
+        "GutHib": null,
+        "Survey": null,
+        "1linephp": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 34,
+      "team": "Xp0int",
+      "score": "1399",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_baaaby": null,
+        "uc_masteeer": null,
+        "BabyHeap 2021": null,
+        "Survey": null,
+        "vp": null
+      }
+    },
+    {
+      "pos": 35,
+      "team": "Blue-Whale",
+      "score": "1371",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null,
+        "singer": null,
+        "ListBook": null,
+        "Survey": null,
+        "uc_masteeer": null,
+        "GutHib": null,
+        "uc_baaaby": null
+      }
+    },
+    {
+      "pos": 36,
+      "team": "WaterDrop",
+      "score": "1303",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null,
+        "ListBook": null,
+        "singer": null,
+        "GutHib": null,
+        "Survey": null,
+        "pypypypy": null
+      }
+    },
+    {
+      "pos": 37,
+      "team": "Asuri",
+      "score": "1232",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "worldcup": null,
+        "Survey": null,
+        "1linephp": null,
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 38,
+      "team": "0x100",
+      "score": "1218",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "checkin": null,
+        "zer0lfsr-": null,
+        "GutHib": null,
+        "uc_masteeer": null,
+        "1linephp": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 39,
+      "team": "SUS",
+      "score": "1155",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "zer0lfsr-": null,
+        "lalamblambdadambda": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 40,
+      "team": "V&amp;N",
+      "score": "1100",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "BabyHeap 2021": null,
+        "uc_masteeer": null,
+        "singer": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 41,
+      "team": "yyds",
+      "score": "1049",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "checkin": null,
+        "RV": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 42,
+      "team": "Polaris",
+      "score": "1000",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_masteeer": null,
+        "BabyHeap 2021": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 43,
+      "team": "ELT",
+      "score": "956",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "zer0lfsr-": null,
+        "worldcup": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 44,
+      "team": "Nepnep",
+      "score": "935",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "uc_baaaby": null,
+        "Survey": null,
+        "FA51R_RE": null
+      }
+    },
+    {
+      "pos": 45,
+      "team": "PLUS",
+      "score": "922",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "singer": null,
+        "gas machine": null
+      }
+    },
+    {
+      "pos": 46,
+      "team": "FAUST",
+      "score": "829",
+      "taskStats": {
+        "uc_baaaby": null,
+        "uc_masteeer": null,
+        "welcome": null,
+        "checkin": null,
+        "singer": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 47,
+      "team": "Infiniteloop",
+      "score": "778",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "uc_masteeer": null,
+        "BabyHeap 2021": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 48,
+      "team": "tinybaby",
+      "score": "739",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_masteeer": null,
+        "uc_baaaby": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 49,
+      "team": "bi0s",
+      "score": "724",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_masteeer": null,
+        "vp": null
+      }
+    },
+    {
+      "pos": 50,
+      "team": "WE_0WN_Y0U",
+      "score": "721",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "uc_baaaby": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 51,
+      "team": "Sloth",
+      "score": "683",
+      "taskStats": {
+        "welcome": null,
+        "singer": null,
+        "Survey": null,
+        "pypypypy": null
+      }
+    },
+    {
+      "pos": 52,
+      "team": "Sieberrsec",
+      "score": "675",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null,
+        "GutHib": null,
+        "ListBook": null,
+        "uc_baaaby": null
+      }
+    },
+    {
+      "pos": 53,
+      "team": "NaN",
+      "score": "652",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "ListBook": null,
+        "singer": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 54,
+      "team": "WreckTheLine",
+      "score": "622",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null,
+        "vp": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 55,
+      "team": "KUDoS",
+      "score": "608",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "GutHib": null,
+        "Survey": null,
+        "checkin": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 56,
+      "team": "Venom",
+      "score": "600",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "checkin": null,
+        "GutHib": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 57,
+      "team": "5unkn0wn",
+      "score": "578",
+      "taskStats": {
+        "future": null
+      }
+    },
+    {
+      "pos": 58,
+      "team": "Or4nge",
+      "score": "524",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null,
+        "ListBook": null,
+        "vp": null
+      }
+    },
+    {
+      "pos": 59,
+      "team": "w3_g00d_v3g4table",
+      "score": "521",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "uc_baaaby": null
+      }
+    },
+    {
+      "pos": 60,
+      "team": "Kap0K",
+      "score": "508",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "singer": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 61,
+      "team": "EDI",
+      "score": "508",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "singer": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 62,
+      "team": "躺平的小鸟",
+      "score": "508",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "zer0lfsr-": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 63,
+      "team": "nyahello",
+      "score": "498",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "zer0lfsr-": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 64,
+      "team": "team_eat",
+      "score": "458",
+      "taskStats": {
+        "FEA": null
+      }
+    },
+    {
+      "pos": 65,
+      "team": "ARESx",
+      "score": "456",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 66,
+      "team": "efiens",
+      "score": "446",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "vp": null
+      }
+    },
+    {
+      "pos": 67,
+      "team": "马猴烧酒",
+      "score": "416",
+      "taskStats": {
+        "welcome": null,
+        "BabyHeap 2021": null
+      }
+    },
+    {
+      "pos": 68,
+      "team": "SF⚔Kuality",
+      "score": "386",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "Survey": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 69,
+      "team": "C@l4ba$hB0y",
+      "score": "378",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 70,
+      "team": "SPRUSH",
+      "score": "378",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "vp": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 71,
+      "team": "noraneco",
+      "score": "354",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null,
+        "zer0lfsr-": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 72,
+      "team": "y12uN",
+      "score": "354",
+      "taskStats": {
+        "checkin": null,
+        "zer0lfsr-": null,
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 73,
+      "team": "想取个好听的名字但一时间想不出骚话的荼苟战队",
+      "score": "346",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "singer": null
+      }
+    },
+    {
+      "pos": 74,
+      "team": "UCASers",
+      "score": "346",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null
+      }
+    },
+    {
+      "pos": 75,
+      "team": "zh3r0",
+      "score": "346",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null
+      }
+    },
+    {
+      "pos": 76,
+      "team": "kiona",
+      "score": "346",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "zer0lfsr-": null
+      }
+    },
+    {
+      "pos": 77,
+      "team": "老年养鱼养生",
+      "score": "302",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 78,
+      "team": "ctfabc",
+      "score": "278",
+      "taskStats": {
+        "checkin": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 79,
+      "team": "TR-BrainOverflow",
+      "score": "276",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null,
+        "singer": null
+      }
+    },
+    {
+      "pos": 80,
+      "team": "flk0",
+      "score": "268",
+      "taskStats": {
+        "vp": null
+      }
+    },
+    {
+      "pos": 81,
+      "team": "c111d",
+      "score": "264",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 82,
+      "team": "BinX",
+      "score": "264",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 83,
+      "team": "xhls",
+      "score": "256",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 84,
+      "team": "FBSEC",
+      "score": "256",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 85,
+      "team": "0xdeadmeow",
+      "score": "256",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 86,
+      "team": "Sugarcats",
+      "score": "254",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 87,
+      "team": "STT",
+      "score": "254",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 88,
+      "team": "ONO",
+      "score": "254",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 89,
+      "team": "0x194",
+      "score": "254",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 90,
+      "team": "!Ceasy",
+      "score": "254",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 91,
+      "team": "1t'5_n0t_fla9",
+      "score": "254",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 92,
+      "team": "风信子",
+      "score": "246",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 93,
+      "team": "我写不出来TAT",
+      "score": "246",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 94,
+      "team": "L3H_Sec",
+      "score": "246",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 95,
+      "team": "sivukhin.nikita",
+      "score": "246",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 96,
+      "team": "/bad",
+      "score": "244",
+      "taskStats": {
+        "zer0lfsr-": null
+      }
+    },
+    {
+      "pos": 97,
+      "team": "bigbaby",
+      "score": "232",
+      "taskStats": {
+        "checkin": null,
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 98,
+      "team": "******",
+      "score": "224",
+      "taskStats": {
+        "welcome": null,
+        "uc_masteeer": null
+      }
+    },
+    {
+      "pos": 99,
+      "team": "procfs",
+      "score": "224",
+      "taskStats": {
+        "uc_masteeer": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 100,
+      "team": "aheadgo",
+      "score": "178",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 101,
+      "team": "ec",
+      "score": "178",
+      "taskStats": {
+        "ListBook": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 102,
+      "team": "DarkArmy",
+      "score": "178",
+      "taskStats": {
+        "welcome": null,
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 103,
+      "team": "SiBears",
+      "score": "176",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 104,
+      "team": "KCSC",
+      "score": "176",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 105,
+      "team": "Destiny",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 106,
+      "team": "Sorry WEB",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 107,
+      "team": "fargate",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 108,
+      "team": "party pooper",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 109,
+      "team": "VTeam",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 110,
+      "team": "天命",
+      "score": "168",
+      "taskStats": {
+        "GutHib": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 111,
+      "team": "ddddd",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 112,
+      "team": "CTFFW",
+      "score": "168",
+      "taskStats": {
+        "GutHib": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 113,
+      "team": "0th3rs",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 114,
+      "team": "Galsas Team",
+      "score": "168",
+      "taskStats": {
+        "welcome": null,
+        "GutHib": null
+      }
+    },
+    {
+      "pos": 115,
+      "team": "GW",
+      "score": "154",
+      "taskStats": {
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 116,
+      "team": "으앙",
+      "score": "154",
+      "taskStats": {
+        "ListBook": null
+      }
+    },
+    {
+      "pos": 117,
+      "team": "e^i&pi;+1day",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 118,
+      "team": "Curious Tourists",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 119,
+      "team": "OnlyFeet",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 120,
+      "team": "F03v3ryY0ung",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 121,
+      "team": "1gy",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 122,
+      "team": "0xdeadfish",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 123,
+      "team": "Simia",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 124,
+      "team": "C4T BuT S4D",
+      "score": "110",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 125,
+      "team": "FNB",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 126,
+      "team": "dm0",
+      "score": "110",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 127,
+      "team": "0xDoge",
+      "score": "110",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 128,
+      "team": "NEURON",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 129,
+      "team": "Wanna.One",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 130,
+      "team": "2D1S_team",
+      "score": "102",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 131,
+      "team": "somayi2021",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 132,
+      "team": "SSS",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 133,
+      "team": "4-LEARN",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 134,
+      "team": "r0v0t",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 135,
+      "team": "Cl0ud1T",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 136,
+      "team": "老广东鸡肉卷",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 137,
+      "team": "WGP",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 138,
+      "team": "Grey_Wolf",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 139,
+      "team": "Vidar-Team",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 140,
+      "team": "Pr!5m",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 141,
+      "team": "Makabaka",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 142,
+      "team": "HumbleDog",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 143,
+      "team": "那我走？",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 144,
+      "team": "0x62EEN7EA",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 145,
+      "team": "NovaTeam",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 146,
+      "team": "uetctf",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 147,
+      "team": "dcua",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 148,
+      "team": "OLAN",
+      "score": "102",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 149,
+      "team": "dodododo",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 150,
+      "team": "CTF.SG",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 151,
+      "team": "אלוף",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 152,
+      "team": "orange fan club",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 153,
+      "team": "room2042",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 154,
+      "team": "PiggyFlyingMan",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 155,
+      "team": "pkucc",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 156,
+      "team": "IITBreachers",
+      "score": "102",
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "pos": 157,
+      "team": "Young-For-You",
+      "score": "102",
+      "taskStats": {
+        "checkin": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 158,
+      "team": "tree new bee",
+      "score": "86",
+      "taskStats": {
+        "checkin": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 159,
+      "team": "guetsec",
+      "score": "78",
+      "taskStats": {
+        "checkin": null
+      }
+    },
+    {
+      "pos": 160,
+      "team": "FindustrieZ",
+      "score": "78",
+      "taskStats": {
+        "checkin": null
+      }
+    },
+    {
+      "pos": 161,
+      "team": "tjade273",
+      "score": "78",
+      "taskStats": {
+        "checkin": null
+      }
+    },
+    {
+      "pos": 162,
+      "team": "The Flat Network Society",
+      "score": "78",
+      "taskStats": {
+        "checkin": null
+      }
+    },
+    {
+      "pos": 163,
+      "team": "TotallyOrganizedTeam",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 164,
+      "team": "Ditconmemay",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 165,
+      "team": "TCTN",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 166,
+      "team": "onotch",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 167,
+      "team": "Team Enu",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 168,
+      "team": "desertFox",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 169,
+      "team": "9SEC",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 170,
+      "team": "wackers",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 171,
+      "team": "Bug_Warriors",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 172,
+      "team": "cyberbangla",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 173,
+      "team": "inci",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 174,
+      "team": "crackers",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 175,
+      "team": "h4ckx0r5",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 176,
+      "team": "SiliconBits",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 177,
+      "team": "破零组",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 178,
+      "team": "xasfuef",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 179,
+      "team": "etc2020",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 180,
+      "team": "长江路80号",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 181,
+      "team": "0day战鼓擂",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 182,
+      "team": "ctf**k",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 183,
+      "team": "P&amp;K",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 184,
+      "team": "R0073R5",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 185,
+      "team": "fa1lr4in",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 186,
+      "team": "r00tn3p@!",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 187,
+      "team": "ИУРиКБ",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 188,
+      "team": "SecurityFirst",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 189,
+      "team": "N1ghth4wks",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 190,
+      "team": "m3ltd0n",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 191,
+      "team": "ling",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 192,
+      "team": "Phantester",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 193,
+      "team": "n000bs",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 194,
+      "team": "Team6God",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 195,
+      "team": "fghcvjk",
+      "score": "32",
+      "taskStats": {
+        "Survey": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 196,
+      "team": "spotless",
+      "score": "32",
+      "taskStats": {
+        "Survey": null,
+        "welcome": null
+      }
+    },
+    {
+      "pos": 197,
+      "team": "ROOTS",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 198,
+      "team": "rainbow",
+      "score": "32",
+      "taskStats": {
+        "welcome": null,
+        "Survey": null
+      }
+    },
+    {
+      "pos": 199,
+      "team": "Catastrophe",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 200,
+      "team": "m1z0r3",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 201,
+      "team": "Cyber Blob Force",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 202,
+      "team": "flaghunter",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 203,
+      "team": "Sinn3rB0y5",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 204,
+      "team": "xSTF",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 205,
+      "team": "CSALab_Sec",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 206,
+      "team": "Angry_Guys",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 207,
+      "team": "kirito",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 208,
+      "team": "CopyandpasteTheFlag",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 209,
+      "team": "ST4RT",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 210,
+      "team": "./RED",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 211,
+      "team": "Bit_boys",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 212,
+      "team": "jenkins0",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 213,
+      "team": "ScareSec",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 214,
+      "team": "Le NeoKantian",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 215,
+      "team": "Watch_buffalo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 216,
+      "team": "A7enger",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 217,
+      "team": "can",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 218,
+      "team": "wxHTE",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 219,
+      "team": "5tudou",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 220,
+      "team": "Kni9ht@xyz",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 221,
+      "team": "BBnyan",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 222,
+      "team": "HRYMN",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 223,
+      "team": "admin123",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 224,
+      "team": "Birkenwald",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 225,
+      "team": "SK NEWSCHOOL #2",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 226,
+      "team": "Watchbuffalo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 227,
+      "team": "WxHelper",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 228,
+      "team": "asmodeus000",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 229,
+      "team": "อาเฮียหลีอาหลีเฮีย",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 230,
+      "team": "M4lw4r3",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 231,
+      "team": "aurora",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 232,
+      "team": "SaturnX",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 233,
+      "team": "TimeKeeper",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 234,
+      "team": "ALFA",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 235,
+      "team": "Rename",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 236,
+      "team": "-SeeFaceFindFather-",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 237,
+      "team": "n0n$la$",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 238,
+      "team": "Asuri_oldmen",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 239,
+      "team": "Zer0COld",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 240,
+      "team": "diu ai ti",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 241,
+      "team": "Colony",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 242,
+      "team": "BrokenLiver",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 243,
+      "team": "Contra",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 244,
+      "team": "wolfpuplicky",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 245,
+      "team": "hcklb",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 246,
+      "team": "C4C",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 247,
+      "team": "Avena Quaker",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 248,
+      "team": "S.T.A.Y.",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 249,
+      "team": "哭了哭了",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 250,
+      "team": "Rn3rd",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 251,
+      "team": "NISA-竹鼠",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 252,
+      "team": "CodeMonster",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 253,
+      "team": "Pour-the-water",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 254,
+      "team": "Defenit",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 255,
+      "team": "room101",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 256,
+      "team": "D1N0",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 257,
+      "team": "Test1",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 258,
+      "team": "N30Z30N",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 259,
+      "team": "justmyself",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 260,
+      "team": "33bigzam",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 261,
+      "team": "VNRCB",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 262,
+      "team": "Hatsune Miku",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 263,
+      "team": "Naruto01",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 264,
+      "team": "mars_sec",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 265,
+      "team": "626666",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 266,
+      "team": "WaitMyJoooooooooooooooo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 267,
+      "team": "mugi",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 268,
+      "team": "Aloner",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 269,
+      "team": "Oryp",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 270,
+      "team": "533dz",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 271,
+      "team": "OsirisProtocol",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 272,
+      "team": "0xF00DFACE",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 273,
+      "team": "AWP?",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 274,
+      "team": "3 World",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 275,
+      "team": "玛卡巴卡",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 276,
+      "team": "Luka",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 277,
+      "team": "SourceCode",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 278,
+      "team": "cyber_guys",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 279,
+      "team": "X1cT34m",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 280,
+      "team": "青春猪头少年不会梦到CTF学姐",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 281,
+      "team": "the chiefs",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 282,
+      "team": "Karatus",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 283,
+      "team": "qaq",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 284,
+      "team": "Hacklabor",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 285,
+      "team": "SMU",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 286,
+      "team": "munpaoo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 287,
+      "team": "cccctf",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 288,
+      "team": "PwN_3v3rY7h1nG",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 289,
+      "team": "chiba",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 290,
+      "team": "hackers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 291,
+      "team": "NBA lab",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 292,
+      "team": "Ncube",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 293,
+      "team": "solotsumu",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 294,
+      "team": "Red Knights",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 295,
+      "team": "abc",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 296,
+      "team": "ChartBreakers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 297,
+      "team": "vimmmm",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 298,
+      "team": "kgrzk",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 299,
+      "team": "siltbreaker",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 300,
+      "team": "Z3r01",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 301,
+      "team": "n0oo0ob",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 302,
+      "team": "K3RN3L4RMY",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 303,
+      "team": "WDJ",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 304,
+      "team": "N1Lin",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 305,
+      "team": "AWSL",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 306,
+      "team": "rasta warl0rds",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 307,
+      "team": "Just_An_Amateur",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 308,
+      "team": "BlackKnights",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 309,
+      "team": "hnafy",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 310,
+      "team": "old chess",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 311,
+      "team": "heyyo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 312,
+      "team": "あんこ",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 313,
+      "team": "N0Named",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 314,
+      "team": "ATDream",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 315,
+      "team": "在ctf寻求邂逅是否搞错了什么",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 316,
+      "team": "Data leakers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 317,
+      "team": "随便看看题",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 318,
+      "team": "D1",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 319,
+      "team": "Maple Bacon",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 320,
+      "team": "txqi",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 321,
+      "team": "FreshGuy",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 322,
+      "team": "ouTTa_incub4t0r",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 323,
+      "team": "Terminal Cats",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 324,
+      "team": "CSUI",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 325,
+      "team": "cxp",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 326,
+      "team": "abcd",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 327,
+      "team": "xrzhev",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 328,
+      "team": "whitehathacker8181",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 329,
+      "team": "d01t",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 330,
+      "team": "kam1",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 331,
+      "team": "HIGH010101",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 332,
+      "team": "Computer_Addicts",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 333,
+      "team": "A",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 334,
+      "team": "N0RANEC0",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 335,
+      "team": "Kali Billi",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 336,
+      "team": "Kiyo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 337,
+      "team": "thi3nl1d0ch4nh",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 338,
+      "team": "15bakers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 339,
+      "team": "Maginot",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 340,
+      "team": "vikings",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 341,
+      "team": "cykorji",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 342,
+      "team": "w2c",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 343,
+      "team": "Omaviat",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 344,
+      "team": "InfoSecIITR",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 345,
+      "team": "Malware",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 346,
+      "team": "Knight Squad",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 347,
+      "team": "priyansh",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 348,
+      "team": "Slab Allocator",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 349,
+      "team": "level_Zero",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 350,
+      "team": "pigpig",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 351,
+      "team": "way2love",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 352,
+      "team": "D4RKFL0W",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 353,
+      "team": "2honrr",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 354,
+      "team": "Gacha Hell",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 355,
+      "team": "ToE42",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 356,
+      "team": "ps",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 357,
+      "team": "oH5U4No",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 358,
+      "team": "The_Apocalypse",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 359,
+      "team": "dogisgod",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 360,
+      "team": "foobugs",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 361,
+      "team": "iii",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 362,
+      "team": "zwhubuntu",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 363,
+      "team": "CangureTheFlat",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 364,
+      "team": "YarTech",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 365,
+      "team": "DropSoft",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 366,
+      "team": "crys2508",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 367,
+      "team": "don's team",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 368,
+      "team": "team solo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 369,
+      "team": "我想吃牛腩粉",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 370,
+      "team": "SlashBit",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 371,
+      "team": "oakvedid",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 372,
+      "team": "Wabongo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 373,
+      "team": "some_hackers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 374,
+      "team": "sccba",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 375,
+      "team": "trap_casual",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 376,
+      "team": "Dark_Warrior",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 377,
+      "team": "AtheneGroup",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 378,
+      "team": "Ret2Cringe",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 379,
+      "team": "TeamHorowitz",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 380,
+      "team": "cquisa",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 381,
+      "team": "Carpedien",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 382,
+      "team": "rider007",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 383,
+      "team": "DU4L_S1M_PR08L3M",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 384,
+      "team": "AlBack",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 385,
+      "team": "octii",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 386,
+      "team": "Teamwithaplan",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 387,
+      "team": "Cyber Ninja",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 388,
+      "team": "d4rkc0de",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 389,
+      "team": "Team_Matrix",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 390,
+      "team": "4m4t3r4su",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 391,
+      "team": "stankc",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 392,
+      "team": "manchos",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 393,
+      "team": "eppooo",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 394,
+      "team": "NAYSA Space Force",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 395,
+      "team": "Flaggermeister",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 396,
+      "team": "Khadjit_anonimous",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 397,
+      "team": "veg",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 398,
+      "team": "NEUX",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 399,
+      "team": "EeverseRngineers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 400,
+      "team": "rpca1",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 401,
+      "team": "1oximin",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 402,
+      "team": "IsolatingBeforeItWasCool",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 403,
+      "team": "Холодные мухи",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 404,
+      "team": "K-hacking",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 405,
+      "team": "UIT.SoloQ",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 406,
+      "team": "EvilBunnyWrote",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 407,
+      "team": "lopaop",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 408,
+      "team": "All Your Flags",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 409,
+      "team": "3331",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 410,
+      "team": "0xL4ugh",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 411,
+      "team": "cyberpentester",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 412,
+      "team": "imesec1337",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 413,
+      "team": "b01lers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 414,
+      "team": "WestDun01",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 415,
+      "team": "HsVcs",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 416,
+      "team": "COMPASS",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 417,
+      "team": "fatal_exception",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 418,
+      "team": "sh",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 419,
+      "team": "saruul",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 420,
+      "team": "sleepykorrigan",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 421,
+      "team": "Nupakachi",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 422,
+      "team": "ctfmasterace",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 423,
+      "team": "Bangla 71",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 424,
+      "team": "Stack",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 425,
+      "team": "Just Wokwokwok",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 426,
+      "team": "OKH@nd",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 427,
+      "team": "Serviette",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 428,
+      "team": "krzysztof1222",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 429,
+      "team": "Fl4g Sm4sher",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 430,
+      "team": "HKer",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 431,
+      "team": "Z3Ro",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 432,
+      "team": "shiba gang",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 433,
+      "team": "null2root",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 434,
+      "team": "K415",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 435,
+      "team": "oneshot",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 436,
+      "team": "scrim001",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 437,
+      "team": "3mp4n4d45",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 438,
+      "team": "ZaIPEK",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 439,
+      "team": "Solo Raven",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 440,
+      "team": "0x$",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 441,
+      "team": "imssm99",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 442,
+      "team": "/bin/fake",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 443,
+      "team": "CyberKiwi",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 444,
+      "team": "casper",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 445,
+      "team": "gruf",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 446,
+      "team": "Rita1in",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 447,
+      "team": "karidesler",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 448,
+      "team": "ctfaday",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 449,
+      "team": "TNCyberSec",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 450,
+      "team": "disneyplus",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 451,
+      "team": "fzhshzh",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 452,
+      "team": "minda",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 453,
+      "team": "BlueFox",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 454,
+      "team": "d1no",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 455,
+      "team": "ctfChallengers",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 456,
+      "team": "GOODMAN",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 457,
+      "team": "EliteSploit",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 458,
+      "team": "Huntik",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 459,
+      "team": "raederwass",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 460,
+      "team": "dickjustice228",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 461,
+      "team": "teka",
+      "score": "24",
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "pos": 462,
+      "team": "Sais3",
+      "score": "8",
+      "taskStats": {
+        "Survey": null
+      }
+    },
+    {
+      "pos": 463,
+      "team": "piggy_ctf",
+      "score": "8",
+      "taskStats": {
+        "Survey": null
+      }
+    },
+    {
+      "pos": 464,
+      "team": "Stringsme",
+      "score": "8",
+      "taskStats": {
+        "Survey": null
+      }
+    }
+  ],
+  "tasks": [
+    "KoH",
+    "Secure Storage",
+    "ListBook",
+    "lalamblambdadambda",
+    "cloudpass",
+    "how2mutate",
+    "TCTF Share",
+    "iOA",
+    "RV",
+    "Music",
+    "vp",
+    "uc_baaaby",
+    "uc_masteeer",
+    "future",
+    "zer0lfsr-",
+    "zer0lfsr+",
+    "pypypypy",
+    "soracon",
+    "FEA",
+    "GutHib",
+    "welcome",
+    "1linephp",
+    "collision",
+    "0XStream",
+    "checkin",
+    "BabyHeap 2021",
+    "tile",
+    "gas machine",
+    "worldcup",
+    "2rm1",
+    "FA51R_RE",
+    "FA51R_PWN",
+    "zer0lfsr++",
+    "uc_goood",
+    "singer",
+    "Survey"
+  ],
+  "date": 1625238000,
+  "name": "0CTF/TCTF 2021 Quals"
+}
