@@ -17,8 +17,9 @@ from lib.scraper.the3000 import The3000CTFScraper
 from lib.scraper.p4 import p4CTFScraper
 from lib.scraper.bcactf import BCACTFScraper
 from lib.scraper.rctf import RCTFScraper
+from lib.scraper.tctf import TCTFScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper, "3kctf": The3000CTFScraper, "p4": p4CTFScraper, "bcactf": BCACTFScraper, "rctf": RCTFScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper, "3kctf": The3000CTFScraper, "p4": p4CTFScraper, "bcactf": BCACTFScraper, "rctf": RCTFScraper, "tctf": TCTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
@@ -41,7 +42,7 @@ def main():
     data["date"] = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
     data["name"] = args.name
 
-    with open("./data/events/{}.json".format(args.name), "w") as f:
+    with open("./data/events/{}.json".format(args.name.replace("/", "-")), "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
