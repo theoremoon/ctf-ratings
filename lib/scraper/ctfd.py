@@ -27,6 +27,10 @@ class CTFdScraper():
         if 'mode' in kwargs:
             self.mode = kwargs["mode"]  # type: str
 
+        self.without_tasks = False
+        if kwargs.get('without_tasks', False):
+            self.without_tasks = True
+
     def _get(self, path):
         s = requests.Session()
         retries = Retry(total=5, backoff_factor=0.1, status_forcelist=[500, 501, 502, 503, 504])
@@ -50,6 +54,8 @@ class CTFdScraper():
         return stats
 
     def _tasks(self):
+        if self.without_tasks:
+            return []
         logger.warning("getting tasks...")
         r = self._get("/api/v1/challenges")
         r.raise_for_status()

@@ -31,13 +31,14 @@ def main():
     parser.add_argument("--cookies")
     parser.add_argument("--token")
     parser.add_argument("--mode", default="teams")
+    parser.add_argument("--without-tasks", action='store_true')
 
     args = parser.parse_args()
     if args.platform not in PLATFORMS:
         print("Currently supported platforms are: {}".format(PLATFORMS.keys()), file=sys.stderr)
         quit(1)
 
-    scraper = PLATFORMS[args.platform](args.url, session=args.session, mode=args.mode, token=args.token, cookies=args.cookies)
+    scraper = PLATFORMS[args.platform](**vars(args))
     data = scraper.scoreboard()
     data["date"] = int(datetime.strptime(args.date, "%Y-%m-%d").timestamp())
     data["name"] = args.name

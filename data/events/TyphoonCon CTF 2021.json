@@ -1,0 +1,1453 @@
+{
+  "tasks": [
+    "Impasse",
+    "Network Configuration",
+    "Mortal Kobat",
+    "Clubmouse",
+    "Exciting Offer",
+    "Knock Knock",
+    "Race to Win",
+    "Interactive Sessions",
+    "Building a House"
+  ],
+  "standings": [
+    {
+      "team": "revbuster",
+      "pos": 1,
+      "score": 3163,
+      "id": 937,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626188398
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626198789
+        },
+        "Network Configuration": {
+          "points": 863,
+          "time": 1626210810
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626213380
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626219581
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626221206
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626223496
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626224955
+        },
+        "Interactive Sessions": {
+          "points": 300,
+          "time": 1626261404
+        }
+      }
+    },
+    {
+      "team": "bootplug",
+      "pos": 2,
+      "score": 3163,
+      "id": 406,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626115734
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626120178
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626122335
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626185002
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626205093
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626209827
+        },
+        "Network Configuration": {
+          "points": 863,
+          "time": 1626219455
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626249709
+        },
+        "Interactive Sessions": {
+          "points": 300,
+          "time": 1626261440
+        }
+      }
+    },
+    {
+      "team": "perfect blue",
+      "pos": 3,
+      "score": 3163,
+      "id": 489,
+      "taskStats": {
+        "Network Configuration": {
+          "points": 863,
+          "time": 1626160580
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626161699
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626176768
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626186571
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626192459
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626202270
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626203691
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626241630
+        },
+        "Interactive Sessions": {
+          "points": 300,
+          "time": 1626261872
+        }
+      }
+    },
+    {
+      "team": "Thehackerscrew",
+      "pos": 4,
+      "score": 1963,
+      "id": 371,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626100473
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626124206
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626126257
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626130722
+        },
+        "Network Configuration": {
+          "points": 863,
+          "time": 1626148196
+        }
+      }
+    },
+    {
+      "team": "r3billions",
+      "pos": 5,
+      "score": 1600,
+      "id": 63,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626134522
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626136065
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626177753
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626179016
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626187530
+        }
+      }
+    },
+    {
+      "team": "POLZZAG",
+      "pos": 6,
+      "score": 1600,
+      "id": 660,
+      "taskStats": {
+        "Race to Win": {
+          "points": 600,
+          "time": 1626145289
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626160080
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626165188
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626171598
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626255691
+        }
+      }
+    },
+    {
+      "team": "CSALab_Sec",
+      "pos": 7,
+      "score": 1600,
+      "id": 67,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626162334
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626173163
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626219741
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626268788
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626275543
+        }
+      }
+    },
+    {
+      "team": "Organizers",
+      "pos": 8,
+      "score": 1300,
+      "id": 535,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626105178
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626123974
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626130313
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626256601
+        }
+      }
+    },
+    {
+      "team": "0nlyFlags",
+      "pos": 9,
+      "score": 1300,
+      "id": 55,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626164545
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626179728
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626246678
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626279960
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626345196
+        }
+      }
+    },
+    {
+      "team": "Social Engineering Experts",
+      "pos": 10,
+      "score": 1100,
+      "id": 214,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626099160
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626152297
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626173170
+        },
+        "Interactive Sessions": {
+          "points": 300,
+          "time": 1626261481
+        }
+      }
+    },
+    {
+      "team": "AlphaSeal",
+      "pos": 11,
+      "score": 1100,
+      "id": 219,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626167962
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626188220
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626233674
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626264754
+        }
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 12,
+      "score": 1000,
+      "id": 416,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626100565
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626237887
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626247540
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626281626
+        }
+      }
+    },
+    {
+      "team": "goo",
+      "pos": 13,
+      "score": 900,
+      "id": 646,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626127121
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626307487
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626313586
+        }
+      }
+    },
+    {
+      "team": "Revers3c",
+      "pos": 14,
+      "score": 800,
+      "id": 30,
+      "taskStats": {
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626121171
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626130002
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626187219
+        }
+      }
+    },
+    {
+      "team": "BreakingBread",
+      "pos": 15,
+      "score": 800,
+      "id": 668,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626113608
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626139608
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626187509
+        }
+      }
+    },
+    {
+      "team": "tata",
+      "pos": 16,
+      "score": 800,
+      "id": 716,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626118102
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626188091
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626192228
+        }
+      }
+    },
+    {
+      "team": "CyberErudites",
+      "pos": 17,
+      "score": 800,
+      "id": 44,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626118625
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626130939
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626271016
+        }
+      }
+    },
+    {
+      "team": "N33rdZ",
+      "pos": 18,
+      "score": 800,
+      "id": 21,
+      "taskStats": {
+        "Race to Win": {
+          "points": 600,
+          "time": 1626286508
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626286530
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626286595
+        }
+      }
+    },
+    {
+      "team": "Fword",
+      "pos": 19,
+      "score": 800,
+      "id": 76,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626111864
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626216987
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626299246
+        }
+      }
+    },
+    {
+      "team": "Janggggg",
+      "pos": 20,
+      "score": 700,
+      "id": 83,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626099602
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626143005
+        }
+      }
+    },
+    {
+      "team": "osmanthusrabbit",
+      "pos": 21,
+      "score": 700,
+      "id": 561,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626096108
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626144824
+        }
+      }
+    },
+    {
+      "team": "uetctf",
+      "pos": 22,
+      "score": 700,
+      "id": 539,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626164756
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626172499
+        }
+      }
+    },
+    {
+      "team": "Nupakachi",
+      "pos": 23,
+      "score": 700,
+      "id": 811,
+      "taskStats": {
+        "Race to Win": {
+          "points": 600,
+          "time": 1626172670
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626172681
+        }
+      }
+    },
+    {
+      "team": "Arf",
+      "pos": 24,
+      "score": 700,
+      "id": 678,
+      "taskStats": {
+        "Building a House": {
+          "points": 300,
+          "time": 1626137970
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626184656
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626199465
+        }
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 25,
+      "score": 700,
+      "id": 553,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626103249
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626124524
+        },
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626239043
+        }
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 26,
+      "score": 700,
+      "id": 987,
+      "taskStats": {
+        "Race to Win": {
+          "points": 600,
+          "time": 1626215689
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626262394
+        }
+      }
+    },
+    {
+      "team": "NGA",
+      "pos": 27,
+      "score": 700,
+      "id": 600,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626098155
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626329970
+        }
+      }
+    },
+    {
+      "team": "CSKMA",
+      "pos": 28,
+      "score": 700,
+      "id": 507,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626195669
+        },
+        "Race to Win": {
+          "points": 600,
+          "time": 1626335090
+        }
+      }
+    },
+    {
+      "team": "OyuSec",
+      "pos": 29,
+      "score": 600,
+      "id": 79,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626199677
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626209522
+        }
+      }
+    },
+    {
+      "team": "y0f4c3",
+      "pos": 30,
+      "score": 600,
+      "id": 93,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626135068
+        },
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626319102
+        }
+      }
+    },
+    {
+      "team": "AAA",
+      "pos": 31,
+      "score": 400,
+      "id": 645,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626105618
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626183699
+        }
+      }
+    },
+    {
+      "team": "Boys Who Cry",
+      "pos": 32,
+      "score": 400,
+      "id": 858,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626165747
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626212224
+        }
+      }
+    },
+    {
+      "team": "0xN1ghtR1ngs",
+      "pos": 33,
+      "score": 400,
+      "id": 15,
+      "taskStats": {
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626240197
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626241363
+        }
+      }
+    },
+    {
+      "team": "Team-0x7",
+      "pos": 34,
+      "score": 400,
+      "id": 540,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626176900
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626281975
+        }
+      }
+    },
+    {
+      "team": "4STRONAUTS",
+      "pos": 35,
+      "score": 400,
+      "id": 14,
+      "taskStats": {
+        "Exciting Offer": {
+          "points": 300,
+          "time": 1626234273
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626285206
+        }
+      }
+    },
+    {
+      "team": "<script>alert(\"Ping\")</script>",
+      "pos": 36,
+      "score": 400,
+      "id": 723,
+      "taskStats": {
+        "Building a House": {
+          "points": 300,
+          "time": 1626224519
+        },
+        "Impasse": {
+          "points": 100,
+          "time": 1626312714
+        }
+      }
+    },
+    {
+      "team": "1gy",
+      "pos": 37,
+      "score": 400,
+      "id": 901,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626264289
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626325672
+        }
+      }
+    },
+    {
+      "team": "SHA-5010",
+      "pos": 38,
+      "score": 400,
+      "id": 842,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626158131
+        },
+        "Building a House": {
+          "points": 300,
+          "time": 1626337017
+        }
+      }
+    },
+    {
+      "team": "Cybers",
+      "pos": 39,
+      "score": 400,
+      "id": 575,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626125264
+        },
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626349549
+        }
+      }
+    },
+    {
+      "team": "turtles",
+      "pos": 40,
+      "score": 300,
+      "id": 72,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626093592
+        }
+      }
+    },
+    {
+      "team": "fibonhack",
+      "pos": 41,
+      "score": 300,
+      "id": 720,
+      "taskStats": {
+        "Mortal Kobat": {
+          "points": 300,
+          "time": 1626181017
+        }
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 42,
+      "score": 300,
+      "id": 396,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626241035
+        }
+      }
+    },
+    {
+      "team": "tbg",
+      "pos": 43,
+      "score": 300,
+      "id": 413,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626256565
+        }
+      }
+    },
+    {
+      "team": "f0urty2",
+      "pos": 44,
+      "score": 300,
+      "id": 966,
+      "taskStats": {
+        "Knock Knock": {
+          "points": 300,
+          "time": 1626256764
+        }
+      }
+    },
+    {
+      "team": "Luigi",
+      "pos": 45,
+      "score": 300,
+      "id": 352,
+      "taskStats": {
+        "Interactive Sessions": {
+          "points": 300,
+          "time": 1626261575
+        }
+      }
+    },
+    {
+      "team": "Chúa Hề",
+      "pos": 46,
+      "score": 250,
+      "id": 550,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626093950
+        }
+      }
+    },
+    {
+      "team": "s3qu3nc3",
+      "pos": 47,
+      "score": 200,
+      "id": 529,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626095005
+        }
+      }
+    },
+    {
+      "team": "sherif hood",
+      "pos": 48,
+      "score": 200,
+      "id": 64,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626110841
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626119492
+        }
+      }
+    },
+    {
+      "team": "5w4mptr0ll5",
+      "pos": 49,
+      "score": 200,
+      "id": 258,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626166622
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626257870
+        }
+      }
+    },
+    {
+      "team": "0xL4ugh",
+      "pos": 50,
+      "score": 200,
+      "id": 121,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626096493
+        },
+        "Clubmouse": {
+          "points": 100,
+          "time": 1626345423
+        }
+      }
+    },
+    {
+      "team": "AC/DC rocks ",
+      "pos": 51,
+      "score": 100,
+      "id": 554,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626099149
+        }
+      }
+    },
+    {
+      "team": "nwpder",
+      "pos": 52,
+      "score": 100,
+      "id": 593,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626101764
+        }
+      }
+    },
+    {
+      "team": "M1rr0r_keep3rz",
+      "pos": 53,
+      "score": 100,
+      "id": 334,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626104565
+        }
+      }
+    },
+    {
+      "team": "Cyb3rTh1eveZ",
+      "pos": 54,
+      "score": 100,
+      "id": 401,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626106063
+        }
+      }
+    },
+    {
+      "team": "S3ct34m",
+      "pos": 55,
+      "score": 100,
+      "id": 597,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626106341
+        }
+      }
+    },
+    {
+      "team": "vsloop",
+      "pos": 56,
+      "score": 100,
+      "id": 611,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626108233
+        }
+      }
+    },
+    {
+      "team": "d4rkc0de",
+      "pos": 57,
+      "score": 100,
+      "id": 459,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626108397
+        }
+      }
+    },
+    {
+      "team": "h3rmes",
+      "pos": 58,
+      "score": 100,
+      "id": 365,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626112134
+        }
+      }
+    },
+    {
+      "team": "EthicalCookieLovers",
+      "pos": 59,
+      "score": 100,
+      "id": 376,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626114453
+        }
+      }
+    },
+    {
+      "team": "DeepWater",
+      "pos": 60,
+      "score": 100,
+      "id": 704,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626118055
+        }
+      }
+    },
+    {
+      "team": "discordgang",
+      "pos": 61,
+      "score": 100,
+      "id": 211,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626122594
+        }
+      }
+    },
+    {
+      "team": "Nobody",
+      "pos": 62,
+      "score": 100,
+      "id": 733,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626122654
+        }
+      }
+    },
+    {
+      "team": "absol",
+      "pos": 63,
+      "score": 100,
+      "id": 82,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626123782
+        }
+      }
+    },
+    {
+      "team": "RONS",
+      "pos": 64,
+      "score": 100,
+      "id": 201,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626147342
+        }
+      }
+    },
+    {
+      "team": "taidh",
+      "pos": 65,
+      "score": 100,
+      "id": 392,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626153092
+        }
+      }
+    },
+    {
+      "team": "InfoSecIITR",
+      "pos": 66,
+      "score": 100,
+      "id": 673,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626177981
+        }
+      }
+    },
+    {
+      "team": "hctawrevo",
+      "pos": 67,
+      "score": 100,
+      "id": 932,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626181959
+        }
+      }
+    },
+    {
+      "team": "DROPSEC",
+      "pos": 68,
+      "score": 100,
+      "id": 942,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626184869
+        }
+      }
+    },
+    {
+      "team": "dex",
+      "pos": 69,
+      "score": 100,
+      "id": 923,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626185010
+        }
+      }
+    },
+    {
+      "team": "noob-atbash",
+      "pos": 70,
+      "score": 100,
+      "id": 547,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626190301
+        }
+      }
+    },
+    {
+      "team": "legendsOfHell",
+      "pos": 71,
+      "score": 100,
+      "id": 138,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626203277
+        }
+      }
+    },
+    {
+      "team": "Arch3r",
+      "pos": 72,
+      "score": 100,
+      "id": 250,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626205825
+        }
+      }
+    },
+    {
+      "team": "YeoMin",
+      "pos": 73,
+      "score": 100,
+      "id": 960,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626206456
+        }
+      }
+    },
+    {
+      "team": "DarkBoss",
+      "pos": 74,
+      "score": 100,
+      "id": 520,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626216068
+        }
+      }
+    },
+    {
+      "team": "PwnPwn",
+      "pos": 75,
+      "score": 100,
+      "id": 43,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626220081
+        }
+      }
+    },
+    {
+      "team": "teste",
+      "pos": 76,
+      "score": 100,
+      "id": 998,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626237517
+        }
+      }
+    },
+    {
+      "team": "testeaaa",
+      "pos": 77,
+      "score": 100,
+      "id": 1008,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626237568
+        }
+      }
+    },
+    {
+      "team": "DDLJ",
+      "pos": 78,
+      "score": 100,
+      "id": 33,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626253591
+        }
+      }
+    },
+    {
+      "team": "STeam",
+      "pos": 79,
+      "score": 100,
+      "id": 807,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626263231
+        }
+      }
+    },
+    {
+      "team": "ri5e",
+      "pos": 80,
+      "score": 100,
+      "id": 192,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626265892
+        }
+      }
+    },
+    {
+      "team": "OLAN",
+      "pos": 81,
+      "score": 100,
+      "id": 868,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626275800
+        }
+      }
+    },
+    {
+      "team": "ben",
+      "pos": 82,
+      "score": 100,
+      "id": 1063,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626289633
+        }
+      }
+    },
+    {
+      "team": "TheSludges",
+      "pos": 83,
+      "score": 100,
+      "id": 940,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626291357
+        }
+      }
+    },
+    {
+      "team": "DonnerPartySurvivors",
+      "pos": 84,
+      "score": 100,
+      "id": 1061,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626295222
+        }
+      }
+    },
+    {
+      "team": "asdf1234",
+      "pos": 85,
+      "score": 100,
+      "id": 1071,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626315725
+        }
+      }
+    },
+    {
+      "team": "hshui",
+      "pos": 86,
+      "score": 100,
+      "id": 1082,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626332958
+        }
+      }
+    },
+    {
+      "team": "Team Info",
+      "pos": 87,
+      "score": 100,
+      "id": 1093,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626340808
+        }
+      }
+    },
+    {
+      "team": "Team Akatsuki",
+      "pos": 88,
+      "score": 100,
+      "id": 1087,
+      "taskStats": {
+        "Impasse": {
+          "points": 100,
+          "time": 1626347214
+        }
+      }
+    }
+  ],
+  "date": 1626015600,
+  "name": "TyphoonCon CTF 2021"
+}
