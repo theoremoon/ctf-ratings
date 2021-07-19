@@ -29,13 +29,13 @@
     "wtjs",
     "deserts",
     "wstrings",
-    "rp2sm",
+    "rp2sm-pwn",
     "2k",
-    "Requester",
-    "MdBin",
+    "requester",
+    "mdbin",
     "beginner-generic-pwn-number-0",
     "printf-please",
-    "rp2sm",
+    "rp2sm-rev",
     "discord",
     "empires",
     "notes",
@@ -43,8 +43,8 @@
     "quaternion-revenge",
     "simultaneity",
     "survey",
-    "annaBEL-lee",
-    "Keeper of the Flag",
+    "annabel-lee",
+    "kotf",
     "requester-strikes-back",
     "ret2the-unknown"
   ],
@@ -59,7 +59,7 @@
           "points": 1,
           "time": 1626052042921
         },
-        "MdBin": {
+        "mdbin": {
           "points": 415,
           "time": 1626013643035
         },
@@ -75,13 +75,13 @@
           "points": 362,
           "time": 1625997734532
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1625991864744
         },
-        "rp2sm": {
-          "points": 362,
-          "time": 1625930378989
+        "rp2sm-pwn": {
+          "points": 436,
+          "time": 1625979237145
         },
         "gelcode-2": {
           "points": 415,
@@ -90,6 +90,10 @@
         "lazy-admin": {
           "points": 396,
           "time": 1625942252517
+        },
+        "rp2sm-rev": {
+          "points": 362,
+          "time": 1625930378989
         },
         "javaisez3": {
           "points": 481,
@@ -115,11 +119,11 @@
           "points": 177,
           "time": 1625893518790
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625891881548
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625874533460
         },
@@ -247,7 +251,7 @@
       "score": 8461,
       "id": "dbe6541a-7a3d-4079-bf87-c859a367f448",
       "taskStats": {
-        "MdBin": {
+        "mdbin": {
           "points": 415,
           "time": 1626114375609
         },
@@ -271,7 +275,7 @@
           "points": 251,
           "time": 1626018347490
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1625995158290
         },
@@ -279,7 +283,11 @@
           "points": 229,
           "time": 1625968237798
         },
-        "rp2sm": {
+        "rp2sm-rev": {
+          "points": 362,
+          "time": 1625961321261
+        },
+        "rp2sm-pwn": {
           "points": 436,
           "time": 1625961296843
         },
@@ -295,7 +303,7 @@
           "points": 216,
           "time": 1625915925185
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625907963107
         },
@@ -307,7 +315,7 @@
           "points": 347,
           "time": 1625902355362
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625889755670
         },
@@ -431,7 +439,7 @@
       "score": 7715,
       "id": "9b9692d1-93b6-40c4-8576-49fbe73da52f",
       "taskStats": {
-        "rp2sm": {
+        "rp2sm-rev": {
           "points": 362,
           "time": 1626106348316
         },
@@ -447,7 +455,7 @@
           "points": 251,
           "time": 1626046281056
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626028630042
         },
@@ -467,7 +475,7 @@
           "points": 144,
           "time": 1625988293797
         },
-        "MdBin": {
+        "mdbin": {
           "points": 415,
           "time": 1625987698631
         },
@@ -499,7 +507,7 @@
           "points": 396,
           "time": 1625944369538
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625939346475
         },
@@ -511,7 +519,7 @@
           "points": 347,
           "time": 1625902434252
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625899627215
         },
@@ -611,7 +619,11 @@
       "score": 7513,
       "id": "a91348ca-cf60-4fad-935e-88e14c753654",
       "taskStats": {
-        "rp2sm": {
+        "rp2sm-pwn": {
+          "points": 436,
+          "time": 1626108612018
+        },
+        "rp2sm-rev": {
           "points": 362,
           "time": 1626059293161
         },
@@ -627,7 +639,7 @@
           "points": 251,
           "time": 1625995647367
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1625991642646
         },
@@ -643,7 +655,7 @@
           "points": 196,
           "time": 1625977596225
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625949916873
         },
@@ -659,7 +671,7 @@
           "points": 415,
           "time": 1625927578548
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625922143947
         },
@@ -791,7 +803,7 @@
           "points": 1,
           "time": 1626070005311
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626030741349
         },
@@ -871,11 +883,11 @@
           "points": 1,
           "time": 1625897394943
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625883736096
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625872474795
         },
@@ -951,7 +963,7 @@
       "score": 5738,
       "id": "eba140d4-c4d2-4bfe-b5e4-c3960c69457a",
       "taskStats": {
-        "rp2sm": {
+        "rp2sm-rev": {
           "points": 362,
           "time": 1626115546109
         },
@@ -963,7 +975,7 @@
           "points": 251,
           "time": 1625993257089
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1625990242409
         },
@@ -999,7 +1011,7 @@
           "points": 128,
           "time": 1625918324990
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625908474123
         },
@@ -1051,7 +1063,7 @@
           "points": 102,
           "time": 1625861140143
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625859920771
         },
@@ -1127,15 +1139,15 @@
           "points": 1,
           "time": 1626051974072
         },
-        "rp2sm": {
+        "rp2sm-rev": {
           "points": 362,
           "time": 1626032224839
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626019512366
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626010482839
         },
@@ -1159,7 +1171,7 @@
           "points": 143,
           "time": 1625923367599
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625921780312
         },
@@ -1271,11 +1283,11 @@
           "points": 251,
           "time": 1626030551307
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626019784814
         },
-        "rp2sm": {
+        "rp2sm-rev": {
           "points": 362,
           "time": 1625955570154
         },
@@ -1287,7 +1299,7 @@
           "points": 162,
           "time": 1625942928616
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625933682852
         },
@@ -1323,7 +1335,7 @@
           "points": 177,
           "time": 1625868104299
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625867012867
         },
@@ -1435,7 +1447,7 @@
           "points": 177,
           "time": 1626011902553
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626001557222
         },
@@ -1443,7 +1455,7 @@
           "points": 396,
           "time": 1625952664977
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625924605031
         },
@@ -1459,7 +1471,7 @@
           "points": 265,
           "time": 1625910406713
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625892004972
         },
@@ -1563,7 +1575,7 @@
       "score": 4988,
       "id": "4a80c0ea-17ac-43c5-93ed-e185d763c9dd",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626106930024
         },
@@ -1591,7 +1603,7 @@
           "points": 347,
           "time": 1626007897728
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626004565863
         },
@@ -1607,7 +1619,7 @@
           "points": 265,
           "time": 1625979445799
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625937144484
         },
@@ -1711,7 +1723,7 @@
           "points": 1,
           "time": 1626080474058
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626046696202
         },
@@ -1747,7 +1759,7 @@
           "points": 107,
           "time": 1625913404355
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625878581310
         },
@@ -1859,7 +1871,7 @@
           "points": 145,
           "time": 1625976265245
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625968918020
         },
@@ -1871,7 +1883,7 @@
           "points": 202,
           "time": 1625947087768
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625915120460
         },
@@ -1963,11 +1975,15 @@
       "score": 3871,
       "id": "7ea0d719-a879-4397-99ca-b8f2a9f96eda",
       "taskStats": {
-        "rp2sm": {
+        "rp2sm-pwn": {
+          "points": 436,
+          "time": 1626034925376
+        },
+        "rp2sm-rev": {
           "points": 362,
           "time": 1626022090485
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626004540818
         },
@@ -2015,7 +2031,7 @@
           "points": 108,
           "time": 1625900547044
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625899319292
         },
@@ -2079,7 +2095,7 @@
       "score": 3826,
       "id": "fe1c1001-3f5a-4fc7-a0ca-c5f76922f1c5",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626111466265
         },
@@ -2099,7 +2115,7 @@
           "points": 108,
           "time": 1626032157169
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625973248368
         },
@@ -2111,7 +2127,7 @@
           "points": 144,
           "time": 1625970022532
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625959075643
         },
@@ -2223,7 +2239,7 @@
           "points": 177,
           "time": 1626070753851
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1625992923143
         },
@@ -2291,7 +2307,7 @@
           "points": 108,
           "time": 1625879749691
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625878078917
         },
@@ -2343,7 +2359,7 @@
           "points": 1,
           "time": 1626105266117
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626081267692
         },
@@ -2351,7 +2367,7 @@
           "points": 177,
           "time": 1626073351220
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626067927061
         },
@@ -2371,7 +2387,7 @@
           "points": 216,
           "time": 1626005852296
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1625992729446
         },
@@ -2475,11 +2491,11 @@
           "points": 205,
           "time": 1626116138480
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626108503941
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626108467946
         },
@@ -2515,7 +2531,7 @@
           "points": 202,
           "time": 1625924507970
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625899643063
         },
@@ -2615,11 +2631,11 @@
           "points": 1,
           "time": 1626053239674
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626015743588
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626010058273
         },
@@ -2731,7 +2747,7 @@
           "points": 216,
           "time": 1626020640507
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626013649581
         },
@@ -2775,7 +2791,7 @@
           "points": 108,
           "time": 1625894578711
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625890227368
         },
@@ -2843,7 +2859,7 @@
           "points": 1,
           "time": 1626051956392
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626021149051
         },
@@ -2875,7 +2891,7 @@
           "points": 105,
           "time": 1625919638240
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625918039372
         },
@@ -3015,7 +3031,7 @@
           "points": 107,
           "time": 1625872302277
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625865123551
         },
@@ -3091,7 +3107,7 @@
           "points": 202,
           "time": 1626031533213
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626012059238
         },
@@ -3127,7 +3143,7 @@
           "points": 108,
           "time": 1625875824387
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625875707383
         },
@@ -3211,7 +3227,7 @@
           "points": 1,
           "time": 1626106833861
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626082682716
         },
@@ -3287,7 +3303,7 @@
           "points": 102,
           "time": 1625881811720
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625881705071
         },
@@ -3315,7 +3331,7 @@
       "score": 3040,
       "id": "2e5d976b-ec5c-457a-962d-87610470a9c4",
       "taskStats": {
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626071980402
         },
@@ -3343,7 +3359,7 @@
           "points": 128,
           "time": 1625917694797
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625906596241
         },
@@ -3435,7 +3451,7 @@
           "points": 145,
           "time": 1626080361533
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626065412868
         },
@@ -3491,7 +3507,7 @@
           "points": 128,
           "time": 1625863748472
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625860885691
         },
@@ -3563,7 +3579,7 @@
           "points": 265,
           "time": 1626066495741
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626029655207
         },
@@ -3579,7 +3595,7 @@
           "points": 196,
           "time": 1626020898784
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626012317800
         },
@@ -3663,7 +3679,7 @@
           "points": 1,
           "time": 1626095333774
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626093961219
         },
@@ -3675,11 +3691,11 @@
           "points": 205,
           "time": 1626049526827
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626016231951
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626000850763
         },
@@ -3783,11 +3799,11 @@
           "points": 162,
           "time": 1626061612397
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626058965353
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1625992769600
         },
@@ -3823,7 +3839,7 @@
           "points": 102,
           "time": 1625887796148
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625885531955
         },
@@ -3899,7 +3915,7 @@
           "points": 310,
           "time": 1626025329729
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626023671863
         },
@@ -3995,7 +4011,7 @@
           "points": 145,
           "time": 1625966771945
         },
-        "MdBin": {
+        "mdbin": {
           "points": 415,
           "time": 1625965775408
         },
@@ -4003,7 +4019,7 @@
           "points": 196,
           "time": 1625946293770
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625877631359
         },
@@ -4119,7 +4135,7 @@
           "points": 107,
           "time": 1625953884717
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625953429012
         },
@@ -4195,7 +4211,7 @@
           "points": 128,
           "time": 1626042360886
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626010431953
         },
@@ -4291,7 +4307,7 @@
       "score": 2715,
       "id": "61f69a26-4311-4f13-979d-19ec035dad10",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626060678110
         },
@@ -4399,7 +4415,7 @@
           "points": 122,
           "time": 1626099811009
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626028626434
         },
@@ -4499,7 +4515,7 @@
       "score": 2669,
       "id": "31497656-db0f-4844-931c-4009231217ca",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626107338306
         },
@@ -4527,7 +4543,7 @@
           "points": 128,
           "time": 1625880297500
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625873926133
         },
@@ -4615,7 +4631,7 @@
           "points": 1,
           "time": 1626071316108
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626069955388
         },
@@ -4639,7 +4655,7 @@
           "points": 202,
           "time": 1625897193773
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625894422833
         },
@@ -4715,7 +4731,7 @@
       "score": 2654,
       "id": "ca544d9f-e9fa-4ac7-a6f3-b8466d02b9a9",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626114151103
         },
@@ -4723,7 +4739,7 @@
           "points": 1,
           "time": 1626058492891
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625932313068
         },
@@ -4839,7 +4855,7 @@
           "points": 251,
           "time": 1626014357189
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625986082116
         },
@@ -4931,7 +4947,7 @@
           "points": 205,
           "time": 1626016205999
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626015465696
         },
@@ -5023,7 +5039,7 @@
           "points": 1,
           "time": 1626055510265
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626040965021
         },
@@ -5131,7 +5147,7 @@
           "points": 143,
           "time": 1626090755634
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626068232048
         },
@@ -5147,7 +5163,7 @@
           "points": 107,
           "time": 1626017783065
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626009377812
         },
@@ -5243,7 +5259,7 @@
           "points": 128,
           "time": 1626044391728
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625979940501
         },
@@ -5443,7 +5459,7 @@
           "points": 162,
           "time": 1626017167124
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625921556447
         },
@@ -5571,7 +5587,7 @@
           "points": 105,
           "time": 1625977524689
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625973943937
         },
@@ -5647,7 +5663,7 @@
           "points": 162,
           "time": 1625944278850
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625938544232
         },
@@ -5771,7 +5787,7 @@
           "points": 107,
           "time": 1625890596218
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625889321093
         },
@@ -5843,7 +5859,7 @@
           "points": 108,
           "time": 1626096695601
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626089121824
         },
@@ -5991,7 +6007,7 @@
           "points": 102,
           "time": 1625891352272
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625887023845
         },
@@ -6151,7 +6167,7 @@
           "points": 143,
           "time": 1625918986992
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625911881065
         },
@@ -6243,7 +6259,7 @@
           "points": 108,
           "time": 1626006268822
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625993135982
         },
@@ -6335,15 +6351,15 @@
           "points": 1,
           "time": 1626057522718
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626017877410
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626012251661
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626001330121
         },
@@ -6439,7 +6455,7 @@
           "points": 1,
           "time": 1626081494736
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626078405292
         },
@@ -6539,7 +6555,7 @@
           "points": 122,
           "time": 1625898427264
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625889677224
         },
@@ -6635,7 +6651,7 @@
           "points": 143,
           "time": 1626045263626
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626042610132
         },
@@ -6767,7 +6783,7 @@
           "points": 105,
           "time": 1625860018152
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625859532576
         },
@@ -6815,7 +6831,7 @@
       "score": 2270,
       "id": "8a4c3a6e-be71-4f92-992c-f3897d6c606c",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626115391728
         },
@@ -6843,7 +6859,7 @@
           "points": 108,
           "time": 1625943508157
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625918930561
         },
@@ -6919,11 +6935,11 @@
           "points": 128,
           "time": 1625954743734
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625953343760
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625933378776
         },
@@ -7011,7 +7027,7 @@
       "score": 2268,
       "id": "3f65f852-387b-4aec-806c-2b7c833cc98b",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626100163287
         },
@@ -7031,7 +7047,7 @@
           "points": 108,
           "time": 1625986158532
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625979357759
         },
@@ -7123,7 +7139,7 @@
           "points": 119,
           "time": 1625978651878
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625940040358
         },
@@ -7223,7 +7239,7 @@
           "points": 107,
           "time": 1625865006716
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625863943701
         },
@@ -7303,7 +7319,7 @@
           "points": 251,
           "time": 1626060615282
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626028446613
         },
@@ -7311,7 +7327,7 @@
           "points": 128,
           "time": 1625972447007
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625967312502
         },
@@ -7387,7 +7403,7 @@
       "score": 2200,
       "id": "5d1e1098-e17b-493c-9e25-38b9b812d41b",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626031733084
         },
@@ -7483,11 +7499,11 @@
           "points": 1,
           "time": 1626086062260
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626038881725
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626019323279
         },
@@ -7587,7 +7603,7 @@
           "points": 196,
           "time": 1626012178303
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625968517044
         },
@@ -7671,7 +7687,7 @@
       "score": 2168,
       "id": "d01a607b-5579-4c2a-aded-802162cfc893",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626053600412
         },
@@ -7771,7 +7787,7 @@
           "points": 119,
           "time": 1626059741492
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626055602436
         },
@@ -7867,7 +7883,7 @@
           "points": 1,
           "time": 1626107079440
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626004895923
         },
@@ -7971,7 +7987,7 @@
           "points": 128,
           "time": 1625954648762
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625903255595
         },
@@ -8071,7 +8087,7 @@
           "points": 108,
           "time": 1626052962133
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626021785675
         },
@@ -8167,7 +8183,7 @@
           "points": 108,
           "time": 1626009889024
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626003335482
         },
@@ -8279,7 +8295,7 @@
           "points": 122,
           "time": 1625907735766
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625893969068
         },
@@ -8343,7 +8359,7 @@
           "points": 102,
           "time": 1626108624942
         },
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626108516590
         },
@@ -8439,7 +8455,7 @@
           "points": 105,
           "time": 1625932268933
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625929555273
         },
@@ -8635,7 +8651,7 @@
           "points": 101,
           "time": 1625900397896
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625900073633
         },
@@ -8879,7 +8895,7 @@
           "points": 108,
           "time": 1625930292171
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625915082835
         },
@@ -8967,7 +8983,7 @@
           "points": 108,
           "time": 1625944061934
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625905574325
         },
@@ -9059,7 +9075,7 @@
           "points": 119,
           "time": 1625995840341
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625946397298
         },
@@ -9143,7 +9159,7 @@
           "points": 144,
           "time": 1626003306247
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625980620521
         },
@@ -9323,7 +9339,7 @@
           "points": 108,
           "time": 1625984493528
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625943332813
         },
@@ -9411,7 +9427,7 @@
           "points": 122,
           "time": 1625954772563
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625948190911
         },
@@ -9487,7 +9503,7 @@
       "score": 1951,
       "id": "72e88302-f6a3-4954-886a-eac7249a87fd",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626100137123
         },
@@ -9687,7 +9703,7 @@
           "points": 145,
           "time": 1625937272340
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625926047282
         },
@@ -9923,7 +9939,7 @@
           "points": 1,
           "time": 1626081087426
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626029579012
         },
@@ -10119,7 +10135,7 @@
           "points": 105,
           "time": 1625899348881
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625883040390
         },
@@ -10175,7 +10191,7 @@
           "points": 128,
           "time": 1625892280663
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625884404416
         },
@@ -10251,7 +10267,7 @@
           "points": 128,
           "time": 1626028093932
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625960776177
         },
@@ -10327,7 +10343,7 @@
           "points": 107,
           "time": 1625950392145
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625947945623
         },
@@ -10411,7 +10427,7 @@
           "points": 119,
           "time": 1625980932140
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625978784780
         },
@@ -10503,7 +10519,7 @@
           "points": 196,
           "time": 1626056732549
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626037885068
         },
@@ -10595,7 +10611,7 @@
           "points": 108,
           "time": 1625962695343
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625905656854
         },
@@ -10683,7 +10699,7 @@
           "points": 107,
           "time": 1625874868834
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625866995338
         },
@@ -10843,7 +10859,7 @@
           "points": 108,
           "time": 1625975840629
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625969597672
         },
@@ -11247,7 +11263,7 @@
       "score": 1828,
       "id": "5ff0a3c3-967a-4330-a557-4a81381d9334",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626012322703
         },
@@ -11335,7 +11351,7 @@
           "points": 1,
           "time": 1626074284056
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625964745303
         },
@@ -11419,7 +11435,7 @@
       "score": 1790,
       "id": "5a6e3764-3721-44a9-a5ad-cbcc45b16730",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626114789101
         },
@@ -11431,7 +11447,7 @@
           "points": 122,
           "time": 1626080171575
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625888359281
         },
@@ -11687,7 +11703,7 @@
           "points": 107,
           "time": 1625947089930
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625941539442
         },
@@ -12155,7 +12171,7 @@
           "points": 119,
           "time": 1625940458029
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625938168599
         },
@@ -12555,7 +12571,7 @@
           "points": 1,
           "time": 1626074770246
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626045119423
         },
@@ -12655,7 +12671,7 @@
           "points": 107,
           "time": 1626006753847
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626003397098
         },
@@ -12735,7 +12751,7 @@
           "points": 1,
           "time": 1626052184504
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625967188927
         },
@@ -13139,7 +13155,7 @@
           "points": 1,
           "time": 1626060652160
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626006089827
         },
@@ -13219,7 +13235,7 @@
       "score": 1701,
       "id": "11710aba-62d4-4d29-8126-5da8ab42e8aa",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626094945688
         },
@@ -13439,7 +13455,7 @@
           "points": 1,
           "time": 1626054708573
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625999724282
         },
@@ -13531,7 +13547,7 @@
           "points": 196,
           "time": 1625929108748
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625923927995
         },
@@ -13687,7 +13703,7 @@
           "points": 108,
           "time": 1625984943352
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625932067174
         },
@@ -13751,7 +13767,7 @@
           "points": 144,
           "time": 1625945812099
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625944932422
         },
@@ -13823,7 +13839,7 @@
           "points": 1,
           "time": 1626115706731
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626054354922
         },
@@ -14299,7 +14315,7 @@
           "points": 128,
           "time": 1626032549916
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625961510401
         },
@@ -14451,7 +14467,7 @@
           "points": 122,
           "time": 1626109436855
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626091827649
         },
@@ -14847,7 +14863,7 @@
           "points": 1,
           "time": 1626084665798
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625926857482
         },
@@ -14927,7 +14943,7 @@
           "points": 1,
           "time": 1626052526269
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625938406877
         },
@@ -15003,7 +15019,7 @@
       "score": 1582,
       "id": "f8a8d3ab-dc38-487c-90d3-e7866caeb9c0",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626082597538
         },
@@ -15167,7 +15183,7 @@
           "points": 251,
           "time": 1626098319693
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626086450183
         },
@@ -15231,7 +15247,7 @@
       "score": 1581,
       "id": "58c03c8c-a933-44c0-be41-3cac2a72e56b",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625992639278
         },
@@ -15307,7 +15323,7 @@
       "score": 1581,
       "id": "1de28d67-46f8-46a1-b4c1-790ffe8e99d9",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626008095380
         },
@@ -15383,7 +15399,7 @@
       "score": 1581,
       "id": "a8de8e4b-43cd-4d59-b809-7662fcf64beb",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626010522223
         },
@@ -15463,7 +15479,7 @@
           "points": 107,
           "time": 1626037972072
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625944983920
         },
@@ -15843,7 +15859,7 @@
           "points": 105,
           "time": 1626095126579
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626072668865
         },
@@ -15915,7 +15931,7 @@
           "points": 122,
           "time": 1625917244725
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625910923170
         },
@@ -16047,7 +16063,7 @@
       "score": 1533,
       "id": "eca9d593-184b-4f9c-817e-482997152378",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625945590900
         },
@@ -16563,7 +16579,7 @@
           "points": 102,
           "time": 1626067495083
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626024528014
         },
@@ -16771,7 +16787,7 @@
           "points": 107,
           "time": 1625929776189
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625911090567
         },
@@ -16847,7 +16863,7 @@
           "points": 108,
           "time": 1625960427692
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625869033224
         },
@@ -16991,7 +17007,7 @@
           "points": 1,
           "time": 1626112767581
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626012555156
         },
@@ -17063,7 +17079,7 @@
       "score": 1474,
       "id": "4b8bd4bb-dbb2-4981-b8ee-bdfc33c8943a",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626018180305
         },
@@ -18711,7 +18727,7 @@
           "points": 122,
           "time": 1626080277945
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626030174891
         },
@@ -18819,7 +18835,7 @@
           "points": 101,
           "time": 1626093475928
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625928026610
         },
@@ -19135,7 +19151,7 @@
           "points": 102,
           "time": 1625965173912
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625964370333
         },
@@ -19407,7 +19423,7 @@
           "points": 1,
           "time": 1626059182712
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625944770835
         },
@@ -19463,7 +19479,7 @@
       "score": 1367,
       "id": "e0709f93-21ea-40ab-9fca-01f6d85fac7e",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626109423968
         },
@@ -19635,7 +19651,7 @@
           "points": 102,
           "time": 1625937385950
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625936056094
         },
@@ -19671,7 +19687,7 @@
       "score": 1365,
       "id": "998af827-91c1-41d2-b755-2ef746afcd3d",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625954989577
         },
@@ -19815,7 +19831,7 @@
           "points": 108,
           "time": 1626067883220
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625999804654
         },
@@ -21531,7 +21547,7 @@
           "points": 104,
           "time": 1625871786102
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625867270733
         },
@@ -21575,7 +21591,7 @@
       "score": 1263,
       "id": "7ad4c580-63bf-44ca-9026-78130c1c4ee6",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626091191482
         },
@@ -21711,7 +21727,7 @@
       "score": 1261,
       "id": "d7119a76-1f0a-4dc2-b01c-c7f25e060ca1",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626009398265
         },
@@ -21775,7 +21791,7 @@
       "score": 1261,
       "id": "55a8ea5e-3a30-45ef-a46d-5c904c71de4b",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626034344957
         },
@@ -21987,7 +22003,7 @@
           "points": 103,
           "time": 1625915995411
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625912035219
         },
@@ -22051,7 +22067,7 @@
           "points": 1,
           "time": 1625996032517
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625982262093
         },
@@ -22299,7 +22315,7 @@
           "points": 105,
           "time": 1625972138898
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625875589900
         },
@@ -24975,7 +24991,7 @@
           "points": 102,
           "time": 1626042304255
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625965342029
         },
@@ -25051,7 +25067,7 @@
       "score": 1182,
       "id": "20d30656-61fa-4136-8abb-a54aeedd3a47",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626087535943
         },
@@ -25107,7 +25123,7 @@
       "score": 1164,
       "id": "a5f28613-9c1c-4378-adb3-04f69dfde067",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626071346565
         },
@@ -25167,7 +25183,7 @@
       "score": 1159,
       "id": "1f0c8dac-5707-4b2e-b49b-8aaae66bf5a8",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625910850080
         },
@@ -25351,7 +25367,7 @@
           "points": 1,
           "time": 1626051918984
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626029972517
         },
@@ -25471,7 +25487,7 @@
       "score": 1156,
       "id": "38d22d3f-7cf8-4e96-88b8-ffb14ef5e152",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625890954903
         },
@@ -25531,7 +25547,7 @@
       "score": 1156,
       "id": "128d4ad5-17a8-43ea-98ea-9ddb788749f4",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625933434077
         },
@@ -25707,7 +25723,7 @@
       "score": 1153,
       "id": "77b39a82-9db5-404d-bcaf-6ff93540128f",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626114356105
         },
@@ -26187,7 +26203,7 @@
           "points": 119,
           "time": 1626021309384
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625953707035
         },
@@ -27911,7 +27927,7 @@
           "points": 1,
           "time": 1626092542710
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625952129803
         },
@@ -28083,7 +28099,7 @@
       "score": 1053,
       "id": "e0eb55b8-066e-447e-bf96-920c258aaeaa",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626072621053
         },
@@ -28135,7 +28151,7 @@
           "points": 105,
           "time": 1625952652108
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625946438733
         },
@@ -28359,7 +28375,7 @@
           "points": 107,
           "time": 1625939241701
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625929268305
         },
@@ -28415,7 +28431,7 @@
           "points": 103,
           "time": 1625970990980
         },
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625893827718
         },
@@ -30571,7 +30587,7 @@
       "score": 979,
       "id": "3f076b1d-447b-4668-947d-0484fbbe4d17",
       "taskStats": {
-        "Keeper of the Flag": {
+        "kotf": {
           "points": 174,
           "time": 1626065612521
         },
@@ -31083,7 +31099,7 @@
       "score": 941,
       "id": "837dc9ec-0a15-4911-8ca1-425e5d166e69",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626046685100
         },
@@ -31135,7 +31151,7 @@
       "score": 941,
       "id": "ba804c57-149d-4345-8ebf-69bbab562868",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1626112828541
         },
@@ -33535,7 +33551,7 @@
           "points": 103,
           "time": 1625913428085
         },
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625913303352
         },
@@ -34343,7 +34359,7 @@
       "score": 826,
       "id": "81a37e9c-2f6b-4f9c-9a5a-96e1109800d5",
       "taskStats": {
-        "MdBin": {
+        "mdbin": {
           "points": 415,
           "time": 1626090980417
         },
@@ -37835,7 +37851,7 @@
       "score": 734,
       "id": "0f3a617c-8665-4819-9583-3e044ee69a37",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625958219096
         },
@@ -42311,7 +42327,7 @@
       "score": 687,
       "id": "acff9a17-3d21-43dc-8997-7e0a61954a7c",
       "taskStats": {
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1625999682042
         },
@@ -48051,7 +48067,7 @@
       "score": 585,
       "id": "38135a2e-74a7-4825-8287-0526e08e6106",
       "taskStats": {
-        "Requester": {
+        "requester": {
           "points": 175,
           "time": 1626076977766
         },
@@ -52819,7 +52835,7 @@
       "score": 429,
       "id": "54904ca4-1815-478e-9962-8439185cadfd",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625862676824
         },
@@ -60051,7 +60067,7 @@
       "score": 225,
       "id": "8d23e315-5f24-4257-a57d-9a0c76dc878b",
       "taskStats": {
-        "annaBEL-lee": {
+        "annabel-lee": {
           "points": 121,
           "time": 1625929647119
         },
