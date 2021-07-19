@@ -1,0 +1,6084 @@
+{
+  "tasks": [
+    "web-empty-ls",
+    "hw-pcivault",
+    "pwn-memsafety",
+    "rev-cpp",
+    "crypto-story",
+    "pwn-compression",
+    "misc-filestore",
+    "web-letschatserver",
+    "web-gpushop",
+    "crypto-tonality",
+    "hw-parking",
+    "crypto-tiramisu",
+    "misc-raid",
+    "crypto-H1",
+    "pwn-tridroid",
+    "misc-shellcode",
+    "rev-hexagon",
+    "hw-comlink",
+    "misc-steps",
+    "pwn-fullchain",
+    "misc-zippi",
+    "pwn-atheris",
+    "pwn-ebpf",
+    "crypto-pythia",
+    "rev-weather",
+    "rev-adspam",
+    "hw-pcivault2",
+    "rev-polymorph"
+  ],
+  "standings": [
+    {
+      "team": "0",
+      "pos": 111,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626588452018
+        },
+        "rev-polymorph": {
+          "time": 1626609938136
+        }
+      }
+    },
+    {
+      "team": "4919",
+      "pos": 160,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626642993628
+        }
+      }
+    },
+    {
+      "team": "0Trust",
+      "pos": 324,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626606790919
+        }
+      }
+    },
+    {
+      "team": "0r0",
+      "pos": 352,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626625582163
+        }
+      }
+    },
+    {
+      "team": "0x62EEN7EA",
+      "pos": 186,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626600277693
+        },
+        "rev-cpp": {
+          "time": 1626602951513
+        }
+      }
+    },
+    {
+      "team": "0xCAFBE7",
+      "pos": 108,
+      "taskStats": {
+        "crypto-story": {
+          "time": 1626632374817
+        },
+        "misc-filestore": {
+          "time": 1626546567365
+        }
+      }
+    },
+    {
+      "team": "1337hackers",
+      "pos": 370,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626638801503
+        }
+      }
+    },
+    {
+      "team": "13bd37",
+      "pos": 351,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626624620205
+        }
+      }
+    },
+    {
+      "team": "1dayPWNED",
+      "pos": 234,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626548722228
+        }
+      }
+    },
+    {
+      "team": "1t'5_n0t_fla9",
+      "pos": 166,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626552678837
+        },
+        "rev-cpp": {
+          "time": 1626550308027
+        }
+      }
+    },
+    {
+      "team": "4LEARN",
+      "pos": 281,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626583466059
+        }
+      }
+    },
+    {
+      "team": "4ever_1onely",
+      "pos": 292,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626595552285
+        }
+      }
+    },
+    {
+      "team": "5BC",
+      "pos": 15,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626651243975
+        },
+        "crypto-pythia": {
+          "time": 1626566896180
+        },
+        "crypto-story": {
+          "time": 1626621497409
+        },
+        "crypto-tonality": {
+          "time": 1626631474210
+        },
+        "hw-comlink": {
+          "time": 1626617642503
+        },
+        "hw-parking": {
+          "time": 1626557928242
+        },
+        "misc-filestore": {
+          "time": 1626540331422
+        },
+        "misc-raid": {
+          "time": 1626647873229
+        },
+        "misc-zippi": {
+          "time": 1626645001142
+        },
+        "pwn-atheris": {
+          "time": 1626528482670
+        },
+        "pwn-compression": {
+          "time": 1626515172053
+        },
+        "pwn-ebpf": {
+          "time": 1626649948901
+        },
+        "pwn-memsafety": {
+          "time": 1626546895670
+        },
+        "pwn-tridroid": {
+          "time": 1626613298678
+        },
+        "rev-cpp": {
+          "time": 1626556871431
+        },
+        "rev-polymorph": {
+          "time": 1626606580462
+        },
+        "rev-weather": {
+          "time": 1626532267134
+        }
+      }
+    },
+    {
+      "team": "5upernova",
+      "pos": 170,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626555351183
+        },
+        "rev-cpp": {
+          "time": 1626546344460
+        }
+      }
+    },
+    {
+      "team": "; TODO: Create team name",
+      "pos": 63,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626543592040
+        },
+        "misc-filestore": {
+          "time": 1626553490233
+        },
+        "pwn-compression": {
+          "time": 1626598003520
+        },
+        "rev-cpp": {
+          "time": 1626520308990
+        },
+        "rev-hexagon": {
+          "time": 1626644836570
+        }
+      }
+    },
+    {
+      "team": "<xufficiently 'STUP = id '>",
+      "pos": 258,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626566223262
+        }
+      }
+    },
+    {
+      "team": "A!Tians",
+      "pos": 317,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626602926315
+        }
+      }
+    },
+    {
+      "team": "A5537",
+      "pos": 139,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626560632221
+        },
+        "rev-hexagon": {
+          "time": 1626638234710
+        }
+      }
+    },
+    {
+      "team": "ADDVulcan",
+      "pos": 118,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626634371351
+        },
+        "misc-filestore": {
+          "time": 1626643283235
+        }
+      }
+    },
+    {
+      "team": "ALLES!",
+      "pos": 35,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626548058689
+        },
+        "misc-raid": {
+          "time": 1626524178431
+        },
+        "misc-zippi": {
+          "time": 1626524944442
+        },
+        "pwn-atheris": {
+          "time": 1626541350685
+        },
+        "pwn-compression": {
+          "time": 1626557933953
+        },
+        "pwn-memsafety": {
+          "time": 1626528081329
+        },
+        "rev-adspam": {
+          "time": 1626637895846
+        },
+        "rev-cpp": {
+          "time": 1626523190741
+        },
+        "rev-hexagon": {
+          "time": 1626534346288
+        },
+        "rev-weather": {
+          "time": 1626610215083
+        }
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 65,
+      "taskStats": {
+        "crypto-tiramisu": {
+          "time": 1626642187306
+        },
+        "misc-filestore": {
+          "time": 1626570933204
+        },
+        "rev-hexagon": {
+          "time": 1626539923843
+        },
+        "rev-weather": {
+          "time": 1626571894468
+        }
+      }
+    },
+    {
+      "team": "Aceri",
+      "pos": 306,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626600045248
+        }
+      }
+    },
+    {
+      "team": "AdelaideB9",
+      "pos": 263,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626569249714
+        }
+      }
+    },
+    {
+      "team": "AlbSociety",
+      "pos": 249,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626559837625
+        }
+      }
+    },
+    {
+      "team": "AnomalyZA",
+      "pos": 371,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626639345784
+        }
+      }
+    },
+    {
+      "team": "AntiBuddies",
+      "pos": 73,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626549402140
+        },
+        "pwn-atheris": {
+          "time": 1626520039882
+        },
+        "pwn-compression": {
+          "time": 1626513917113
+        },
+        "rev-cpp": {
+          "time": 1626518063529
+        }
+      }
+    },
+    {
+      "team": "Apollo-13",
+      "pos": 279,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626582818295
+        }
+      }
+    },
+    {
+      "team": "Applicative",
+      "pos": 188,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626558243246
+        },
+        "rev-cpp": {
+          "time": 1626603522950
+        }
+      }
+    },
+    {
+      "team": "ArcTropics",
+      "pos": 208,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626520514021
+        }
+      }
+    },
+    {
+      "team": "ArtAttHack",
+      "pos": 312,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626601426181
+        }
+      }
+    },
+    {
+      "team": "Attack on Software",
+      "pos": 320,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626604218082
+        }
+      }
+    },
+    {
+      "team": "B3NNY",
+      "pos": 123,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626574963054
+        },
+        "pwn-memsafety": {
+          "time": 1626565918609
+        }
+      }
+    },
+    {
+      "team": "Balsn",
+      "pos": 5,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626628837780
+        },
+        "crypto-pythia": {
+          "time": 1626591455983
+        },
+        "crypto-story": {
+          "time": 1626608478162
+        },
+        "crypto-tiramisu": {
+          "time": 1626645908083
+        },
+        "crypto-tonality": {
+          "time": 1626632706906
+        },
+        "hw-parking": {
+          "time": 1626519284517
+        },
+        "misc-filestore": {
+          "time": 1626543656280
+        },
+        "misc-raid": {
+          "time": 1626504535522
+        },
+        "misc-shellcode": {
+          "time": 1626580334724
+        },
+        "misc-steps": {
+          "time": 1626634362134
+        },
+        "misc-zippi": {
+          "time": 1626606925680
+        },
+        "pwn-atheris": {
+          "time": 1626544580103
+        },
+        "pwn-compression": {
+          "time": 1626494252266
+        },
+        "pwn-ebpf": {
+          "time": 1626596014955
+        },
+        "pwn-fullchain": {
+          "time": 1626554361140
+        },
+        "pwn-memsafety": {
+          "time": 1626534630626
+        },
+        "rev-adspam": {
+          "time": 1626624939195
+        },
+        "rev-cpp": {
+          "time": 1626499996352
+        },
+        "rev-hexagon": {
+          "time": 1626515405290
+        },
+        "rev-polymorph": {
+          "time": 1626604471918
+        },
+        "rev-weather": {
+          "time": 1626537917210
+        },
+        "web-empty-ls": {
+          "time": 1626517441318
+        },
+        "web-gpushop": {
+          "time": 1626598210214
+        },
+        "web-letschatserver": {
+          "time": 1626529916346
+        }
+      }
+    },
+    {
+      "team": "Belgian Red Daemons",
+      "pos": 253,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626562371626
+        }
+      }
+    },
+    {
+      "team": "Beta_securiteam",
+      "pos": 361,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626630204946
+        }
+      }
+    },
+    {
+      "team": "Bi0t_Ec",
+      "pos": 222,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626624483389
+        }
+      }
+    },
+    {
+      "team": "Billionaire_Space_Race",
+      "pos": 290,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626593124651
+        }
+      }
+    },
+    {
+      "team": "BitteNichtAnfuzzen!",
+      "pos": 315,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626602245409
+        }
+      }
+    },
+    {
+      "team": "Black Bauhinia",
+      "pos": 25,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626546520634
+        },
+        "crypto-pythia": {
+          "time": 1626529916349
+        },
+        "crypto-story": {
+          "time": 1626586075660
+        },
+        "crypto-tiramisu": {
+          "time": 1626554526065
+        },
+        "crypto-tonality": {
+          "time": 1626590478426
+        },
+        "hw-parking": {
+          "time": 1626507413220
+        },
+        "misc-filestore": {
+          "time": 1626549558850
+        },
+        "misc-steps": {
+          "time": 1626628978236
+        },
+        "pwn-compression": {
+          "time": 1626612477679
+        },
+        "pwn-memsafety": {
+          "time": 1626604194068
+        },
+        "rev-cpp": {
+          "time": 1626493772731
+        },
+        "rev-hexagon": {
+          "time": 1626557635454
+        },
+        "rev-weather": {
+          "time": 1626555157108
+        },
+        "web-gpushop": {
+          "time": 1626584093406
+        }
+      }
+    },
+    {
+      "team": "Blackjackets",
+      "pos": 219,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626595415646
+        }
+      }
+    },
+    {
+      "team": "BreakingCode",
+      "pos": 243,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626555087479
+        }
+      }
+    },
+    {
+      "team": "Brolerobot",
+      "pos": 223,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626629178378
+        }
+      }
+    },
+    {
+      "team": "Bushwhackers",
+      "pos": 27,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626622890125
+        },
+        "crypto-tiramisu": {
+          "time": 1626558428481
+        },
+        "misc-filestore": {
+          "time": 1626546441031
+        },
+        "misc-raid": {
+          "time": 1626525662006
+        },
+        "misc-zippi": {
+          "time": 1626559670721
+        },
+        "pwn-compression": {
+          "time": 1626550688591
+        },
+        "pwn-memsafety": {
+          "time": 1626556910160
+        },
+        "rev-cpp": {
+          "time": 1626529054862
+        },
+        "rev-hexagon": {
+          "time": 1626562119713
+        },
+        "rev-polymorph": {
+          "time": 1626557263455
+        },
+        "rev-weather": {
+          "time": 1626531935108
+        },
+        "web-empty-ls": {
+          "time": 1626621530998
+        },
+        "web-gpushop": {
+          "time": 1626569180925
+        },
+        "web-letschatserver": {
+          "time": 1626564731392
+        }
+      }
+    },
+    {
+      "team": "ByteForc3",
+      "pos": 305,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626599691846
+        }
+      }
+    },
+    {
+      "team": "C Flat",
+      "pos": 232,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626547746916
+        }
+      }
+    },
+    {
+      "team": "C4T BuT S4D",
+      "pos": 33,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626561864704
+        },
+        "crypto-tiramisu": {
+          "time": 1626540466443
+        },
+        "crypto-tonality": {
+          "time": 1626613029736
+        },
+        "misc-filestore": {
+          "time": 1626547569768
+        },
+        "misc-raid": {
+          "time": 1626621625543
+        },
+        "pwn-compression": {
+          "time": 1626551446522
+        },
+        "pwn-memsafety": {
+          "time": 1626639013875
+        },
+        "rev-cpp": {
+          "time": 1626522127351
+        },
+        "rev-hexagon": {
+          "time": 1626526365358
+        },
+        "rev-polymorph": {
+          "time": 1626570868596
+        },
+        "rev-weather": {
+          "time": 1626541101302
+        }
+      }
+    },
+    {
+      "team": "CLPEEE",
+      "pos": 356,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626626150834
+        }
+      }
+    },
+    {
+      "team": "CSALab_Sec",
+      "pos": 278,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626582347687
+        }
+      }
+    },
+    {
+      "team": "CTF-SG",
+      "pos": 207,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626515335449
+        }
+      }
+    },
+    {
+      "team": "CTFMON",
+      "pos": 271,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626576307734
+        }
+      }
+    },
+    {
+      "team": "CYBEANS",
+      "pos": 202,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626634881225
+        },
+        "rev-cpp": {
+          "time": 1626567819919
+        }
+      }
+    },
+    {
+      "team": "Cache Money",
+      "pos": 161,
+      "taskStats": {
+        "rev-hexagon": {
+          "time": 1626635706604
+        }
+      }
+    },
+    {
+      "team": "Can Haz Flag",
+      "pos": 216,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626579217856
+        }
+      }
+    },
+    {
+      "team": "Cheese Wheel",
+      "pos": 373,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626640271340
+        }
+      }
+    },
+    {
+      "team": "Chimp",
+      "pos": 337,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626612538917
+        }
+      }
+    },
+    {
+      "team": "CornfieldComputerCrew",
+      "pos": 49,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626563499263
+        },
+        "hw-parking": {
+          "time": 1626573317370
+        },
+        "misc-filestore": {
+          "time": 1626576207610
+        },
+        "pwn-compression": {
+          "time": 1626509321607
+        },
+        "rev-cpp": {
+          "time": 1626551226040
+        },
+        "rev-hexagon": {
+          "time": 1626597293192
+        },
+        "rev-weather": {
+          "time": 1626598345023
+        }
+      }
+    },
+    {
+      "team": "CreateRemoteThread",
+      "pos": 133,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626579418773
+        },
+        "misc-raid": {
+          "time": 1626539435454
+        }
+      }
+    },
+    {
+      "team": "CyKor",
+      "pos": 269,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626571739227
+        }
+      }
+    },
+    {
+      "team": "Cyber Erudites",
+      "pos": 270,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626573252371
+        }
+      }
+    },
+    {
+      "team": "CyberOpenSquad",
+      "pos": 151,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626555591279
+        },
+        "pwn-compression": {
+          "time": 1626540009684
+        }
+      }
+    },
+    {
+      "team": "Cybernated Wizards",
+      "pos": 322,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626605396294
+        }
+      }
+    },
+    {
+      "team": "CzechCyberTeam",
+      "pos": 104,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626562216769
+        },
+        "misc-zippi": {
+          "time": 1626642520481
+        }
+      }
+    },
+    {
+      "team": "D33VOLUTIONS",
+      "pos": 100,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626582226643
+        },
+        "rev-polymorph": {
+          "time": 1626581381438
+        }
+      }
+    },
+    {
+      "team": "DCC",
+      "pos": 96,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626542511566
+        },
+        "pwn-memsafety": {
+          "time": 1626522409453
+        },
+        "rev-cpp": {
+          "time": 1626605232533
+        }
+      }
+    },
+    {
+      "team": "DIE",
+      "pos": 221,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626614201033
+        }
+      }
+    },
+    {
+      "team": "DOUBLE STANDARD",
+      "pos": 134,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626592969944
+        },
+        "misc-raid": {
+          "time": 1626589804806
+        }
+      }
+    },
+    {
+      "team": "Dababyboys",
+      "pos": 369,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626637367437
+        }
+      }
+    },
+    {
+      "team": "DarkArmy",
+      "pos": 78,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626617600083
+        },
+        "rev-cpp": {
+          "time": 1626613042124
+        },
+        "rev-hexagon": {
+          "time": 1626544328602
+        },
+        "rev-weather": {
+          "time": 1626570216090
+        }
+      }
+    },
+    {
+      "team": "DeepThonts",
+      "pos": 268,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626571501793
+        }
+      }
+    },
+    {
+      "team": "DeltaHeap",
+      "pos": 358,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626626887780
+        }
+      }
+    },
+    {
+      "team": "Der Zimmermann",
+      "pos": 316,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626602673300
+        }
+      }
+    },
+    {
+      "team": "DiceGang",
+      "pos": 3,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626554907675
+        },
+        "crypto-pythia": {
+          "time": 1626526625971
+        },
+        "crypto-story": {
+          "time": 1626580843847
+        },
+        "crypto-tiramisu": {
+          "time": 1626499161735
+        },
+        "crypto-tonality": {
+          "time": 1626575465063
+        },
+        "hw-comlink": {
+          "time": 1626635848373
+        },
+        "hw-parking": {
+          "time": 1626504307028
+        },
+        "misc-filestore": {
+          "time": 1626541038506
+        },
+        "misc-raid": {
+          "time": 1626493828224
+        },
+        "misc-shellcode": {
+          "time": 1626577700180
+        },
+        "misc-steps": {
+          "time": 1626590183841
+        },
+        "misc-zippi": {
+          "time": 1626536503705
+        },
+        "pwn-atheris": {
+          "time": 1626504380124
+        },
+        "pwn-compression": {
+          "time": 1626488396741
+        },
+        "pwn-ebpf": {
+          "time": 1626585683688
+        },
+        "pwn-fullchain": {
+          "time": 1626563614039
+        },
+        "pwn-memsafety": {
+          "time": 1626521812526
+        },
+        "rev-adspam": {
+          "time": 1626624193453
+        },
+        "rev-cpp": {
+          "time": 1626484246493
+        },
+        "rev-hexagon": {
+          "time": 1626493642031
+        },
+        "rev-polymorph": {
+          "time": 1626556780244
+        },
+        "rev-weather": {
+          "time": 1626516362525
+        },
+        "web-empty-ls": {
+          "time": 1626549249507
+        },
+        "web-gpushop": {
+          "time": 1626626345716
+        },
+        "web-letschatserver": {
+          "time": 1626614713228
+        }
+      }
+    },
+    {
+      "team": "Dragon Sector",
+      "pos": 20,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626562720078
+        },
+        "crypto-tonality": {
+          "time": 1626652155430
+        },
+        "hw-parking": {
+          "time": 1626609762968
+        },
+        "misc-filestore": {
+          "time": 1626541829562
+        },
+        "misc-raid": {
+          "time": 1626593091332
+        },
+        "misc-steps": {
+          "time": 1626624910608
+        },
+        "pwn-compression": {
+          "time": 1626508569604
+        },
+        "pwn-ebpf": {
+          "time": 1626627894528
+        },
+        "pwn-fullchain": {
+          "time": 1626645441091
+        },
+        "pwn-memsafety": {
+          "time": 1626515529360
+        },
+        "rev-adspam": {
+          "time": 1626652653138
+        },
+        "rev-cpp": {
+          "time": 1626542540740
+        },
+        "rev-hexagon": {
+          "time": 1626538322652
+        },
+        "rev-polymorph": {
+          "time": 1626563795106
+        },
+        "rev-weather": {
+          "time": 1626541321324
+        }
+      }
+    },
+    {
+      "team": "DuckDuckFlag",
+      "pos": 79,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626539713556
+        },
+        "crypto-tonality": {
+          "time": 1626618240580
+        },
+        "misc-filestore": {
+          "time": 1626546081758
+        }
+      }
+    },
+    {
+      "team": "DuckDuckNo",
+      "pos": 51,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626532784734
+        },
+        "misc-filestore": {
+          "time": 1626548634289
+        },
+        "pwn-memsafety": {
+          "time": 1626546016511
+        },
+        "web-empty-ls": {
+          "time": 1626542379916
+        },
+        "web-gpushop": {
+          "time": 1626605689811
+        }
+      }
+    },
+    {
+      "team": "ELT",
+      "pos": 147,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626558603733
+        },
+        "misc-filestore": {
+          "time": 1626551834938
+        }
+      }
+    },
+    {
+      "team": "EM_ANH_CHUONG_IDOL",
+      "pos": 197,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626617338602
+        },
+        "rev-cpp": {
+          "time": 1626605602183
+        }
+      }
+    },
+    {
+      "team": "ENOFLAG",
+      "pos": 199,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626626121007
+        },
+        "rev-cpp": {
+          "time": 1626608611476
+        }
+      }
+    },
+    {
+      "team": "ET Bilu (seek knowledge)",
+      "pos": 179,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626574170272
+        },
+        "rev-cpp": {
+          "time": 1626559087385
+        }
+      }
+    },
+    {
+      "team": "Eternal Deathslayer 3",
+      "pos": 368,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626637205949
+        }
+      }
+    },
+    {
+      "team": "EthicalCookieLovers",
+      "pos": 357,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626626590848
+        }
+      }
+    },
+    {
+      "team": "EvilBunnyWrote",
+      "pos": 99,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626570281815
+        },
+        "misc-raid": {
+          "time": 1626607213653
+        },
+        "rev-cpp": {
+          "time": 1626522487222
+        }
+      }
+    },
+    {
+      "team": "F03v3ryY0ung",
+      "pos": 114,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626637380092
+        },
+        "rev-cpp": {
+          "time": 1626623608002
+        },
+        "rev-hexagon": {
+          "time": 1626625036958
+        }
+      }
+    },
+    {
+      "team": "FAUST",
+      "pos": 37,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626627188622
+        },
+        "crypto-tiramisu": {
+          "time": 1626636384328
+        },
+        "misc-filestore": {
+          "time": 1626603112538
+        },
+        "pwn-compression": {
+          "time": 1626526799012
+        },
+        "pwn-memsafety": {
+          "time": 1626561914882
+        },
+        "web-empty-ls": {
+          "time": 1626552838113
+        },
+        "web-letschatserver": {
+          "time": 1626533358696
+        }
+      }
+    },
+    {
+      "team": "FluxFingers",
+      "pos": 40,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626632496144
+        },
+        "hw-pcivault": {
+          "time": 1626604475199
+        },
+        "misc-filestore": {
+          "time": 1626546620571
+        },
+        "misc-raid": {
+          "time": 1626556647641
+        },
+        "pwn-compression": {
+          "time": 1626555079728
+        },
+        "pwn-memsafety": {
+          "time": 1626592075205
+        },
+        "rev-cpp": {
+          "time": 1626570445660
+        }
+      }
+    },
+    {
+      "team": "FrenchRoomba",
+      "pos": 267,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626571352625
+        }
+      }
+    },
+    {
+      "team": "Ganesh",
+      "pos": 297,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626596269409
+        }
+      }
+    },
+    {
+      "team": "GatorSheavesMutably",
+      "pos": 41,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626636775632
+        },
+        "misc-filestore": {
+          "time": 1626547106903
+        },
+        "misc-raid": {
+          "time": 1626639110179
+        },
+        "misc-zippi": {
+          "time": 1626543523907
+        },
+        "pwn-compression": {
+          "time": 1626555062369
+        },
+        "rev-cpp": {
+          "time": 1626531576158
+        },
+        "rev-hexagon": {
+          "time": 1626617621555
+        },
+        "rev-weather": {
+          "time": 1626645199272
+        }
+      }
+    },
+    {
+      "team": "Geeky Cat",
+      "pos": 106,
+      "taskStats": {
+        "web-letschatserver": {
+          "time": 1626600071021
+        }
+      }
+    },
+    {
+      "team": "H3M5L0",
+      "pos": 303,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626598764932
+        }
+      }
+    },
+    {
+      "team": "H4rdwo3k1ng",
+      "pos": 239,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626553624824
+        }
+      }
+    },
+    {
+      "team": "Hackernator",
+      "pos": 198,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626625492986
+        },
+        "rev-cpp": {
+          "time": 1626577454095
+        }
+      }
+    },
+    {
+      "team": "Hacking to the Gate",
+      "pos": 327,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626607647693
+        }
+      }
+    },
+    {
+      "team": "Hacklab",
+      "pos": 360,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626628590203
+        }
+      }
+    },
+    {
+      "team": "Hacklabor",
+      "pos": 277,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626581251529
+        }
+      }
+    },
+    {
+      "team": "Hacktimel",
+      "pos": 377,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626645823671
+        }
+      }
+    },
+    {
+      "team": "Handz",
+      "pos": 314,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626601844072
+        }
+      }
+    },
+    {
+      "team": "Harmony 4 You",
+      "pos": 226,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626634193517
+        }
+      }
+    },
+    {
+      "team": "Hopeful Raiders",
+      "pos": 214,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626560458161
+        }
+      }
+    },
+    {
+      "team": "HugsForBugs",
+      "pos": 144,
+      "taskStats": {
+        "pwn-compression": {
+          "time": 1626617489007
+        },
+        "rev-cpp": {
+          "time": 1626519337914
+        }
+      }
+    },
+    {
+      "team": "Hungrycaterpillar",
+      "pos": 155,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626607755282
+        },
+        "pwn-compression": {
+          "time": 1626579305680
+        }
+      }
+    },
+    {
+      "team": "HuntsvilleTechSupport",
+      "pos": 365,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626633295331
+        }
+      }
+    },
+    {
+      "team": "Hyp3rflow",
+      "pos": 185,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626602429029
+        },
+        "rev-cpp": {
+          "time": 1626558951539
+        }
+      }
+    },
+    {
+      "team": "ID-10-T",
+      "pos": 59,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626614112384
+        },
+        "misc-raid": {
+          "time": 1626567032018
+        },
+        "misc-zippi": {
+          "time": 1626612201253
+        },
+        "rev-cpp": {
+          "time": 1626509515673
+        },
+        "rev-weather": {
+          "time": 1626607398636
+        }
+      }
+    },
+    {
+      "team": "IITBreachers",
+      "pos": 247,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626557360677
+        }
+      }
+    },
+    {
+      "team": "Infinite loop",
+      "pos": 143,
+      "taskStats": {
+        "pwn-compression": {
+          "time": 1626513761172
+        },
+        "rev-cpp": {
+          "time": 1626539596588
+        }
+      }
+    },
+    {
+      "team": "InfosecIITG",
+      "pos": 201,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626589600083
+        },
+        "rev-cpp": {
+          "time": 1626628192063
+        }
+      }
+    },
+    {
+      "team": "IrisSec",
+      "pos": 66,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626573138810
+        },
+        "misc-filestore": {
+          "time": 1626586855696
+        },
+        "rev-cpp": {
+          "time": 1626490263362
+        },
+        "rev-hexagon": {
+          "time": 1626569717073
+        },
+        "rev-weather": {
+          "time": 1626562803083
+        }
+      }
+    },
+    {
+      "team": "Jacoboom",
+      "pos": 229,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626639114789
+        }
+      }
+    },
+    {
+      "team": "JufoUfo",
+      "pos": 251,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626561851770
+        }
+      }
+    },
+    {
+      "team": "Jump2Flag",
+      "pos": 340,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626615660221
+        }
+      }
+    },
+    {
+      "team": "JustATeam",
+      "pos": 256,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626566084356
+        }
+      }
+    },
+    {
+      "team": "JustDoIt",
+      "pos": 121,
+      "taskStats": {
+        "misc-raid": {
+          "time": 1626535802537
+        },
+        "rev-cpp": {
+          "time": 1626611274252
+        }
+      }
+    },
+    {
+      "team": "K!nd4SUS",
+      "pos": 189,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626550841803
+        },
+        "rev-cpp": {
+          "time": 1626603762765
+        }
+      }
+    },
+    {
+      "team": "K17",
+      "pos": 319,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626603659546
+        }
+      }
+    },
+    {
+      "team": "KAIST GoN",
+      "pos": 98,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626546439174
+        },
+        "misc-raid": {
+          "time": 1626515723195
+        },
+        "rev-cpp": {
+          "time": 1626498291207
+        }
+      }
+    },
+    {
+      "team": "KITCTF",
+      "pos": 68,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626544291799
+        },
+        "misc-filestore": {
+          "time": 1626601770097
+        },
+        "pwn-compression": {
+          "time": 1626559210685
+        },
+        "rev-weather": {
+          "time": 1626649875340
+        }
+      }
+    },
+    {
+      "team": "KSP",
+      "pos": 336,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626612537341
+        }
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 61,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626537179487
+        },
+        "misc-filestore": {
+          "time": 1626591654876
+        },
+        "misc-raid": {
+          "time": 1626587736841
+        },
+        "pwn-compression": {
+          "time": 1626626395321
+        },
+        "rev-cpp": {
+          "time": 1626606222438
+        }
+      }
+    },
+    {
+      "team": "KUality",
+      "pos": 184,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626588591293
+        },
+        "rev-cpp": {
+          "time": 1626535665306
+        }
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 17,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626619082493
+        },
+        "crypto-pythia": {
+          "time": 1626521050489
+        },
+        "crypto-story": {
+          "time": 1626623678011
+        },
+        "crypto-tiramisu": {
+          "time": 1626535368585
+        },
+        "crypto-tonality": {
+          "time": 1626606722116
+        },
+        "hw-parking": {
+          "time": 1626552900079
+        },
+        "misc-filestore": {
+          "time": 1626545414116
+        },
+        "misc-raid": {
+          "time": 1626565454976
+        },
+        "misc-steps": {
+          "time": 1626637997543
+        },
+        "misc-zippi": {
+          "time": 1626565307338
+        },
+        "pwn-compression": {
+          "time": 1626526934428
+        },
+        "pwn-ebpf": {
+          "time": 1626625337102
+        },
+        "pwn-memsafety": {
+          "time": 1626523791461
+        },
+        "pwn-tridroid": {
+          "time": 1626568381839
+        },
+        "rev-cpp": {
+          "time": 1626524959606
+        },
+        "rev-hexagon": {
+          "time": 1626560087716
+        },
+        "rev-polymorph": {
+          "time": 1626617805451
+        }
+      }
+    },
+    {
+      "team": "Katzebin",
+      "pos": 2,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626580148094
+        },
+        "crypto-pythia": {
+          "time": 1626516127466
+        },
+        "crypto-story": {
+          "time": 1626583930181
+        },
+        "crypto-tiramisu": {
+          "time": 1626546901844
+        },
+        "crypto-tonality": {
+          "time": 1626577325079
+        },
+        "hw-comlink": {
+          "time": 1626624262411
+        },
+        "hw-parking": {
+          "time": 1626508790158
+        },
+        "misc-filestore": {
+          "time": 1626541832848
+        },
+        "misc-raid": {
+          "time": 1626509629044
+        },
+        "misc-shellcode": {
+          "time": 1626622033462
+        },
+        "misc-steps": {
+          "time": 1626591458728
+        },
+        "misc-zippi": {
+          "time": 1626525837479
+        },
+        "pwn-atheris": {
+          "time": 1626519821038
+        },
+        "pwn-compression": {
+          "time": 1626492527831
+        },
+        "pwn-ebpf": {
+          "time": 1626599953563
+        },
+        "pwn-fullchain": {
+          "time": 1626543572074
+        },
+        "pwn-memsafety": {
+          "time": 1626517605253
+        },
+        "pwn-tridroid": {
+          "time": 1626608354294
+        },
+        "rev-adspam": {
+          "time": 1626587936381
+        },
+        "rev-cpp": {
+          "time": 1626504262513
+        },
+        "rev-hexagon": {
+          "time": 1626494727428
+        },
+        "rev-polymorph": {
+          "time": 1626584992624
+        },
+        "rev-weather": {
+          "time": 1626524733051
+        },
+        "web-empty-ls": {
+          "time": 1626597473924
+        },
+        "web-gpushop": {
+          "time": 1626602795936
+        }
+      }
+    },
+    {
+      "team": "Keyboard Monkeys",
+      "pos": 53,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626644788524
+        },
+        "crypto-story": {
+          "time": 1626613129608
+        },
+        "crypto-tonality": {
+          "time": 1626649235537
+        },
+        "misc-filestore": {
+          "time": 1626633153967
+        },
+        "pwn-compression": {
+          "time": 1626561262314
+        },
+        "rev-cpp": {
+          "time": 1626640896555
+        }
+      }
+    },
+    {
+      "team": "KogCoder",
+      "pos": 183,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626586511548
+        },
+        "rev-cpp": {
+          "time": 1626564902667
+        }
+      }
+    },
+    {
+      "team": "KuK Hofhackerei",
+      "pos": 43,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626561748983
+        },
+        "hw-parking": {
+          "time": 1626572081176
+        },
+        "misc-filestore": {
+          "time": 1626549938245
+        },
+        "misc-raid": {
+          "time": 1626619442417
+        },
+        "rev-cpp": {
+          "time": 1626540518261
+        },
+        "rev-hexagon": {
+          "time": 1626647832460
+        },
+        "web-empty-ls": {
+          "time": 1626558669946
+        }
+      }
+    },
+    {
+      "team": "Lala5th",
+      "pos": 218,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626594059446
+        }
+      }
+    },
+    {
+      "team": "Last Placers",
+      "pos": 359,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626626935757
+        }
+      }
+    },
+    {
+      "team": "Little Twoos",
+      "pos": 230,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626639181840
+        }
+      }
+    },
+    {
+      "team": "Lorem Ipsec",
+      "pos": 82,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626602886955
+        },
+        "crypto-story": {
+          "time": 1626650366716
+        },
+        "misc-filestore": {
+          "time": 1626651982801
+        }
+      }
+    },
+    {
+      "team": "Los Ninos",
+      "pos": 137,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626534791559
+        },
+        "rev-hexagon": {
+          "time": 1626524650126
+        }
+      }
+    },
+    {
+      "team": "MQCybersec",
+      "pos": 282,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626583623247
+        }
+      }
+    },
+    {
+      "team": "MadrHacks",
+      "pos": 374,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626642443577
+        }
+      }
+    },
+    {
+      "team": "Maple Bacon",
+      "pos": 45,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626556334185
+        },
+        "misc-raid": {
+          "time": 1626493610020
+        },
+        "misc-shellcode": {
+          "time": 1626599212417
+        },
+        "misc-steps": {
+          "time": 1626643964973
+        },
+        "misc-zippi": {
+          "time": 1626508564740
+        }
+      }
+    },
+    {
+      "team": "MikeCAT",
+      "pos": 69,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626596375948
+        },
+        "misc-shellcode": {
+          "time": 1626589169742
+        },
+        "pwn-compression": {
+          "time": 1626614910335
+        },
+        "rev-cpp": {
+          "time": 1626491577077
+        }
+      }
+    },
+    {
+      "team": "MirrorOS",
+      "pos": 164,
+      "taskStats": {
+        "pwn-compression": {
+          "time": 1626617881377
+        }
+      }
+    },
+    {
+      "team": "MonkOnMars",
+      "pos": 171,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626555531040
+        },
+        "rev-cpp": {
+          "time": 1626495058344
+        }
+      }
+    },
+    {
+      "team": "MoreSmokedLeetChicken",
+      "pos": 10,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626541293997
+        },
+        "crypto-pythia": {
+          "time": 1626531399594
+        },
+        "crypto-story": {
+          "time": 1626582839457
+        },
+        "crypto-tiramisu": {
+          "time": 1626506366625
+        },
+        "crypto-tonality": {
+          "time": 1626587110820
+        },
+        "hw-parking": {
+          "time": 1626580793528
+        },
+        "misc-filestore": {
+          "time": 1626542637376
+        },
+        "misc-raid": {
+          "time": 1626539699327
+        },
+        "misc-steps": {
+          "time": 1626599988849
+        },
+        "misc-zippi": {
+          "time": 1626561810280
+        },
+        "pwn-atheris": {
+          "time": 1626534897455
+        },
+        "pwn-compression": {
+          "time": 1626532639003
+        },
+        "pwn-ebpf": {
+          "time": 1626612959206
+        },
+        "pwn-memsafety": {
+          "time": 1626519873288
+        },
+        "rev-adspam": {
+          "time": 1626634648574
+        },
+        "rev-cpp": {
+          "time": 1626505882253
+        },
+        "rev-hexagon": {
+          "time": 1626544469705
+        },
+        "rev-polymorph": {
+          "time": 1626643681475
+        },
+        "rev-weather": {
+          "time": 1626566178101
+        },
+        "web-empty-ls": {
+          "time": 1626604866763
+        },
+        "web-gpushop": {
+          "time": 1626563080820
+        },
+        "web-letschatserver": {
+          "time": 1626572359472
+        }
+      }
+    },
+    {
+      "team": "MuddySports",
+      "pos": 205,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626643343294
+        },
+        "rev-cpp": {
+          "time": 1626629533769
+        }
+      }
+    },
+    {
+      "team": "N30Z30N",
+      "pos": 275,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626579514403
+        }
+      }
+    },
+    {
+      "team": "NYUSEC",
+      "pos": 215,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626561226281
+        }
+      }
+    },
+    {
+      "team": "NeSE",
+      "pos": 24,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626582486128
+        },
+        "hw-parking": {
+          "time": 1626517727347
+        },
+        "misc-filestore": {
+          "time": 1626550075456
+        },
+        "misc-raid": {
+          "time": 1626516673998
+        },
+        "misc-shellcode": {
+          "time": 1626603905692
+        },
+        "misc-steps": {
+          "time": 1626620056140
+        },
+        "pwn-compression": {
+          "time": 1626503075027
+        },
+        "pwn-fullchain": {
+          "time": 1626614432887
+        },
+        "pwn-memsafety": {
+          "time": 1626602928528
+        },
+        "rev-cpp": {
+          "time": 1626502307332
+        },
+        "rev-hexagon": {
+          "time": 1626508841449
+        },
+        "rev-weather": {
+          "time": 1626533191718
+        },
+        "web-empty-ls": {
+          "time": 1626629158303
+        },
+        "web-gpushop": {
+          "time": 1626602937123
+        }
+      }
+    },
+    {
+      "team": "Nevsor",
+      "pos": 109,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626557301408
+        },
+        "misc-filestore": {
+          "time": 1626559477754
+        },
+        "rev-cpp": {
+          "time": 1626495899613
+        }
+      }
+    },
+    {
+      "team": "No",
+      "pos": 101,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626563296192
+        },
+        "rev-cpp": {
+          "time": 1626533267236
+        },
+        "rev-weather": {
+          "time": 1626648308466
+        }
+      }
+    },
+    {
+      "team": "NoPwn4OldMen",
+      "pos": 257,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626566213927
+        }
+      }
+    },
+    {
+      "team": "NoTeamName",
+      "pos": 264,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626569437481
+        }
+      }
+    },
+    {
+      "team": "Nomads",
+      "pos": 181,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626572202469
+        },
+        "rev-cpp": {
+          "time": 1626583050620
+        }
+      }
+    },
+    {
+      "team": "ONEASTEAM",
+      "pos": 302,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626597910146
+        }
+      }
+    },
+    {
+      "team": "OctaC0re",
+      "pos": 333,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626610974548
+        }
+      }
+    },
+    {
+      "team": "OkabeRintaro",
+      "pos": 204,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626637536421
+        },
+        "rev-cpp": {
+          "time": 1626534497214
+        }
+      }
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 250,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626560826502
+        }
+      }
+    },
+    {
+      "team": "OpenToAll",
+      "pos": 165,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626552566951
+        },
+        "rev-cpp": {
+          "time": 1626534934761
+        }
+      }
+    },
+    {
+      "team": "Organizers",
+      "pos": 30,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626566326843
+        },
+        "crypto-pythia": {
+          "time": 1626616370805
+        },
+        "crypto-tonality": {
+          "time": 1626569141180
+        },
+        "misc-filestore": {
+          "time": 1626570821340
+        },
+        "pwn-atheris": {
+          "time": 1626647099726
+        },
+        "pwn-compression": {
+          "time": 1626574540110
+        },
+        "pwn-memsafety": {
+          "time": 1626517888270
+        },
+        "rev-cpp": {
+          "time": 1626532195734
+        },
+        "rev-hexagon": {
+          "time": 1626513027006
+        },
+        "rev-polymorph": {
+          "time": 1626605370705
+        },
+        "rev-weather": {
+          "time": 1626529802331
+        }
+      }
+    },
+    {
+      "team": "PECTF",
+      "pos": 211,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626539601452
+        }
+      }
+    },
+    {
+      "team": "PFS",
+      "pos": 18,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626649520794
+        },
+        "hw-pcivault": {
+          "time": 1626561969426
+        },
+        "misc-filestore": {
+          "time": 1626546407956
+        },
+        "misc-raid": {
+          "time": 1626515479475
+        },
+        "misc-steps": {
+          "time": 1626645495593
+        },
+        "misc-zippi": {
+          "time": 1626559166484
+        },
+        "pwn-atheris": {
+          "time": 1626489126328
+        },
+        "pwn-compression": {
+          "time": 1626505784375
+        },
+        "pwn-ebpf": {
+          "time": 1626646573145
+        },
+        "pwn-memsafety": {
+          "time": 1626540563335
+        },
+        "rev-adspam": {
+          "time": 1626636892577
+        },
+        "rev-cpp": {
+          "time": 1626495453035
+        },
+        "rev-hexagon": {
+          "time": 1626497026515
+        },
+        "rev-polymorph": {
+          "time": 1626568561682
+        },
+        "rev-weather": {
+          "time": 1626590202736
+        }
+      }
+    },
+    {
+      "team": "PLUS",
+      "pos": 47,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626548930656
+        },
+        "misc-filestore": {
+          "time": 1626547596342
+        },
+        "misc-raid": {
+          "time": 1626645923291
+        },
+        "pwn-compression": {
+          "time": 1626525813633
+        },
+        "rev-cpp": {
+          "time": 1626529200200
+        },
+        "rev-hexagon": {
+          "time": 1626537462306
+        },
+        "rev-weather": {
+          "time": 1626623163527
+        }
+      }
+    },
+    {
+      "team": "PPP",
+      "pos": 4,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626616213351
+        },
+        "crypto-pythia": {
+          "time": 1626526724769
+        },
+        "crypto-story": {
+          "time": 1626627223323
+        },
+        "crypto-tiramisu": {
+          "time": 1626546361178
+        },
+        "crypto-tonality": {
+          "time": 1626635941019
+        },
+        "hw-comlink": {
+          "time": 1626649000628
+        },
+        "hw-parking": {
+          "time": 1626546462634
+        },
+        "hw-pcivault": {
+          "time": 1626505117208
+        },
+        "misc-filestore": {
+          "time": 1626544246014
+        },
+        "misc-raid": {
+          "time": 1626555950796
+        },
+        "misc-steps": {
+          "time": 1626641708972
+        },
+        "misc-zippi": {
+          "time": 1626529578492
+        },
+        "pwn-atheris": {
+          "time": 1626559269379
+        },
+        "pwn-compression": {
+          "time": 1626495735277
+        },
+        "pwn-memsafety": {
+          "time": 1626529742115
+        },
+        "pwn-tridroid": {
+          "time": 1626648693918
+        },
+        "rev-adspam": {
+          "time": 1626589282967
+        },
+        "rev-cpp": {
+          "time": 1626495951794
+        },
+        "rev-hexagon": {
+          "time": 1626487719841
+        },
+        "rev-polymorph": {
+          "time": 1626561906985
+        },
+        "rev-weather": {
+          "time": 1626544499393
+        },
+        "web-empty-ls": {
+          "time": 1626632265966
+        },
+        "web-gpushop": {
+          "time": 1626629230129
+        },
+        "web-letschatserver": {
+          "time": 1626633895410
+        }
+      }
+    },
+    {
+      "team": "PWD",
+      "pos": 242,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626554736679
+        }
+      }
+    },
+    {
+      "team": "PWr Synt@x Err0r",
+      "pos": 178,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626570218310
+        },
+        "rev-cpp": {
+          "time": 1626565327694
+        }
+      }
+    },
+    {
+      "team": "Ph0t1n1a",
+      "pos": 50,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626610162252
+        },
+        "misc-filestore": {
+          "time": 1626581502693
+        },
+        "misc-raid": {
+          "time": 1626621043177
+        },
+        "pwn-compression": {
+          "time": 1626499961195
+        },
+        "rev-cpp": {
+          "time": 1626559277706
+        },
+        "rev-hexagon": {
+          "time": 1626526908225
+        },
+        "rev-weather": {
+          "time": 1626639801176
+        }
+      }
+    },
+    {
+      "team": "Pirates of the Caribbean",
+      "pos": 295,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626596099696
+        }
+      }
+    },
+    {
+      "team": "Polaris One",
+      "pos": 362,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626630407974
+        }
+      }
+    },
+    {
+      "team": "PolyHx",
+      "pos": 244,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626555370250
+        }
+      }
+    },
+    {
+      "team": "Polymero",
+      "pos": 126,
+      "taskStats": {
+        "crypto-story": {
+          "time": 1626581860038
+        }
+      }
+    },
+    {
+      "team": "Psyber Bois",
+      "pos": 176,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626564229106
+        },
+        "rev-cpp": {
+          "time": 1626559095527
+        }
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 187,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626603200075
+        },
+        "rev-cpp": {
+          "time": 1626513382292
+        }
+      }
+    },
+    {
+      "team": "Q&Z",
+      "pos": 285,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626585606289
+        }
+      }
+    },
+    {
+      "team": "R4nd0mGu3ssr",
+      "pos": 272,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626577651802
+        }
+      }
+    },
+    {
+      "team": "RPISEC",
+      "pos": 110,
+      "taskStats": {
+        "pwn-ebpf": {
+          "time": 1626580036703
+        }
+      }
+    },
+    {
+      "team": "Raise the Flag",
+      "pos": 309,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626600856326
+        }
+      }
+    },
+    {
+      "team": "RecursionFairies",
+      "pos": 87,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626640296764
+        },
+        "crypto-tiramisu": {
+          "time": 1626619680880
+        }
+      }
+    },
+    {
+      "team": "Recursively Descending The Deep Blue Suicide Mission",
+      "pos": 60,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626632180497
+        },
+        "misc-filestore": {
+          "time": 1626571945211
+        },
+        "pwn-compression": {
+          "time": 1626536791535
+        },
+        "rev-cpp": {
+          "time": 1626535662947
+        },
+        "web-gpushop": {
+          "time": 1626647341109
+        }
+      }
+    },
+    {
+      "team": "RedDwarf",
+      "pos": 220,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626598777107
+        }
+      }
+    },
+    {
+      "team": "RedRocket",
+      "pos": 7,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626550042047
+        },
+        "crypto-pythia": {
+          "time": 1626543434558
+        },
+        "crypto-story": {
+          "time": 1626586234867
+        },
+        "crypto-tiramisu": {
+          "time": 1626498846419
+        },
+        "crypto-tonality": {
+          "time": 1626577426660
+        },
+        "hw-comlink": {
+          "time": 1626607650469
+        },
+        "hw-parking": {
+          "time": 1626555798711
+        },
+        "misc-filestore": {
+          "time": 1626540700199
+        },
+        "misc-raid": {
+          "time": 1626566509560
+        },
+        "misc-steps": {
+          "time": 1626575121647
+        },
+        "misc-zippi": {
+          "time": 1626487588002
+        },
+        "pwn-compression": {
+          "time": 1626537156627
+        },
+        "pwn-ebpf": {
+          "time": 1626572974376
+        },
+        "pwn-fullchain": {
+          "time": 1626650397056
+        },
+        "pwn-memsafety": {
+          "time": 1626525211039
+        },
+        "pwn-tridroid": {
+          "time": 1626625417839
+        },
+        "rev-adspam": {
+          "time": 1626641308815
+        },
+        "rev-cpp": {
+          "time": 1626559634547
+        },
+        "rev-hexagon": {
+          "time": 1626606828372
+        },
+        "rev-polymorph": {
+          "time": 1626579375348
+        },
+        "rev-weather": {
+          "time": 1626551737614
+        },
+        "web-empty-ls": {
+          "time": 1626545914561
+        },
+        "web-gpushop": {
+          "time": 1626646849285
+        }
+      }
+    },
+    {
+      "team": "RokirovkaDef",
+      "pos": 300,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626597649687
+        }
+      }
+    },
+    {
+      "team": "SKR",
+      "pos": 225,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626632311029
+        }
+      }
+    },
+    {
+      "team": "SSAT",
+      "pos": 131,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626572824997
+        },
+        "misc-raid": {
+          "time": 1626499259567
+        }
+      }
+    },
+    {
+      "team": "SSL",
+      "pos": 323,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626605793162
+        }
+      }
+    },
+    {
+      "team": "STT",
+      "pos": 44,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626645163967
+        },
+        "crypto-pythia": {
+          "time": 1626633191528
+        },
+        "misc-filestore": {
+          "time": 1626561778342
+        },
+        "rev-cpp": {
+          "time": 1626614340454
+        },
+        "rev-hexagon": {
+          "time": 1626641273571
+        },
+        "rev-polymorph": {
+          "time": 1626626949438
+        },
+        "rev-weather": {
+          "time": 1626598378625
+        }
+      }
+    },
+    {
+      "team": "SWAT",
+      "pos": 224,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626630258696
+        }
+      }
+    },
+    {
+      "team": "Saint Technics",
+      "pos": 174,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626549395176
+        },
+        "rev-cpp": {
+          "time": 1626556172611
+        }
+      }
+    },
+    {
+      "team": "SaltyCabbages",
+      "pos": 335,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626611947777
+        }
+      }
+    },
+    {
+      "team": "Samurai",
+      "pos": 89,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626651059967
+        },
+        "misc-shellcode": {
+          "time": 1626585749407
+        }
+      }
+    },
+    {
+      "team": "SandiaN00bs",
+      "pos": 130,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626572348200
+        },
+        "misc-raid": {
+          "time": 1626514556582
+        }
+      }
+    },
+    {
+      "team": "Saved by the Shell",
+      "pos": 116,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626644895394
+        },
+        "rev-cpp": {
+          "time": 1626638819633
+        },
+        "rev-hexagon": {
+          "time": 1626570503481
+        }
+      }
+    },
+    {
+      "team": "Scavenger Security",
+      "pos": 115,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626561582894
+        },
+        "rev-cpp": {
+          "time": 1626557010228
+        },
+        "rev-hexagon": {
+          "time": 1626643680470
+        }
+      }
+    },
+    {
+      "team": "Secret Squirrels",
+      "pos": 240,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626554383692
+        }
+      }
+    },
+    {
+      "team": "Sector Z",
+      "pos": 175,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626562672829
+        },
+        "rev-cpp": {
+          "time": 1626553592067
+        }
+      }
+    },
+    {
+      "team": "ShamenDubon",
+      "pos": 132,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626559757607
+        },
+        "misc-raid": {
+          "time": 1626576249405
+        }
+      }
+    },
+    {
+      "team": "Shellphish",
+      "pos": 34,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626544727485
+        },
+        "misc-raid": {
+          "time": 1626517525656
+        },
+        "pwn-atheris": {
+          "time": 1626633516357
+        },
+        "pwn-compression": {
+          "time": 1626573529274
+        },
+        "pwn-ebpf": {
+          "time": 1626640862280
+        },
+        "pwn-memsafety": {
+          "time": 1626531304816
+        },
+        "rev-cpp": {
+          "time": 1626512086581
+        },
+        "rev-hexagon": {
+          "time": 1626500882163
+        },
+        "rev-polymorph": {
+          "time": 1626591826623
+        },
+        "rev-weather": {
+          "time": 1626620289466
+        }
+      }
+    },
+    {
+      "team": "Shy♥Shachaf♥Shoshi",
+      "pos": 209,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626528033098
+        }
+      }
+    },
+    {
+      "team": "SiBears",
+      "pos": 84,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626624005685
+        },
+        "pwn-compression": {
+          "time": 1626546962521
+        },
+        "rev-cpp": {
+          "time": 1626527868992
+        },
+        "rev-hexagon": {
+          "time": 1626562149678
+        }
+      }
+    },
+    {
+      "team": "Silver Catalysts",
+      "pos": 334,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626611221238
+        }
+      }
+    },
+    {
+      "team": "Social Engineering Experts",
+      "pos": 180,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626578583916
+        },
+        "rev-cpp": {
+          "time": 1626534409615
+        }
+      }
+    },
+    {
+      "team": "SoloExploit",
+      "pos": 355,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626626105354
+        }
+      }
+    },
+    {
+      "team": "SonOfSnowden",
+      "pos": 227,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626637157473
+        }
+      }
+    },
+    {
+      "team": "SouthFlagsington",
+      "pos": 76,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626567249030
+        },
+        "crypto-tiramisu": {
+          "time": 1626647779493
+        },
+        "misc-filestore": {
+          "time": 1626630729509
+        }
+      }
+    },
+    {
+      "team": "Super Guesser",
+      "pos": 9,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626549012687
+        },
+        "crypto-pythia": {
+          "time": 1626527749482
+        },
+        "crypto-story": {
+          "time": 1626577822256
+        },
+        "crypto-tiramisu": {
+          "time": 1626516526989
+        },
+        "crypto-tonality": {
+          "time": 1626572132153
+        },
+        "hw-parking": {
+          "time": 1626525592986
+        },
+        "misc-filestore": {
+          "time": 1626544609658
+        },
+        "misc-raid": {
+          "time": 1626587657416
+        },
+        "misc-zippi": {
+          "time": 1626599904826
+        },
+        "pwn-atheris": {
+          "time": 1626592174262
+        },
+        "pwn-compression": {
+          "time": 1626492074403
+        },
+        "pwn-ebpf": {
+          "time": 1626580781532
+        },
+        "pwn-fullchain": {
+          "time": 1626615464020
+        },
+        "pwn-memsafety": {
+          "time": 1626570165753
+        },
+        "pwn-tridroid": {
+          "time": 1626632543375
+        },
+        "rev-adspam": {
+          "time": 1626599265472
+        },
+        "rev-cpp": {
+          "time": 1626487318710
+        },
+        "rev-hexagon": {
+          "time": 1626508637911
+        },
+        "rev-polymorph": {
+          "time": 1626548417745
+        },
+        "rev-weather": {
+          "time": 1626535268551
+        },
+        "web-gpushop": {
+          "time": 1626632513898
+        },
+        "web-letschatserver": {
+          "time": 1626540374975
+        }
+      }
+    },
+    {
+      "team": "SuperNewbie",
+      "pos": 190,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626592641262
+        },
+        "rev-cpp": {
+          "time": 1626604649558
+        }
+      }
+    },
+    {
+      "team": "Syclover",
+      "pos": 55,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626584206701
+        },
+        "pwn-compression": {
+          "time": 1626537715459
+        },
+        "rev-cpp": {
+          "time": 1626508439334
+        },
+        "rev-hexagon": {
+          "time": 1626574824701
+        },
+        "rev-polymorph": {
+          "time": 1626619345389
+        },
+        "rev-weather": {
+          "time": 1626553898383
+        }
+      }
+    },
+    {
+      "team": "Syntaxförster",
+      "pos": 354,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626625621046
+        }
+      }
+    },
+    {
+      "team": "T0k",
+      "pos": 318,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626603216138
+        }
+      }
+    },
+    {
+      "team": "TEAM0001",
+      "pos": 125,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626652702299
+        },
+        "pwn-memsafety": {
+          "time": 1626573101433
+        }
+      }
+    },
+    {
+      "team": "TWC",
+      "pos": 228,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626637930796
+        }
+      }
+    },
+    {
+      "team": "TangLangTech",
+      "pos": 193,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626607604397
+        },
+        "rev-cpp": {
+          "time": 1626590877204
+        }
+      }
+    },
+    {
+      "team": "Tasteless",
+      "pos": 54,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626546643451
+        },
+        "crypto-tiramisu": {
+          "time": 1626651069724
+        },
+        "misc-filestore": {
+          "time": 1626545620967
+        },
+        "pwn-compression": {
+          "time": 1626549411684
+        },
+        "rev-cpp": {
+          "time": 1626524944198
+        },
+        "rev-weather": {
+          "time": 1626554229628
+        }
+      }
+    },
+    {
+      "team": "Tea Deliverers",
+      "pos": 11,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626592696149
+        },
+        "crypto-story": {
+          "time": 1626590868416
+        },
+        "crypto-tonality": {
+          "time": 1626596541737
+        },
+        "hw-parking": {
+          "time": 1626548602862
+        },
+        "hw-pcivault": {
+          "time": 1626557321021
+        },
+        "misc-filestore": {
+          "time": 1626568323397
+        },
+        "misc-raid": {
+          "time": 1626514221752
+        },
+        "misc-steps": {
+          "time": 1626646908510
+        },
+        "pwn-atheris": {
+          "time": 1626513809697
+        },
+        "pwn-compression": {
+          "time": 1626494820025
+        },
+        "pwn-ebpf": {
+          "time": 1626639232418
+        },
+        "pwn-memsafety": {
+          "time": 1626520307488
+        },
+        "pwn-tridroid": {
+          "time": 1626632785778
+        },
+        "rev-adspam": {
+          "time": 1626619232887
+        },
+        "rev-cpp": {
+          "time": 1626516264802
+        },
+        "rev-hexagon": {
+          "time": 1626501422028
+        },
+        "rev-polymorph": {
+          "time": 1626541934467
+        },
+        "rev-weather": {
+          "time": 1626628045198
+        },
+        "web-empty-ls": {
+          "time": 1626622227604
+        },
+        "web-gpushop": {
+          "time": 1626619704139
+        }
+      }
+    },
+    {
+      "team": "Team A",
+      "pos": 307,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626600270564
+        }
+      }
+    },
+    {
+      "team": "Team Enu",
+      "pos": 156,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626630644098
+        },
+        "pwn-compression": {
+          "time": 1626552846869
+        }
+      }
+    },
+    {
+      "team": "Team'); DROP TABLE Teams;--",
+      "pos": 140,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626538293551
+        },
+        "rev-hexagon": {
+          "time": 1626643394454
+        }
+      }
+    },
+    {
+      "team": "TeamKrabath",
+      "pos": 328,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626607882135
+        }
+      }
+    },
+    {
+      "team": "The Flat Network Society",
+      "pos": 39,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626638548935
+        },
+        "misc-filestore": {
+          "time": 1626560064683
+        },
+        "pwn-compression": {
+          "time": 1626530527014
+        },
+        "rev-adspam": {
+          "time": 1626638850390
+        },
+        "rev-cpp": {
+          "time": 1626544019898
+        },
+        "rev-hexagon": {
+          "time": 1626558526987
+        },
+        "rev-polymorph": {
+          "time": 1626636209391
+        },
+        "rev-weather": {
+          "time": 1626612249600
+        }
+      }
+    },
+    {
+      "team": "The Maccabees",
+      "pos": 52,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626551697192
+        },
+        "misc-shellcode": {
+          "time": 1626632769132
+        },
+        "rev-hexagon": {
+          "time": 1626640964563
+        },
+        "rev-polymorph": {
+          "time": 1626628473372
+        }
+      }
+    },
+    {
+      "team": "TheDefaced",
+      "pos": 112,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626588897230
+        },
+        "rev-polymorph": {
+          "time": 1626609991816
+        }
+      }
+    },
+    {
+      "team": "TheScientists",
+      "pos": 375,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626643608753
+        }
+      }
+    },
+    {
+      "team": "TheTeamless",
+      "pos": 74,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626622444254
+        },
+        "crypto-story": {
+          "time": 1626649369599
+        },
+        "misc-filestore": {
+          "time": 1626556568294
+        },
+        "rev-cpp": {
+          "time": 1626553918674
+        }
+      }
+    },
+    {
+      "team": "Thehackerscrew",
+      "pos": 329,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626608491948
+        }
+      }
+    },
+    {
+      "team": "ThereIsNoInfoRoma",
+      "pos": 107,
+      "taskStats": {
+        "crypto-tonality": {
+          "time": 1626596296461
+        },
+        "misc-filestore": {
+          "time": 1626600170464
+        }
+      }
+    },
+    {
+      "team": "Throw another payload on the barbie",
+      "pos": 331,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626609605953
+        }
+      }
+    },
+    {
+      "team": "Thundernerds",
+      "pos": 238,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626552642626
+        }
+      }
+    },
+    {
+      "team": "TokyoWesterns",
+      "pos": 28,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626635177230
+        },
+        "misc-filestore": {
+          "time": 1626602605090
+        },
+        "misc-raid": {
+          "time": 1626626699236
+        },
+        "pwn-atheris": {
+          "time": 1626538495579
+        },
+        "pwn-compression": {
+          "time": 1626504065100
+        },
+        "pwn-ebpf": {
+          "time": 1626630180554
+        },
+        "pwn-fullchain": {
+          "time": 1626591769306
+        },
+        "pwn-memsafety": {
+          "time": 1626532297441
+        },
+        "rev-cpp": {
+          "time": 1626514974650
+        },
+        "rev-hexagon": {
+          "time": 1626548309485
+        },
+        "rev-weather": {
+          "time": 1626594826859
+        },
+        "web-gpushop": {
+          "time": 1626589335027
+        }
+      }
+    },
+    {
+      "team": "Topological Surface",
+      "pos": 293,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626595673504
+        }
+      }
+    },
+    {
+      "team": "TorrescHack",
+      "pos": 245,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626555919283
+        }
+      }
+    },
+    {
+      "team": "Tucci Hang",
+      "pos": 310,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626601007396
+        }
+      }
+    },
+    {
+      "team": "Tw1l1ght G4mb1t",
+      "pos": 191,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626605874820
+        },
+        "rev-cpp": {
+          "time": 1626531665531
+        }
+      }
+    },
+    {
+      "team": "UW-Madison Cybersecurity Club",
+      "pos": 338,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626614311736
+        }
+      }
+    },
+    {
+      "team": "UglyDucklings",
+      "pos": 313,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626601510298
+        }
+      }
+    },
+    {
+      "team": "Vespiary",
+      "pos": 38,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626610137413
+        },
+        "hw-parking": {
+          "time": 1626634955412
+        },
+        "misc-filestore": {
+          "time": 1626549245859
+        },
+        "misc-raid": {
+          "time": 1626650031409
+        },
+        "pwn-atheris": {
+          "time": 1626527729104
+        },
+        "pwn-compression": {
+          "time": 1626515492667
+        },
+        "pwn-memsafety": {
+          "time": 1626636960585
+        },
+        "rev-cpp": {
+          "time": 1626606434519
+        }
+      }
+    },
+    {
+      "team": "Vidar Team",
+      "pos": 212,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626543555482
+        }
+      }
+    },
+    {
+      "team": "Watch4Hack",
+      "pos": 129,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626560200025
+        },
+        "misc-raid": {
+          "time": 1626513559646
+        }
+      }
+    },
+    {
+      "team": "Wechall Warriors",
+      "pos": 237,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626551982621
+        }
+      }
+    },
+    {
+      "team": "WolvSec",
+      "pos": 241,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626554687273
+        }
+      }
+    },
+    {
+      "team": "WreckTheLine",
+      "pos": 12,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626566653900
+        },
+        "crypto-story": {
+          "time": 1626630097159
+        },
+        "crypto-tiramisu": {
+          "time": 1626518044843
+        },
+        "crypto-tonality": {
+          "time": 1626622273437
+        },
+        "misc-filestore": {
+          "time": 1626539198975
+        },
+        "misc-raid": {
+          "time": 1626537606596
+        },
+        "misc-zippi": {
+          "time": 1626527971730
+        },
+        "pwn-atheris": {
+          "time": 1626617669043
+        },
+        "pwn-compression": {
+          "time": 1626512701064
+        },
+        "pwn-fullchain": {
+          "time": 1626652199770
+        },
+        "pwn-memsafety": {
+          "time": 1626554336574
+        },
+        "pwn-tridroid": {
+          "time": 1626613104512
+        },
+        "rev-adspam": {
+          "time": 1626604839806
+        },
+        "rev-cpp": {
+          "time": 1626491795389
+        },
+        "rev-hexagon": {
+          "time": 1626507015645
+        },
+        "rev-polymorph": {
+          "time": 1626570910441
+        },
+        "rev-weather": {
+          "time": 1626522914728
+        },
+        "web-empty-ls": {
+          "time": 1626555321843
+        },
+        "web-gpushop": {
+          "time": 1626560116982
+        },
+        "web-letschatserver": {
+          "time": 1626628209229
+        }
+      }
+    },
+    {
+      "team": "Xp0int",
+      "pos": 93,
+      "taskStats": {
+        "rev-hexagon": {
+          "time": 1626520050720
+        },
+        "rev-weather": {
+          "time": 1626579820440
+        }
+      }
+    },
+    {
+      "team": "XtraLemonz",
+      "pos": 167,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626553473779
+        },
+        "rev-cpp": {
+          "time": 1626523789425
+        }
+      }
+    },
+    {
+      "team": "YabbaDoo",
+      "pos": 248,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626559491846
+        }
+      }
+    },
+    {
+      "team": "Yoo",
+      "pos": 298,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626596940897
+        }
+      }
+    },
+    {
+      "team": "YoungPwnawans",
+      "pos": 168,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626553759025
+        },
+        "rev-cpp": {
+          "time": 1626539111490
+        }
+      }
+    },
+    {
+      "team": "Zach",
+      "pos": 345,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626621100360
+        }
+      }
+    },
+    {
+      "team": "ZipZalabim",
+      "pos": 119,
+      "taskStats": {
+        "web-gpushop": {
+          "time": 1626628413227
+        }
+      }
+    },
+    {
+      "team": "_Marbin_",
+      "pos": 289,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626592233937
+        }
+      }
+    },
+    {
+      "team": "aaronpl",
+      "pos": 261,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626568736385
+        }
+      }
+    },
+    {
+      "team": "adrian17",
+      "pos": 192,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626606012135
+        },
+        "rev-cpp": {
+          "time": 1626532684414
+        }
+      }
+    },
+    {
+      "team": "andmed",
+      "pos": 94,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626562687763
+        },
+        "web-empty-ls": {
+          "time": 1626598534054
+        }
+      }
+    },
+    {
+      "team": "anti-cult-cult",
+      "pos": 95,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626547783558
+        },
+        "pwn-atheris": {
+          "time": 1626530097605
+        }
+      }
+    },
+    {
+      "team": "apt593",
+      "pos": 200,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626626622072
+        },
+        "rev-cpp": {
+          "time": 1626500583543
+        }
+      }
+    },
+    {
+      "team": "bawolff",
+      "pos": 70,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626567236389
+        },
+        "web-empty-ls": {
+          "time": 1626585208377
+        },
+        "web-gpushop": {
+          "time": 1626650821169
+        }
+      }
+    },
+    {
+      "team": "better than team",
+      "pos": 75,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626613615704
+        },
+        "pwn-memsafety": {
+          "time": 1626544072690
+        },
+        "rev-polymorph": {
+          "time": 1626619044482
+        }
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 83,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626563172456
+        },
+        "pwn-compression": {
+          "time": 1626542061163
+        },
+        "rev-cpp": {
+          "time": 1626596203605
+        },
+        "rev-hexagon": {
+          "time": 1626529935277
+        }
+      }
+    },
+    {
+      "team": "bit",
+      "pos": 92,
+      "taskStats": {
+        "pwn-compression": {
+          "time": 1626520499079
+        },
+        "pwn-memsafety": {
+          "time": 1626632453179
+        }
+      }
+    },
+    {
+      "team": "bitb4ng",
+      "pos": 246,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626556853143
+        }
+      }
+    },
+    {
+      "team": "blue0620",
+      "pos": 308,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626600364488
+        }
+      }
+    },
+    {
+      "team": "bluecat",
+      "pos": 159,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626550966744
+        }
+      }
+    },
+    {
+      "team": "bnnz",
+      "pos": 287,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626591747506
+        }
+      }
+    },
+    {
+      "team": "bootplug",
+      "pos": 90,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626623034657
+        },
+        "pwn-fullchain": {
+          "time": 1626637921217
+        }
+      }
+    },
+    {
+      "team": "brain damage",
+      "pos": 67,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626650997661
+        },
+        "misc-filestore": {
+          "time": 1626546837688
+        },
+        "misc-raid": {
+          "time": 1626565238634
+        },
+        "pwn-compression": {
+          "time": 1626618335725
+        },
+        "rev-cpp": {
+          "time": 1626519071050
+        }
+      }
+    },
+    {
+      "team": "brkninjas",
+      "pos": 72,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626588249185
+        },
+        "pwn-compression": {
+          "time": 1626637250041
+        },
+        "pwn-memsafety": {
+          "time": 1626526017612
+        },
+        "rev-weather": {
+          "time": 1626625292011
+        }
+      }
+    },
+    {
+      "team": "burner_herz0g",
+      "pos": 280,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626583066084
+        }
+      }
+    },
+    {
+      "team": "c0mp053r",
+      "pos": 213,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626545195215
+        }
+      }
+    },
+    {
+      "team": "chunankai",
+      "pos": 304,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626599619164
+        }
+      }
+    },
+    {
+      "team": "coffeelighten",
+      "pos": 122,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626548081700
+        },
+        "pwn-memsafety": {
+          "time": 1626542925659
+        }
+      }
+    },
+    {
+      "team": "cr0wn",
+      "pos": 31,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626618395168
+        },
+        "crypto-pythia": {
+          "time": 1626573993418
+        },
+        "crypto-story": {
+          "time": 1626625971497
+        },
+        "crypto-tonality": {
+          "time": 1626629214115
+        },
+        "hw-parking": {
+          "time": 1626554031321
+        },
+        "misc-filestore": {
+          "time": 1626556492902
+        },
+        "pwn-compression": {
+          "time": 1626539276043
+        },
+        "pwn-memsafety": {
+          "time": 1626531280465
+        },
+        "rev-cpp": {
+          "time": 1626522689626
+        },
+        "rev-hexagon": {
+          "time": 1626635220423
+        },
+        "rev-weather": {
+          "time": 1626613565975
+        }
+      }
+    },
+    {
+      "team": "curdir",
+      "pos": 266,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626570246411
+        }
+      }
+    },
+    {
+      "team": "curlyflower",
+      "pos": 102,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626557598170
+        },
+        "misc-zippi": {
+          "time": 1626505507392
+        }
+      }
+    },
+    {
+      "team": "cyberwehr",
+      "pos": 152,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626556995855
+        },
+        "pwn-compression": {
+          "time": 1626554433152
+        }
+      }
+    },
+    {
+      "team": "cypis",
+      "pos": 117,
+      "taskStats": {
+        "web-empty-ls": {
+          "time": 1626528004763
+        }
+      }
+    },
+    {
+      "team": "dcua",
+      "pos": 162,
+      "taskStats": {
+        "pwn-compression": {
+          "time": 1626537934633
+        }
+      }
+    },
+    {
+      "team": "dickjustice228",
+      "pos": 353,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626625606854
+        }
+      }
+    },
+    {
+      "team": "dm0",
+      "pos": 120,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626640303192
+        }
+      }
+    },
+    {
+      "team": "dodododo",
+      "pos": 46,
+      "taskStats": {
+        "crypto-tonality": {
+          "time": 1626626289256
+        },
+        "misc-filestore": {
+          "time": 1626549250755
+        },
+        "pwn-compression": {
+          "time": 1626545875882
+        },
+        "rev-adspam": {
+          "time": 1626640527389
+        },
+        "rev-hexagon": {
+          "time": 1626518217143
+        },
+        "rev-weather": {
+          "time": 1626536370408
+        }
+      }
+    },
+    {
+      "team": "dzil123",
+      "pos": 124,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626613474879
+        },
+        "pwn-memsafety": {
+          "time": 1626627108389
+        }
+      }
+    },
+    {
+      "team": "ed",
+      "pos": 252,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626561920371
+        }
+      }
+    },
+    {
+      "team": "efiens",
+      "pos": 71,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626602388097
+        },
+        "rev-cpp": {
+          "time": 1626527685380
+        },
+        "rev-hexagon": {
+          "time": 1626576778087
+        },
+        "rev-weather": {
+          "time": 1626617918410
+        }
+      }
+    },
+    {
+      "team": "empty_jack",
+      "pos": 372,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626639705695
+        }
+      }
+    },
+    {
+      "team": "esar",
+      "pos": 291,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626594328880
+        }
+      }
+    },
+    {
+      "team": "eskjekjaeba",
+      "pos": 157,
+      "taskStats": {
+        "pwn-memsafety": {
+          "time": 1626543057073
+        }
+      }
+    },
+    {
+      "team": "ev1111",
+      "pos": 283,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626584962718
+        }
+      }
+    },
+    {
+      "team": "flagless",
+      "pos": 260,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626568035861
+        }
+      }
+    },
+    {
+      "team": "flk",
+      "pos": 138,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626521962079
+        },
+        "rev-hexagon": {
+          "time": 1626579655005
+        }
+      }
+    },
+    {
+      "team": "funtimes",
+      "pos": 136,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626593617252
+        },
+        "misc-raid": {
+          "time": 1626617780637
+        }
+      }
+    },
+    {
+      "team": "gameofpwns",
+      "pos": 217,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626581706724
+        }
+      }
+    },
+    {
+      "team": "gcmTime",
+      "pos": 80,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626528444462
+        },
+        "crypto-story": {
+          "time": 1626600144799
+        },
+        "misc-filestore": {
+          "time": 1626547039055
+        }
+      }
+    },
+    {
+      "team": "ghidradarkmodewhen",
+      "pos": 113,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626632185789
+        },
+        "rev-cpp": {
+          "time": 1626545346498
+        },
+        "rev-hexagon": {
+          "time": 1626577817249
+        }
+      }
+    },
+    {
+      "team": "greenhorn",
+      "pos": 169,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626554974578
+        },
+        "rev-cpp": {
+          "time": 1626548836643
+        }
+      }
+    },
+    {
+      "team": "greunion",
+      "pos": 58,
+      "taskStats": {
+        "rev-adspam": {
+          "time": 1626650124863
+        },
+        "rev-weather": {
+          "time": 1626545184291
+        },
+        "web-letschatserver": {
+          "time": 1626634662841
+        }
+      }
+    },
+    {
+      "team": "greywolf",
+      "pos": 363,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626630961209
+        }
+      }
+    },
+    {
+      "team": "hxp",
+      "pos": 22,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626590267537
+        },
+        "crypto-pythia": {
+          "time": 1626537955154
+        },
+        "crypto-story": {
+          "time": 1626604689830
+        },
+        "crypto-tiramisu": {
+          "time": 1626495140657
+        },
+        "crypto-tonality": {
+          "time": 1626599697789
+        },
+        "hw-parking": {
+          "time": 1626588617592
+        },
+        "misc-filestore": {
+          "time": 1626613594773
+        },
+        "misc-zippi": {
+          "time": 1626633379670
+        },
+        "pwn-compression": {
+          "time": 1626528391679
+        },
+        "pwn-memsafety": {
+          "time": 1626532555392
+        },
+        "rev-adspam": {
+          "time": 1626624329194
+        },
+        "rev-cpp": {
+          "time": 1626486437201
+        },
+        "rev-hexagon": {
+          "time": 1626540958503
+        },
+        "rev-polymorph": {
+          "time": 1626542553167
+        },
+        "rev-weather": {
+          "time": 1626539397704
+        }
+      }
+    },
+    {
+      "team": "hëdgehög",
+      "pos": 367,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626636851682
+        }
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 81,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626636787411
+        },
+        "crypto-story": {
+          "time": 1626650383255
+        },
+        "misc-filestore": {
+          "time": 1626637725435
+        }
+      }
+    },
+    {
+      "team": "junior_groot",
+      "pos": 177,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626550813834
+        },
+        "rev-cpp": {
+          "time": 1626564795274
+        }
+      }
+    },
+    {
+      "team": "justCatTheFish",
+      "pos": 16,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626636118162
+        },
+        "misc-filestore": {
+          "time": 1626552796567
+        },
+        "misc-raid": {
+          "time": 1626636787035
+        },
+        "misc-shellcode": {
+          "time": 1626566278266
+        },
+        "misc-steps": {
+          "time": 1626628089559
+        },
+        "misc-zippi": {
+          "time": 1626640785736
+        },
+        "pwn-atheris": {
+          "time": 1626539513134
+        },
+        "pwn-compression": {
+          "time": 1626512118411
+        },
+        "pwn-memsafety": {
+          "time": 1626534136307
+        },
+        "rev-adspam": {
+          "time": 1626614801917
+        },
+        "rev-cpp": {
+          "time": 1626539066100
+        },
+        "rev-hexagon": {
+          "time": 1626510194872
+        },
+        "rev-polymorph": {
+          "time": 1626564242304
+        },
+        "rev-weather": {
+          "time": 1626522374538
+        },
+        "web-empty-ls": {
+          "time": 1626606223352
+        },
+        "web-gpushop": {
+          "time": 1626641917961
+        },
+        "web-letschatserver": {
+          "time": 1626629130005
+        }
+      }
+    },
+    {
+      "team": "kad96",
+      "pos": 296,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626596261038
+        }
+      }
+    },
+    {
+      "team": "keyball123",
+      "pos": 311,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626601311596
+        }
+      }
+    },
+    {
+      "team": "kks",
+      "pos": 376,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626645624223
+        }
+      }
+    },
+    {
+      "team": "kokeshi",
+      "pos": 284,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626585533008
+        }
+      }
+    },
+    {
+      "team": "krzysztof1222",
+      "pos": 145,
+      "taskStats": {
+        "pwn-compression": {
+          "time": 1626625250278
+        },
+        "rev-cpp": {
+          "time": 1626525068693
+        }
+      }
+    },
+    {
+      "team": "ktx",
+      "pos": 330,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626609234187
+        }
+      }
+    },
+    {
+      "team": "latiza",
+      "pos": 173,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626556031345
+        },
+        "rev-cpp": {
+          "time": 1626523297028
+        }
+      }
+    },
+    {
+      "team": "lcgg",
+      "pos": 286,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626588284331
+        }
+      }
+    },
+    {
+      "team": "lángOS",
+      "pos": 339,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626615410193
+        }
+      }
+    },
+    {
+      "team": "m0ck1ngbird",
+      "pos": 378,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626646481584
+        }
+      }
+    },
+    {
+      "team": "m1t0",
+      "pos": 274,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626579277409
+        }
+      }
+    },
+    {
+      "team": "m4n3",
+      "pos": 97,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626557894483
+        },
+        "pwn-memsafety": {
+          "time": 1626641184966
+        },
+        "rev-cpp": {
+          "time": 1626543613961
+        }
+      }
+    },
+    {
+      "team": "matipau",
+      "pos": 86,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626563038947
+        },
+        "crypto-tiramisu": {
+          "time": 1626535405268
+        }
+      }
+    },
+    {
+      "team": "memekatz",
+      "pos": 194,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626610772183
+        },
+        "rev-cpp": {
+          "time": 1626565086179
+        }
+      }
+    },
+    {
+      "team": "mhackeroni",
+      "pos": 153,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626564792226
+        },
+        "pwn-compression": {
+          "time": 1626564329341
+        }
+      }
+    },
+    {
+      "team": "michiana-infosec",
+      "pos": 206,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626505922861
+        }
+      }
+    },
+    {
+      "team": "mnsec",
+      "pos": 341,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626615831703
+        }
+      }
+    },
+    {
+      "team": "mode13h",
+      "pos": 150,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626617050314
+        },
+        "rev-hexagon": {
+          "time": 1626598416121
+        }
+      }
+    },
+    {
+      "team": "n0bitz",
+      "pos": 235,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626549820518
+        }
+      }
+    },
+    {
+      "team": "n0w",
+      "pos": 348,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626622902196
+        }
+      }
+    },
+    {
+      "team": "nbg",
+      "pos": 342,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626617881356
+        }
+      }
+    },
+    {
+      "team": "nearkats",
+      "pos": 172,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626555607870
+        },
+        "rev-cpp": {
+          "time": 1626523390692
+        }
+      }
+    },
+    {
+      "team": "nolax",
+      "pos": 366,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626636561502
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 154,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626582169471
+        },
+        "pwn-compression": {
+          "time": 1626586170301
+        }
+      }
+    },
+    {
+      "team": "nukeshroom",
+      "pos": 379,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626649930154
+        }
+      }
+    },
+    {
+      "team": "null",
+      "pos": 182,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626559360621
+        },
+        "rev-cpp": {
+          "time": 1626584982105
+        }
+      }
+    },
+    {
+      "team": "null2root",
+      "pos": 346,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626621807489
+        }
+      }
+    },
+    {
+      "team": "oakvedid",
+      "pos": 233,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626547837004
+        }
+      }
+    },
+    {
+      "team": "onepunchpwn",
+      "pos": 77,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626590318564
+        },
+        "pwn-compression": {
+          "time": 1626564033297
+        },
+        "pwn-memsafety": {
+          "time": 1626543927742
+        },
+        "rev-cpp": {
+          "time": 1626601882769
+        }
+      }
+    },
+    {
+      "team": "osmanthusrabbit",
+      "pos": 236,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626550891407
+        }
+      }
+    },
+    {
+      "team": "p4",
+      "pos": 8,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626551337474
+        },
+        "crypto-story": {
+          "time": 1626623945384
+        },
+        "crypto-tiramisu": {
+          "time": 1626533741239
+        },
+        "crypto-tonality": {
+          "time": 1626647923414
+        },
+        "hw-comlink": {
+          "time": 1626618802620
+        },
+        "hw-parking": {
+          "time": 1626622400522
+        },
+        "misc-filestore": {
+          "time": 1626549589605
+        },
+        "misc-raid": {
+          "time": 1626554114533
+        },
+        "misc-shellcode": {
+          "time": 1626640739053
+        },
+        "misc-steps": {
+          "time": 1626634821294
+        },
+        "misc-zippi": {
+          "time": 1626536710385
+        },
+        "pwn-atheris": {
+          "time": 1626563406253
+        },
+        "pwn-compression": {
+          "time": 1626558646422
+        },
+        "pwn-memsafety": {
+          "time": 1626538598326
+        },
+        "rev-adspam": {
+          "time": 1626619570096
+        },
+        "rev-cpp": {
+          "time": 1626508507472
+        },
+        "rev-hexagon": {
+          "time": 1626517664701
+        },
+        "rev-polymorph": {
+          "time": 1626553479205
+        },
+        "rev-weather": {
+          "time": 1626533399830
+        },
+        "web-empty-ls": {
+          "time": 1626544111621
+        },
+        "web-gpushop": {
+          "time": 1626648391765
+        },
+        "web-letschatserver": {
+          "time": 1626633017343
+        }
+      }
+    },
+    {
+      "team": "pasten",
+      "pos": 6,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626543192472
+        },
+        "crypto-pythia": {
+          "time": 1626526554589
+        },
+        "crypto-story": {
+          "time": 1626605967280
+        },
+        "crypto-tiramisu": {
+          "time": 1626531086105
+        },
+        "crypto-tonality": {
+          "time": 1626619309501
+        },
+        "hw-parking": {
+          "time": 1626512254046
+        },
+        "hw-pcivault": {
+          "time": 1626556264323
+        },
+        "hw-pcivault2": {
+          "time": 1626625184000
+        },
+        "misc-filestore": {
+          "time": 1626539765468
+        },
+        "misc-raid": {
+          "time": 1626490602543
+        },
+        "misc-zippi": {
+          "time": 1626523027957
+        },
+        "pwn-atheris": {
+          "time": 1626507469446
+        },
+        "pwn-compression": {
+          "time": 1626516210450
+        },
+        "pwn-ebpf": {
+          "time": 1626613865718
+        },
+        "pwn-fullchain": {
+          "time": 1626645536130
+        },
+        "pwn-memsafety": {
+          "time": 1626550769241
+        },
+        "rev-adspam": {
+          "time": 1626622918846
+        },
+        "rev-cpp": {
+          "time": 1626495075071
+        },
+        "rev-hexagon": {
+          "time": 1626509201460
+        },
+        "rev-polymorph": {
+          "time": 1626627511876
+        },
+        "rev-weather": {
+          "time": 1626522988213
+        },
+        "web-empty-ls": {
+          "time": 1626645716471
+        },
+        "web-letschatserver": {
+          "time": 1626538765203
+        }
+      }
+    },
+    {
+      "team": "peak^chaos",
+      "pos": 254,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626563418520
+        }
+      }
+    },
+    {
+      "team": "perfect blue",
+      "pos": 1,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626546082808
+        },
+        "crypto-pythia": {
+          "time": 1626532351988
+        },
+        "crypto-story": {
+          "time": 1626570949906
+        },
+        "crypto-tiramisu": {
+          "time": 1626512768308
+        },
+        "crypto-tonality": {
+          "time": 1626573659934
+        },
+        "hw-comlink": {
+          "time": 1626644484366
+        },
+        "hw-parking": {
+          "time": 1626494432239
+        },
+        "hw-pcivault": {
+          "time": 1626598436028
+        },
+        "misc-filestore": {
+          "time": 1626544199852
+        },
+        "misc-raid": {
+          "time": 1626561033715
+        },
+        "misc-steps": {
+          "time": 1626627211810
+        },
+        "misc-zippi": {
+          "time": 1626619507445
+        },
+        "pwn-atheris": {
+          "time": 1626510707442
+        },
+        "pwn-compression": {
+          "time": 1626497316415
+        },
+        "pwn-ebpf": {
+          "time": 1626606525438
+        },
+        "pwn-fullchain": {
+          "time": 1626551406802
+        },
+        "pwn-memsafety": {
+          "time": 1626533487943
+        },
+        "pwn-tridroid": {
+          "time": 1626628451989
+        },
+        "rev-adspam": {
+          "time": 1626595915109
+        },
+        "rev-cpp": {
+          "time": 1626527476822
+        },
+        "rev-hexagon": {
+          "time": 1626489318401
+        },
+        "rev-polymorph": {
+          "time": 1626559655095
+        },
+        "rev-weather": {
+          "time": 1626519201909
+        },
+        "web-empty-ls": {
+          "time": 1626639528242
+        },
+        "web-gpushop": {
+          "time": 1626644500333
+        },
+        "web-letschatserver": {
+          "time": 1626563693637
+        }
+      }
+    },
+    {
+      "team": "pingCTF",
+      "pos": 255,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626564484826
+        }
+      }
+    },
+    {
+      "team": "pmaster",
+      "pos": 231,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626547248239
+        }
+      }
+    },
+    {
+      "team": "potbelly",
+      "pos": 103,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626570431819
+        },
+        "misc-zippi": {
+          "time": 1626531710360
+        }
+      }
+    },
+    {
+      "team": "r00timentary",
+      "pos": 21,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626650581560
+        },
+        "crypto-story": {
+          "time": 1626606427097
+        },
+        "crypto-tiramisu": {
+          "time": 1626514043132
+        },
+        "hw-pcivault": {
+          "time": 1626640976302
+        },
+        "misc-filestore": {
+          "time": 1626558401658
+        },
+        "misc-shellcode": {
+          "time": 1626552516532
+        },
+        "pwn-compression": {
+          "time": 1626555101604
+        },
+        "pwn-ebpf": {
+          "time": 1626648231021
+        },
+        "pwn-fullchain": {
+          "time": 1626599175007
+        },
+        "pwn-memsafety": {
+          "time": 1626513252037
+        },
+        "rev-adspam": {
+          "time": 1626594476449
+        },
+        "rev-cpp": {
+          "time": 1626487140377
+        },
+        "rev-hexagon": {
+          "time": 1626510787400
+        },
+        "rev-weather": {
+          "time": 1626517351337
+        }
+      }
+    },
+    {
+      "team": "r00tstici",
+      "pos": 332,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626610453654
+        }
+      }
+    },
+    {
+      "team": "r0nd",
+      "pos": 196,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626616971564
+        },
+        "rev-cpp": {
+          "time": 1626605369825
+        }
+      }
+    },
+    {
+      "team": "r3billions",
+      "pos": 56,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626549944110
+        },
+        "pwn-compression": {
+          "time": 1626547543231
+        },
+        "rev-cpp": {
+          "time": 1626545855965
+        },
+        "rev-hexagon": {
+          "time": 1626625305540
+        },
+        "rev-polymorph": {
+          "time": 1626582580254
+        },
+        "rev-weather": {
+          "time": 1626577335547
+        }
+      }
+    },
+    {
+      "team": "r3kapig",
+      "pos": 36,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626539652696
+        },
+        "misc-filestore": {
+          "time": 1626581618483
+        },
+        "misc-raid": {
+          "time": 1626527731209
+        },
+        "pwn-compression": {
+          "time": 1626517897942
+        },
+        "pwn-ebpf": {
+          "time": 1626629395107
+        },
+        "pwn-fullchain": {
+          "time": 1626571384283
+        },
+        "rev-cpp": {
+          "time": 1626498694077
+        },
+        "rev-hexagon": {
+          "time": 1626508712371
+        }
+      }
+    },
+    {
+      "team": "rabinkarp",
+      "pos": 128,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626557699082
+        },
+        "misc-raid": {
+          "time": 1626503426099
+        }
+      }
+    },
+    {
+      "team": "ractor_burton",
+      "pos": 344,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626620259596
+        }
+      }
+    },
+    {
+      "team": "rdj",
+      "pos": 364,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626631362483
+        }
+      }
+    },
+    {
+      "team": "rfr",
+      "pos": 127,
+      "taskStats": {
+        "crypto-story": {
+          "time": 1626649547366
+        }
+      }
+    },
+    {
+      "team": "room2042",
+      "pos": 42,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626554064371
+        },
+        "misc-raid": {
+          "time": 1626617607363
+        },
+        "misc-zippi": {
+          "time": 1626527262166
+        },
+        "pwn-atheris": {
+          "time": 1626651112111
+        },
+        "rev-cpp": {
+          "time": 1626615096762
+        },
+        "rev-hexagon": {
+          "time": 1626531498173
+        },
+        "rev-weather": {
+          "time": 1626623852740
+        }
+      }
+    },
+    {
+      "team": "s3qu3nc3 ",
+      "pos": 32,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626620567705
+        },
+        "crypto-pythia": {
+          "time": 1626603562936
+        },
+        "crypto-story": {
+          "time": 1626605042610
+        },
+        "crypto-tiramisu": {
+          "time": 1626523455849
+        },
+        "crypto-tonality": {
+          "time": 1626612049924
+        },
+        "hw-parking": {
+          "time": 1626621654212
+        },
+        "misc-filestore": {
+          "time": 1626570501834
+        },
+        "rev-adspam": {
+          "time": 1626632518384
+        },
+        "rev-cpp": {
+          "time": 1626531915504
+        },
+        "rev-hexagon": {
+          "time": 1626568138649
+        }
+      }
+    },
+    {
+      "team": "saarsec",
+      "pos": 141,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626604699156
+        },
+        "rev-weather": {
+          "time": 1626566550605
+        }
+      }
+    },
+    {
+      "team": "sf",
+      "pos": 301,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626597805469
+        }
+      }
+    },
+    {
+      "team": "shablul",
+      "pos": 142,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626557744270
+        }
+      }
+    },
+    {
+      "team": "shin2ro",
+      "pos": 299,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626597443713
+        }
+      }
+    },
+    {
+      "team": "skiddies",
+      "pos": 265,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626569472319
+        }
+      }
+    },
+    {
+      "team": "slashbad",
+      "pos": 91,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626541380432
+        },
+        "misc-filestore": {
+          "time": 1626589625212
+        },
+        "rev-cpp": {
+          "time": 1626638601387
+        }
+      }
+    },
+    {
+      "team": "sponge_bob",
+      "pos": 273,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626578410293
+        }
+      }
+    },
+    {
+      "team": "srdnlen",
+      "pos": 88,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626564983184
+        },
+        "misc-raid": {
+          "time": 1626596159516
+        },
+        "pwn-compression": {
+          "time": 1626557735500
+        }
+      }
+    },
+    {
+      "team": "storm",
+      "pos": 325,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626606935253
+        }
+      }
+    },
+    {
+      "team": "superflip",
+      "pos": 64,
+      "taskStats": {
+        "hw-parking": {
+          "time": 1626609285456
+        },
+        "misc-filestore": {
+          "time": 1626556579018
+        },
+        "pwn-compression": {
+          "time": 1626545412282
+        },
+        "rev-cpp": {
+          "time": 1626512064115
+        },
+        "rev-hexagon": {
+          "time": 1626649183859
+        }
+      }
+    },
+    {
+      "team": "synackuk",
+      "pos": 343,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626618248147
+        }
+      }
+    },
+    {
+      "team": "tabby_cat",
+      "pos": 350,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626623699923
+        }
+      }
+    },
+    {
+      "team": "taln",
+      "pos": 347,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626621955336
+        }
+      }
+    },
+    {
+      "team": "team_eat",
+      "pos": 85,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626556723231
+        },
+        "pwn-compression": {
+          "time": 1626602836058
+        },
+        "rev-cpp": {
+          "time": 1626528418062
+        },
+        "rev-hexagon": {
+          "time": 1626650437929
+        }
+      }
+    },
+    {
+      "team": "temptemp",
+      "pos": 163,
+      "taskStats": {
+        "pwn-compression": {
+          "time": 1626612046151
+        }
+      }
+    },
+    {
+      "team": "the3000",
+      "pos": 48,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626642762707
+        },
+        "misc-filestore": {
+          "time": 1626620791779
+        },
+        "rev-cpp": {
+          "time": 1626535997420
+        },
+        "rev-hexagon": {
+          "time": 1626624617785
+        },
+        "web-gpushop": {
+          "time": 1626629867318
+        },
+        "web-letschatserver": {
+          "time": 1626630590880
+        }
+      }
+    },
+    {
+      "team": "thethetheduck",
+      "pos": 23,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626635570561
+        },
+        "hw-pcivault": {
+          "time": 1626641972087
+        },
+        "misc-filestore": {
+          "time": 1626542545789
+        },
+        "misc-raid": {
+          "time": 1626548408801
+        },
+        "pwn-atheris": {
+          "time": 1626616509282
+        },
+        "pwn-compression": {
+          "time": 1626529723833
+        },
+        "pwn-memsafety": {
+          "time": 1626531267231
+        },
+        "pwn-tridroid": {
+          "time": 1626578177090
+        },
+        "rev-adspam": {
+          "time": 1626576980863
+        },
+        "rev-cpp": {
+          "time": 1626493711429
+        },
+        "rev-hexagon": {
+          "time": 1626491934339
+        },
+        "rev-polymorph": {
+          "time": 1626597148011
+        },
+        "rev-weather": {
+          "time": 1626520596269
+        },
+        "web-gpushop": {
+          "time": 1626559308130
+        }
+      }
+    },
+    {
+      "team": "toastedsteaksandwich",
+      "pos": 349,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626623658110
+        }
+      }
+    },
+    {
+      "team": "traP_casual",
+      "pos": 294,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626595950158
+        }
+      }
+    },
+    {
+      "team": "traicachli",
+      "pos": 57,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626632320425
+        },
+        "pwn-compression": {
+          "time": 1626520533030
+        },
+        "pwn-memsafety": {
+          "time": 1626641267913
+        },
+        "rev-cpp": {
+          "time": 1626530902099
+        },
+        "rev-hexagon": {
+          "time": 1626625556270
+        },
+        "rev-weather": {
+          "time": 1626605763805
+        }
+      }
+    },
+    {
+      "team": "upbhack",
+      "pos": 146,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626557448944
+        },
+        "misc-filestore": {
+          "time": 1626553658101
+        }
+      }
+    },
+    {
+      "team": "upperVillage",
+      "pos": 326,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626607162971
+        }
+      }
+    },
+    {
+      "team": "velvet_misconception",
+      "pos": 195,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626611685108
+        },
+        "rev-cpp": {
+          "time": 1626548835846
+        }
+      }
+    },
+    {
+      "team": "vh++",
+      "pos": 19,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626546631403
+        },
+        "crypto-pythia": {
+          "time": 1626518015131
+        },
+        "crypto-story": {
+          "time": 1626583852822
+        },
+        "crypto-tiramisu": {
+          "time": 1626504964157
+        },
+        "crypto-tonality": {
+          "time": 1626582361416
+        },
+        "hw-parking": {
+          "time": 1626548645458
+        },
+        "misc-filestore": {
+          "time": 1626542553237
+        },
+        "misc-zippi": {
+          "time": 1626551206839
+        },
+        "pwn-compression": {
+          "time": 1626506176368
+        },
+        "rev-cpp": {
+          "time": 1626519150011
+        },
+        "rev-hexagon": {
+          "time": 1626589460149
+        },
+        "rev-weather": {
+          "time": 1626626623580
+        },
+        "web-empty-ls": {
+          "time": 1626620601231
+        },
+        "web-gpushop": {
+          "time": 1626628825828
+        },
+        "web-letschatserver": {
+          "time": 1626634903350
+        }
+      }
+    },
+    {
+      "team": "wotop",
+      "pos": 288,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626591883326
+        }
+      }
+    },
+    {
+      "team": "wuf2rev",
+      "pos": 135,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626564442384
+        },
+        "misc-raid": {
+          "time": 1626605045772
+        }
+      }
+    },
+    {
+      "team": "xSTF",
+      "pos": 259,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626567058816
+        }
+      }
+    },
+    {
+      "team": "xXxpassword123xXx",
+      "pos": 321,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626604592711
+        }
+      }
+    },
+    {
+      "team": "xiaobyeQQ",
+      "pos": 210,
+      "taskStats": {
+        "rev-cpp": {
+          "time": 1626534986100
+        }
+      }
+    },
+    {
+      "team": "xtal",
+      "pos": 62,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626641035648
+        },
+        "crypto-story": {
+          "time": 1626649748021
+        },
+        "misc-filestore": {
+          "time": 1626544354606
+        },
+        "pwn-compression": {
+          "time": 1626549017677
+        },
+        "rev-cpp": {
+          "time": 1626542496666
+        }
+      }
+    },
+    {
+      "team": "yult",
+      "pos": 203,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626602240933
+        },
+        "rev-cpp": {
+          "time": 1626635610793
+        }
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 14,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626563321238
+        },
+        "crypto-pythia": {
+          "time": 1626522390441
+        },
+        "crypto-story": {
+          "time": 1626615940942
+        },
+        "crypto-tiramisu": {
+          "time": 1626535388397
+        },
+        "crypto-tonality": {
+          "time": 1626580689981
+        },
+        "hw-parking": {
+          "time": 1626608397448
+        },
+        "misc-filestore": {
+          "time": 1626551377958
+        },
+        "misc-raid": {
+          "time": 1626560121341
+        },
+        "misc-zippi": {
+          "time": 1626593997346
+        },
+        "pwn-atheris": {
+          "time": 1626543710177
+        },
+        "pwn-compression": {
+          "time": 1626490801677
+        },
+        "pwn-ebpf": {
+          "time": 1626587506559
+        },
+        "pwn-fullchain": {
+          "time": 1626539448067
+        },
+        "pwn-memsafety": {
+          "time": 1626565932060
+        },
+        "rev-adspam": {
+          "time": 1626624745941
+        },
+        "rev-cpp": {
+          "time": 1626495513638
+        },
+        "rev-hexagon": {
+          "time": 1626585807068
+        },
+        "rev-weather": {
+          "time": 1626542527781
+        }
+      }
+    },
+    {
+      "team": "zh3r0",
+      "pos": 149,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626557942058
+        },
+        "misc-filestore": {
+          "time": 1626598570383
+        }
+      }
+    },
+    {
+      "team": "zwnj",
+      "pos": 26,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626619271722
+        },
+        "crypto-pythia": {
+          "time": 1626583923487
+        },
+        "crypto-story": {
+          "time": 1626597089231
+        },
+        "crypto-tiramisu": {
+          "time": 1626647047703
+        },
+        "crypto-tonality": {
+          "time": 1626599080704
+        },
+        "hw-parking": {
+          "time": 1626580690332
+        },
+        "misc-filestore": {
+          "time": 1626546657250
+        },
+        "misc-zippi": {
+          "time": 1626497951951
+        },
+        "pwn-compression": {
+          "time": 1626497224783
+        },
+        "pwn-memsafety": {
+          "time": 1626560699538
+        },
+        "rev-cpp": {
+          "time": 1626506000071
+        },
+        "rev-hexagon": {
+          "time": 1626514800309
+        },
+        "rev-weather": {
+          "time": 1626529898952
+        },
+        "web-letschatserver": {
+          "time": 1626487937311
+        }
+      }
+    },
+    {
+      "team": "× × × × ×",
+      "pos": 105,
+      "taskStats": {
+        "web-letschatserver": {
+          "time": 1626572264814
+        }
+      }
+    },
+    {
+      "team": "⚔️TSJ⚔️",
+      "pos": 29,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626549820264
+        },
+        "crypto-pythia": {
+          "time": 1626536611705
+        },
+        "crypto-tonality": {
+          "time": 1626585209384
+        },
+        "hw-parking": {
+          "time": 1626512532433
+        },
+        "misc-filestore": {
+          "time": 1626543777636
+        },
+        "pwn-compression": {
+          "time": 1626505425588
+        },
+        "pwn-ebpf": {
+          "time": 1626618280289
+        },
+        "pwn-memsafety": {
+          "time": 1626601387017
+        },
+        "rev-cpp": {
+          "time": 1626494132273
+        },
+        "rev-hexagon": {
+          "time": 1626543743164
+        },
+        "rev-weather": {
+          "time": 1626580943396
+        }
+      }
+    },
+    {
+      "team": "❄️🌸",
+      "pos": 276,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626579756006
+        }
+      }
+    },
+    {
+      "team": "灵雨安全实验室",
+      "pos": 158,
+      "taskStats": {
+        "misc-raid": {
+          "time": 1626536703373
+        }
+      }
+    },
+    {
+      "team": "🅱️EndREdi 🅱️aCArDi",
+      "pos": 148,
+      "taskStats": {
+        "crypto-pythia": {
+          "time": 1626535218678
+        },
+        "misc-filestore": {
+          "time": 1626563111074
+        }
+      }
+    },
+    {
+      "team": "🐻🧮",
+      "pos": 262,
+      "taskStats": {
+        "misc-filestore": {
+          "time": 1626568841606
+        }
+      }
+    },
+    {
+      "team": "🛹🐻",
+      "pos": 13,
+      "taskStats": {
+        "crypto-H1": {
+          "time": 1626585600106
+        },
+        "crypto-pythia": {
+          "time": 1626565871417
+        },
+        "crypto-story": {
+          "time": 1626591049348
+        },
+        "crypto-tiramisu": {
+          "time": 1626522692956
+        },
+        "crypto-tonality": {
+          "time": 1626580568788
+        },
+        "misc-filestore": {
+          "time": 1626568167216
+        },
+        "misc-raid": {
+          "time": 1626585025097
+        },
+        "misc-shellcode": {
+          "time": 1626613918579
+        },
+        "misc-steps": {
+          "time": 1626574894216
+        },
+        "misc-zippi": {
+          "time": 1626587310643
+        },
+        "pwn-compression": {
+          "time": 1626588398041
+        },
+        "pwn-memsafety": {
+          "time": 1626605174105
+        },
+        "rev-adspam": {
+          "time": 1626600389203
+        },
+        "rev-cpp": {
+          "time": 1626528560745
+        },
+        "rev-hexagon": {
+          "time": 1626615249177
+        },
+        "rev-polymorph": {
+          "time": 1626601487143
+        },
+        "rev-weather": {
+          "time": 1626528265457
+        },
+        "web-empty-ls": {
+          "time": 1626540440938
+        }
+      }
+    }
+  ],
+  "date": 1626447600,
+  "name": "Google Capture The Flag 2021"
+}
