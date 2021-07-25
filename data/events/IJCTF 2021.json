@@ -1,0 +1,2212 @@
+{
+  "tasks": [
+    "Pastebin",
+    "SodaFactory",
+    "baby-sum",
+    "EncBin",
+    "Derusting",
+    "Vault",
+    "Block Cipher",
+    "memory-heist",
+    "ezpez",
+    "Memory",
+    "Square Sum",
+    "Quartic",
+    "Riddle Joker",
+    "Jinx",
+    "Time",
+    "Survey",
+    "Family",
+    "ezpez_return",
+    "Sanity",
+    "Casino Heist",
+    "Hello World",
+    "ECSign",
+    "Black Letter",
+    "Discrete Log"
+  ],
+  "standings": [
+    {
+      "team": "zer0pts",
+      "pos": 1,
+      "score": 17317,
+      "id": 237,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112721
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627114523
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627115489
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627118965
+        },
+        "Derusting": {
+          "points": 999,
+          "time": 1627119845
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627121224
+        },
+        "ezpez": {
+          "points": 1000,
+          "time": 1627121413
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627122514
+        },
+        "Jinx": {
+          "points": 999,
+          "time": 1627122637
+        },
+        "ezpez_return": {
+          "points": 1000,
+          "time": 1627128908
+        },
+        "ECSign": {
+          "points": 997,
+          "time": 1627133068
+        },
+        "Time": {
+          "points": 988,
+          "time": 1627136556
+        },
+        "Quartic": {
+          "points": 997,
+          "time": 1627138566
+        },
+        "memory-heist": {
+          "points": 1000,
+          "time": 1627143184
+        },
+        "Black Letter": {
+          "points": 999,
+          "time": 1627143601
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627144916
+        },
+        "Pastebin": {
+          "points": 999,
+          "time": 1627146288
+        },
+        "Casino Heist": {
+          "points": 997,
+          "time": 1627148781
+        },
+        "Riddle Joker": {
+          "points": 999,
+          "time": 1627182211
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627188960
+        }
+      }
+    },
+    {
+      "team": "zh3r0",
+      "pos": 2,
+      "score": 10339,
+      "id": 49,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112375
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627114388
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627116071
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627116536
+        },
+        "ezpez": {
+          "points": 1000,
+          "time": 1627116962
+        },
+        "ezpez_return": {
+          "points": 1000,
+          "time": 1627117602
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627123321
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627134860
+        },
+        "memory-heist": {
+          "points": 1000,
+          "time": 1627137065
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627151555
+        },
+        "Black Letter": {
+          "points": 999,
+          "time": 1627157238
+        },
+        "Casino Heist": {
+          "points": 997,
+          "time": 1627189671
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627193209
+        }
+      }
+    },
+    {
+      "team": "RootMeUpBeforeYouGoGo",
+      "pos": 3,
+      "score": 6494,
+      "id": 195,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627115009
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627121602
+        },
+        "Time": {
+          "points": 988,
+          "time": 1627126571
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627130490
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627138851
+        },
+        "Casino Heist": {
+          "points": 997,
+          "time": 1627153874
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627158081
+        },
+        "Derusting": {
+          "points": 999,
+          "time": 1627170736
+        }
+      }
+    },
+    {
+      "team": "DarkArmy",
+      "pos": 4,
+      "score": 6446,
+      "id": 42,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112825
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627115368
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627116306
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627118601
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627123665
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627145015
+        },
+        "Time": {
+          "points": 988,
+          "time": 1627154920
+        },
+        "Derusting": {
+          "points": 999,
+          "time": 1627155242
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627188564
+        }
+      }
+    },
+    {
+      "team": "keymoon",
+      "pos": 5,
+      "score": 6331,
+      "id": 258,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112794
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627115530
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627119229
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627123082
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627137997
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627143478
+        },
+        "Time": {
+          "points": 988,
+          "time": 1627157211
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627176233
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627192500
+        }
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 6,
+      "score": 4720,
+      "id": 265,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627123572
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627128864
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627131061
+        },
+        "Time": {
+          "points": 988,
+          "time": 1627145509
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627191096
+        },
+        "Casino Heist": {
+          "points": 997,
+          "time": 1627195497
+        }
+      }
+    },
+    {
+      "team": "Utaha",
+      "pos": 7,
+      "score": 4556,
+      "id": 311,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627121746
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627122344
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627124115
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627124208
+        },
+        "ECSign": {
+          "points": 997,
+          "time": 1627133708
+        },
+        "Quartic": {
+          "points": 997,
+          "time": 1627141425
+        }
+      }
+    },
+    {
+      "team": "Sp33d_0f_T1m3",
+      "pos": 8,
+      "score": 4498,
+      "id": 266,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627114428
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627141864
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627152696
+        },
+        "Time": {
+          "points": 988,
+          "time": 1627172898
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627186290
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627196310
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627197634
+        }
+      }
+    },
+    {
+      "team": "AdelaideB9",
+      "pos": 9,
+      "score": 3721,
+      "id": 164,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112742
+        },
+        "Riddle Joker": {
+          "points": 999,
+          "time": 1627145884
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627186056
+        },
+        "Vault": {
+          "points": 1000,
+          "time": 1627191812
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627192631
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627197431
+        }
+      }
+    },
+    {
+      "team": "Kuruwa",
+      "pos": 10,
+      "score": 3718,
+      "id": 327,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627127351
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627128051
+        },
+        "ECSign": {
+          "points": 997,
+          "time": 1627136975
+        },
+        "Quartic": {
+          "points": 997,
+          "time": 1627153275
+        }
+      }
+    },
+    {
+      "team": "Black Bauhinia",
+      "pos": 11,
+      "score": 3656,
+      "id": 121,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113172
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627114996
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627116992
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627121595
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627126246
+        }
+      }
+    },
+    {
+      "team": "Pseudo Science Enjoyer",
+      "pos": 12,
+      "score": 3541,
+      "id": 296,
+      "taskStats": {
+        "Hello World": {
+          "points": 738,
+          "time": 1627127890
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627127980
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627134253
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627156224
+        },
+        "Time": {
+          "points": 988,
+          "time": 1627184163
+        }
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 13,
+      "score": 3519,
+      "id": 173,
+      "taskStats": {
+        "baby-sum": {
+          "points": 957,
+          "time": 1627129219
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627133250
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627134207
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627144468
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627194212
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627194328
+        }
+      }
+    },
+    {
+      "team": "N30Z30N",
+      "pos": 14,
+      "score": 2823,
+      "id": 31,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113244
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627114004
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627125895
+        },
+        "Riddle Joker": {
+          "points": 999,
+          "time": 1627196064
+        }
+      }
+    },
+    {
+      "team": "skateboarding dog",
+      "pos": 15,
+      "score": 2821,
+      "id": 342,
+      "taskStats": {
+        "ECSign": {
+          "points": 997,
+          "time": 1627130279
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627130287
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627130294
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627130606
+        }
+      }
+    },
+    {
+      "team": "Fword",
+      "pos": 16,
+      "score": 2662,
+      "id": 303,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627119967
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627134614
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627142981
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627148678
+        }
+      }
+    },
+    {
+      "team": "Beast_From_UIT",
+      "pos": 17,
+      "score": 2553,
+      "id": 197,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113509
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627139215
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627140551
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627181077
+        }
+      }
+    },
+    {
+      "team": "54010n",
+      "pos": 18,
+      "score": 2553,
+      "id": 250,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114528
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627181287
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627181943
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627184839
+        }
+      }
+    },
+    {
+      "team": "zibzalabim",
+      "pos": 19,
+      "score": 1998,
+      "id": 380,
+      "taskStats": {
+        "Pastebin": {
+          "points": 999,
+          "time": 1627148877
+        },
+        "Jinx": {
+          "points": 999,
+          "time": 1627177006
+        }
+      }
+    },
+    {
+      "team": "irNoobs",
+      "pos": 20,
+      "score": 1983,
+      "id": 254,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627120126
+        },
+        "Pastebin": {
+          "points": 999,
+          "time": 1627121362
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627139228
+        }
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 21,
+      "score": 1983,
+      "id": 146,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113990
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627138871
+        },
+        "Jinx": {
+          "points": 999,
+          "time": 1627141152
+        }
+      }
+    },
+    {
+      "team": "Who am I",
+      "pos": 22,
+      "score": 1946,
+      "id": 297,
+      "taskStats": {
+        "Quartic": {
+          "points": 997,
+          "time": 1627120748
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627125379
+        }
+      }
+    },
+    {
+      "team": "as3617",
+      "pos": 23,
+      "score": 1884,
+      "id": 283,
+      "taskStats": {
+        "Memory": {
+          "points": 1000,
+          "time": 1627126367
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627136838
+        }
+      }
+    },
+    {
+      "team": "NGA",
+      "pos": 24,
+      "score": 1884,
+      "id": 257,
+      "taskStats": {
+        "Memory": {
+          "points": 1000,
+          "time": 1627137010
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627187272
+        }
+      }
+    },
+    {
+      "team": "Learning",
+      "pos": 25,
+      "score": 1795,
+      "id": 157,
+      "taskStats": {
+        "baby-sum": {
+          "points": 957,
+          "time": 1627120267
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627170468
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627172489
+        }
+      }
+    },
+    {
+      "team": "cntr0llz",
+      "pos": 26,
+      "score": 1795,
+      "id": 12,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627160161
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627169105
+        },
+        "baby-sum": {
+          "points": 957,
+          "time": 1627191060
+        }
+      }
+    },
+    {
+      "team": "nihehi",
+      "pos": 27,
+      "score": 1778,
+      "id": 286,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627116100
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627121288
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627124471
+        }
+      }
+    },
+    {
+      "team": "Dashu",
+      "pos": 28,
+      "score": 1778,
+      "id": 400,
+      "taskStats": {
+        "Hello World": {
+          "points": 738,
+          "time": 1627164613
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627164817
+        },
+        "Family": {
+          "points": 940,
+          "time": 1627186235
+        }
+      }
+    },
+    {
+      "team": "empty_",
+      "pos": 29,
+      "score": 1759,
+      "id": 261,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627132540
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627133789
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627153993
+        }
+      }
+    },
+    {
+      "team": "bruh231",
+      "pos": 30,
+      "score": 1724,
+      "id": 427,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627172222
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627185212
+        }
+      }
+    },
+    {
+      "team": "huangx607087",
+      "pos": 31,
+      "score": 1724,
+      "id": 448,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627192938
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627194383
+        }
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 32,
+      "score": 1724,
+      "id": 187,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627187813
+        },
+        "Square Sum": {
+          "points": 949,
+          "time": 1627194396
+        }
+      }
+    },
+    {
+      "team": "Maurus",
+      "pos": 33,
+      "score": 1613,
+      "id": 403,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627149388
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627173942
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627174078
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 34,
+      "score": 1099,
+      "id": 168,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627122867
+        },
+        "Black Letter": {
+          "points": 999,
+          "time": 1627192580
+        }
+      }
+    },
+    {
+      "team": "{The NaN Squad}",
+      "pos": 35,
+      "score": 984,
+      "id": 3,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627122773
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627144780
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627197716
+        }
+      }
+    },
+    {
+      "team": "Mayas",
+      "pos": 36,
+      "score": 984,
+      "id": 162,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627149174
+        },
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627155260
+        }
+      }
+    },
+    {
+      "team": "ioee",
+      "pos": 37,
+      "score": 957,
+      "id": 399,
+      "taskStats": {
+        "baby-sum": {
+          "points": 957,
+          "time": 1627155302
+        }
+      }
+    },
+    {
+      "team": "xof5566",
+      "pos": 38,
+      "score": 884,
+      "id": 236,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627114333
+        }
+      }
+    },
+    {
+      "team": "Copy|tee",
+      "pos": 39,
+      "score": 884,
+      "id": 272,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627119171
+        }
+      }
+    },
+    {
+      "team": "atimiryazev",
+      "pos": 40,
+      "score": 884,
+      "id": 295,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627130260
+        }
+      }
+    },
+    {
+      "team": "asdasd123",
+      "pos": 41,
+      "score": 884,
+      "id": 371,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627147803
+        }
+      }
+    },
+    {
+      "team": "WreckTheLine",
+      "pos": 42,
+      "score": 884,
+      "id": 396,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627163767
+        }
+      }
+    },
+    {
+      "team": "[  ]",
+      "pos": 43,
+      "score": 884,
+      "id": 408,
+      "taskStats": {
+        "SodaFactory": {
+          "points": 884,
+          "time": 1627187532
+        }
+      }
+    },
+    {
+      "team": "doma",
+      "pos": 44,
+      "score": 875,
+      "id": 63,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627134640
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627136769
+        }
+      }
+    },
+    {
+      "team": "traP_casual",
+      "pos": 45,
+      "score": 875,
+      "id": 154,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627140054
+        },
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627183806
+        }
+      }
+    },
+    {
+      "team": "ret2school",
+      "pos": 46,
+      "score": 838,
+      "id": 94,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113641
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627117839
+        }
+      }
+    },
+    {
+      "team": "vegctrp",
+      "pos": 47,
+      "score": 838,
+      "id": 238,
+      "taskStats": {
+        "Hello World": {
+          "points": 738,
+          "time": 1627126916
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627127509
+        }
+      }
+    },
+    {
+      "team": "Red Knights",
+      "pos": 48,
+      "score": 838,
+      "id": 184,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627115431
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627134995
+        }
+      }
+    },
+    {
+      "team": "Contrail",
+      "pos": 49,
+      "score": 838,
+      "id": 256,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113142
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627135220
+        }
+      }
+    },
+    {
+      "team": "CornishRex",
+      "pos": 50,
+      "score": 838,
+      "id": 212,
+      "taskStats": {
+        "Hello World": {
+          "points": 738,
+          "time": 1627169615
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627171308
+        }
+      }
+    },
+    {
+      "team": "1gy",
+      "pos": 51,
+      "score": 838,
+      "id": 434,
+      "taskStats": {
+        "Hello World": {
+          "points": 738,
+          "time": 1627183645
+        },
+        "Sanity": {
+          "points": 100,
+          "time": 1627183666
+        }
+      }
+    },
+    {
+      "team": "unknow",
+      "pos": 52,
+      "score": 838,
+      "id": 390,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627177138
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627184321
+        }
+      }
+    },
+    {
+      "team": "Sinn3rB0y5",
+      "pos": 53,
+      "score": 838,
+      "id": 54,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627188864
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627190254
+        }
+      }
+    },
+    {
+      "team": "rycbar",
+      "pos": 54,
+      "score": 838,
+      "id": 274,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114570
+        },
+        "Hello World": {
+          "points": 738,
+          "time": 1627194919
+        }
+      }
+    },
+    {
+      "team": "pantun",
+      "pos": 55,
+      "score": 775,
+      "id": 301,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627121404
+        }
+      }
+    },
+    {
+      "team": "Bat Squad",
+      "pos": 56,
+      "score": 775,
+      "id": 320,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627124239
+        }
+      }
+    },
+    {
+      "team": "dickjustice228",
+      "pos": 57,
+      "score": 775,
+      "id": 165,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627138268
+        }
+      }
+    },
+    {
+      "team": "r09946017",
+      "pos": 58,
+      "score": 775,
+      "id": 282,
+      "taskStats": {
+        "Discrete Log": {
+          "points": 775,
+          "time": 1627150142
+        }
+      }
+    },
+    {
+      "team": "dcode-us",
+      "pos": 59,
+      "score": 100,
+      "id": 111,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112037
+        }
+      }
+    },
+    {
+      "team": "Rickard",
+      "pos": 60,
+      "score": 100,
+      "id": 78,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112709
+        }
+      }
+    },
+    {
+      "team": "Priv8Corp",
+      "pos": 61,
+      "score": 100,
+      "id": 210,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112857
+        }
+      }
+    },
+    {
+      "team": "KKN Back To Isekai",
+      "pos": 62,
+      "score": 100,
+      "id": 149,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627112941
+        }
+      }
+    },
+    {
+      "team": "PHhackers",
+      "pos": 63,
+      "score": 100,
+      "id": 262,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113022
+        }
+      }
+    },
+    {
+      "team": "C4C",
+      "pos": 64,
+      "score": 100,
+      "id": 215,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113052
+        }
+      }
+    },
+    {
+      "team": "TeamShakti",
+      "pos": 65,
+      "score": 100,
+      "id": 61,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113409
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627188701
+        }
+      }
+    },
+    {
+      "team": "Askar Cyber Bertuah",
+      "pos": 66,
+      "score": 100,
+      "id": 85,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627113734
+        }
+      }
+    },
+    {
+      "team": "Xclow3n",
+      "pos": 67,
+      "score": 100,
+      "id": 126,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114397
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 68,
+      "score": 100,
+      "id": 91,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114418
+        }
+      }
+    },
+    {
+      "team": "MExP",
+      "pos": 69,
+      "score": 100,
+      "id": 182,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114447
+        }
+      }
+    },
+    {
+      "team": "BackMoon",
+      "pos": 70,
+      "score": 100,
+      "id": 36,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114592
+        }
+      }
+    },
+    {
+      "team": "P0w3rh0use 0f th3 Sh311",
+      "pos": 71,
+      "score": 100,
+      "id": 148,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114702
+        }
+      }
+    },
+    {
+      "team": "spoilers",
+      "pos": 72,
+      "score": 100,
+      "id": 252,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114766
+        }
+      }
+    },
+    {
+      "team": "16bit",
+      "pos": 73,
+      "score": 100,
+      "id": 62,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627114896
+        }
+      }
+    },
+    {
+      "team": "Bawang",
+      "pos": 74,
+      "score": 100,
+      "id": 80,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627115482
+        }
+      }
+    },
+    {
+      "team": "BTeam",
+      "pos": 75,
+      "score": 100,
+      "id": 163,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627115668
+        }
+      }
+    },
+    {
+      "team": "ouillle",
+      "pos": 76,
+      "score": 100,
+      "id": 158,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627115924
+        }
+      }
+    },
+    {
+      "team": "halah",
+      "pos": 77,
+      "score": 100,
+      "id": 202,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627116165
+        }
+      }
+    },
+    {
+      "team": "pejuangcinta",
+      "pos": 78,
+      "score": 100,
+      "id": 147,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627116361
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627189909
+        }
+      }
+    },
+    {
+      "team": "haXor",
+      "pos": 79,
+      "score": 100,
+      "id": 276,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627116496
+        }
+      }
+    },
+    {
+      "team": "XTeam",
+      "pos": 80,
+      "score": 100,
+      "id": 203,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627116573
+        }
+      }
+    },
+    {
+      "team": "CSALab_Sec",
+      "pos": 81,
+      "score": 100,
+      "id": 171,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627116573
+        }
+      }
+    },
+    {
+      "team": "barlaabhi",
+      "pos": 82,
+      "score": 100,
+      "id": 298,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627117147
+        }
+      }
+    },
+    {
+      "team": "MushroomSugarGingerALE",
+      "pos": 83,
+      "score": 100,
+      "id": 176,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627117149
+        }
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 84,
+      "score": 100,
+      "id": 118,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627117414
+        }
+      }
+    },
+    {
+      "team": "breadklan",
+      "pos": 85,
+      "score": 100,
+      "id": 96,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627118288
+        }
+      }
+    },
+    {
+      "team": "Hamers",
+      "pos": 86,
+      "score": 100,
+      "id": 100,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627118289
+        }
+      }
+    },
+    {
+      "team": "buttowski",
+      "pos": 87,
+      "score": 100,
+      "id": 278,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627118686
+        }
+      }
+    },
+    {
+      "team": "hardcode",
+      "pos": 88,
+      "score": 100,
+      "id": 260,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627118831
+        }
+      }
+    },
+    {
+      "team": "InfosecIITG",
+      "pos": 89,
+      "score": 100,
+      "id": 285,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627118925
+        }
+      }
+    },
+    {
+      "team": "N0Named",
+      "pos": 90,
+      "score": 100,
+      "id": 37,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627119187
+        }
+      }
+    },
+    {
+      "team": "mathLQDKH1619",
+      "pos": 91,
+      "score": 100,
+      "id": 220,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627119288
+        }
+      }
+    },
+    {
+      "team": "L0l",
+      "pos": 92,
+      "score": 100,
+      "id": 38,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627119629
+        }
+      }
+    },
+    {
+      "team": "PoCTeam",
+      "pos": 93,
+      "score": 100,
+      "id": 205,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627121180
+        }
+      }
+    },
+    {
+      "team": "Qasox",
+      "pos": 94,
+      "score": 100,
+      "id": 6,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627122648
+        }
+      }
+    },
+    {
+      "team": "ri5e",
+      "pos": 95,
+      "score": 100,
+      "id": 101,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627123578
+        }
+      }
+    },
+    {
+      "team": "Bikin Nangid Bidan",
+      "pos": 96,
+      "score": 100,
+      "id": 9,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627128317
+        }
+      }
+    },
+    {
+      "team": "Oh no...",
+      "pos": 97,
+      "score": 100,
+      "id": 57,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627129422
+        }
+      }
+    },
+    {
+      "team": "flagshopboys",
+      "pos": 98,
+      "score": 100,
+      "id": 193,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627129937
+        }
+      }
+    },
+    {
+      "team": "아몰라",
+      "pos": 99,
+      "score": 100,
+      "id": 338,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627130019
+        }
+      }
+    },
+    {
+      "team": "BABAYAGA",
+      "pos": 100,
+      "score": 100,
+      "id": 337,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627130065
+        }
+      }
+    },
+    {
+      "team": "roots",
+      "pos": 101,
+      "score": 100,
+      "id": 316,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627130235
+        }
+      }
+    },
+    {
+      "team": "w1ldc4t",
+      "pos": 102,
+      "score": 100,
+      "id": 348,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627131889
+        }
+      }
+    },
+    {
+      "team": "c0d3_h4cki05_",
+      "pos": 103,
+      "score": 100,
+      "id": 281,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627132507
+        }
+      }
+    },
+    {
+      "team": "TNCyberSec",
+      "pos": 104,
+      "score": 100,
+      "id": 341,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627132565
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627188799
+        }
+      }
+    },
+    {
+      "team": "DeltaHeap",
+      "pos": 105,
+      "score": 100,
+      "id": 67,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627135923
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627195285
+        }
+      }
+    },
+    {
+      "team": "wiringsquad",
+      "pos": 106,
+      "score": 100,
+      "id": 314,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627136502
+        }
+      }
+    },
+    {
+      "team": "ZombieShroom",
+      "pos": 107,
+      "score": 100,
+      "id": 359,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627137143
+        }
+      }
+    },
+    {
+      "team": "DDLJ",
+      "pos": 108,
+      "score": 100,
+      "id": 253,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627139345
+        }
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 109,
+      "score": 100,
+      "id": 75,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627139690
+        }
+      }
+    },
+    {
+      "team": "N33rdZ",
+      "pos": 110,
+      "score": 100,
+      "id": 214,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627139899
+        }
+      }
+    },
+    {
+      "team": "BisonSquad",
+      "pos": 111,
+      "score": 100,
+      "id": 384,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627140828
+        }
+      }
+    },
+    {
+      "team": "Martial_Law_Enforcer",
+      "pos": 112,
+      "score": 100,
+      "id": 317,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627141056
+        }
+      }
+    },
+    {
+      "team": "flag{}___Orz",
+      "pos": 113,
+      "score": 100,
+      "id": 389,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627143880
+        }
+      }
+    },
+    {
+      "team": "sysc4lls",
+      "pos": 114,
+      "score": 100,
+      "id": 392,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627145050
+        }
+      }
+    },
+    {
+      "team": "Martin HS",
+      "pos": 115,
+      "score": 100,
+      "id": 395,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627146640
+        }
+      }
+    },
+    {
+      "team": "DoomHack",
+      "pos": 116,
+      "score": 100,
+      "id": 191,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627149631
+        }
+      }
+    },
+    {
+      "team": "PWr Synt@x Err0r",
+      "pos": 117,
+      "score": 100,
+      "id": 151,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627155310
+        }
+      }
+    },
+    {
+      "team": "AloneInTheField",
+      "pos": 118,
+      "score": 100,
+      "id": 416,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627163220
+        }
+      }
+    },
+    {
+      "team": "gruf",
+      "pos": 119,
+      "score": 100,
+      "id": 44,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627164685
+        }
+      }
+    },
+    {
+      "team": "4hem",
+      "pos": 120,
+      "score": 100,
+      "id": 433,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627177492
+        }
+      }
+    },
+    {
+      "team": "h4ckx0r5",
+      "pos": 121,
+      "score": 100,
+      "id": 255,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627178052
+        }
+      }
+    },
+    {
+      "team": "r@st@~w@rl0rd",
+      "pos": 122,
+      "score": 100,
+      "id": 224,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627178498
+        }
+      }
+    },
+    {
+      "team": "TreNerd",
+      "pos": 123,
+      "score": 100,
+      "id": 435,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627181760
+        }
+      }
+    },
+    {
+      "team": "Netmigos",
+      "pos": 124,
+      "score": 100,
+      "id": 358,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627183257
+        }
+      }
+    },
+    {
+      "team": "DMZ",
+      "pos": 125,
+      "score": 100,
+      "id": 169,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627185321
+        }
+      }
+    },
+    {
+      "team": "nhl4000",
+      "pos": 126,
+      "score": 100,
+      "id": 439,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627186341
+        }
+      }
+    },
+    {
+      "team": "fr334aks",
+      "pos": 127,
+      "score": 100,
+      "id": 312,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627189554
+        },
+        "Survey": {
+          "points": 0,
+          "time": 1627189593
+        }
+      }
+    },
+    {
+      "team": "shi_yyds",
+      "pos": 128,
+      "score": 100,
+      "id": 144,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627190351
+        }
+      }
+    },
+    {
+      "team": "signedonly",
+      "pos": 129,
+      "score": 100,
+      "id": 139,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627195646
+        }
+      }
+    },
+    {
+      "team": "sln.1550",
+      "pos": 130,
+      "score": 100,
+      "id": 230,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627196539
+        }
+      }
+    },
+    {
+      "team": "CyberHackz",
+      "pos": 131,
+      "score": 100,
+      "id": 455,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627197179
+        }
+      }
+    },
+    {
+      "team": "lexsd6",
+      "pos": 132,
+      "score": 100,
+      "id": 454,
+      "taskStats": {
+        "Sanity": {
+          "points": 100,
+          "time": 1627197670
+        }
+      }
+    }
+  ],
+  "date": 1627052400,
+  "name": "IJCTF 2021"
+}
