@@ -18,8 +18,9 @@ from lib.scraper.p4 import p4CTFScraper
 from lib.scraper.bcactf import BCACTFScraper
 from lib.scraper.rctf import RCTFScraper
 from lib.scraper.tctf import TCTFScraper
+from lib.scraper.imaginaryctf import ImaginaryCTFScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper, "3kctf": The3000CTFScraper, "p4": p4CTFScraper, "bcactf": BCACTFScraper, "rctf": RCTFScraper, "tctf": TCTFScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper, "3kctf": The3000CTFScraper, "p4": p4CTFScraper, "bcactf": BCACTFScraper, "rctf": RCTFScraper, "tctf": TCTFScraper, "imaginaryctf": ImaginaryCTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
