@@ -1,0 +1,4706 @@
+{
+  "tasks": [
+    "Mic Check",
+    "Farm",
+    "Robert",
+    "Rohald",
+    "Ecchimera - Updated",
+    "My Sieve",
+    "Hyper Normal",
+    "KeyBase",
+    "Triplet",
+    "DoRSA",
+    "Hamul",
+    "Double Miff - Updated",
+    "Elegant Curve",
+    "Improved",
+    "Polish",
+    "Ferman",
+    "Trunc",
+    "Symbols",
+    "Frozen",
+    "Wolf",
+    "Salt and Pepper",
+    "Tiny ECC",
+    "Lower",
+    "LINDA",
+    "RSAphantine",
+    "Rima",
+    "Onlude",
+    "Tuti",
+    "Maid"
+  ],
+  "standings": [
+    {
+      "team": "Super Guesser",
+      "pos": 1,
+      "score": 4380,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "DoRSA": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Polish": null,
+        "Ferman": null,
+        "Trunc": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Sài Gòn ơi, cố lên!",
+      "pos": 2,
+      "score": 3526,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "DoRSA": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "CryptoHackers",
+      "pos": 3,
+      "score": 3403,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Trunc": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "GatorSheavesMutably",
+      "pos": 4,
+      "score": 3403,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Trunc": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Kuruwa",
+      "pos": 5,
+      "score": 3131,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Trunc": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "ariana",
+      "pos": 6,
+      "score": 3049,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "y011d4",
+      "pos": 7,
+      "score": 2917,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Trunc": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Black Bauhinia",
+      "pos": 8,
+      "score": 2892,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Trunc": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "🛹🐻",
+      "pos": 9,
+      "score": 2764,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Nu1L",
+      "pos": 10,
+      "score": 2725,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Ferman": null,
+        "Trunc": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "namlleh",
+      "pos": 11,
+      "score": 2655,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "crypthem0le",
+      "pos": 12,
+      "score": 2563,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Galhacktic Trendsetters",
+      "pos": 13,
+      "score": 2538,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "isanapap",
+      "pos": 14,
+      "score": 2312,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "./Vespiary",
+      "pos": 15,
+      "score": 2166,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "timmy",
+      "pos": 16,
+      "score": 2054,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Improved": null,
+        "Ferman": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Three_Musketeers",
+      "pos": 17,
+      "score": 1902,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Improved": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "hxp",
+      "pos": 18,
+      "score": 1816,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "My Sieve": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Elegant Curve": null,
+        "Symbols": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "nyahello",
+      "pos": 19,
+      "score": 1778,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Simple",
+      "pos": 20,
+      "score": 1698,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "STT",
+      "pos": 21,
+      "score": 1698,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "bruh",
+      "pos": 22,
+      "score": 1593,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "kasiatutej",
+      "pos": 23,
+      "score": 1560,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Ecchimera - Updated": null,
+        "Hyper Normal": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Elegant Curve": null,
+        "Improved": null,
+        "Ferman": null,
+        "Tiny ECC": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "K3RN3L4RMY",
+      "pos": 24,
+      "score": 1319,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "w1relessslab",
+      "pos": 25,
+      "score": 1292,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Symbols": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "LINDA": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 26,
+      "score": 1292,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Tasteless",
+      "pos": 27,
+      "score": 1164,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "watevr",
+      "pos": 28,
+      "score": 1164,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Ferman": null,
+        "Frozen": null,
+        "Wolf": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Grzegorz Brzęczyszczykiewicz",
+      "pos": 29,
+      "score": 1132,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Ferman": null,
+        "Frozen": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "goo",
+      "pos": 30,
+      "score": 1128,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Red Cadets",
+      "pos": 31,
+      "score": 1125,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rohald": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Elegant Curve": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null
+      }
+    },
+    {
+      "team": "B3bieSec",
+      "pos": 32,
+      "score": 1016,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Improved": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "LINDA": null
+      }
+    },
+    {
+      "team": "mode13h",
+      "pos": 33,
+      "score": 1008,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Federation",
+      "pos": 34,
+      "score": 991,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null
+      }
+    },
+    {
+      "team": "N30Z30N",
+      "pos": 35,
+      "score": 951,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "Rohald": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Rima": null,
+        "Onlude": null
+      }
+    },
+    {
+      "team": "XDD",
+      "pos": 36,
+      "score": 944,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Double Miff - Updated": null,
+        "Symbols": null,
+        "RSAphantine": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "mugi",
+      "pos": 37,
+      "score": 938,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Improved": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "RiceGang",
+      "pos": 38,
+      "score": 892,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Improved": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Killua4564",
+      "pos": 39,
+      "score": 869,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Improved": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "/bad",
+      "pos": 40,
+      "score": 844,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null
+      }
+    },
+    {
+      "team": "MATE",
+      "pos": 41,
+      "score": 822,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "RSAphantine": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "TheTeamless",
+      "pos": 42,
+      "score": 772,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "ELT",
+      "pos": 43,
+      "score": 770,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Ecchimera - Updated": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "NUSGreyhats",
+      "pos": 44,
+      "score": 748,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "3k",
+      "pos": 45,
+      "score": 732,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Wanna.One",
+      "pos": 46,
+      "score": 714,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Improved": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Silver Catalysts",
+      "pos": 47,
+      "score": 685,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Improved": null,
+        "Symbols": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 48,
+      "score": 679,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Frozen": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "nushmallows",
+      "pos": 49,
+      "score": 652,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null
+      }
+    },
+    {
+      "team": "SIGINT",
+      "pos": 50,
+      "score": 651,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Hamul": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "sarma",
+      "pos": 51,
+      "score": 634,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Improved": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 52,
+      "score": 629,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "0nlyFlags",
+      "pos": 53,
+      "score": 581,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Improved": null,
+        "Symbols": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Abnormally Directed Dimension",
+      "pos": 54,
+      "score": 579,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "otrada",
+      "pos": 55,
+      "score": 570,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Frozen": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 56,
+      "score": 559,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null
+      }
+    },
+    {
+      "team": "technic",
+      "pos": 57,
+      "score": 547,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Maple Bacon",
+      "pos": 58,
+      "score": 543,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Robert": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Salt and Pepper": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "dodododo",
+      "pos": 59,
+      "score": 536,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Wolf": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "VLIM",
+      "pos": 60,
+      "score": 523,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "RSAphantine": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "CSI",
+      "pos": 61,
+      "score": 522,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Wolf": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "mikoan",
+      "pos": 62,
+      "score": 514,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Ph0t1n1a",
+      "pos": 63,
+      "score": 511,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Improved": null,
+        "Symbols": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "nag0m1",
+      "pos": 64,
+      "score": 462,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "r00tstici",
+      "pos": 65,
+      "score": 462,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Tiny ECC": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "prequantumers",
+      "pos": 66,
+      "score": 444,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Ferman": null,
+        "Symbols": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "poigiatre",
+      "pos": 67,
+      "score": 438,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Symbols": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "French Poetry",
+      "pos": 68,
+      "score": 428,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "Tmw Orz",
+      "pos": 69,
+      "score": 410,
+      "taskStats": {
+        "Mic Check": null,
+        "Robert": null,
+        "Hyper Normal": null,
+        "Improved": null
+      }
+    },
+    {
+      "team": "uiop",
+      "pos": 70,
+      "score": 392,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "C4T BuT S4D",
+      "pos": 71,
+      "score": 392,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "WaterDrop",
+      "pos": 72,
+      "score": 391,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "TeamC8",
+      "pos": 73,
+      "score": 390,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "Triplet": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "pwnthenope",
+      "pos": 74,
+      "score": 378,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 75,
+      "score": 377,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Wechall Warriors",
+      "pos": 76,
+      "score": 377,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "merricx",
+      "pos": 77,
+      "score": 367,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Wolf": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "RecursionFairies",
+      "pos": 78,
+      "score": 358,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Rima": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "kad",
+      "pos": 79,
+      "score": 351,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Triplet": null,
+        "Symbols": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "MagshimistsCanDoCrypto",
+      "pos": 80,
+      "score": 343,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "kenkenken2004",
+      "pos": 81,
+      "score": 331,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Rima": null,
+        "Onlude": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Nula",
+      "pos": 82,
+      "score": 329,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "kiona",
+      "pos": 83,
+      "score": 321,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "TSG",
+      "pos": 84,
+      "score": 321,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "soulctf",
+      "pos": 85,
+      "score": 307,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "RPISEC",
+      "pos": 86,
+      "score": 307,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "Crypt0L4ds",
+      "pos": 87,
+      "score": 307,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "Forst",
+      "pos": 88,
+      "score": 307,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "STeam",
+      "pos": 89,
+      "score": 306,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "pcw109550",
+      "pos": 90,
+      "score": 295,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hyper Normal": null,
+        "Triplet": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "Karpaty",
+      "pos": 91,
+      "score": 288,
+      "taskStats": {
+        "Mic Check": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Triplet": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "AbyssalCruelty",
+      "pos": 92,
+      "score": 280,
+      "taskStats": {
+        "Mic Check": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Hamul": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "The Additional Payphones",
+      "pos": 93,
+      "score": 253,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Salt and Pepper": null,
+        "Maid": null
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 94,
+      "score": 249,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Kaczuszki",
+      "pos": 95,
+      "score": 249,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "ByteForc3",
+      "pos": 96,
+      "score": 249,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "aaaa",
+      "pos": 97,
+      "score": 236,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "pobaTeam",
+      "pos": 98,
+      "score": 236,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "5upernova",
+      "pos": 99,
+      "score": 236,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "hx607087",
+      "pos": 100,
+      "score": 216,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Hamul": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "dakchi",
+      "pos": 101,
+      "score": 195,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null,
+        "Symbols": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "VN_MSEC",
+      "pos": 102,
+      "score": 195,
+      "taskStats": {
+        "Mic Check": null,
+        "Hyper Normal": null,
+        "KeyBase": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "Maurus",
+      "pos": 103,
+      "score": 188,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Salt and Pepper": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "OctaC0re",
+      "pos": 104,
+      "score": 188,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Symbols": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "AntiBuddies",
+      "pos": 105,
+      "score": 187,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Rima": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "panzer",
+      "pos": 106,
+      "score": 182,
+      "taskStats": {
+        "Farm": null,
+        "Hyper Normal": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "Wani Hackase",
+      "pos": 107,
+      "score": 179,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Salt and Pepper": null
+      }
+    },
+    {
+      "team": "λ f.(λ x.f (x x)) (λ x.f (x x))",
+      "pos": 108,
+      "score": 178,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "fssvs",
+      "pos": 109,
+      "score": 165,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "RedBetta",
+      "pos": 110,
+      "score": 165,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 111,
+      "score": 138,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null,
+        "Salt and Pepper": null
+      }
+    },
+    {
+      "team": "JKQuality",
+      "pos": 112,
+      "score": 131,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "Y-CTF",
+      "pos": 113,
+      "score": 131,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "To1in",
+      "pos": 114,
+      "score": 131,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "dickjustice228",
+      "pos": 115,
+      "score": 131,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "fiord",
+      "pos": 116,
+      "score": 130,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "Tuti": null
+      }
+    },
+    {
+      "team": "风好衣轻",
+      "pos": 117,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "VD",
+      "pos": 118,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "g1v3m3chee53",
+      "pos": 119,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "SPRUSH",
+      "pos": 120,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 121,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "TE5T",
+      "pos": 122,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "epistemologist",
+      "pos": 123,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "nowunkie",
+      "pos": 124,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "Geckoland",
+      "pos": 125,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "Bono_iPad",
+      "pos": 126,
+      "score": 108,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "DDHC",
+      "pos": 127,
+      "score": 104,
+      "taskStats": {
+        "Mic Check": null,
+        "Hamul": null
+      }
+    },
+    {
+      "team": "gov",
+      "pos": 128,
+      "score": 98,
+      "taskStats": {
+        "Farm": null,
+        "Rima": null
+      }
+    },
+    {
+      "team": "Expl0r3_Ev1d3nCe5",
+      "pos": 129,
+      "score": 90,
+      "taskStats": {
+        "Mic Check": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "Dai Gurren Dan",
+      "pos": 130,
+      "score": 90,
+      "taskStats": {
+        "Mic Check": null,
+        "Symbols": null
+      }
+    },
+    {
+      "team": "Corax",
+      "pos": 131,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "Acme Crypto Corporation",
+      "pos": 132,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "For_sub67",
+      "pos": 133,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "dubbalubba",
+      "pos": 134,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "ISITDTU",
+      "pos": 135,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "pejuang cinta",
+      "pos": 136,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "TeamKrabath",
+      "pos": 137,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "Sieberrsec",
+      "pos": 138,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "SV",
+      "pos": 139,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "blue0620",
+      "pos": 140,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "Waffen SSL",
+      "pos": 141,
+      "score": 67,
+      "taskStats": {
+        "Mic Check": null,
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "flag{}___Orz",
+      "pos": 142,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "PwnProphecy",
+      "pos": 143,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "upbhack",
+      "pos": 144,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "teameins",
+      "pos": 145,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "WeAreSo1337",
+      "pos": 146,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "quriosity",
+      "pos": 147,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "superusers",
+      "pos": 148,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "Invisibl3",
+      "pos": 149,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "izumo",
+      "pos": 150,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "Tunisie",
+      "pos": 151,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "antox",
+      "pos": 152,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 153,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "xcanecs",
+      "pos": 154,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "0xDoge",
+      "pos": 155,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "dont_thread_on_me",
+      "pos": 156,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "DevIsrael",
+      "pos": 157,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "AWP?",
+      "pos": 158,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "lil.thawg",
+      "pos": 159,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "P00r",
+      "pos": 160,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "1gy",
+      "pos": 161,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "DMZ",
+      "pos": 162,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "cccc",
+      "pos": 163,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "skiddies",
+      "pos": 164,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "NorthWest",
+      "pos": 165,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "kkri",
+      "pos": 166,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "light",
+      "pos": 167,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "CLS",
+      "pos": 168,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "ctfretro",
+      "pos": 169,
+      "score": 60,
+      "taskStats": {
+        "Mic Check": null,
+        "Farm": null
+      }
+    },
+    {
+      "team": "InfoSecIITR",
+      "pos": 170,
+      "score": 48,
+      "taskStats": {
+        "KeyBase": null
+      }
+    },
+    {
+      "team": "nsucy",
+      "pos": 171,
+      "score": 41,
+      "taskStats": {
+        "Farm": null
+      }
+    },
+    {
+      "team": "bhs team sort of :D",
+      "pos": 172,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "YASH",
+      "pos": 173,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "doublepentest",
+      "pos": 174,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "pemula",
+      "pos": 175,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ctfitb",
+      "pos": 176,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Thehackerscrew",
+      "pos": 177,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Sentinel",
+      "pos": 178,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "P&K",
+      "pos": 179,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Bonk_Police",
+      "pos": 180,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "0x501st",
+      "pos": 181,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "shiba gang",
+      "pos": 182,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "OurHeung",
+      "pos": 183,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Team_Thinking",
+      "pos": 184,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "RPCA Cyber Club",
+      "pos": 185,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "comrad3",
+      "pos": 186,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Sinn3rB0y5",
+      "pos": 187,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "PatagoniaHack",
+      "pos": 188,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "StOn3_WaLl",
+      "pos": 189,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "TeamTeamTeam1234",
+      "pos": 190,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "N1ghth4wks",
+      "pos": 191,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Cyb3rGh0575",
+      "pos": 192,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Team Iktomi",
+      "pos": 193,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "c@pric0rn",
+      "pos": 194,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Federal Bird Intelligence",
+      "pos": 195,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Ulm Security Sparrows",
+      "pos": 196,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "M1dnytExplo17z",
+      "pos": 197,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Seed_Im_Pierre_Dim",
+      "pos": 198,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "b0rn2Br00t",
+      "pos": 199,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "dhdmdkd",
+      "pos": 200,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "SparklingxCC",
+      "pos": 201,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Sub0",
+      "pos": 202,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "pWned",
+      "pos": 203,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Aryan",
+      "pos": 204,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 205,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "LuckyLeprechaunz",
+      "pos": 206,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ns4style",
+      "pos": 207,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "4to3",
+      "pos": 208,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "elitecoderz",
+      "pos": 209,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "arampampam",
+      "pos": 210,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Arn4kiAspr0KaiPaxy",
+      "pos": 211,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "P0ppy",
+      "pos": 212,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Evil Bear",
+      "pos": 213,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "it-sec.fail",
+      "pos": 214,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "PoC",
+      "pos": 215,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "New Team",
+      "pos": 216,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "FantasqueX",
+      "pos": 217,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "日本",
+      "pos": 218,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Splitting",
+      "pos": 219,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "cryp_$ec",
+      "pos": 220,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "KapiSec",
+      "pos": 221,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "UM",
+      "pos": 222,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ctfChallengers",
+      "pos": 223,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Shifty",
+      "pos": 224,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Shady's",
+      "pos": 225,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Sk1Ds",
+      "pos": 226,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "EISCTUTN",
+      "pos": 227,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "dokko",
+      "pos": 228,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "marsh",
+      "pos": 229,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "SpicyPotatoes",
+      "pos": 230,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "yah",
+      "pos": 231,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "MExP",
+      "pos": 232,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "JuliusCrypto",
+      "pos": 233,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "CaptainGN",
+      "pos": 234,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "United States",
+      "pos": 235,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "54010N",
+      "pos": 236,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Jacobs",
+      "pos": 237,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": ":wq!",
+      "pos": 238,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Ashes",
+      "pos": 239,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "NAYSA Space Force",
+      "pos": 240,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "deez nuts123",
+      "pos": 241,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "United States",
+      "pos": 242,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "mathLQDKH1619",
+      "pos": 243,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Blupper",
+      "pos": 244,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ADY19",
+      "pos": 245,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "dbuser",
+      "pos": 246,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Foderania",
+      "pos": 247,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "PatientTeam",
+      "pos": 248,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "h4ckth3w0rld",
+      "pos": 249,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "4141414141",
+      "pos": 250,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "hooha",
+      "pos": 251,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "whitehathacker8181",
+      "pos": 252,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "shellpwn",
+      "pos": 253,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "CJ",
+      "pos": 254,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "M@!0lica",
+      "pos": 255,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "France",
+      "pos": 256,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Purple_CrypTiV3rse",
+      "pos": 257,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "laduuu",
+      "pos": 258,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "freex86",
+      "pos": 259,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "GGaGGa",
+      "pos": 260,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "YugeiV3",
+      "pos": 261,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Easter Egg",
+      "pos": 262,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Bat Squad",
+      "pos": 263,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Bfho",
+      "pos": 264,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "BIT CRIMINALS",
+      "pos": 265,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Islanders",
+      "pos": 266,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "inci",
+      "pos": 267,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "OAmaw",
+      "pos": 268,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "All Your Flags",
+      "pos": 269,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "etc2020",
+      "pos": 270,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "hackDZ",
+      "pos": 271,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Bare Minimum",
+      "pos": 272,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "pOwOned",
+      "pos": 273,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "r00kie",
+      "pos": 274,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Para.dox",
+      "pos": 275,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Team-0x7",
+      "pos": 276,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "R00TAMNES21",
+      "pos": 277,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Teno",
+      "pos": 278,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Rasser",
+      "pos": 279,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "DU4L_S1M_PR08L3M",
+      "pos": 280,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Closers",
+      "pos": 281,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "z13db",
+      "pos": 282,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "n3rd_h3rd",
+      "pos": 283,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "CultOfNull",
+      "pos": 284,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 285,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "TU Delft CTF Team",
+      "pos": 286,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Wonderland",
+      "pos": 287,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "darkside",
+      "pos": 288,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "bet75",
+      "pos": 289,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Byte-Me",
+      "pos": 290,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "N3PS3C",
+      "pos": 291,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "SNAKEOIL",
+      "pos": 292,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "NoCountryForOldMan",
+      "pos": 293,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "NullPointerException",
+      "pos": 294,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "gruf",
+      "pos": 295,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "taln",
+      "pos": 296,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "TheTeamaaaaaa",
+      "pos": 297,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "n00bTeam",
+      "pos": 298,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Behemoth&Cody",
+      "pos": 299,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "kwitnoncy",
+      "pos": 300,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "xatha",
+      "pos": 301,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "nicholash711",
+      "pos": 302,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "CryptoL0vers",
+      "pos": 303,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Prime Squad",
+      "pos": 304,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "United States",
+      "pos": 305,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Cipher.exe",
+      "pos": 306,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Dino Dongers",
+      "pos": 307,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "IsolatingBeforeItWasCool",
+      "pos": 308,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "hackcoeur",
+      "pos": 309,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "crytech7",
+      "pos": 310,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Cyber Blob Force",
+      "pos": 311,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "[  ]",
+      "pos": 312,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 313,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Wuuu",
+      "pos": 314,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Bug_Eaters",
+      "pos": 315,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "MZT",
+      "pos": 316,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "p4snet0",
+      "pos": 317,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "cyberbangla",
+      "pos": 318,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "skjd1234",
+      "pos": 319,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "COND1TION ONE",
+      "pos": 320,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Fweefwop",
+      "pos": 321,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Sierra Leone",
+      "pos": 322,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "simurgh",
+      "pos": 323,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "W",
+      "pos": 324,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "f50c131y",
+      "pos": 325,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Birds",
+      "pos": 326,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Banditter i Habitter",
+      "pos": 327,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "WhiteKnnife",
+      "pos": 328,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "CTF Moment",
+      "pos": 329,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "goldenCalcium",
+      "pos": 330,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Honu",
+      "pos": 331,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "thesolos",
+      "pos": 332,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "displayname",
+      "pos": 333,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "CTF Moment",
+      "pos": 334,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ri5e",
+      "pos": 335,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Gemooy",
+      "pos": 336,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "0brell",
+      "pos": 337,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "p a i n",
+      "pos": 338,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Er0x82or",
+      "pos": 339,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "zzzz",
+      "pos": 340,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "kgrzk",
+      "pos": 341,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ArchonCTF",
+      "pos": 342,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Israel",
+      "pos": 343,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "tea2432",
+      "pos": 344,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Carpedien",
+      "pos": 345,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "xSTF",
+      "pos": 346,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "FF9",
+      "pos": 347,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "r29er",
+      "pos": 348,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "0a24",
+      "pos": 349,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ไทย",
+      "pos": 350,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "hui_pentest",
+      "pos": 351,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "4Eyes",
+      "pos": 352,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Lev9L",
+      "pos": 353,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "obsession",
+      "pos": 354,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "wackers",
+      "pos": 355,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "StrixGoldhorn",
+      "pos": 356,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "fuchen",
+      "pos": 357,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "MHax3ers",
+      "pos": 358,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "WYE",
+      "pos": 359,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "zksnarks",
+      "pos": 360,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "temptemp",
+      "pos": 361,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "leonuz",
+      "pos": 362,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "KaungHtetAung",
+      "pos": 363,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Nepal",
+      "pos": 364,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ma",
+      "pos": 365,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "笑拉了",
+      "pos": 366,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ru7ynk4",
+      "pos": 367,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "4hem",
+      "pos": 368,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "CSAX",
+      "pos": 369,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "n3rdn3ck",
+      "pos": 370,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Vaada",
+      "pos": 371,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "玛卡巴卡队",
+      "pos": 372,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "A Shining Solo",
+      "pos": 373,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "rawrxd",
+      "pos": 374,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Zig Hack Zag",
+      "pos": 375,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "0x000f",
+      "pos": 376,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "W018",
+      "pos": 377,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "onePerson",
+      "pos": 378,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Fs0ciety00",
+      "pos": 379,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "KiD",
+      "pos": 380,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "zxc",
+      "pos": 381,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "d1no",
+      "pos": 382,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "to^",
+      "pos": 383,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "54010n",
+      "pos": 384,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "TNCyberSec",
+      "pos": 385,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "L0neW0lf",
+      "pos": 386,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Vietnam",
+      "pos": 387,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Testings",
+      "pos": 388,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "K33P_Qu!34",
+      "pos": 389,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "HHJ",
+      "pos": 390,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "TeamH4C",
+      "pos": 391,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "uranium235",
+      "pos": 392,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "legendOfHell",
+      "pos": 393,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "killswitch",
+      "pos": 394,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "kt",
+      "pos": 395,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "katachi",
+      "pos": 396,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "flagfiends",
+      "pos": 397,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "spr1ng",
+      "pos": 398,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Hololive",
+      "pos": 399,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "0m3g4",
+      "pos": 400,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "MirrorOS",
+      "pos": 401,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "123admin",
+      "pos": 402,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "aespa",
+      "pos": 403,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "sbstm",
+      "pos": 404,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "PJSP",
+      "pos": 405,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "XinChao",
+      "pos": 406,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "gomenic725",
+      "pos": 407,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Moonctf",
+      "pos": 408,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Flag Fiends",
+      "pos": 409,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "hakaruud",
+      "pos": 410,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "LeonT",
+      "pos": 411,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "cryptohack",
+      "pos": 412,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Medis",
+      "pos": 413,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "empty_",
+      "pos": 414,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "抒情诗、",
+      "pos": 415,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ghostrecon",
+      "pos": 416,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Singapore",
+      "pos": 417,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ToE42",
+      "pos": 418,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Martial_Law_Enforcer",
+      "pos": 419,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "meriem",
+      "pos": 420,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Tf",
+      "pos": 421,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Fu1lc0n-",
+      "pos": 422,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "X_X",
+      "pos": 423,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "rabbitsthecat",
+      "pos": 424,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "TheMythologist",
+      "pos": 425,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "cilantro",
+      "pos": 426,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "thiennn.neji",
+      "pos": 427,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "KoRec",
+      "pos": 428,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ondrca_team",
+      "pos": 429,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "oscuro6879",
+      "pos": 430,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "somayi2021",
+      "pos": 431,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "team-blek-mejik",
+      "pos": 432,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "Kepler",
+      "pos": 433,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "HackITGuys",
+      "pos": 434,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "JustACasualPlayer",
+      "pos": 435,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "ronen8231",
+      "pos": 436,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "J0hnny",
+      "pos": 437,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "HL2FORASS",
+      "pos": 438,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "th31nk",
+      "pos": 439,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "HelloWorld",
+      "pos": 440,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "F-Cumb4cK",
+      "pos": 441,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "(mendung)10^6",
+      "pos": 442,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "PwnLeak",
+      "pos": 443,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    },
+    {
+      "team": "New Team",
+      "pos": 444,
+      "score": 19,
+      "taskStats": {
+        "Mic Check": null
+      }
+    }
+  ],
+  "date": 1627657200,
+  "name": "Crypto CTF 2021"
+}
