@@ -47,7 +47,7 @@ class RCTFScraper():
         r = self._get("/api/v1/users/{}".format(team_id))
         r.raise_for_status()
         data = r.json()["data"]
-        return {s["id"]:{
+        return {s["name"]:{
             "points": s["points"],
             "time": s["createdAt"],
         } for s in data["solves"]}
@@ -56,7 +56,7 @@ class RCTFScraper():
         r = self._get("/api/v1/challs")
         r.raise_for_status()
         data = r.json()["data"]
-        return [d["id"] for d in data]
+        return [d["name"] for d in data]
 
     def scoreboard(self):
         tasks = self._tasks()
