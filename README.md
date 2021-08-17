@@ -75,7 +75,7 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 
 ## Author
 
-- theoremoon (in zer0pts)
+- theoremoon (zer0pts)
 
 ## License
 
