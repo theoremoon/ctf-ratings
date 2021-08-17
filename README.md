@@ -69,6 +69,9 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - THC CTF 2021 (registration closed immediately after the competition and challenges were only opened for the competitors)
 - CyberThreatForce CTF | 2021 (registration is closed / scoreboard not available)
 - CyBRICS CTF (I cannot know each teams solved what challenges)
+- RAR CTF (I cannot know each teams solved what challenges)
+- Really Awesome CTF (ditto)
+- InCTF (scoreserver is closed)
 
 ## Author
 
