@@ -43,8 +43,8 @@ Add `<CTF>.json` to `./data/events/`. Scoreboard format is following mainly http
     },
     { ... }
   ],
-  "date": 1600000000,
-  "name": "CTF Name"
+  "date": 1600000000, // added
+  "name": "CTF Name" // added
 }
 ```
 
