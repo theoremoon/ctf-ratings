@@ -72,6 +72,9 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - ~~RAR CTF (I cannot know each teams solved what challenges)~~ added by @willwam845 at (https://github.com/theoremoon/ctf-ratings/pull/57)
 - Really Awesome CTF (ditto)
 - InCTF (scoreserver is closed)
+- FwordCTF 2021 (scoreserver is unstable to scrape)
+- YauzaCTF 2021 (cannot see solved tasks of other teams)
+- WORMCON 0x01 (UserAgent Denied)
 
 ## Author
 
