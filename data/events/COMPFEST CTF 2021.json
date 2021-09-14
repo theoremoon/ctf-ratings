@@ -1,0 +1,4515 @@
+{
+  "tasks": [
+    "Hospital Donation",
+    "Secure Channel",
+    "COMPFEST IDE",
+    "WaifuDroid",
+    "You AES Me Up",
+    "Moneypoly",
+    "COMPFEST Pay v2",
+    "Promotional Video",
+    "alogus",
+    "Shop Manager",
+    "VidCap",
+    "Love Your Brain Extended",
+    "FIrewall-ed",
+    "Pave The Way",
+    "Magical Mystery Club",
+    "Naomi Gives Noises",
+    "Mine",
+    "Chasing The Flag!",
+    "Lab",
+    "Snab? Yes, Snab",
+    "Junior Signing System",
+    "Chocolate With Nuts",
+    "Kode Buta",
+    "BrainSim",
+    "Sanity Check",
+    "Baby JS",
+    "Binary Pin"
+  ],
+  "standings": [
+    {
+      "team": "warlock_rootx",
+      "pos": 1,
+      "score": 6668,
+      "id": 189,
+      "taskStats": {
+        "VidCap": {
+          "points": 359,
+          "time": 1631452378
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631456263
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631456365
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631460167
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631460631
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631460929
+        },
+        "alogus": {
+          "points": 499,
+          "time": 1631495256
+        },
+        "Chocolate With Nuts": {
+          "points": 496,
+          "time": 1631499629
+        },
+        "Secure Channel": {
+          "points": 494,
+          "time": 1631501531
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631501615
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631501722
+        },
+        "Magical Mystery Club": {
+          "points": 496,
+          "time": 1631510455
+        },
+        "Love Your Brain Extended": {
+          "points": 500,
+          "time": 1631510494
+        },
+        "Binary Pin": {
+          "points": 500,
+          "time": 1631511024
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631511357
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631511391
+        },
+        "Junior Signing System": {
+          "points": 500,
+          "time": 1631516613
+        }
+      }
+    },
+    {
+      "team": "SEKTE GADENG",
+      "pos": 2,
+      "score": 5255,
+      "id": 97,
+      "taskStats": {
+        "Shop Manager": {
+          "points": 496,
+          "time": 1631435609
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631435754
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435763
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631438880
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631438976
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631505340
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631505377
+        },
+        "Moneypoly": {
+          "points": 500,
+          "time": 1631506479
+        },
+        "Chocolate With Nuts": {
+          "points": 496,
+          "time": 1631506623
+        },
+        "Mine": {
+          "points": 500,
+          "time": 1631506881
+        },
+        "Kode Buta": {
+          "points": 500,
+          "time": 1631507369
+        },
+        "BrainSim": {
+          "points": 500,
+          "time": 1631507544
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631507572
+        }
+      }
+    },
+    {
+      "team": "AmpunBangJago",
+      "pos": 3,
+      "score": 5187,
+      "id": 268,
+      "taskStats": {
+        "Chocolate With Nuts": {
+          "points": 496,
+          "time": 1631468576
+        },
+        "alogus": {
+          "points": 499,
+          "time": 1631468597
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631468620
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631468637
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631468672
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631468877
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631468886
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631468925
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631469480
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631472240
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631474528
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631495205
+        },
+        "Shop Manager": {
+          "points": 496,
+          "time": 1631511964
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631514021
+        }
+      }
+    },
+    {
+      "team": "(mendung)10^6",
+      "pos": 4,
+      "score": 5130,
+      "id": 48,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631448641
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631448648
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631448789
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631448807
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631448826
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631449578
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631449664
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631449699
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631449841
+        },
+        "Secure Channel": {
+          "points": 494,
+          "time": 1631450081
+        },
+        "Magical Mystery Club": {
+          "points": 496,
+          "time": 1631450105
+        },
+        "Binary Pin": {
+          "points": 500,
+          "time": 1631450756
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631451126
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631501650
+        }
+      }
+    },
+    {
+      "team": "upsss",
+      "pos": 5,
+      "score": 4723,
+      "id": 102,
+      "taskStats": {
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631436515
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631436672
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631436696
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631436732
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631437054
+        },
+        "Chasing The Flag!": {
+          "points": 499,
+          "time": 1631437170
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631437448
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631438230
+        },
+        "COMPFEST Pay v2": {
+          "points": 500,
+          "time": 1631454658
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631455150
+        },
+        "Secure Channel": {
+          "points": 494,
+          "time": 1631455813
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631455958
+        },
+        "Shop Manager": {
+          "points": 496,
+          "time": 1631456328
+        }
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 6,
+      "score": 4165,
+      "id": 87,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631434410
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434705
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631435020
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631435028
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631435315
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631435617
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631437412
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631440578
+        },
+        "Secure Channel": {
+          "points": 494,
+          "time": 1631440662
+        },
+        "Junior Signing System": {
+          "points": 500,
+          "time": 1631445204
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631456767
+        },
+        "Chocolate With Nuts": {
+          "points": 496,
+          "time": 1631518777
+        }
+      }
+    },
+    {
+      "team": "Hackappatoi",
+      "pos": 7,
+      "score": 3679,
+      "id": 13,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439549
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631440773
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631453360
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631457946
+        },
+        "Magical Mystery Club": {
+          "points": 496,
+          "time": 1631471012
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631471763
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631474069
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631478068
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631480683
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631502858
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631514947
+        }
+      }
+    },
+    {
+      "team": "H25",
+      "pos": 8,
+      "score": 2967,
+      "id": 61,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435988
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631436009
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631436581
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631437129
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631437742
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631448517
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631465623
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631503753
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631509064
+        }
+      }
+    },
+    {
+      "team": "Flaggermeister",
+      "pos": 9,
+      "score": 2766,
+      "id": 160,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631444531
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631445069
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631445920
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631452006
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631455107
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631455441
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631479118
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631485163
+        },
+        "Magical Mystery Club": {
+          "points": 496,
+          "time": 1631497880
+        }
+      }
+    },
+    {
+      "team": "BTeam",
+      "pos": 10,
+      "score": 2751,
+      "id": 69,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433726
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434559
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631434686
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631435788
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631436382
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631436863
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631441289
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631446397
+        },
+        "Chocolate With Nuts": {
+          "points": 496,
+          "time": 1631518716
+        }
+      }
+    },
+    {
+      "team": "Em0t3t",
+      "pos": 11,
+      "score": 2725,
+      "id": 176,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631450392
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631452471
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631453242
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631455641
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631458583
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631458856
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631460634
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631479150
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631483298
+        }
+      }
+    },
+    {
+      "team": "Cat Training Force",
+      "pos": 12,
+      "score": 2449,
+      "id": 9,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631447739
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631447766
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631455873
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631501704
+        },
+        "Magical Mystery Club": {
+          "points": 496,
+          "time": 1631503797
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631511535
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631514387
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631515609
+        }
+      }
+    },
+    {
+      "team": "kuduiso",
+      "pos": 13,
+      "score": 2207,
+      "id": 90,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631443049
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631443478
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631448015
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631450278
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631453042
+        },
+        "Chasing The Flag!": {
+          "points": 499,
+          "time": 1631462649
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631465704
+        }
+      }
+    },
+    {
+      "team": "n0internsh1p",
+      "pos": 14,
+      "score": 2171,
+      "id": 117,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437428
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438797
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631444594
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631446987
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631455799
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631457372
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631476435
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631481104
+        }
+      }
+    },
+    {
+      "team": "banua",
+      "pos": 15,
+      "score": 2096,
+      "id": 78,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433815
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631433903
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631434692
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631435572
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631436445
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631436685
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631438457
+        }
+      }
+    },
+    {
+      "team": "S0FTS3C",
+      "pos": 16,
+      "score": 1977,
+      "id": 43,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433779
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631436143
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631445794
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631473363
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631475118
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631477321
+        }
+      }
+    },
+    {
+      "team": "5upernova",
+      "pos": 17,
+      "score": 1862,
+      "id": 312,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631498198
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631498810
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631499717
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631503197
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631511804
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631516006
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631517433
+        }
+      }
+    },
+    {
+      "team": "COMPASS",
+      "pos": 18,
+      "score": 1816,
+      "id": 308,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631497652
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631498513
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631500988
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631502498
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631503069
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631514244
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631515366
+        }
+      }
+    },
+    {
+      "team": "Hermes",
+      "pos": 19,
+      "score": 1682,
+      "id": 93,
+      "taskStats": {
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631438223
+        },
+        "Junior Signing System": {
+          "points": 500,
+          "time": 1631445670
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631450543
+        },
+        "Secure Channel": {
+          "points": 494,
+          "time": 1631462718
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631463038
+        }
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 20,
+      "score": 1635,
+      "id": 76,
+      "taskStats": {
+        "Shop Manager": {
+          "points": 496,
+          "time": 1631459818
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631460075
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631466287
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631480298
+        },
+        "Moneypoly": {
+          "points": 500,
+          "time": 1631518736
+        }
+      }
+    },
+    {
+      "team": "WaterDrop",
+      "pos": 21,
+      "score": 1581,
+      "id": 334,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631509905
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631509915
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631510941
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631514746
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631515649
+        },
+        "Secure Channel": {
+          "points": 494,
+          "time": 1631518900
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 22,
+      "score": 1481,
+      "id": 77,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631434213
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631441512
+        },
+        "Magical Mystery Club": {
+          "points": 496,
+          "time": 1631450756
+        },
+        "alogus": {
+          "points": 499,
+          "time": 1631481596
+        }
+      }
+    },
+    {
+      "team": "bismillah bisa jago",
+      "pos": 23,
+      "score": 1421,
+      "id": 152,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631442577
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631442598
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631442854
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631445129
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631446612
+        }
+      }
+    },
+    {
+      "team": "bebas mang",
+      "pos": 24,
+      "score": 1352,
+      "id": 80,
+      "taskStats": {
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631436049
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631440399
+        },
+        "Secure Channel": {
+          "points": 494,
+          "time": 1631462191
+        }
+      }
+    },
+    {
+      "team": "S0i0v2",
+      "pos": 25,
+      "score": 1237,
+      "id": 99,
+      "taskStats": {
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631435959
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435969
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631436009
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631436275
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631438499
+        }
+      }
+    },
+    {
+      "team": "chmod111",
+      "pos": 26,
+      "score": 1196,
+      "id": 262,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631467141
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631467152
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631474458
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631474739
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631492749
+        }
+      }
+    },
+    {
+      "team": "Saudi",
+      "pos": 27,
+      "score": 1115,
+      "id": 109,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437244
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438955
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631444172
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631445989
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631448049
+        }
+      }
+    },
+    {
+      "team": "s3qu3nc3",
+      "pos": 28,
+      "score": 1100,
+      "id": 223,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457942
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631458318
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631460628
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631466269
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631467301
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 29,
+      "score": 1097,
+      "id": 3,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433882
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435972
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631448058
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631456186
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631463759
+        }
+      }
+    },
+    {
+      "team": "legend",
+      "pos": 30,
+      "score": 1024,
+      "id": 188,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631450385
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631450488
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631450643
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631473551
+        }
+      }
+    },
+    {
+      "team": "Kali-Ciliwung",
+      "pos": 31,
+      "score": 1009,
+      "id": 129,
+      "taskStats": {
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631438626
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438640
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631438654
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438780
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631438816
+        }
+      }
+    },
+    {
+      "team": "testing",
+      "pos": 32,
+      "score": 1000,
+      "id": 111,
+      "taskStats": {
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631445099
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631445201
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631445489
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631445680
+        }
+      }
+    },
+    {
+      "team": "h5",
+      "pos": 33,
+      "score": 929,
+      "id": 67,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433931
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434061
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631438902
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631448978
+        }
+      }
+    },
+    {
+      "team": "Gedor",
+      "pos": 34,
+      "score": 929,
+      "id": 108,
+      "taskStats": {
+        "VidCap": {
+          "points": 359,
+          "time": 1631440152
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631455024
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631455105
+        },
+        "Naomi Gives Noises": {
+          "points": 470,
+          "time": 1631461335
+        }
+      }
+    },
+    {
+      "team": "GiantNewbie",
+      "pos": 35,
+      "score": 898,
+      "id": 324,
+      "taskStats": {
+        "Baby JS": {
+          "points": 349,
+          "time": 1631502715
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631502943
+        },
+        "Chasing The Flag!": {
+          "points": 499,
+          "time": 1631510577
+        }
+      }
+    },
+    {
+      "team": "Hiddensnow",
+      "pos": 36,
+      "score": 895,
+      "id": 73,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631451906
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631454014
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631457142
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631467560
+        }
+      }
+    },
+    {
+      "team": "Ch40s",
+      "pos": 37,
+      "score": 878,
+      "id": 345,
+      "taskStats": {
+        "Baby JS": {
+          "points": 349,
+          "time": 1631515297
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631515385
+        },
+        "Hospital Donation": {
+          "points": 479,
+          "time": 1631518902
+        }
+      }
+    },
+    {
+      "team": "BackMoon",
+      "pos": 38,
+      "score": 847,
+      "id": 146,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631443891
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631444967
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631462538
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631466259
+        }
+      }
+    },
+    {
+      "team": "lemoniclemma",
+      "pos": 39,
+      "score": 837,
+      "id": 311,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631498384
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631498393
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631500240
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631504741
+        }
+      }
+    },
+    {
+      "team": "AusHacks",
+      "pos": 40,
+      "score": 835,
+      "id": 141,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439427
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631493173
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631501806
+        }
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 41,
+      "score": 738,
+      "id": 27,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631434025
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631437935
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631448823
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631458841
+        }
+      }
+    },
+    {
+      "team": "Red0",
+      "pos": 42,
+      "score": 738,
+      "id": 305,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631495227
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631498521
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631499770
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631507799
+        }
+      }
+    },
+    {
+      "team": "BIT CRIMINALS",
+      "pos": 43,
+      "score": 688,
+      "id": 23,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438462
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631476962
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631477846
+        }
+      }
+    },
+    {
+      "team": "noyou",
+      "pos": 44,
+      "score": 688,
+      "id": 195,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631451715
+        },
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631488936
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631500905
+        }
+      }
+    },
+    {
+      "team": "phionify",
+      "pos": 45,
+      "score": 667,
+      "id": 56,
+      "taskStats": {
+        "alogus": {
+          "points": 499,
+          "time": 1631462046
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631495091
+        }
+      }
+    },
+    {
+      "team": "TamilCTF",
+      "pos": 46,
+      "score": 656,
+      "id": 113,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437044
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631437314
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631439854
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631440242
+        }
+      }
+    },
+    {
+      "team": "AWP?",
+      "pos": 47,
+      "score": 656,
+      "id": 115,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437091
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631439400
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631440434
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631441639
+        }
+      }
+    },
+    {
+      "team": "NAZCA",
+      "pos": 48,
+      "score": 656,
+      "id": 284,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631477492
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631477506
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631477950
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631478534
+        }
+      }
+    },
+    {
+      "team": "TUtuTUtu",
+      "pos": 49,
+      "score": 654,
+      "id": 53,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435283
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631438884
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631446199
+        }
+      }
+    },
+    {
+      "team": "Capture The Swag",
+      "pos": 50,
+      "score": 627,
+      "id": 304,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631494086
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631499349
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631500018
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631517330
+        }
+      }
+    },
+    {
+      "team": "0xDoge",
+      "pos": 51,
+      "score": 617,
+      "id": 292,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631482061
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631482066
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631506059
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631507208
+        }
+      }
+    },
+    {
+      "team": "sadman",
+      "pos": 52,
+      "score": 599,
+      "id": 136,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439094
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631442025
+        },
+        "Chasing The Flag!": {
+          "points": 499,
+          "time": 1631515250
+        }
+      }
+    },
+    {
+      "team": "ohayokozaimase",
+      "pos": 53,
+      "score": 567,
+      "id": 145,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631440424
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631440922
+        },
+        "Lab": {
+          "points": 492,
+          "time": 1631468366
+        }
+      }
+    },
+    {
+      "team": "SupremeOwls",
+      "pos": 54,
+      "score": 536,
+      "id": 256,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631467637
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631467648
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631469461
+        }
+      }
+    },
+    {
+      "team": "m1t0",
+      "pos": 55,
+      "score": 521,
+      "id": 26,
+      "taskStats": {
+        "Shop Manager": {
+          "points": 496,
+          "time": 1631488475
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631493763
+        }
+      }
+    },
+    {
+      "team": "k",
+      "pos": 56,
+      "score": 500,
+      "id": 339,
+      "taskStats": {
+        "Mine": {
+          "points": 500,
+          "time": 1631518206
+        }
+      }
+    },
+    {
+      "team": "stdnoerr",
+      "pos": 57,
+      "score": 496,
+      "id": 247,
+      "taskStats": {
+        "Shop Manager": {
+          "points": 496,
+          "time": 1631468075
+        }
+      }
+    },
+    {
+      "team": "CLS",
+      "pos": 58,
+      "score": 496,
+      "id": 243,
+      "taskStats": {
+        "Chocolate With Nuts": {
+          "points": 496,
+          "time": 1631508385
+        }
+      }
+    },
+    {
+      "team": "Prochnost",
+      "pos": 59,
+      "score": 486,
+      "id": 72,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631448110
+        },
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631474201
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631474360
+        }
+      }
+    },
+    {
+      "team": "Mr_Lucifer",
+      "pos": 60,
+      "score": 471,
+      "id": 107,
+      "taskStats": {
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631437095
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437365
+        }
+      }
+    },
+    {
+      "team": "sansvi",
+      "pos": 61,
+      "score": 470,
+      "id": 100,
+      "taskStats": {
+        "You AES Me Up": {
+          "points": 470,
+          "time": 1631441959
+        }
+      }
+    },
+    {
+      "team": "None",
+      "pos": 62,
+      "score": 459,
+      "id": 45,
+      "taskStats": {
+        "VidCap": {
+          "points": 359,
+          "time": 1631457221
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457702
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631461611
+        }
+      }
+    },
+    {
+      "team": "zarrebin",
+      "pos": 63,
+      "score": 459,
+      "id": 139,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439368
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631463396
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631515264
+        }
+      }
+    },
+    {
+      "team": "17C7",
+      "pos": 64,
+      "score": 449,
+      "id": 59,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433890
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434270
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631437584
+        }
+      }
+    },
+    {
+      "team": "Dante",
+      "pos": 65,
+      "score": 449,
+      "id": 70,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433621
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434595
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631451235
+        }
+      }
+    },
+    {
+      "team": "ootsubo",
+      "pos": 66,
+      "score": 449,
+      "id": 302,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631492746
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631493074
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631494184
+        }
+      }
+    },
+    {
+      "team": "54010N",
+      "pos": 67,
+      "score": 446,
+      "id": 168,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631446615
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631447169
+        }
+      }
+    },
+    {
+      "team": "http://ctf-mirror.compfest.id/confirm/InJ3enNuY3d2ZHJAdHJ5dGhlLm5ldCI.YT3f-w.LAOJh6rjmgLwgu1tih6Rg20GCu4",
+      "pos": 68,
+      "score": 446,
+      "id": 163,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631463293
+        },
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631465593
+        }
+      }
+    },
+    {
+      "team": "coldboots",
+      "pos": 69,
+      "score": 436,
+      "id": 118,
+      "taskStats": {
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631455681
+        }
+      }
+    },
+    {
+      "team": "dokko",
+      "pos": 70,
+      "score": 436,
+      "id": 214,
+      "taskStats": {
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631457933
+        }
+      }
+    },
+    {
+      "team": "FooAndBar",
+      "pos": 71,
+      "score": 436,
+      "id": 260,
+      "taskStats": {
+        "Pave The Way": {
+          "points": 436,
+          "time": 1631468043
+        }
+      }
+    },
+    {
+      "team": "g4f",
+      "pos": 72,
+      "score": 421,
+      "id": 231,
+      "taskStats": {
+        "COMPFEST IDE": {
+          "points": 421,
+          "time": 1631460243
+        }
+      }
+    },
+    {
+      "team": "Cookie",
+      "pos": 73,
+      "score": 413,
+      "id": 47,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457558
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631457937
+        },
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631465873
+        }
+      }
+    },
+    {
+      "team": "Raulet solo",
+      "pos": 74,
+      "score": 399,
+      "id": 237,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631461784
+        },
+        "Baby JS": {
+          "points": 349,
+          "time": 1631497207
+        }
+      }
+    },
+    {
+      "team": "Thinkers28",
+      "pos": 75,
+      "score": 384,
+      "id": 187,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631450262
+        },
+        "VidCap": {
+          "points": 359,
+          "time": 1631462099
+        }
+      }
+    },
+    {
+      "team": "tnak",
+      "pos": 76,
+      "score": 338,
+      "id": 344,
+      "taskStats": {
+        "WaifuDroid": {
+          "points": 388,
+          "time": 1631513247
+        }
+      }
+    },
+    {
+      "team": "team",
+      "pos": 77,
+      "score": 324,
+      "id": 82,
+      "taskStats": {
+        "Baby JS": {
+          "points": 349,
+          "time": 1631444879
+        }
+      }
+    },
+    {
+      "team": "Dai Gurren Dan",
+      "pos": 78,
+      "score": 268,
+      "id": 89,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435537
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631436515
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631437425
+        }
+      }
+    },
+    {
+      "team": "betaoin",
+      "pos": 79,
+      "score": 268,
+      "id": 128,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631443173
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631443358
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631444819
+        }
+      }
+    },
+    {
+      "team": "n00b",
+      "pos": 80,
+      "score": 268,
+      "id": 161,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631445065
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631445530
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631450542
+        }
+      }
+    },
+    {
+      "team": "Martial_Law_Enforcer",
+      "pos": 81,
+      "score": 268,
+      "id": 217,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631456863
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631457286
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631460821
+        }
+      }
+    },
+    {
+      "team": "drdoct3r",
+      "pos": 82,
+      "score": 268,
+      "id": 238,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631461947
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631462161
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631463368
+        }
+      }
+    },
+    {
+      "team": "Sem1337",
+      "pos": 83,
+      "score": 243,
+      "id": 240,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631462512
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631462520
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631465280
+        }
+      }
+    },
+    {
+      "team": "ATMteam",
+      "pos": 84,
+      "score": 218,
+      "id": 12,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631440166
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631445685
+        }
+      }
+    },
+    {
+      "team": "r5e",
+      "pos": 85,
+      "score": 218,
+      "id": 110,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631436941
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631447276
+        }
+      }
+    },
+    {
+      "team": "Hololive",
+      "pos": 86,
+      "score": 218,
+      "id": 166,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631445503
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631448190
+        }
+      }
+    },
+    {
+      "team": "C4C",
+      "pos": 87,
+      "score": 218,
+      "id": 180,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631449207
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631449216
+        }
+      }
+    },
+    {
+      "team": "bunga_hackerz",
+      "pos": 88,
+      "score": 218,
+      "id": 165,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631452568
+        },
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631455946
+        }
+      }
+    },
+    {
+      "team": "md5",
+      "pos": 89,
+      "score": 193,
+      "id": 150,
+      "taskStats": {
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631446521
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631446545
+        }
+      }
+    },
+    {
+      "team": "kilrelo",
+      "pos": 90,
+      "score": 168,
+      "id": 85,
+      "taskStats": {
+        "Snab? Yes, Snab": {
+          "points": 168,
+          "time": 1631437074
+        }
+      }
+    },
+    {
+      "team": "CboRg16",
+      "pos": 91,
+      "score": 100,
+      "id": 71,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433767
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434240
+        }
+      }
+    },
+    {
+      "team": "SpaceCreatures",
+      "pos": 92,
+      "score": 100,
+      "id": 79,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433950
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434240
+        }
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 93,
+      "score": 100,
+      "id": 66,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433627
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435010
+        }
+      }
+    },
+    {
+      "team": "F0x2C",
+      "pos": 94,
+      "score": 100,
+      "id": 96,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435428
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435746
+        }
+      }
+    },
+    {
+      "team": "Kronos.so",
+      "pos": 95,
+      "score": 100,
+      "id": 65,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433619
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435746
+        }
+      }
+    },
+    {
+      "team": "UIT-KiD",
+      "pos": 96,
+      "score": 100,
+      "id": 98,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435417
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435947
+        }
+      }
+    },
+    {
+      "team": "Mr.White",
+      "pos": 97,
+      "score": 100,
+      "id": 95,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435423
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631436007
+        }
+      }
+    },
+    {
+      "team": "0ne",
+      "pos": 98,
+      "score": 100,
+      "id": 92,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435121
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631436890
+        }
+      }
+    },
+    {
+      "team": "therandomteam",
+      "pos": 99,
+      "score": 100,
+      "id": 64,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435033
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631436944
+        }
+      }
+    },
+    {
+      "team": "ahengers",
+      "pos": 100,
+      "score": 100,
+      "id": 120,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437503
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631437779
+        }
+      }
+    },
+    {
+      "team": "Dark_Warrior$",
+      "pos": 101,
+      "score": 100,
+      "id": 10,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631434764
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631437970
+        }
+      }
+    },
+    {
+      "team": "Badut",
+      "pos": 102,
+      "score": 100,
+      "id": 121,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438096
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438175
+        }
+      }
+    },
+    {
+      "team": "Rudeus",
+      "pos": 103,
+      "score": 100,
+      "id": 123,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437586
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438206
+        }
+      }
+    },
+    {
+      "team": "HB_SK",
+      "pos": 104,
+      "score": 100,
+      "id": 114,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631437121
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438591
+        }
+      }
+    },
+    {
+      "team": "Komunisme",
+      "pos": 105,
+      "score": 100,
+      "id": 126,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438619
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438646
+        }
+      }
+    },
+    {
+      "team": "Karatus",
+      "pos": 106,
+      "score": 100,
+      "id": 125,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438135
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631439219
+        }
+      }
+    },
+    {
+      "team": "0xSAZZAD",
+      "pos": 107,
+      "score": 100,
+      "id": 133,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438935
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631439318
+        }
+      }
+    },
+    {
+      "team": "ho9",
+      "pos": 108,
+      "score": 100,
+      "id": 138,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439231
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631439348
+        }
+      }
+    },
+    {
+      "team": "KXTI_tgb",
+      "pos": 109,
+      "score": 100,
+      "id": 31,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439206
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631439428
+        }
+      }
+    },
+    {
+      "team": "RPCA Cyber Club",
+      "pos": 110,
+      "score": 100,
+      "id": 21,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439699
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631439802
+        }
+      }
+    },
+    {
+      "team": "Bhaitabahi",
+      "pos": 111,
+      "score": 100,
+      "id": 60,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631434873
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631439983
+        }
+      }
+    },
+    {
+      "team": "FlagHunters",
+      "pos": 112,
+      "score": 100,
+      "id": 143,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439666
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631440127
+        }
+      }
+    },
+    {
+      "team": "XBin",
+      "pos": 113,
+      "score": 100,
+      "id": 46,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435629
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631441290
+        }
+      }
+    },
+    {
+      "team": "a1one)",
+      "pos": 114,
+      "score": 100,
+      "id": 32,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631440995
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631441988
+        }
+      }
+    },
+    {
+      "team": "[DUMMY]",
+      "pos": 115,
+      "score": 100,
+      "id": 151,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631442015
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631442025
+        }
+      }
+    },
+    {
+      "team": "$oloPlayer",
+      "pos": 116,
+      "score": 100,
+      "id": 147,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631442246
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631442332
+        }
+      }
+    },
+    {
+      "team": "battlemonger",
+      "pos": 117,
+      "score": 100,
+      "id": 159,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631444237
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631444249
+        }
+      }
+    },
+    {
+      "team": "Anyhow",
+      "pos": 118,
+      "score": 100,
+      "id": 157,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631443731
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631444571
+        }
+      }
+    },
+    {
+      "team": "sbstm",
+      "pos": 119,
+      "score": 100,
+      "id": 167,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631446066
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631447243
+        }
+      }
+    },
+    {
+      "team": "sudo_team",
+      "pos": 120,
+      "score": 100,
+      "id": 171,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631447351
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631447360
+        }
+      }
+    },
+    {
+      "team": "NewBie",
+      "pos": 121,
+      "score": 100,
+      "id": 172,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631447474
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631447491
+        }
+      }
+    },
+    {
+      "team": "B3bieSec",
+      "pos": 122,
+      "score": 100,
+      "id": 41,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631446448
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631447558
+        }
+      }
+    },
+    {
+      "team": "Ov3rh4ck",
+      "pos": 123,
+      "score": 100,
+      "id": 94,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435419
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631450971
+        }
+      }
+    },
+    {
+      "team": "GameStonk",
+      "pos": 124,
+      "score": 100,
+      "id": 54,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631451025
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631451040
+        }
+      }
+    },
+    {
+      "team": "DeOndeGnuer",
+      "pos": 125,
+      "score": 100,
+      "id": 199,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631452654
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631453009
+        }
+      }
+    },
+    {
+      "team": "UNIBIC",
+      "pos": 126,
+      "score": 100,
+      "id": 193,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631451539
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631453011
+        }
+      }
+    },
+    {
+      "team": "SubZ3r0s",
+      "pos": 127,
+      "score": 100,
+      "id": 208,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631454491
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631454513
+        }
+      }
+    },
+    {
+      "team": "Pwn Leak",
+      "pos": 128,
+      "score": 100,
+      "id": 178,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631450393
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631454888
+        }
+      }
+    },
+    {
+      "team": "KXTI_MAKHUS",
+      "pos": 129,
+      "score": 100,
+      "id": 207,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631454037
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631454889
+        }
+      }
+    },
+    {
+      "team": "CyberSpace",
+      "pos": 130,
+      "score": 100,
+      "id": 63,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631455328
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631456296
+        }
+      }
+    },
+    {
+      "team": "Blue",
+      "pos": 131,
+      "score": 100,
+      "id": 212,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631456452
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631456468
+        }
+      }
+    },
+    {
+      "team": "<script>alert(\"Ping\")</script>",
+      "pos": 132,
+      "score": 100,
+      "id": 218,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631457134
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457144
+        }
+      }
+    },
+    {
+      "team": "aaaaaa%00'\"><",
+      "pos": 133,
+      "score": 100,
+      "id": 221,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457632
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631457837
+        }
+      }
+    },
+    {
+      "team": "OsirisProtocol",
+      "pos": 134,
+      "score": 100,
+      "id": 234,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631460605
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631460615
+        }
+      }
+    },
+    {
+      "team": "Slab Allocator",
+      "pos": 135,
+      "score": 100,
+      "id": 30,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631460284
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631460919
+        }
+      }
+    },
+    {
+      "team": "lah",
+      "pos": 136,
+      "score": 100,
+      "id": 230,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631459906
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631461579
+        }
+      }
+    },
+    {
+      "team": "ogiorgil",
+      "pos": 137,
+      "score": 100,
+      "id": 239,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631462507
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631462799
+        }
+      }
+    },
+    {
+      "team": "simurgh",
+      "pos": 138,
+      "score": 100,
+      "id": 241,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631462538
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631464408
+        }
+      }
+    },
+    {
+      "team": "L0g!c B0mb",
+      "pos": 139,
+      "score": 100,
+      "id": 37,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631464298
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631464875
+        }
+      }
+    },
+    {
+      "team": "h6n3y1337",
+      "pos": 140,
+      "score": 100,
+      "id": 261,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631467107
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631467172
+        }
+      }
+    },
+    {
+      "team": "NéoFrench",
+      "pos": 141,
+      "score": 100,
+      "id": 263,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631467180
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631467206
+        }
+      }
+    },
+    {
+      "team": "matiebarg",
+      "pos": 142,
+      "score": 100,
+      "id": 264,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631467431
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631467445
+        }
+      }
+    },
+    {
+      "team": "육개장",
+      "pos": 143,
+      "score": 100,
+      "id": 275,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631471918
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631472469
+        }
+      }
+    },
+    {
+      "team": "Hackors",
+      "pos": 144,
+      "score": 100,
+      "id": 278,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631474014
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631474034
+        }
+      }
+    },
+    {
+      "team": "42 Lausanne",
+      "pos": 145,
+      "score": 100,
+      "id": 283,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631477100
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631477427
+        }
+      }
+    },
+    {
+      "team": "Xploit3r",
+      "pos": 146,
+      "score": 100,
+      "id": 289,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631479421
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631479569
+        }
+      }
+    },
+    {
+      "team": "PenProphecy",
+      "pos": 147,
+      "score": 100,
+      "id": 213,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457373
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631480226
+        }
+      }
+    },
+    {
+      "team": "Stringsme",
+      "pos": 148,
+      "score": 100,
+      "id": 198,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631452335
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631481400
+        }
+      }
+    },
+    {
+      "team": "butiteam",
+      "pos": 149,
+      "score": 100,
+      "id": 274,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631483607
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631483618
+        }
+      }
+    },
+    {
+      "team": "[sqrt(-1) + 1]",
+      "pos": 150,
+      "score": 100,
+      "id": 299,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631489127
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631489322
+        }
+      }
+    },
+    {
+      "team": "fzhshzh",
+      "pos": 151,
+      "score": 100,
+      "id": 4,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631454741
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631493343
+        }
+      }
+    },
+    {
+      "team": "pureSec",
+      "pos": 152,
+      "score": 100,
+      "id": 18,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631498891
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631498904
+        }
+      }
+    },
+    {
+      "team": "ButterOF",
+      "pos": 153,
+      "score": 100,
+      "id": 316,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631499723
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631500120
+        }
+      }
+    },
+    {
+      "team": "Irackers",
+      "pos": 154,
+      "score": 100,
+      "id": 325,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631501222
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631501237
+        }
+      }
+    },
+    {
+      "team": "cuckanator",
+      "pos": 155,
+      "score": 100,
+      "id": 301,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631506769
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631506781
+        }
+      }
+    },
+    {
+      "team": "gigglemugs",
+      "pos": 156,
+      "score": 100,
+      "id": 227,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631509153
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631509711
+        }
+      }
+    },
+    {
+      "team": "t0jcl",
+      "pos": 157,
+      "score": 100,
+      "id": 315,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631499554
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631511290
+        }
+      }
+    },
+    {
+      "team": "Zzz",
+      "pos": 158,
+      "score": 100,
+      "id": 346,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631514320
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631514768
+        }
+      }
+    },
+    {
+      "team": "F4ckSoc1eTy",
+      "pos": 159,
+      "score": 100,
+      "id": 349,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631516286
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631516309
+        }
+      }
+    },
+    {
+      "team": "Xowls",
+      "pos": 160,
+      "score": 100,
+      "id": 252,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631517071
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631517221
+        }
+      }
+    },
+    {
+      "team": "Dark0rder",
+      "pos": 161,
+      "score": 88,
+      "id": 19,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433610
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435026
+        }
+      }
+    },
+    {
+      "team": "CybSec",
+      "pos": 162,
+      "score": 75,
+      "id": 62,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433631
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434255
+        }
+      }
+    },
+    {
+      "team": "AUZ1",
+      "pos": 163,
+      "score": 75,
+      "id": 33,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631449711
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631449738
+        }
+      }
+    },
+    {
+      "team": "ROKHong",
+      "pos": 164,
+      "score": 75,
+      "id": 191,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631451345
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631451351
+        }
+      }
+    },
+    {
+      "team": "localtoast",
+      "pos": 165,
+      "score": 75,
+      "id": 204,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631453375
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631453930
+        }
+      }
+    },
+    {
+      "team": "pussy_eaters",
+      "pos": 166,
+      "score": 75,
+      "id": 196,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631455001
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631456269
+        }
+      }
+    },
+    {
+      "team": "de4dl0ck",
+      "pos": 167,
+      "score": 75,
+      "id": 226,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631459660
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631462784
+        }
+      }
+    },
+    {
+      "team": "Gen'ei Ryodan",
+      "pos": 168,
+      "score": 75,
+      "id": 279,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631473368
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631473938
+        }
+      }
+    },
+    {
+      "team": "Friendly Hacks",
+      "pos": 169,
+      "score": 75,
+      "id": 294,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631482250
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631484741
+        }
+      }
+    },
+    {
+      "team": "irishyogashirt",
+      "pos": 170,
+      "score": 75,
+      "id": 297,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631484654
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631485184
+        }
+      }
+    },
+    {
+      "team": "d3fau1t",
+      "pos": 171,
+      "score": 75,
+      "id": 343,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631514486
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631514497
+        }
+      }
+    },
+    {
+      "team": "VCF",
+      "pos": 172,
+      "score": 62,
+      "id": 104,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631436935
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631437250
+        }
+      }
+    },
+    {
+      "team": "worm_legion",
+      "pos": 173,
+      "score": 50,
+      "id": 74,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631434152
+        }
+      }
+    },
+    {
+      "team": "CSALab_Sec",
+      "pos": 174,
+      "score": 50,
+      "id": 75,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433682
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434220
+        }
+      }
+    },
+    {
+      "team": "MojoAlpha",
+      "pos": 175,
+      "score": 50,
+      "id": 88,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631434794
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631435296
+        }
+      }
+    },
+    {
+      "team": "Cyber_Guys",
+      "pos": 176,
+      "score": 50,
+      "id": 39,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631435356
+        }
+      }
+    },
+    {
+      "team": "Cut3 guYs",
+      "pos": 177,
+      "score": 50,
+      "id": 103,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631436482
+        }
+      }
+    },
+    {
+      "team": "HinataKaho",
+      "pos": 178,
+      "score": 50,
+      "id": 35,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631436911
+        }
+      }
+    },
+    {
+      "team": "ImAlone",
+      "pos": 179,
+      "score": 50,
+      "id": 131,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438845
+        }
+      }
+    },
+    {
+      "team": "Watchduck",
+      "pos": 180,
+      "score": 50,
+      "id": 142,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439614
+        }
+      }
+    },
+    {
+      "team": "test",
+      "pos": 181,
+      "score": 50,
+      "id": 137,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631440553
+        }
+      }
+    },
+    {
+      "team": "@CryptoH0X1",
+      "pos": 182,
+      "score": 50,
+      "id": 101,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631436634
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631441128
+        }
+      }
+    },
+    {
+      "team": "pengentauctf",
+      "pos": 183,
+      "score": 50,
+      "id": 148,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631441517
+        }
+      }
+    },
+    {
+      "team": "Arn4kiAspr0KaiP4xy",
+      "pos": 184,
+      "score": 50,
+      "id": 149,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631441519
+        }
+      }
+    },
+    {
+      "team": "tenten",
+      "pos": 185,
+      "score": 50,
+      "id": 153,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631442105
+        }
+      }
+    },
+    {
+      "team": "kgrzk",
+      "pos": 186,
+      "score": 50,
+      "id": 38,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631443922
+        }
+      }
+    },
+    {
+      "team": "DDLJ",
+      "pos": 187,
+      "score": 50,
+      "id": 173,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631447336
+        }
+      }
+    },
+    {
+      "team": "mopisec",
+      "pos": 188,
+      "score": 50,
+      "id": 177,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631448223
+        }
+      }
+    },
+    {
+      "team": "lame",
+      "pos": 189,
+      "score": 50,
+      "id": 183,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631449005
+        }
+      }
+    },
+    {
+      "team": "⚡️",
+      "pos": 190,
+      "score": 50,
+      "id": 164,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631445679
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631449307
+        }
+      }
+    },
+    {
+      "team": "shallot",
+      "pos": 191,
+      "score": 50,
+      "id": 182,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631449423
+        }
+      }
+    },
+    {
+      "team": "s3cur3_sh3ll",
+      "pos": 192,
+      "score": 50,
+      "id": 192,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631450932
+        }
+      }
+    },
+    {
+      "team": "TomatoWarden",
+      "pos": 193,
+      "score": 50,
+      "id": 206,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631453643
+        }
+      }
+    },
+    {
+      "team": "Hoax",
+      "pos": 194,
+      "score": 50,
+      "id": 16,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457901
+        }
+      }
+    },
+    {
+      "team": "404_User_Not_Found",
+      "pos": 195,
+      "score": 50,
+      "id": 49,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631459435
+        }
+      }
+    },
+    {
+      "team": "CL0WN",
+      "pos": 196,
+      "score": 50,
+      "id": 225,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631459664
+        }
+      }
+    },
+    {
+      "team": "dasd",
+      "pos": 197,
+      "score": 50,
+      "id": 236,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631460651
+        }
+      }
+    },
+    {
+      "team": "ducks0ci3ty",
+      "pos": 198,
+      "score": 50,
+      "id": 242,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631463115
+        }
+      }
+    },
+    {
+      "team": "Lwecgg",
+      "pos": 199,
+      "score": 50,
+      "id": 5,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631464018
+        }
+      }
+    },
+    {
+      "team": "supergrub",
+      "pos": 200,
+      "score": 50,
+      "id": 258,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631465762
+        }
+      }
+    },
+    {
+      "team": "gruf",
+      "pos": 201,
+      "score": 50,
+      "id": 229,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631467663
+        }
+      }
+    },
+    {
+      "team": "StriX",
+      "pos": 202,
+      "score": 50,
+      "id": 276,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631472248
+        }
+      }
+    },
+    {
+      "team": "SaudiPwners",
+      "pos": 203,
+      "score": 50,
+      "id": 277,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631472598
+        }
+      }
+    },
+    {
+      "team": "TheCyberChick",
+      "pos": 204,
+      "score": 50,
+      "id": 281,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631475398
+        }
+      }
+    },
+    {
+      "team": "mikejam",
+      "pos": 205,
+      "score": 50,
+      "id": 282,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631477646
+        }
+      }
+    },
+    {
+      "team": "it-sec.fail",
+      "pos": 206,
+      "score": 50,
+      "id": 285,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631478477
+        }
+      }
+    },
+    {
+      "team": "goritto-team",
+      "pos": 207,
+      "score": 50,
+      "id": 287,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631478981
+        }
+      }
+    },
+    {
+      "team": "Unit41",
+      "pos": 208,
+      "score": 50,
+      "id": 288,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631479484
+        }
+      }
+    },
+    {
+      "team": "K4l1j0g0",
+      "pos": 209,
+      "score": 50,
+      "id": 303,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631494314
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631494325
+        }
+      }
+    },
+    {
+      "team": ":))",
+      "pos": 210,
+      "score": 50,
+      "id": 306,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631496644
+        }
+      }
+    },
+    {
+      "team": "fu2cqh",
+      "pos": 211,
+      "score": 50,
+      "id": 310,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631498283
+        }
+      }
+    },
+    {
+      "team": "shinobu",
+      "pos": 212,
+      "score": 50,
+      "id": 323,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631501184
+        }
+      }
+    },
+    {
+      "team": "SN",
+      "pos": 213,
+      "score": 50,
+      "id": 307,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631498110
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631501187
+        }
+      }
+    },
+    {
+      "team": "NCTOP",
+      "pos": 214,
+      "score": 50,
+      "id": 336,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631511535
+        }
+      }
+    },
+    {
+      "team": "Lunar_r3d",
+      "pos": 215,
+      "score": 50,
+      "id": 341,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631512974
+        }
+      }
+    },
+    {
+      "team": "iamfool",
+      "pos": 216,
+      "score": 50,
+      "id": 347,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631515241
+        }
+      }
+    },
+    {
+      "team": "Dos",
+      "pos": 217,
+      "score": 50,
+      "id": 348,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631515489
+        }
+      }
+    },
+    {
+      "team": "HackingLab",
+      "pos": 218,
+      "score": 25,
+      "id": 57,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631433697
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631434977
+        }
+      }
+    },
+    {
+      "team": "ComdeyOverflow",
+      "pos": 219,
+      "score": 25,
+      "id": 135,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439111
+        }
+      }
+    },
+    {
+      "team": "PinkPUG",
+      "pos": 220,
+      "score": 25,
+      "id": 144,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631440138
+        }
+      }
+    },
+    {
+      "team": "KXTI_qwerty",
+      "pos": 221,
+      "score": 25,
+      "id": 216,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631456584
+        }
+      }
+    },
+    {
+      "team": "Rpog",
+      "pos": 222,
+      "score": 25,
+      "id": 222,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631457787
+        }
+      }
+    },
+    {
+      "team": "huangx607087",
+      "pos": 223,
+      "score": 25,
+      "id": 84,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631463628
+        }
+      }
+    },
+    {
+      "team": "{{1+1}}",
+      "pos": 224,
+      "score": 25,
+      "id": 249,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631464105
+        }
+      }
+    },
+    {
+      "team": "John",
+      "pos": 225,
+      "score": 25,
+      "id": 255,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631465691
+        }
+      }
+    },
+    {
+      "team": "RETCHAK",
+      "pos": 226,
+      "score": 25,
+      "id": 273,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631470916
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631471846
+        }
+      }
+    },
+    {
+      "team": "unknown",
+      "pos": 227,
+      "score": 25,
+      "id": 293,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631482102
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631482167
+        }
+      }
+    },
+    {
+      "team": "made_in_china",
+      "pos": 228,
+      "score": 25,
+      "id": 326,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631501281
+        }
+      }
+    },
+    {
+      "team": "Meraros",
+      "pos": 229,
+      "score": 25,
+      "id": 332,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631508597
+        }
+      }
+    },
+    {
+      "team": "white room",
+      "pos": 230,
+      "score": 25,
+      "id": 233,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631513049
+        }
+      }
+    },
+    {
+      "team": "bet75",
+      "pos": 231,
+      "score": 25,
+      "id": 342,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631514431
+        }
+      }
+    },
+    {
+      "team": "ThePwnisher",
+      "pos": 232,
+      "score": 25,
+      "id": 354,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631518572
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631518586
+        }
+      }
+    },
+    {
+      "team": "f",
+      "pos": 233,
+      "score": 0,
+      "id": 140,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439357
+        }
+      }
+    },
+    {
+      "team": "athisctf@gmail.com",
+      "pos": 234,
+      "score": 0,
+      "id": 162,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631444737
+        }
+      }
+    },
+    {
+      "team": "Unicorns of Security",
+      "pos": 235,
+      "score": 0,
+      "id": 253,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631465736
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631466403
+        }
+      }
+    },
+    {
+      "team": "forensics",
+      "pos": 236,
+      "score": 0,
+      "id": 296,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631484806
+        },
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631484829
+        }
+      }
+    },
+    {
+      "team": "l",
+      "pos": 237,
+      "score": 0,
+      "id": 350,
+      "taskStats": {
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631515995
+        }
+      }
+    },
+    {
+      "team": "loxove6041@shensufu.com",
+      "pos": 238,
+      "score": -50,
+      "id": 132,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438871
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631438882
+        }
+      }
+    },
+    {
+      "team": "HinterPRO",
+      "pos": 239,
+      "score": -150,
+      "id": 130,
+      "taskStats": {
+        "Promotional Video": {
+          "points": 50,
+          "time": 1631438786
+        },
+        "Sanity Check": {
+          "points": 50,
+          "time": 1631439193
+        }
+      }
+    }
+  ],
+  "date": 1631372400,
+  "name": "COMPFEST CTF 2021"
+}
