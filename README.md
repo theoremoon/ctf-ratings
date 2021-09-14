@@ -75,6 +75,8 @@ See example https://github.com/theoremoon/ctf-ratings/blob/main/data/teams/zer0p
 - FwordCTF 2021 (scoreserver is unstable to scrape)
 - YauzaCTF 2021 (cannot see solved tasks of other teams)
 - WORMCON 0x01 (UserAgent Denied)
+- GrabCON (cloudflare protection)
+- RCTF 2021 (XCTF)
 
 ## Author
 
