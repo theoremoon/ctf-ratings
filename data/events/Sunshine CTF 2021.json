@@ -1,0 +1,6660 @@
+{
+  "tasks": [
+    "MultipleExponents",
+    "DynamicTypeLibraRII",
+    "Useless VM",
+    "WebChallenge",
+    "Liveness Check",
+    "AudioCrypto",
+    "Emoji Browser",
+    "Mr Robot",
+    "ImageRecovery",
+    "ProcrastinatorProgrammer",
+    "ChompFeed",
+    "Typing",
+    "DownUnder",
+    "Flag Vault",
+    "Framed",
+    "Discooooooooord"
+  ],
+  "standings": [
+    {
+      "team": "magi",
+      "pos": 1,
+      "score": 2463,
+      "id": 157,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973695
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973710
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973880
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631974927
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975241
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1631982304
+        },
+        "DynamicTypeLibraRII": {
+          "points": 400,
+          "time": 1631982860
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631986239
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631988507
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1631993494
+        },
+        "ChompFeed": {
+          "points": 0,
+          "time": 1631995070
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632012531
+        },
+        "ImageRecovery": {
+          "points": 300,
+          "time": 1632027554
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1632035187
+        },
+        "WebChallenge": {
+          "points": 200,
+          "time": 1632039894
+        },
+        "Framed": {
+          "points": 150,
+          "time": 1632042713
+        }
+      }
+    },
+    {
+      "team": "flagbot",
+      "pos": 2,
+      "score": 2463,
+      "id": 158,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973659
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973674
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973969
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631974052
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631974302
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1631975182
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1631977249
+        },
+        "ImageRecovery": {
+          "points": 300,
+          "time": 1631978544
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1631982540
+        },
+        "WebChallenge": {
+          "points": 200,
+          "time": 1631989269
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631989510
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631992083
+        },
+        "DynamicTypeLibraRII": {
+          "points": 400,
+          "time": 1631996837
+        },
+        "ChompFeed": {
+          "points": 0,
+          "time": 1631999020
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632001996
+        },
+        "Framed": {
+          "points": 150,
+          "time": 1632047338
+        }
+      }
+    },
+    {
+      "team": "Tower of Hanoi",
+      "pos": 3,
+      "score": 2313,
+      "id": 15,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974647
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974963
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631975410
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975453
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982465
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1631986687
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631993158
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631994176
+        },
+        "ImageRecovery": {
+          "points": 300,
+          "time": 1631998065
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1632001289
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632001816
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1632013804
+        },
+        "WebChallenge": {
+          "points": 200,
+          "time": 1632038042
+        },
+        "DynamicTypeLibraRII": {
+          "points": 400,
+          "time": 1632045795
+        },
+        "ChompFeed": {
+          "points": 0,
+          "time": 1632059748
+        }
+      }
+    },
+    {
+      "team": "Cyberlandsholdet",
+      "pos": 4,
+      "score": 2063,
+      "id": 150,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973662
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973671
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973946
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631975918
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631976159
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1631981326
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631981885
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631988707
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1631990535
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1631995585
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632006976
+        },
+        "ImageRecovery": {
+          "points": 300,
+          "time": 1632012806
+        },
+        "Framed": {
+          "points": 150,
+          "time": 1632041883
+        },
+        "WebChallenge": {
+          "points": 200,
+          "time": 1632057983
+        },
+        "ChompFeed": {
+          "points": 0,
+          "time": 1632058521
+        }
+      }
+    },
+    {
+      "team": "spookies",
+      "pos": 5,
+      "score": 1913,
+      "id": 152,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973612
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973637
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973754
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975052
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977191
+        },
+        "WebChallenge": {
+          "points": 200,
+          "time": 1631998744
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632006350
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1632019306
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632024783
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632028084
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1632041106
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1632053354
+        },
+        "ImageRecovery": {
+          "points": 300,
+          "time": 1632058181
+        }
+      }
+    },
+    {
+      "team": "Kernel Sanders",
+      "pos": 6,
+      "score": 1563,
+      "id": 29,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973709
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973729
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973937
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631975267
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631978508
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631982129
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632002000
+        },
+        "DynamicTypeLibraRII": {
+          "points": 400,
+          "time": 1632011080
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632011519
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1632015652
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1632028843
+        }
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 7,
+      "score": 1113,
+      "id": 97,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973608
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973613
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973940
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631974476
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631976549
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631992660
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1631993404
+        },
+        "ImageRecovery": {
+          "points": 300,
+          "time": 1632001858
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632018177
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632053065
+        }
+      }
+    },
+    {
+      "team": "b01lers",
+      "pos": 8,
+      "score": 1013,
+      "id": 203,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976207
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976847
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977477
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631978173
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631978924
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631991716
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1631995346
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1632019103
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632059352
+        }
+      }
+    },
+    {
+      "team": "zh3r0",
+      "pos": 9,
+      "score": 963,
+      "id": 184,
+      "taskStats": {
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975506
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975600
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976887
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631977092
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977934
+        },
+        "DynamicTypeLibraRII": {
+          "points": 400,
+          "time": 1631993595
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632034738
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632048143
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632054199
+        }
+      }
+    },
+    {
+      "team": "ST4RT",
+      "pos": 10,
+      "score": 863,
+      "id": 60,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973668
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973762
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974929
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632027069
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632028324
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632029310
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632031983
+        },
+        "DynamicTypeLibraRII": {
+          "points": 400,
+          "time": 1632045984
+        }
+      }
+    },
+    {
+      "team": "3rdn4",
+      "pos": 11,
+      "score": 813,
+      "id": 145,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631988382
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631988571
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631988872
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631992236
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631994039
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631999467
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1632033598
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632039376
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632057024
+        }
+      }
+    },
+    {
+      "team": "/upb/hack",
+      "pos": 12,
+      "score": 813,
+      "id": 56,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973624
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973758
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973931
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631976226
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631982910
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631993907
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1631994289
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632020673
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632059769
+        }
+      }
+    },
+    {
+      "team": "ToInfinityAndBeYANd",
+      "pos": 13,
+      "score": 663,
+      "id": 94,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977427
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631992443
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631994234
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631998671
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632003814
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632008663
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632011761
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1632021751
+        }
+      }
+    },
+    {
+      "team": "Scavenger Security",
+      "pos": 14,
+      "score": 613,
+      "id": 292,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631992224
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631992305
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631995681
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631998429
+        },
+        "Useless VM": {
+          "points": 400,
+          "time": 1632015257
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632047764
+        }
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 15,
+      "score": 563,
+      "id": 67,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973616
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976261
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631977223
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1631980223
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631981076
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631996496
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631996704
+        }
+      }
+    },
+    {
+      "team": "MadafHack",
+      "pos": 16,
+      "score": 563,
+      "id": 114,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973615
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973658
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973778
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631974535
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631990550
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631998803
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632054809
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632055727
+        }
+      }
+    },
+    {
+      "team": "CYB3R_T3N4CI0US",
+      "pos": 17,
+      "score": 563,
+      "id": 109,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973612
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973625
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973888
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631975139
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631976048
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632035444
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632040150
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632055747
+        }
+      }
+    },
+    {
+      "team": "FireShell",
+      "pos": 18,
+      "score": 513,
+      "id": 165,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973930
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973959
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974250
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631975198
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631987613
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1631991442
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631994831
+        }
+      }
+    },
+    {
+      "team": "n0n$la$",
+      "pos": 19,
+      "score": 463,
+      "id": 53,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973648
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974877
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975010
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631976288
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631980923
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632022666
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632028088
+        }
+      }
+    },
+    {
+      "team": "H25",
+      "pos": 20,
+      "score": 463,
+      "id": 33,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982095
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631983203
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631983378
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631983464
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631991810
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632033146
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632035567
+        }
+      }
+    },
+    {
+      "team": "\\/(54",
+      "pos": 21,
+      "score": 463,
+      "id": 111,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973780
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973805
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973823
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631978478
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631987414
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632026595
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632041801
+        }
+      }
+    },
+    {
+      "team": "Bushwhackers",
+      "pos": 22,
+      "score": 460,
+      "id": 294,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631993407
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631995579
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631999795
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1632005668
+        }
+      }
+    },
+    {
+      "team": "German ECSC Team 2021",
+      "pos": 23,
+      "score": 413,
+      "id": 172,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974050
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974465
+        },
+        "Flag Vault": {
+          "points": 200,
+          "time": 1631979357
+        },
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1631982836
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631996607
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631997613
+        }
+      }
+    },
+    {
+      "team": "BYU Cyberia",
+      "pos": 24,
+      "score": 413,
+      "id": 7,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974019
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974099
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974415
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631977164
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631981001
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631999981
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632004285
+        }
+      }
+    },
+    {
+      "team": "Psuedo Sudo",
+      "pos": 25,
+      "score": 413,
+      "id": 37,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973835
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973871
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631981826
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631982874
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631989508
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632004103
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632004573
+        }
+      }
+    },
+    {
+      "team": "HuntsvilleTechSupport",
+      "pos": 26,
+      "score": 413,
+      "id": 153,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973633
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973767
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975216
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976208
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632003851
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632004943
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632006684
+        }
+      }
+    },
+    {
+      "team": "FITSEC",
+      "pos": 27,
+      "score": 413,
+      "id": 88,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974769
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976944
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631977805
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977985
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631978274
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631991690
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632007046
+        }
+      }
+    },
+    {
+      "team": "MasonCC",
+      "pos": 28,
+      "score": 413,
+      "id": 201,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976159
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979453
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631980087
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631984106
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631987983
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631995647
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632025551
+        }
+      }
+    },
+    {
+      "team": "Capture the Swag",
+      "pos": 29,
+      "score": 413,
+      "id": 341,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632019568
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632019576
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632019588
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632019985
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632020672
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632027247
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632029925
+        }
+      }
+    },
+    {
+      "team": "Pentesthink",
+      "pos": 30,
+      "score": 413,
+      "id": 138,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974636
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974774
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976302
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631985061
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632012290
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632041382
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632041814
+        }
+      }
+    },
+    {
+      "team": "CFH4CK",
+      "pos": 31,
+      "score": 413,
+      "id": 112,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974153
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974539
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975075
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631976058
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631979703
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632003100
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632047316
+        }
+      }
+    },
+    {
+      "team": "1nf1n1ty",
+      "pos": 32,
+      "score": 413,
+      "id": 151,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974248
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974291
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974303
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631976903
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632031056
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632042470
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632058144
+        }
+      }
+    },
+    {
+      "team": "ki",
+      "pos": 33,
+      "score": 400,
+      "id": 266,
+      "taskStats": {
+        "DynamicTypeLibraRII": {
+          "points": 400,
+          "time": 1631993413
+        }
+      }
+    },
+    {
+      "team": "AWP?",
+      "pos": 34,
+      "score": 363,
+      "id": 50,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973690
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973709
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973827
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631974570
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632028261
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632029816
+        }
+      }
+    },
+    {
+      "team": "Cr4zyF0x",
+      "pos": 35,
+      "score": 363,
+      "id": 177,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974374
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974387
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979270
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631998076
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632043565
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632048141
+        }
+      }
+    },
+    {
+      "team": "she",
+      "pos": 36,
+      "score": 360,
+      "id": 332,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632014040
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632015278
+        },
+        "AudioCrypto": {
+          "points": 250,
+          "time": 1632018555
+        }
+      }
+    },
+    {
+      "team": "UTD CSG",
+      "pos": 37,
+      "score": 313,
+      "id": 104,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631979158
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979444
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979788
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631980411
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631998604
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632002791
+        }
+      }
+    },
+    {
+      "team": "dczia",
+      "pos": 38,
+      "score": 313,
+      "id": 300,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631996015
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631996058
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631996276
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631999151
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632003925
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632007650
+        }
+      }
+    },
+    {
+      "team": "janule",
+      "pos": 39,
+      "score": 313,
+      "id": 264,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631984913
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631994308
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631994691
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632002891
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632003352
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632012994
+        }
+      }
+    },
+    {
+      "team": "GoBigOrGoHome",
+      "pos": 40,
+      "score": 313,
+      "id": 81,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631978265
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979248
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631984484
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632013828
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632015824
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632039032
+        }
+      }
+    },
+    {
+      "team": "HatGuy",
+      "pos": 41,
+      "score": 313,
+      "id": 34,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973854
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973872
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974059
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631983876
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631991461
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632039621
+        }
+      }
+    },
+    {
+      "team": "OSSEM",
+      "pos": 42,
+      "score": 313,
+      "id": 22,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632026057
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632027154
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632027192
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632032529
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632048544
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632053863
+        }
+      }
+    },
+    {
+      "team": "WCSC",
+      "pos": 43,
+      "score": 313,
+      "id": 6,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973625
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973747
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974093
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631976083
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631989071
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632056195
+        }
+      }
+    },
+    {
+      "team": "MorningLightMountain",
+      "pos": 44,
+      "score": 300,
+      "id": 363,
+      "taskStats": {
+        "ImageRecovery": {
+          "points": 300,
+          "time": 1632052787
+        }
+      }
+    },
+    {
+      "team": "HTCPCP://",
+      "pos": 45,
+      "score": 263,
+      "id": 31,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974110
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974664
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632006313
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632006425
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632006916
+        }
+      }
+    },
+    {
+      "team": "XORs",
+      "pos": 46,
+      "score": 263,
+      "id": 58,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973646
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973745
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973950
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631979457
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632008301
+        }
+      }
+    },
+    {
+      "team": "n03tAck",
+      "pos": 47,
+      "score": 263,
+      "id": 70,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973687
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631973738
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973779
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973902
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631974781
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632014480
+        }
+      }
+    },
+    {
+      "team": "tyulpan",
+      "pos": 48,
+      "score": 263,
+      "id": 316,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632002759
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632002820
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632004074
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632005043
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632012983
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632018869
+        }
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 49,
+      "score": 263,
+      "id": 84,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973612
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973627
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973749
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631988208
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632020958
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632021881
+        }
+      }
+    },
+    {
+      "team": "TeamShakti",
+      "pos": 50,
+      "score": 263,
+      "id": 85,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973887
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973948
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974033
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975675
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631983711
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632024701
+        }
+      }
+    },
+    {
+      "team": "TheMythologist",
+      "pos": 51,
+      "score": 263,
+      "id": 354,
+      "taskStats": {
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632024051
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632024102
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632024108
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632024142
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632026312
+        }
+      }
+    },
+    {
+      "team": "DarkArmy",
+      "pos": 52,
+      "score": 263,
+      "id": 370,
+      "taskStats": {
+        "Typing": {
+          "points": 100,
+          "time": 1632029654
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632029675
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632029712
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632029796
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632031791
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632032115
+        }
+      }
+    },
+    {
+      "team": "DadSec",
+      "pos": 53,
+      "score": 263,
+      "id": 315,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632002091
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632004400
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632004450
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632004529
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632005967
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632044033
+        }
+      }
+    },
+    {
+      "team": "cryp71x3rz",
+      "pos": 54,
+      "score": 263,
+      "id": 349,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632021327
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632021399
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632026006
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632039733
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632046495
+        }
+      }
+    },
+    {
+      "team": "CyberStudents",
+      "pos": 55,
+      "score": 263,
+      "id": 196,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975694
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975842
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975878
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632040777
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632057126
+        }
+      }
+    },
+    {
+      "team": "Pynard",
+      "pos": 56,
+      "score": 213,
+      "id": 232,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631979476
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979679
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979776
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631984894
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631989519
+        }
+      }
+    },
+    {
+      "team": "1mp3n3tr4bl3",
+      "pos": 57,
+      "score": 213,
+      "id": 73,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980416
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631980536
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631980594
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631982913
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631990500
+        }
+      }
+    },
+    {
+      "team": "ahengers",
+      "pos": 58,
+      "score": 213,
+      "id": 168,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974098
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974146
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974406
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975056
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632037496
+        }
+      }
+    },
+    {
+      "team": "fzhshzh",
+      "pos": 59,
+      "score": 213,
+      "id": 18,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632009537
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632010272
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632012356
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632012808
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632039440
+        }
+      }
+    },
+    {
+      "team": "n00b",
+      "pos": 60,
+      "score": 163,
+      "id": 211,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976944
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976974
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631977131
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977566
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631978854
+        }
+      }
+    },
+    {
+      "team": "CTF Community",
+      "pos": 61,
+      "score": 163,
+      "id": 9,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973648
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973693
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974025
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631974670
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631979173
+        }
+      }
+    },
+    {
+      "team": "BoRa9",
+      "pos": 62,
+      "score": 163,
+      "id": 144,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973626
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973634
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631979604
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979738
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631980167
+        }
+      }
+    },
+    {
+      "team": "irNoobs",
+      "pos": 63,
+      "score": 163,
+      "id": 72,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973816
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976492
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976588
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631978462
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631981400
+        }
+      }
+    },
+    {
+      "team": "itakaka",
+      "pos": 64,
+      "score": 163,
+      "id": 225,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631978115
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631983208
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631983325
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631983430
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631983761
+        }
+      }
+    },
+    {
+      "team": "A HunTer's Calling",
+      "pos": 65,
+      "score": 163,
+      "id": 167,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973854
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973899
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973952
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631979294
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631986714
+        }
+      }
+    },
+    {
+      "team": "Red Knights",
+      "pos": 66,
+      "score": 163,
+      "id": 216,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977139
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631985434
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631985521
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631987409
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631988903
+        }
+      }
+    },
+    {
+      "team": "hhh",
+      "pos": 67,
+      "score": 163,
+      "id": 281,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631988481
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631988562
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631989165
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631989228
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631989868
+        }
+      }
+    },
+    {
+      "team": "0x01DA",
+      "pos": 68,
+      "score": 163,
+      "id": 132,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973671
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973736
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973903
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631992371
+        }
+      }
+    },
+    {
+      "team": "锟斤拷烫烫烫",
+      "pos": 69,
+      "score": 163,
+      "id": 17,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631981363
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982197
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631983726
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631985341
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631996604
+        }
+      }
+    },
+    {
+      "team": "LizardWizards",
+      "pos": 70,
+      "score": 163,
+      "id": 100,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631987113
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631990349
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631990425
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1631997524
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 71,
+      "score": 163,
+      "id": 162,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973715
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973748
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974270
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631979958
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632001951
+        }
+      }
+    },
+    {
+      "team": "pwnagaukar",
+      "pos": 72,
+      "score": 163,
+      "id": 21,
+      "taskStats": {
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975931
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975967
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976036
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976331
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632005125
+        }
+      }
+    },
+    {
+      "team": "GanSw",
+      "pos": 73,
+      "score": 163,
+      "id": 233,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632020844
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632020865
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632020875
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632021017
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632021771
+        }
+      }
+    },
+    {
+      "team": "RedPeePz",
+      "pos": 74,
+      "score": 163,
+      "id": 397,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632046913
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632046929
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632048013
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632051812
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632059704
+        }
+      }
+    },
+    {
+      "team": "polygl0ts",
+      "pos": 75,
+      "score": 161,
+      "id": 125,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631989581
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631990094
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631991693
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631992204
+        }
+      }
+    },
+    {
+      "team": "hydroelectricities",
+      "pos": 76,
+      "score": 161,
+      "id": 44,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973635
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973770
+        },
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632013090
+        }
+      }
+    },
+    {
+      "team": "adf",
+      "pos": 77,
+      "score": 161,
+      "id": 404,
+      "taskStats": {
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632040495
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632040654
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632040665
+        }
+      }
+    },
+    {
+      "team": "mbeekp3v7anj7ch6",
+      "pos": 78,
+      "score": 161,
+      "id": 395,
+      "taskStats": {
+        "ProcrastinatorProgrammer": {
+          "points": 150,
+          "time": 1632049286
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632049559
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632049569
+        }
+      }
+    },
+    {
+      "team": "byc_404",
+      "pos": 79,
+      "score": 150,
+      "id": 330,
+      "taskStats": {
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632014269
+        }
+      }
+    },
+    {
+      "team": "gogohannam",
+      "pos": 80,
+      "score": 150,
+      "id": 122,
+      "taskStats": {
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632031603
+        }
+      }
+    },
+    {
+      "team": "L3g1On",
+      "pos": 81,
+      "score": 150,
+      "id": 142,
+      "taskStats": {
+        "Emoji Browser": {
+          "points": 150,
+          "time": 1632046652
+        }
+      }
+    },
+    {
+      "team": "CSALab_Sec",
+      "pos": 82,
+      "score": 113,
+      "id": 45,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973627
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973932
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974338
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631974512
+        }
+      }
+    },
+    {
+      "team": "ATMteam",
+      "pos": 83,
+      "score": 113,
+      "id": 116,
+      "taskStats": {
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631974919
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974979
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974985
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975021
+        }
+      }
+    },
+    {
+      "team": "pun1sher",
+      "pos": 84,
+      "score": 113,
+      "id": 156,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973740
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973833
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974009
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975278
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 85,
+      "score": 113,
+      "id": 52,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974032
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974346
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974880
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975426
+        }
+      }
+    },
+    {
+      "team": "SIutDragons",
+      "pos": 86,
+      "score": 113,
+      "id": 119,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973753
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973983
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974102
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975998
+        }
+      }
+    },
+    {
+      "team": "KMA.NextGEN",
+      "pos": 87,
+      "score": 113,
+      "id": 102,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974340
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974471
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631978113
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631978808
+        }
+      }
+    },
+    {
+      "team": "ffffx00000",
+      "pos": 88,
+      "score": 113,
+      "id": 180,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974695
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975055
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631975634
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982672
+        }
+      }
+    },
+    {
+      "team": "m4ul3r",
+      "pos": 89,
+      "score": 113,
+      "id": 261,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631984739
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631984842
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631984897
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631986166
+        }
+      }
+    },
+    {
+      "team": "hu_lk",
+      "pos": 90,
+      "score": 113,
+      "id": 169,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982255
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982364
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982720
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631987497
+        }
+      }
+    },
+    {
+      "team": "doublepentest",
+      "pos": 91,
+      "score": 113,
+      "id": 268,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631985443
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631987534
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631987996
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631988021
+        }
+      }
+    },
+    {
+      "team": "c0d3_h4cki05_",
+      "pos": 92,
+      "score": 113,
+      "id": 277,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986985
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631987789
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631988197
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631988243
+        }
+      }
+    },
+    {
+      "team": "drdoct3r",
+      "pos": 93,
+      "score": 113,
+      "id": 278,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631987636
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631987707
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631988389
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631988764
+        }
+      }
+    },
+    {
+      "team": "University of Alaska Fairbanks",
+      "pos": 94,
+      "score": 113,
+      "id": 43,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631983677
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631983701
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986009
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631990813
+        }
+      }
+    },
+    {
+      "team": "Fur Fox Sake",
+      "pos": 95,
+      "score": 113,
+      "id": 161,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973798
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974494
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975384
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632011148
+        }
+      }
+    },
+    {
+      "team": "The_Apocalypse",
+      "pos": 96,
+      "score": 113,
+      "id": 187,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975104
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975196
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975340
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632025864
+        }
+      }
+    },
+    {
+      "team": "Just_a_team",
+      "pos": 97,
+      "score": 113,
+      "id": 255,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982556
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982611
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986520
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632036781
+        }
+      }
+    },
+    {
+      "team": "WaterDrop",
+      "pos": 98,
+      "score": 113,
+      "id": 406,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632042135
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632042264
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632042483
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632042580
+        }
+      }
+    },
+    {
+      "team": "SNSec",
+      "pos": 99,
+      "score": 113,
+      "id": 409,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632043767
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632043962
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632045061
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632045719
+        }
+      }
+    },
+    {
+      "team": "corax",
+      "pos": 100,
+      "score": 111,
+      "id": 194,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975557
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631994975
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631995372
+        }
+      }
+    },
+    {
+      "team": "WallLookers",
+      "pos": 101,
+      "score": 111,
+      "id": 291,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631991447
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631992423
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631995687
+        }
+      }
+    },
+    {
+      "team": "turd_ferguson",
+      "pos": 102,
+      "score": 111,
+      "id": 337,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632017651
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632017798
+        },
+        "Typing": {
+          "points": 100,
+          "time": 1632022837
+        }
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 103,
+      "score": 111,
+      "id": 61,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632030401
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632030666
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632031059
+        }
+      }
+    },
+    {
+      "team": "54010n",
+      "pos": 104,
+      "score": 111,
+      "id": 348,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632022125
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632022719
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632044686
+        }
+      }
+    },
+    {
+      "team": "Wunderleth",
+      "pos": 105,
+      "score": 110,
+      "id": 24,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979209
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631980960
+        }
+      }
+    },
+    {
+      "team": "porthesera",
+      "pos": 106,
+      "score": 110,
+      "id": 253,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982534
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631982841
+        }
+      }
+    },
+    {
+      "team": "NorthWest",
+      "pos": 107,
+      "score": 110,
+      "id": 51,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631998657
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631999246
+        }
+      }
+    },
+    {
+      "team": "md5",
+      "pos": 108,
+      "score": 110,
+      "id": 326,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632009903
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632010574
+        }
+      }
+    },
+    {
+      "team": "nubnub",
+      "pos": 109,
+      "score": 110,
+      "id": 127,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632010016
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632010768
+        }
+      }
+    },
+    {
+      "team": "Z3r01",
+      "pos": 110,
+      "score": 110,
+      "id": 347,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632023438
+        },
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1632026050
+        }
+      }
+    },
+    {
+      "team": "Cut3 Guys",
+      "pos": 111,
+      "score": 103,
+      "id": 95,
+      "taskStats": {
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631976868
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977100
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979244
+        }
+      }
+    },
+    {
+      "team": "Redbull",
+      "pos": 112,
+      "score": 100,
+      "id": 295,
+      "taskStats": {
+        "MultipleExponents": {
+          "points": 100,
+          "time": 1631997487
+        }
+      }
+    },
+    {
+      "team": "notme",
+      "pos": 113,
+      "score": 100,
+      "id": 317,
+      "taskStats": {
+        "Typing": {
+          "points": 100,
+          "time": 1632003275
+        }
+      }
+    },
+    {
+      "team": "SchooloftheWolf",
+      "pos": 114,
+      "score": 63,
+      "id": 36,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973615
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973626
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973724
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631974145
+        }
+      }
+    },
+    {
+      "team": "Hitsu",
+      "pos": 115,
+      "score": 63,
+      "id": 155,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973629
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973636
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973840
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631974869
+        }
+      }
+    },
+    {
+      "team": "Strawhacks",
+      "pos": 116,
+      "score": 63,
+      "id": 25,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974480
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974498
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631976197
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976382
+        }
+      }
+    },
+    {
+      "team": "Hack@Sec",
+      "pos": 117,
+      "score": 63,
+      "id": 136,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974163
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974300
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631975403
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976950
+        }
+      }
+    },
+    {
+      "team": "Gachi Team",
+      "pos": 118,
+      "score": 63,
+      "id": 98,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973870
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974060
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974845
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977518
+        }
+      }
+    },
+    {
+      "team": "The Whole Neighborhood",
+      "pos": 119,
+      "score": 63,
+      "id": 99,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973628
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973957
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976951
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977525
+        },
+        "ChompFeed": {
+          "points": 0,
+          "time": 1631992312
+        }
+      }
+    },
+    {
+      "team": "0U7S1D3RS_SQA4D",
+      "pos": 120,
+      "score": 63,
+      "id": 118,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973852
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973948
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975142
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977941
+        }
+      }
+    },
+    {
+      "team": "BigDaddyThunda",
+      "pos": 121,
+      "score": 63,
+      "id": 160,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973727
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974073
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631978331
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631978960
+        }
+      }
+    },
+    {
+      "team": "DisCrypt",
+      "pos": 122,
+      "score": 63,
+      "id": 79,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973777
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973943
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977899
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631979328
+        }
+      }
+    },
+    {
+      "team": "\\x4247Sec",
+      "pos": 123,
+      "score": 63,
+      "id": 46,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631978370
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631978406
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631978550
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631980846
+        }
+      }
+    },
+    {
+      "team": "What-A-What",
+      "pos": 124,
+      "score": 63,
+      "id": 35,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631979593
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979604
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631980306
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631980882
+        }
+      }
+    },
+    {
+      "team": "n0t_h4ck0rs",
+      "pos": 125,
+      "score": 63,
+      "id": 149,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973709
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973829
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974239
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631982590
+        },
+        "ChompFeed": {
+          "points": 0,
+          "time": 1631992260
+        }
+      }
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 126,
+      "score": 63,
+      "id": 117,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631979950
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982282
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982416
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631982711
+        }
+      }
+    },
+    {
+      "team": "0-flag strat",
+      "pos": 127,
+      "score": 63,
+      "id": 39,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973708
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974085
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974892
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631984029
+        }
+      }
+    },
+    {
+      "team": "Jon",
+      "pos": 128,
+      "score": 63,
+      "id": 241,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631980587
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982135
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982298
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631984132
+        },
+        "ChompFeed": {
+          "points": 0,
+          "time": 1632001999
+        }
+      }
+    },
+    {
+      "team": "CyberCellVIIT",
+      "pos": 129,
+      "score": 63,
+      "id": 78,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973933
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973947
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974084
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631985447
+        }
+      }
+    },
+    {
+      "team": "meowblaa",
+      "pos": 130,
+      "score": 63,
+      "id": 271,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631985726
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631985886
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631986439
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986637
+        }
+      }
+    },
+    {
+      "team": "EXE",
+      "pos": 131,
+      "score": 63,
+      "id": 285,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631989996
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631990154
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631990805
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631990995
+        }
+      }
+    },
+    {
+      "team": "xor or half adder",
+      "pos": 132,
+      "score": 63,
+      "id": 218,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977289
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631977320
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631977990
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631995840
+        }
+      }
+    },
+    {
+      "team": "nhl4000",
+      "pos": 133,
+      "score": 63,
+      "id": 309,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631999542
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631999564
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632000320
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632000801
+        }
+      }
+    },
+    {
+      "team": "Knightsec",
+      "pos": 134,
+      "score": 63,
+      "id": 159,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973750
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973767
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973862
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632011408
+        }
+      }
+    },
+    {
+      "team": "ArcReactors",
+      "pos": 135,
+      "score": 63,
+      "id": 154,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631985273
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631985466
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631987178
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632028466
+        }
+      }
+    },
+    {
+      "team": "Vex Mind",
+      "pos": 136,
+      "score": 63,
+      "id": 379,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632030935
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632031337
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632032111
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632048483
+        }
+      }
+    },
+    {
+      "team": "TheQuackers",
+      "pos": 137,
+      "score": 63,
+      "id": 419,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632052796
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632052844
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632054120
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632055991
+        }
+      }
+    },
+    {
+      "team": "Caretakers",
+      "pos": 138,
+      "score": 61,
+      "id": 325,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632009745
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632009757
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632015247
+        }
+      }
+    },
+    {
+      "team": "DLC",
+      "pos": 139,
+      "score": 61,
+      "id": 356,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632024675
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632024743
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632026093
+        }
+      }
+    },
+    {
+      "team": "Shad",
+      "pos": 140,
+      "score": 53,
+      "id": 288,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631994788
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631994977
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1631995372
+        }
+      }
+    },
+    {
+      "team": "0x5c71873f",
+      "pos": 141,
+      "score": 51,
+      "id": 426,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632058623
+        },
+        "DownUnder": {
+          "points": 50,
+          "time": 1632059978
+        }
+      }
+    },
+    {
+      "team": "B'Hack'UP",
+      "pos": 142,
+      "score": 13,
+      "id": 140,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973607
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973621
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973770
+        }
+      }
+    },
+    {
+      "team": "PWr Synt@x Err0r",
+      "pos": 143,
+      "score": 13,
+      "id": 68,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973665
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973671
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631973861
+        }
+      }
+    },
+    {
+      "team": "K1mCh1W@rr10r",
+      "pos": 144,
+      "score": 13,
+      "id": 32,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973729
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973743
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974232
+        }
+      }
+    },
+    {
+      "team": "luv u 3000",
+      "pos": 145,
+      "score": 13,
+      "id": 146,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973674
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973997
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974288
+        }
+      }
+    },
+    {
+      "team": "PPT Family",
+      "pos": 146,
+      "score": 13,
+      "id": 92,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973714
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973824
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974874
+        }
+      }
+    },
+    {
+      "team": "Fl@G D!GG3r&",
+      "pos": 147,
+      "score": 13,
+      "id": 135,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973694
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973930
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975242
+        }
+      }
+    },
+    {
+      "team": "taidh",
+      "pos": 148,
+      "score": 13,
+      "id": 186,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975211
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975222
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975255
+        }
+      }
+    },
+    {
+      "team": "ctf ?",
+      "pos": 149,
+      "score": 13,
+      "id": 170,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974029
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974191
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975360
+        }
+      }
+    },
+    {
+      "team": "0x65",
+      "pos": 150,
+      "score": 13,
+      "id": 14,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973708
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973737
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975537
+        }
+      }
+    },
+    {
+      "team": "Binary Rabbits",
+      "pos": 151,
+      "score": 13,
+      "id": 141,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974436
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975485
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975556
+        }
+      }
+    },
+    {
+      "team": "NamSystem",
+      "pos": 152,
+      "score": 13,
+      "id": 190,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975476
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975506
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975810
+        }
+      }
+    },
+    {
+      "team": "DarknetDiaries",
+      "pos": 153,
+      "score": 13,
+      "id": 198,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975910
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975969
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976152
+        }
+      }
+    },
+    {
+      "team": "nyolo",
+      "pos": 154,
+      "score": 13,
+      "id": 175,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974316
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974350
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976467
+        }
+      }
+    },
+    {
+      "team": "!p",
+      "pos": 155,
+      "score": 13,
+      "id": 163,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973931
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974095
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976483
+        }
+      }
+    },
+    {
+      "team": "Cybsec",
+      "pos": 156,
+      "score": 13,
+      "id": 202,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976235
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976305
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631976628
+        }
+      }
+    },
+    {
+      "team": "aaron",
+      "pos": 157,
+      "score": 13,
+      "id": 219,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977301
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631977324
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977419
+        }
+      }
+    },
+    {
+      "team": "Team 7",
+      "pos": 158,
+      "score": 13,
+      "id": 212,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977393
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977413
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631977539
+        }
+      }
+    },
+    {
+      "team": "Darkbeast",
+      "pos": 159,
+      "score": 13,
+      "id": 107,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974289
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974319
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631978470
+        }
+      }
+    },
+    {
+      "team": "UnicornsOfSec_team",
+      "pos": 160,
+      "score": 13,
+      "id": 139,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977905
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631977990
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979576
+        }
+      }
+    },
+    {
+      "team": "goldfinger",
+      "pos": 161,
+      "score": 13,
+      "id": 236,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631980072
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980132
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631980212
+        }
+      }
+    },
+    {
+      "team": "yolo_Im_going_solo",
+      "pos": 162,
+      "score": 13,
+      "id": 234,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979644
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980817
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631980970
+        }
+      }
+    },
+    {
+      "team": "UIT-KiD",
+      "pos": 163,
+      "score": 13,
+      "id": 240,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980623
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631981030
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631981067
+        }
+      }
+    },
+    {
+      "team": "alfa593",
+      "pos": 164,
+      "score": 13,
+      "id": 207,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976476
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976661
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982406
+        }
+      }
+    },
+    {
+      "team": "K0TN",
+      "pos": 165,
+      "score": 13,
+      "id": 250,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982108
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982166
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982486
+        }
+      }
+    },
+    {
+      "team": "Just Payload",
+      "pos": 166,
+      "score": 13,
+      "id": 91,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982645
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982695
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631983173
+        }
+      }
+    },
+    {
+      "team": "Anyhow",
+      "pos": 167,
+      "score": 13,
+      "id": 106,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631984082
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631984087
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631984720
+        }
+      }
+    },
+    {
+      "team": "trainyinfosec",
+      "pos": 168,
+      "score": 13,
+      "id": 267,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631985358
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631985374
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631985427
+        }
+      }
+    },
+    {
+      "team": "S0l0_N00b",
+      "pos": 169,
+      "score": 13,
+      "id": 263,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631984982
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631984995
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986362
+        }
+      }
+    },
+    {
+      "team": "lame",
+      "pos": 170,
+      "score": 13,
+      "id": 269,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631985480
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631985673
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631988724
+        }
+      }
+    },
+    {
+      "team": "Ph4nt0m",
+      "pos": 171,
+      "score": 13,
+      "id": 120,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631990999
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631991088
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631991649
+        }
+      }
+    },
+    {
+      "team": "lla",
+      "pos": 172,
+      "score": 13,
+      "id": 296,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631993820
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631994160
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631994191
+        }
+      }
+    },
+    {
+      "team": "Code_runner",
+      "pos": 173,
+      "score": 13,
+      "id": 105,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974192
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975585
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631994610
+        }
+      }
+    },
+    {
+      "team": "CyberSpace",
+      "pos": 174,
+      "score": 13,
+      "id": 301,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631996068
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631996152
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631996278
+        }
+      }
+    },
+    {
+      "team": "GoodBuddy",
+      "pos": 175,
+      "score": 13,
+      "id": 229,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631981541
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631992601
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631996690
+        }
+      }
+    },
+    {
+      "team": "ch-bit",
+      "pos": 176,
+      "score": 13,
+      "id": 320,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632004813
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632004842
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632005637
+        }
+      }
+    },
+    {
+      "team": "HackingLab",
+      "pos": 177,
+      "score": 13,
+      "id": 124,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632008183
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632008973
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632009573
+        }
+      }
+    },
+    {
+      "team": "evro",
+      "pos": 178,
+      "score": 13,
+      "id": 322,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632009090
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632009469
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632009625
+        }
+      }
+    },
+    {
+      "team": "4149534b",
+      "pos": 179,
+      "score": 13,
+      "id": 324,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632009439
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632009788
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632010631
+        }
+      }
+    },
+    {
+      "team": "strange_uncle",
+      "pos": 180,
+      "score": 13,
+      "id": 339,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632019286
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632019388
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632019497
+        }
+      }
+    },
+    {
+      "team": "Giga",
+      "pos": 181,
+      "score": 13,
+      "id": 342,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632019690
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632019708
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632020849
+        }
+      }
+    },
+    {
+      "team": "ComdeyOverflow",
+      "pos": 182,
+      "score": 13,
+      "id": 343,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632019945
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632020285
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632021041
+        }
+      }
+    },
+    {
+      "team": "k4ssette",
+      "pos": 183,
+      "score": 13,
+      "id": 345,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632020139
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632020190
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632022473
+        }
+      }
+    },
+    {
+      "team": "P1V0",
+      "pos": 184,
+      "score": 13,
+      "id": 350,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632022133
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632022484
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632022587
+        }
+      }
+    },
+    {
+      "team": "simurgh",
+      "pos": 185,
+      "score": 13,
+      "id": 360,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632025500
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632025660
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632025909
+        }
+      }
+    },
+    {
+      "team": "trojonHex",
+      "pos": 186,
+      "score": 13,
+      "id": 375,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632029727
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632029751
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632029842
+        }
+      }
+    },
+    {
+      "team": "Joke",
+      "pos": 187,
+      "score": 13,
+      "id": 382,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632032207
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632032354
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632032388
+        }
+      }
+    },
+    {
+      "team": "0x10Tails",
+      "pos": 188,
+      "score": 13,
+      "id": 101,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632021819
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632021936
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632035827
+        }
+      }
+    },
+    {
+      "team": "c0rp5",
+      "pos": 189,
+      "score": 13,
+      "id": 396,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632037471
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632037525
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632037710
+        }
+      }
+    },
+    {
+      "team": "Knight Squad",
+      "pos": 190,
+      "score": 13,
+      "id": 3,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632037617
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632037896
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632038161
+        }
+      }
+    },
+    {
+      "team": "EISCTUTN",
+      "pos": 191,
+      "score": 13,
+      "id": 399,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632038167
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632038200
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632038288
+        }
+      }
+    },
+    {
+      "team": "Team Akatsukii",
+      "pos": 192,
+      "score": 13,
+      "id": 393,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632037744
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632037758
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632038690
+        }
+      }
+    },
+    {
+      "team": "EHG_ASE",
+      "pos": 193,
+      "score": 13,
+      "id": 121,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973629
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973670
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632040929
+        }
+      }
+    },
+    {
+      "team": "chron9logy",
+      "pos": 194,
+      "score": 13,
+      "id": 352,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632026435
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632026564
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632055593
+        }
+      }
+    },
+    {
+      "team": "kgrzk",
+      "pos": 195,
+      "score": 13,
+      "id": 10,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631983595
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631983818
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632055682
+        }
+      }
+    },
+    {
+      "team": "Mr_Lucifer",
+      "pos": 196,
+      "score": 11,
+      "id": 183,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631974749
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974756
+        }
+      }
+    },
+    {
+      "team": "waifumaniac",
+      "pos": 197,
+      "score": 11,
+      "id": 209,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976878
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977056
+        }
+      }
+    },
+    {
+      "team": "lolasl",
+      "pos": 198,
+      "score": 11,
+      "id": 215,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977148
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977161
+        }
+      }
+    },
+    {
+      "team": "pfpwnd",
+      "pos": 199,
+      "score": 11,
+      "id": 213,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977586
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977604
+        }
+      }
+    },
+    {
+      "team": "TCTN",
+      "pos": 200,
+      "score": 11,
+      "id": 210,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976872
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631977649
+        }
+      }
+    },
+    {
+      "team": "tshooter",
+      "pos": 201,
+      "score": 11,
+      "id": 178,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974618
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979429
+        }
+      }
+    },
+    {
+      "team": "badsctr",
+      "pos": 202,
+      "score": 11,
+      "id": 49,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631979778
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631979986
+        }
+      }
+    },
+    {
+      "team": "SFP",
+      "pos": 203,
+      "score": 11,
+      "id": 238,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980459
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631980551
+        }
+      }
+    },
+    {
+      "team": "thuoo",
+      "pos": 204,
+      "score": 11,
+      "id": 237,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631980673
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980860
+        }
+      }
+    },
+    {
+      "team": "aa",
+      "pos": 205,
+      "score": 11,
+      "id": 248,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982081
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982088
+        }
+      }
+    },
+    {
+      "team": "gruf",
+      "pos": 206,
+      "score": 11,
+      "id": 256,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631983064
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631983400
+        }
+      }
+    },
+    {
+      "team": "exntrc",
+      "pos": 207,
+      "score": 11,
+      "id": 260,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631984597
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631984614
+        }
+      }
+    },
+    {
+      "team": "CHIqueen",
+      "pos": 208,
+      "score": 11,
+      "id": 274,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986302
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631986309
+        }
+      }
+    },
+    {
+      "team": "MALWAY__GG",
+      "pos": 209,
+      "score": 11,
+      "id": 270,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631985805
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986657
+        }
+      }
+    },
+    {
+      "team": "HulkSmash",
+      "pos": 210,
+      "score": 11,
+      "id": 257,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631983681
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986837
+        }
+      }
+    },
+    {
+      "team": "xyuon",
+      "pos": 211,
+      "score": 11,
+      "id": 113,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631989098
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631990544
+        }
+      }
+    },
+    {
+      "team": "WNS",
+      "pos": 212,
+      "score": 11,
+      "id": 273,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631988790
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631991255
+        }
+      }
+    },
+    {
+      "team": "FreshPhish",
+      "pos": 213,
+      "score": 11,
+      "id": 42,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631987424
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631993600
+        }
+      }
+    },
+    {
+      "team": "probenve",
+      "pos": 214,
+      "score": 11,
+      "id": 287,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631989729
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631999808
+        }
+      }
+    },
+    {
+      "team": "monopolies",
+      "pos": 215,
+      "score": 11,
+      "id": 333,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632014155
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632014225
+        }
+      }
+    },
+    {
+      "team": "SXCTC",
+      "pos": 216,
+      "score": 11,
+      "id": 331,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632013180
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632015329
+        }
+      }
+    },
+    {
+      "team": "NotHotdog",
+      "pos": 217,
+      "score": 11,
+      "id": 346,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632020191
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632020287
+        }
+      }
+    },
+    {
+      "team": "Informal Studio",
+      "pos": 218,
+      "score": 11,
+      "id": 344,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632020884
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632020917
+        }
+      }
+    },
+    {
+      "team": "v1v0t3@ms",
+      "pos": 219,
+      "score": 11,
+      "id": 23,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974087
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632021862
+        }
+      }
+    },
+    {
+      "team": "Hacking Help",
+      "pos": 220,
+      "score": 11,
+      "id": 357,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632024170
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632024346
+        }
+      }
+    },
+    {
+      "team": "h4n4l0ver",
+      "pos": 221,
+      "score": 11,
+      "id": 364,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632025800
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632026339
+        }
+      }
+    },
+    {
+      "team": "y_kn0t",
+      "pos": 222,
+      "score": 11,
+      "id": 369,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632027136
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632027470
+        }
+      }
+    },
+    {
+      "team": "Dark_Warrior$",
+      "pos": 223,
+      "score": 11,
+      "id": 372,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632028961
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632029092
+        }
+      }
+    },
+    {
+      "team": "peek",
+      "pos": 224,
+      "score": 11,
+      "id": 378,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632030943
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632031217
+        }
+      }
+    },
+    {
+      "team": "Ahrcantos",
+      "pos": 225,
+      "score": 11,
+      "id": 74,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632031320
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632036710
+        }
+      }
+    },
+    {
+      "team": "KiritoQN",
+      "pos": 226,
+      "score": 11,
+      "id": 398,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632037950
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632038056
+        }
+      }
+    },
+    {
+      "team": "trying2learn",
+      "pos": 227,
+      "score": 11,
+      "id": 115,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632040565
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632040586
+        }
+      }
+    },
+    {
+      "team": "ROSS",
+      "pos": 228,
+      "score": 11,
+      "id": 405,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632041080
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632041930
+        }
+      }
+    },
+    {
+      "team": "dokko",
+      "pos": 229,
+      "score": 11,
+      "id": 362,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632025263
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632046167
+        }
+      }
+    },
+    {
+      "team": "SWT",
+      "pos": 230,
+      "score": 11,
+      "id": 86,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632048745
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632048793
+        }
+      }
+    },
+    {
+      "team": "Mr.White",
+      "pos": 231,
+      "score": 11,
+      "id": 414,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632049568
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632050970
+        }
+      }
+    },
+    {
+      "team": "kOoL",
+      "pos": 232,
+      "score": 11,
+      "id": 134,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632053990
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632055036
+        }
+      }
+    },
+    {
+      "team": "Slab Allocator",
+      "pos": 233,
+      "score": 11,
+      "id": 425,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632058176
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632058289
+        }
+      }
+    },
+    {
+      "team": "KXTI_MAKHUS",
+      "pos": 234,
+      "score": 11,
+      "id": 284,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632059235
+        },
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632059278
+        }
+      }
+    },
+    {
+      "team": "nguyenkhachuy2730194@gmail.com",
+      "pos": 235,
+      "score": 10,
+      "id": 164,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631975042
+        }
+      }
+    },
+    {
+      "team": "sln.1550",
+      "pos": 236,
+      "score": 10,
+      "id": 244,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631981303
+        }
+      }
+    },
+    {
+      "team": "madeinchina",
+      "pos": 237,
+      "score": 10,
+      "id": 249,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982182
+        }
+      }
+    },
+    {
+      "team": "spooky_nezuko_clan",
+      "pos": 238,
+      "score": 10,
+      "id": 254,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631982556
+        }
+      }
+    },
+    {
+      "team": "byt3",
+      "pos": 239,
+      "score": 10,
+      "id": 272,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631986145
+        }
+      }
+    },
+    {
+      "team": "RPCA Cyber Club",
+      "pos": 240,
+      "score": 10,
+      "id": 47,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631992076
+        }
+      }
+    },
+    {
+      "team": "SiC'estPourAiderC'estPasP*",
+      "pos": 241,
+      "score": 10,
+      "id": 128,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631992852
+        }
+      }
+    },
+    {
+      "team": "Federal_Bonk_Investigations",
+      "pos": 242,
+      "score": 10,
+      "id": 302,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1631996624
+        }
+      }
+    },
+    {
+      "team": "ouillle",
+      "pos": 243,
+      "score": 10,
+      "id": 319,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632003787
+        }
+      }
+    },
+    {
+      "team": "ru7ynk4",
+      "pos": 244,
+      "score": 10,
+      "id": 328,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632011305
+        }
+      }
+    },
+    {
+      "team": "archit",
+      "pos": 245,
+      "score": 10,
+      "id": 368,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632027018
+        }
+      }
+    },
+    {
+      "team": "boot_force",
+      "pos": 246,
+      "score": 10,
+      "id": 366,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632031834
+        }
+      }
+    },
+    {
+      "team": "gigglemugs",
+      "pos": 247,
+      "score": 10,
+      "id": 306,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632044010
+        }
+      }
+    },
+    {
+      "team": "Xnxx",
+      "pos": 248,
+      "score": 10,
+      "id": 413,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632047652
+        }
+      }
+    },
+    {
+      "team": "Hacksteria",
+      "pos": 249,
+      "score": 10,
+      "id": 418,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632051558
+        }
+      }
+    },
+    {
+      "team": "maidragon",
+      "pos": 250,
+      "score": 10,
+      "id": 377,
+      "taskStats": {
+        "Mr Robot": {
+          "points": 10,
+          "time": 1632053594
+        }
+      }
+    },
+    {
+      "team": "Press 'E' to Hack",
+      "pos": 251,
+      "score": 3,
+      "id": 89,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973707
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631973893
+        }
+      }
+    },
+    {
+      "team": "YelloWBunny",
+      "pos": 252,
+      "score": 3,
+      "id": 143,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631973706
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974227
+        }
+      }
+    },
+    {
+      "team": "solo",
+      "pos": 253,
+      "score": 3,
+      "id": 182,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974627
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974675
+        }
+      }
+    },
+    {
+      "team": "GrodRiket",
+      "pos": 254,
+      "score": 3,
+      "id": 179,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974468
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631974693
+        }
+      }
+    },
+    {
+      "team": "Anxiety",
+      "pos": 255,
+      "score": 3,
+      "id": 197,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975791
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975882
+        }
+      }
+    },
+    {
+      "team": "Hermandy",
+      "pos": 256,
+      "score": 3,
+      "id": 181,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974580
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975938
+        }
+      }
+    },
+    {
+      "team": "CTF PARTY",
+      "pos": 257,
+      "score": 3,
+      "id": 54,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975606
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631975994
+        }
+      }
+    },
+    {
+      "team": "Interlude3",
+      "pos": 258,
+      "score": 3,
+      "id": 199,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976161
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976328
+        }
+      }
+    },
+    {
+      "team": "killswitch",
+      "pos": 259,
+      "score": 3,
+      "id": 96,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975826
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976469
+        }
+      }
+    },
+    {
+      "team": "-",
+      "pos": 260,
+      "score": 3,
+      "id": 205,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976612
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976651
+        }
+      }
+    },
+    {
+      "team": "cos@hacker",
+      "pos": 261,
+      "score": 3,
+      "id": 108,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975035
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631976713
+        }
+      }
+    },
+    {
+      "team": "sadman",
+      "pos": 262,
+      "score": 3,
+      "id": 217,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977256
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631977328
+        }
+      }
+    },
+    {
+      "team": "The White Rose",
+      "pos": 263,
+      "score": 3,
+      "id": 8,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631979767
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631979930
+        }
+      }
+    },
+    {
+      "team": "devme4f",
+      "pos": 264,
+      "score": 3,
+      "id": 235,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980219
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631980388
+        }
+      }
+    },
+    {
+      "team": "seed",
+      "pos": 265,
+      "score": 3,
+      "id": 252,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631982770
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631982912
+        }
+      }
+    },
+    {
+      "team": "_HelloWorld",
+      "pos": 266,
+      "score": 3,
+      "id": 243,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631980982
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631983364
+        }
+      }
+    },
+    {
+      "team": "n4s1R",
+      "pos": 267,
+      "score": 3,
+      "id": 265,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631985007
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631985359
+        }
+      }
+    },
+    {
+      "team": "Ba Sing Sec",
+      "pos": 268,
+      "score": 3,
+      "id": 304,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631997354
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631997404
+        }
+      }
+    },
+    {
+      "team": "p0rns1de",
+      "pos": 269,
+      "score": 3,
+      "id": 200,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632015564
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632015630
+        }
+      }
+    },
+    {
+      "team": "BandOfBinaries",
+      "pos": 270,
+      "score": 3,
+      "id": 355,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632024087
+        },
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632024096
+        }
+      }
+    },
+    {
+      "team": "TQI",
+      "pos": 271,
+      "score": 3,
+      "id": 376,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632030521
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632030630
+        }
+      }
+    },
+    {
+      "team": "C4C",
+      "pos": 272,
+      "score": 3,
+      "id": 103,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632031029
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632031048
+        }
+      }
+    },
+    {
+      "team": "shinchan",
+      "pos": 273,
+      "score": 3,
+      "id": 387,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632033758
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632033836
+        }
+      }
+    },
+    {
+      "team": "am#ra",
+      "pos": 274,
+      "score": 3,
+      "id": 402,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632040116
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632041377
+        }
+      }
+    },
+    {
+      "team": "t0jcl",
+      "pos": 275,
+      "score": 3,
+      "id": 408,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632043038
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632043352
+        }
+      }
+    },
+    {
+      "team": "nekonyaa",
+      "pos": 276,
+      "score": 3,
+      "id": 12,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632055539
+        },
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632055587
+        }
+      }
+    },
+    {
+      "team": "chmod",
+      "pos": 277,
+      "score": 2,
+      "id": 286,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1631989526
+        }
+      }
+    },
+    {
+      "team": "Darks",
+      "pos": 278,
+      "score": 2,
+      "id": 313,
+      "taskStats": {
+        "Discooooooooord": {
+          "points": 2,
+          "time": 1632001895
+        }
+      }
+    },
+    {
+      "team": "d4r7qu3",
+      "pos": 279,
+      "score": 1,
+      "id": 90,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631974236
+        }
+      }
+    },
+    {
+      "team": "HikaruNara",
+      "pos": 280,
+      "score": 1,
+      "id": 189,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631975148
+        }
+      }
+    },
+    {
+      "team": "3wisemen",
+      "pos": 281,
+      "score": 1,
+      "id": 83,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976046
+        }
+      }
+    },
+    {
+      "team": "AUZ1",
+      "pos": 282,
+      "score": 1,
+      "id": 123,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976126
+        }
+      }
+    },
+    {
+      "team": "SangiMangi",
+      "pos": 283,
+      "score": 1,
+      "id": 131,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631976340
+        }
+      }
+    },
+    {
+      "team": "xerox",
+      "pos": 284,
+      "score": 1,
+      "id": 222,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631977952
+        }
+      }
+    },
+    {
+      "team": "base64",
+      "pos": 285,
+      "score": 1,
+      "id": 226,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631978722
+        }
+      }
+    },
+    {
+      "team": "cookie",
+      "pos": 286,
+      "score": 1,
+      "id": 195,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631981424
+        }
+      }
+    },
+    {
+      "team": "thiendiahoi",
+      "pos": 287,
+      "score": 1,
+      "id": 246,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631981624
+        }
+      }
+    },
+    {
+      "team": "Empty",
+      "pos": 288,
+      "score": 1,
+      "id": 247,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631981762
+        }
+      }
+    },
+    {
+      "team": "Greenhorns",
+      "pos": 289,
+      "score": 1,
+      "id": 208,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631981913
+        }
+      }
+    },
+    {
+      "team": "Threatbook",
+      "pos": 290,
+      "score": 1,
+      "id": 259,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631984393
+        }
+      }
+    },
+    {
+      "team": "Jansano",
+      "pos": 291,
+      "score": 1,
+      "id": 280,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1631989838
+        }
+      }
+    },
+    {
+      "team": "h4ckad1a",
+      "pos": 292,
+      "score": 1,
+      "id": 312,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632000163
+        }
+      }
+    },
+    {
+      "team": "ootsubo",
+      "pos": 293,
+      "score": 1,
+      "id": 314,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632001940
+        }
+      }
+    },
+    {
+      "team": "bobai",
+      "pos": 294,
+      "score": 1,
+      "id": 5,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632010148
+        }
+      }
+    },
+    {
+      "team": "Prairie Dawgz",
+      "pos": 295,
+      "score": 1,
+      "id": 329,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632011197
+        }
+      }
+    },
+    {
+      "team": "RedWolf",
+      "pos": 296,
+      "score": 1,
+      "id": 335,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632015890
+        }
+      }
+    },
+    {
+      "team": "SH_L",
+      "pos": 297,
+      "score": 1,
+      "id": 166,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632032838
+        }
+      }
+    },
+    {
+      "team": "h6n3y1337",
+      "pos": 298,
+      "score": 1,
+      "id": 384,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632033224
+        }
+      }
+    },
+    {
+      "team": "The Voyagers",
+      "pos": 299,
+      "score": 1,
+      "id": 383,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632033773
+        }
+      }
+    },
+    {
+      "team": "SF",
+      "pos": 300,
+      "score": 1,
+      "id": 400,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632038929
+        }
+      }
+    },
+    {
+      "team": "MaskedMagicians",
+      "pos": 301,
+      "score": 1,
+      "id": 411,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632046545
+        }
+      }
+    },
+    {
+      "team": "Hidiot",
+      "pos": 302,
+      "score": 1,
+      "id": 416,
+      "taskStats": {
+        "Liveness Check": {
+          "points": 1,
+          "time": 1632049626
+        }
+      }
+    }
+  ],
+  "date": 1631890800,
+  "name": "Sunshine CTF 2021"
+}
