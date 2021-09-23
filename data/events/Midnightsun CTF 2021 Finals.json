@@ -1,0 +1,240 @@
+{
+  "standings": [
+    {
+      "pos": 1,
+      "team": "perfect blue",
+      "score": 6879,
+      "taskStats": {
+        "Graphiti": null,
+        "TownOfSaleaem": null,
+        "SuperSe...": null,
+        "plolard": null,
+        "flåarb.tar.xz": null,
+        "sillyeilish": null,
+        "Climb t...": null,
+        "easyOS": null,
+        "locksmith": null,
+        "secret-diary": null,
+        "lockdown": null,
+        "memery": null,
+        "QRona": null,
+        "Tabula RSA": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "RedRocket",
+      "score": 6074,
+      "taskStats": {
+        "Graphiti": null,
+        "TownOfSaleaem": null,
+        "SuperSe...": null,
+        "plolard": null,
+        "flåarb.tar.xz": null,
+        "not backdoored": null,
+        "sillyeilish": null,
+        "easyOS": null,
+        "risque": null,
+        "locksmith": null,
+        "secret-diary": null,
+        "lockdown": null,
+        "memery": null,
+        "QRona": null,
+        "Tabula RSA": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "Armia Prezesa",
+      "score": 5566,
+      "taskStats": {
+        "Graphiti": null,
+        "TownOfSaleaem": null,
+        "SuperSe...": null,
+        "flåarb.tar.xz": null,
+        "sillyeilish": null,
+        "Climb t...": null,
+        "easyOS": null,
+        "locksmith": null,
+        "secret-diary": null,
+        "lockdown": null,
+        "Crack M...": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "bootplug",
+      "score": 4860,
+      "taskStats": {
+        "Graphiti": null,
+        "SuperSe...": null,
+        "plolard": null,
+        "flåarb.tar.xz": null,
+        "sillyeilish": null,
+        "Climb t...": null,
+        "easyOS": null,
+        "locksmith": null,
+        "secret-diary": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "An Equal Mix",
+      "score": 4479,
+      "taskStats": {
+        "Graphiti": null,
+        "TownOfSaleaem": null,
+        "SuperSe...": null,
+        "flåarb.tar.xz": null,
+        "sillyeilish": null,
+        "Climb t...": null,
+        "easyOS": null,
+        "locksmith": null,
+        "secret-diary": null,
+        "Crack M...": null,
+        "Tabula RSA": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "watevr",
+      "score": 4332,
+      "taskStats": {
+        "Graphiti": null,
+        "TownOfSaleaem": null,
+        "SuperSe...": null,
+        "plolard": null,
+        "flåarb.tar.xz": null,
+        "sillyeilish": null,
+        "easyOS": null,
+        "locksmith": null,
+        "lockdown": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "KTHCTF0x1",
+      "score": 4017,
+      "taskStats": {
+        "Graphiti": null,
+        "SuperSe...": null,
+        "flåarb.tar.xz": null,
+        "not backdoored": null,
+        "sillyeilish": null,
+        "easyOS": null,
+        "locksmith": null,
+        "lockdown": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "More Smoked Leet Chicken",
+      "score": 3978,
+      "taskStats": {
+        "Graphiti": null,
+        "TownOfSaleaem": null,
+        "SuperSe...": null,
+        "plolard": null,
+        "flåarb.tar.xz": null,
+        "not backdoored": null,
+        "sillyeilish": null,
+        "easyOS": null,
+        "locksmith": null,
+        "secret-diary": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "WreckTheLine",
+      "score": 3487,
+      "taskStats": {
+        "Graphiti": null,
+        "TownOfSaleaem": null,
+        "SuperSe...": null,
+        "flåarb.tar.xz": null,
+        "sillyeilish": null,
+        "easyOS": null,
+        "locksmith": null,
+        "lockdown": null,
+        "memery": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "uuunderflow",
+      "score": 2977,
+      "taskStats": {
+        "Graphiti": null,
+        "SuperSe...": null,
+        "flåarb.tar.xz": null,
+        "sillyeilish": null,
+        "easyOS": null,
+        "locksmith": null,
+        "lockdown": null,
+        "memery": null,
+        "QRona": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "DTTAlH3",
+      "score": 1934,
+      "taskStats": {
+        "SuperSe...": null,
+        "locksmith": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "bumbodosan",
+      "score": 1375,
+      "taskStats": {
+        "SuperSe...": null,
+        "flåarb.tar.xz": null,
+        "locksmith": null
+      }
+    },
+    {
+      "pos": 13,
+      "team": "h4tum",
+      "score": 1013,
+      "taskStats": {
+        "SuperSe...": null,
+        "lockdown": null,
+        "memery": null
+      }
+    },
+    {
+      "pos": 14,
+      "team": "kthxbye",
+      "score": 549,
+      "taskStats": {
+        "SuperSe...": null,
+        "flåarb.tar.xz": null
+      }
+    }
+  ],
+  "tasks": [
+    "Graphiti",
+    "TownOfSaleaem",
+    "SuperSe...",
+    "plolard",
+    "flåarb.tar.xz",
+    "not backdoored",
+    "sillyeilish",
+    "inspectorgadget",
+    "Climb t...",
+    "easyOS",
+    "risque",
+    "locksmith",
+    "King of Fuzz",
+    "secret-diary",
+    "lockdown",
+    "memery",
+    "QRona",
+    "Crack M...",
+    "Tabula RSA"
+  ],
+  "date": 1631890800,
+  "name": "Midnightsun CTF 2021 Finals"
+}
