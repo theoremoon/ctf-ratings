@@ -1,0 +1,257 @@
+{
+  "standings": [
+    {
+      "pos": 1,
+      "team": "organizers",
+      "score": "6668",
+      "taskStats": {
+        "eeenginx": null,
+        "ezMat": null,
+        "Secure JIT II": null,
+        "boynextdoor": null,
+        "0VM": null,
+        "kbrop": null,
+        "Win-Win": null,
+        "babalogin": null,
+        "ezRSA": null,
+        "ezHash": null,
+        "ezRSA+": null,
+        "useCTF()": null,
+        "babylogin": null,
+        "how_to_generate": null,
+        "kernote": null,
+        "halfhalf": null,
+        "favourite fruit": null
+      }
+    },
+    {
+      "pos": 2,
+      "team": "r3kapig",
+      "score": "6098",
+      "taskStats": {
+        "Secure JIT II": null,
+        "eeenginx": null,
+        "boynextdoor": null,
+        "babylogin": null,
+        "ezMat": null,
+        "0VM": null,
+        "Win-Win": null,
+        "promise": null,
+        "bali": null,
+        "ezRSA": null,
+        "how_to_generate": null,
+        "halfhalf": null,
+        "buggyLoader": null,
+        "kbrop": null,
+        "BabaHeap": null,
+        "NaiveHeap": null
+      }
+    },
+    {
+      "pos": 3,
+      "team": "Balsn",
+      "score": "6085",
+      "taskStats": {
+        "Secure JIT II": null,
+        "eeenginx": null,
+        "ezMat": null,
+        "boynextdoor": null,
+        "NaiveHeap": null,
+        "Win-Win": null,
+        "0VM": null,
+        "babylogin": null,
+        "babalogin": null,
+        "ezRSA": null,
+        "kbrop": null,
+        "ezRSA+": null,
+        "favourite fruit": null,
+        "kernote": null,
+        "BabaHeap": null,
+        "how_to_generate": null
+      }
+    },
+    {
+      "pos": 4,
+      "team": "NeSE",
+      "score": "5915",
+      "taskStats": {
+        "Secure JIT II": null,
+        "eeenginx": null,
+        "0VM": null,
+        "Win-Win": null,
+        "0bf": null,
+        "buggyLoader": null,
+        "kbrop": null,
+        "ezRSA": null,
+        "babylogin": null,
+        "promise": null,
+        "RevengePHP": null,
+        "ezMat": null,
+        "NaiveHeap": null
+      }
+    },
+    {
+      "pos": 5,
+      "team": "More Smoked Leet Chicken",
+      "score": "5694",
+      "taskStats": {
+        "eeenginx": null,
+        "babylogin": null,
+        "ezMat": null,
+        "boynextdoor": null,
+        "Win-Win": null,
+        "favourite fruit": null,
+        "Secure JIT II": null,
+        "how_to_generate": null,
+        "useCTF()": null,
+        "RevengePHP": null,
+        "ezRSA": null,
+        "ezRSA+": null,
+        "ezHash": null,
+        "bali": null,
+        "halfhalf": null
+      }
+    },
+    {
+      "pos": 6,
+      "team": "perfect blue",
+      "score": "4922",
+      "taskStats": {
+        "Secure JIT II": null,
+        "eeenginx": null,
+        "ezMat": null,
+        "babylogin": null,
+        "promise": null,
+        "0VM": null,
+        "bali": null,
+        "kbrop": null,
+        "ezRSA": null,
+        "ezRSA+": null,
+        "ezHash": null,
+        "halfhalf": null,
+        "how_to_generate": null,
+        "Win-Win": null
+      }
+    },
+    {
+      "pos": 7,
+      "team": "Nu1L",
+      "score": "4033",
+      "taskStats": {
+        "boynextdoor": null,
+        "eeenginx": null,
+        "Secure JIT II": null,
+        "ezMat": null,
+        "Win-Win": null,
+        "how_to_generate": null,
+        "ezRSA": null,
+        "babalogin": null,
+        "ezRSA+": null,
+        "favourite fruit": null,
+        "BabaHeap": null,
+        "halfhalf": null
+      }
+    },
+    {
+      "pos": 8,
+      "team": "hxp",
+      "score": "3594",
+      "taskStats": {
+        "Secure JIT II": null,
+        "boynextdoor": null,
+        "eeenginx": null,
+        "ezMat": null,
+        "babylogin": null,
+        "favourite fruit": null,
+        "Win-Win": null,
+        "how_to_generate": null,
+        "ezRSA": null,
+        "bali": null,
+        "ezRSA+": null,
+        "halfhalf": null
+      }
+    },
+    {
+      "pos": 9,
+      "team": "DiceGang",
+      "score": "2615",
+      "taskStats": {
+        "Secure JIT II": null,
+        "ezMat": null,
+        "favourite fruit": null,
+        "bali": null,
+        "how_to_generate": null,
+        "boynextdoor": null,
+        "eeenginx": null,
+        "halfhalf": null,
+        "ezRSA": null
+      }
+    },
+    {
+      "pos": 10,
+      "team": "Dragon Sector",
+      "score": "2396",
+      "taskStats": {
+        "Secure JIT II": null,
+        "eeenginx": null,
+        "ezMat": null,
+        "Win-Win": null,
+        "NaiveHeap": null,
+        "boynextdoor": null,
+        "0VM": null,
+        "how_to_generate": null
+      }
+    },
+    {
+      "pos": 11,
+      "team": "zer0pts",
+      "score": "658",
+      "taskStats": {
+        "Secure JIT II": null,
+        "ezMat": null,
+        "ezRSA": null
+      }
+    },
+    {
+      "pos": 12,
+      "team": "r00timentary",
+      "score": "658",
+      "taskStats": {
+        "Secure JIT II": null,
+        "ezMat": null,
+        "ezRSA": null
+      }
+    }
+  ],
+  "tasks": [
+    "useCTF()",
+    "kernote",
+    "0VM",
+    "bali",
+    "Secure JIT II",
+    "promise",
+    "eeenginx",
+    "babylogin",
+    "babalogin",
+    "RevengePHP",
+    "buggyLoader",
+    "0bf",
+    "favourite fruit",
+    "boynextdoor",
+    "tile++",
+    "NaiveHeap",
+    "BabaHeap",
+    "Win-Win",
+    "ezMat",
+    "binlog",
+    "how_to_generate",
+    "ezHash",
+    "kbrop",
+    "zer0boot",
+    "ezRSA",
+    "ezRSA+",
+    "halfhalf"
+  ],
+  "date": 1632495600,
+  "name": "0CTF/TCTF 2021 Finals"
+}
