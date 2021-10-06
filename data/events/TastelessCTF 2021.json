@@ -1,0 +1,2422 @@
+{
+  "tasks": [
+    "[game] Blackbeard",
+    "[game] Skull Island",
+    "[game] Conch",
+    "[game] Boat",
+    "[misc] Sanity",
+    "[game] Fortress",
+    "[steg] webwhat",
+    "[???] airgap",
+    "[pwn] CTF Simulator",
+    "[cry] crybaby",
+    "[pwn] Baby CTF Simulator",
+    "[game] Thrybrush",
+    "[web] wtftime",
+    "[rev] PVM"
+  ],
+  "standings": [
+    {
+      "team": "The Flat Network Society",
+      "pos": 1,
+      "score": 3905,
+      "id": 179,
+      "taskStats": {
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633190387
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633190848
+        },
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633197880
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633208018
+        },
+        "[game] Blackbeard": {
+          "points": 499,
+          "time": 1633214727
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633216374
+        },
+        "[web] wtftime": {
+          "points": 500,
+          "time": 1633261682
+        },
+        "[game] Fortress": {
+          "points": 500,
+          "time": 1633262317
+        },
+        "[steg] webwhat": {
+          "points": 500,
+          "time": 1633264321
+        }
+      }
+    },
+    {
+      "team": "flagbot",
+      "pos": 2,
+      "score": 3897,
+      "id": 363,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180300
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633198810
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633200764
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633201781
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633205651
+        },
+        "[game] Blackbeard": {
+          "points": 499,
+          "time": 1633213295
+        },
+        "[steg] webwhat": {
+          "points": 500,
+          "time": 1633221415
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633225085
+        },
+        "[???] airgap": {
+          "points": 500,
+          "time": 1633230105
+        }
+      }
+    },
+    {
+      "team": "pasten",
+      "pos": 3,
+      "score": 3405,
+      "id": 267,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181000
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633203766
+        },
+        "[steg] webwhat": {
+          "points": 500,
+          "time": 1633207514
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633217712
+        },
+        "[rev] PVM": {
+          "points": 500,
+          "time": 1633218753
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633219042
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633226353
+        },
+        "[???] airgap": {
+          "points": 500,
+          "time": 1633248346
+        }
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 4,
+      "score": 2897,
+      "id": 369,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180382
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633207896
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633209241
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633218810
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633223660
+        },
+        "[game] Blackbeard": {
+          "points": 499,
+          "time": 1633234442
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633253829
+        }
+      }
+    },
+    {
+      "team": "DLC",
+      "pos": 5,
+      "score": 2408,
+      "id": 382,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180352
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633204885
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633217888
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633217974
+        },
+        "[game] Blackbeard": {
+          "points": 499,
+          "time": 1633220526
+        },
+        "[game] Fortress": {
+          "points": 500,
+          "time": 1633248723
+        }
+      }
+    },
+    {
+      "team": "/upb/hack",
+      "pos": 6,
+      "score": 2405,
+      "id": 198,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180583
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633193861
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633209020
+        },
+        "[game] Blackbeard": {
+          "points": 499,
+          "time": 1633211111
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633215299
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633218065
+        }
+      }
+    },
+    {
+      "team": "Dragon Sector",
+      "pos": 7,
+      "score": 2405,
+      "id": 311,
+      "taskStats": {
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633199973
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633210463
+        },
+        "[game] Blackbeard": {
+          "points": 499,
+          "time": 1633218576
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633226714
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633231853
+        },
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633256088
+        }
+      }
+    },
+    {
+      "team": "Jiwawa",
+      "pos": 8,
+      "score": 2405,
+      "id": 118,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180450
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633204192
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633212354
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633237503
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633260466
+        },
+        "[game] Blackbeard": {
+          "points": 499,
+          "time": 1633265742
+        }
+      }
+    },
+    {
+      "team": "K3RN3L4RMY",
+      "pos": 9,
+      "score": 2398,
+      "id": 107,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180146
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633196527
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633206986
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633214423
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633220562
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633231656
+        }
+      }
+    },
+    {
+      "team": "Shellphish",
+      "pos": 10,
+      "score": 2398,
+      "id": 213,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633186728
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633200486
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633219283
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633219662
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633233106
+        },
+        "[game] Thrybrush": {
+          "points": 497,
+          "time": 1633262555
+        }
+      }
+    },
+    {
+      "team": "PFS",
+      "pos": 11,
+      "score": 1909,
+      "id": 156,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180248
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633211441
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633211545
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633221335
+        },
+        "[???] airgap": {
+          "points": 500,
+          "time": 1633246131
+        }
+      }
+    },
+    {
+      "team": "More Smoked Leet Chicken",
+      "pos": 12,
+      "score": 1908,
+      "id": 254,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633189431
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633210621
+        },
+        "[steg] webwhat": {
+          "points": 500,
+          "time": 1633219602
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633224518
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633242004
+        }
+      }
+    },
+    {
+      "team": "ALLES",
+      "pos": 13,
+      "score": 1901,
+      "id": 438,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183715
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633213383
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633214842
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633214928
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633253868
+        }
+      }
+    },
+    {
+      "team": "Kernel Sanders",
+      "pos": 14,
+      "score": 1409,
+      "id": 340,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633191014
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633193644
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633198751
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633213443
+        }
+      }
+    },
+    {
+      "team": "PPP",
+      "pos": 15,
+      "score": 1409,
+      "id": 160,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181215
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633209741
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633213429
+        },
+        "[game] Conch": {
+          "points": 493,
+          "time": 1633237993
+        }
+      }
+    },
+    {
+      "team": "ENOFLAG",
+      "pos": 16,
+      "score": 1408,
+      "id": 433,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183530
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633195535
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633196024
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633229863
+        }
+      }
+    },
+    {
+      "team": "mode13h",
+      "pos": 17,
+      "score": 1408,
+      "id": 295,
+      "taskStats": {
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633205536
+        },
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633205564
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633250714
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633252859
+        }
+      }
+    },
+    {
+      "team": "ffffx00000",
+      "pos": 18,
+      "score": 1408,
+      "id": 672,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633246313
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633249768
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633250156
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633253099
+        }
+      }
+    },
+    {
+      "team": "hxp",
+      "pos": 19,
+      "score": 936,
+      "id": 509,
+      "taskStats": {
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633249969
+        },
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633250694
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633251926
+        }
+      }
+    },
+    {
+      "team": "noproplem",
+      "pos": 20,
+      "score": 936,
+      "id": 145,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180119
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633194563
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633264058
+        }
+      }
+    },
+    {
+      "team": "#C0FFEE",
+      "pos": 21,
+      "score": 916,
+      "id": 134,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180888
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633190270
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633200747
+        }
+      }
+    },
+    {
+      "team": "curveball",
+      "pos": 22,
+      "score": 916,
+      "id": 271,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180218
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633208113
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633210773
+        }
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 23,
+      "score": 916,
+      "id": 4,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633201249
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633210378
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633215470
+        }
+      }
+    },
+    {
+      "team": "pwnagaukar",
+      "pos": 24,
+      "score": 916,
+      "id": 97,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181208
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633218743
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633219296
+        }
+      }
+    },
+    {
+      "team": "Stogie",
+      "pos": 25,
+      "score": 916,
+      "id": 291,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633187932
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633261219
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633263861
+        }
+      }
+    },
+    {
+      "team": "TheNorthCodes_",
+      "pos": 26,
+      "score": 916,
+      "id": 507,
+      "taskStats": {
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633198870
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633205191
+        },
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633265426
+        }
+      }
+    },
+    {
+      "team": "xXxpassword123xXx",
+      "pos": 27,
+      "score": 916,
+      "id": 189,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180127
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633197369
+        },
+        "[game] Boat": {
+          "points": 472,
+          "time": 1633265760
+        }
+      }
+    },
+    {
+      "team": "Kaczuszki",
+      "pos": 28,
+      "score": 501,
+      "id": 146,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633203485
+        },
+        "[steg] webwhat": {
+          "points": 500,
+          "time": 1633253752
+        }
+      }
+    },
+    {
+      "team": "lolcads",
+      "pos": 29,
+      "score": 493,
+      "id": 164,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180151
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633214265
+        }
+      }
+    },
+    {
+      "team": "Nupakachi",
+      "pos": 30,
+      "score": 493,
+      "id": 34,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183100
+        },
+        "[cry] crybaby": {
+          "points": 492,
+          "time": 1633253073
+        }
+      }
+    },
+    {
+      "team": "bootplug",
+      "pos": 31,
+      "score": 444,
+      "id": 81,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633184201
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633194022
+        }
+      }
+    },
+    {
+      "team": "DNC&G",
+      "pos": 32,
+      "score": 444,
+      "id": 42,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181261
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633196657
+        }
+      }
+    },
+    {
+      "team": "vubar",
+      "pos": 33,
+      "score": 444,
+      "id": 194,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181223
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633203562
+        }
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 34,
+      "score": 444,
+      "id": 51,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180013
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633249673
+        }
+      }
+    },
+    {
+      "team": "tsunami_v0.1",
+      "pos": 35,
+      "score": 444,
+      "id": 568,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633243383
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633255926
+        }
+      }
+    },
+    {
+      "team": "Gl0bal F1sh",
+      "pos": 36,
+      "score": 444,
+      "id": 557,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633202027
+        },
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633258080
+        }
+      }
+    },
+    {
+      "team": "cmd8",
+      "pos": 37,
+      "score": 444,
+      "id": 513,
+      "taskStats": {
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633217133
+        },
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633258891
+        }
+      }
+    },
+    {
+      "team": "GXdUS6cyHsbm4f7",
+      "pos": 38,
+      "score": 443,
+      "id": 527,
+      "taskStats": {
+        "[game] Skull Island": {
+          "points": 443,
+          "time": 1633216029
+        }
+      }
+    },
+    {
+      "team": "spotless",
+      "pos": 39,
+      "score": 1,
+      "id": 332,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633179962
+        }
+      }
+    },
+    {
+      "team": "uetctf",
+      "pos": 40,
+      "score": 1,
+      "id": 348,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180005
+        }
+      }
+    },
+    {
+      "team": "Hacklabor",
+      "pos": 41,
+      "score": 1,
+      "id": 314,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180020
+        }
+      }
+    },
+    {
+      "team": "Inner Savages",
+      "pos": 42,
+      "score": 1,
+      "id": 323,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180025
+        }
+      }
+    },
+    {
+      "team": "n0n$la$",
+      "pos": 43,
+      "score": 1,
+      "id": 303,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180037
+        }
+      }
+    },
+    {
+      "team": "PWr Synt@x Err0r",
+      "pos": 44,
+      "score": 1,
+      "id": 182,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180067
+        }
+      }
+    },
+    {
+      "team": "blackpinker",
+      "pos": 45,
+      "score": 1,
+      "id": 48,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180140
+        }
+      }
+    },
+    {
+      "team": "BiBiPAYX",
+      "pos": 46,
+      "score": 1,
+      "id": 330,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180156
+        }
+      }
+    },
+    {
+      "team": "PopularDonkeys",
+      "pos": 47,
+      "score": 1,
+      "id": 374,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180161
+        }
+      }
+    },
+    {
+      "team": "XBin",
+      "pos": 48,
+      "score": 1,
+      "id": 125,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180165
+        }
+      }
+    },
+    {
+      "team": "MyrTeam",
+      "pos": 49,
+      "score": 1,
+      "id": 32,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180190
+        }
+      }
+    },
+    {
+      "team": "pobateam",
+      "pos": 50,
+      "score": 1,
+      "id": 300,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180191
+        }
+      }
+    },
+    {
+      "team": "dbytes",
+      "pos": 51,
+      "score": 1,
+      "id": 287,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180271
+        }
+      }
+    },
+    {
+      "team": "COMPASS",
+      "pos": 52,
+      "score": 1,
+      "id": 321,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180279
+        }
+      }
+    },
+    {
+      "team": "TeamShakti",
+      "pos": 53,
+      "score": 1,
+      "id": 128,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180304
+        }
+      }
+    },
+    {
+      "team": "PIS",
+      "pos": 54,
+      "score": 1,
+      "id": 95,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180304
+        }
+      }
+    },
+    {
+      "team": "RooterX",
+      "pos": 55,
+      "score": 1,
+      "id": 328,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180416
+        }
+      }
+    },
+    {
+      "team": "r3kapig",
+      "pos": 56,
+      "score": 1,
+      "id": 43,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180456
+        }
+      }
+    },
+    {
+      "team": "1nf1n1ty",
+      "pos": 57,
+      "score": 1,
+      "id": 135,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180479
+        }
+      }
+    },
+    {
+      "team": "CAI",
+      "pos": 58,
+      "score": 1,
+      "id": 284,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180486
+        }
+      }
+    },
+    {
+      "team": "NemoNemo",
+      "pos": 59,
+      "score": 1,
+      "id": 246,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180487
+        }
+      }
+    },
+    {
+      "team": "m0n4d",
+      "pos": 60,
+      "score": 1,
+      "id": 46,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180494
+        }
+      }
+    },
+    {
+      "team": "453_373RN415",
+      "pos": 61,
+      "score": 1,
+      "id": 278,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180534
+        }
+      }
+    },
+    {
+      "team": "G0wth4m",
+      "pos": 62,
+      "score": 1,
+      "id": 375,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180551
+        }
+      }
+    },
+    {
+      "team": "Banana_Kimchi",
+      "pos": 63,
+      "score": 1,
+      "id": 334,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180553
+        }
+      }
+    },
+    {
+      "team": "Cyberax",
+      "pos": 64,
+      "score": 1,
+      "id": 142,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180557
+        }
+      }
+    },
+    {
+      "team": "TheHwackra",
+      "pos": 65,
+      "score": 1,
+      "id": 105,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180576
+        }
+      }
+    },
+    {
+      "team": "Subramanya G",
+      "pos": 66,
+      "score": 1,
+      "id": 297,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180798
+        }
+      }
+    },
+    {
+      "team": "L3g1On",
+      "pos": 67,
+      "score": 1,
+      "id": 161,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180829
+        }
+      }
+    },
+    {
+      "team": "B3bieSec",
+      "pos": 68,
+      "score": 1,
+      "id": 19,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180895
+        }
+      }
+    },
+    {
+      "team": "RugessNome",
+      "pos": 69,
+      "score": 1,
+      "id": 385,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633180966
+        }
+      }
+    },
+    {
+      "team": "Phoenixes",
+      "pos": 70,
+      "score": 1,
+      "id": 371,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181121
+        }
+      }
+    },
+    {
+      "team": "Alkz",
+      "pos": 71,
+      "score": 1,
+      "id": 165,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181134
+        }
+      }
+    },
+    {
+      "team": "QTM",
+      "pos": 72,
+      "score": 1,
+      "id": 82,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181167
+        }
+      }
+    },
+    {
+      "team": "KNU CyberSec",
+      "pos": 73,
+      "score": 1,
+      "id": 47,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181306
+        }
+      }
+    },
+    {
+      "team": "We 0wn Y0u",
+      "pos": 74,
+      "score": 1,
+      "id": 207,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181329
+        }
+      }
+    },
+    {
+      "team": "MExP",
+      "pos": 75,
+      "score": 1,
+      "id": 259,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181348
+        }
+      }
+    },
+    {
+      "team": "Dumb_bots",
+      "pos": 76,
+      "score": 1,
+      "id": 343,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181433
+        }
+      }
+    },
+    {
+      "team": "gNaOH",
+      "pos": 77,
+      "score": 1,
+      "id": 66,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181467
+        }
+      }
+    },
+    {
+      "team": "eragon",
+      "pos": 78,
+      "score": 1,
+      "id": 376,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181528
+        }
+      }
+    },
+    {
+      "team": "cryingPepe",
+      "pos": 79,
+      "score": 1,
+      "id": 130,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181539
+        }
+      }
+    },
+    {
+      "team": "hack^3",
+      "pos": 80,
+      "score": 1,
+      "id": 388,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181619
+        }
+      }
+    },
+    {
+      "team": "Class3E",
+      "pos": 81,
+      "score": 1,
+      "id": 306,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181635
+        }
+      }
+    },
+    {
+      "team": "100ping!attack",
+      "pos": 82,
+      "score": 1,
+      "id": 293,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181646
+        }
+      }
+    },
+    {
+      "team": "com_sci17",
+      "pos": 83,
+      "score": 1,
+      "id": 410,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181725
+        }
+      }
+    },
+    {
+      "team": "EvilBunnyWrote",
+      "pos": 84,
+      "score": 1,
+      "id": 57,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181834
+        }
+      }
+    },
+    {
+      "team": "K4rUn_2349",
+      "pos": 85,
+      "score": 1,
+      "id": 286,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633181973
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 86,
+      "score": 1,
+      "id": 397,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633182066
+        }
+      }
+    },
+    {
+      "team": "BinaryRabbits",
+      "pos": 87,
+      "score": 1,
+      "id": 289,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633182068
+        }
+      }
+    },
+    {
+      "team": "42Lausanne",
+      "pos": 88,
+      "score": 1,
+      "id": 92,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633182081
+        }
+      }
+    },
+    {
+      "team": "Team-0x7",
+      "pos": 89,
+      "score": 1,
+      "id": 352,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633182138
+        }
+      }
+    },
+    {
+      "team": "Thundernerds",
+      "pos": 90,
+      "score": 1,
+      "id": 185,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633182625
+        }
+      }
+    },
+    {
+      "team": "CRISPR",
+      "pos": 91,
+      "score": 1,
+      "id": 202,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633182639
+        }
+      }
+    },
+    {
+      "team": "ITSNOTAGAME",
+      "pos": 92,
+      "score": 1,
+      "id": 150,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633182639
+        }
+      }
+    },
+    {
+      "team": "joyuriz",
+      "pos": 93,
+      "score": 1,
+      "id": 137,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183048
+        }
+      }
+    },
+    {
+      "team": "Jogi173",
+      "pos": 94,
+      "score": 1,
+      "id": 430,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183208
+        }
+      }
+    },
+    {
+      "team": "minhquanym",
+      "pos": 95,
+      "score": 1,
+      "id": 245,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183470
+        }
+      }
+    },
+    {
+      "team": "XORs",
+      "pos": 96,
+      "score": 1,
+      "id": 58,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183545
+        }
+      }
+    },
+    {
+      "team": "ssepp",
+      "pos": 97,
+      "score": 1,
+      "id": 441,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183704
+        }
+      }
+    },
+    {
+      "team": "lulwut",
+      "pos": 98,
+      "score": 1,
+      "id": 428,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633183981
+        }
+      }
+    },
+    {
+      "team": "IITBreachers",
+      "pos": 99,
+      "score": 1,
+      "id": 167,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633184809
+        }
+      }
+    },
+    {
+      "team": "FBI surveillance van team",
+      "pos": 100,
+      "score": 1,
+      "id": 480,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633187115
+        }
+      }
+    },
+    {
+      "team": "Neo2de14y",
+      "pos": 101,
+      "score": 1,
+      "id": 481,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633187305
+        }
+      }
+    },
+    {
+      "team": "Maple Bacon",
+      "pos": 102,
+      "score": 1,
+      "id": 33,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633187556
+        }
+      }
+    },
+    {
+      "team": "Nolawz",
+      "pos": 103,
+      "score": 1,
+      "id": 487,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633187642
+        }
+      }
+    },
+    {
+      "team": "Dipp",
+      "pos": 104,
+      "score": 1,
+      "id": 79,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633187677
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 105,
+      "score": 1,
+      "id": 489,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633188465
+        }
+      }
+    },
+    {
+      "team": "1337pir4tes",
+      "pos": 106,
+      "score": 1,
+      "id": 468,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633188592
+        }
+      }
+    },
+    {
+      "team": "rm -rf /*",
+      "pos": 107,
+      "score": 1,
+      "id": 169,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633188854
+        }
+      }
+    },
+    {
+      "team": "pogman",
+      "pos": 108,
+      "score": 1,
+      "id": 486,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633191431
+        }
+      }
+    },
+    {
+      "team": "SEKS",
+      "pos": 109,
+      "score": 1,
+      "id": 512,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633193469
+        }
+      }
+    },
+    {
+      "team": "almost teamless",
+      "pos": 110,
+      "score": 1,
+      "id": 518,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633193677
+        }
+      }
+    },
+    {
+      "team": "Team#1",
+      "pos": 111,
+      "score": 1,
+      "id": 514,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633193842
+        }
+      }
+    },
+    {
+      "team": "Tishadona",
+      "pos": 112,
+      "score": 1,
+      "id": 516,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633193858
+        }
+      }
+    },
+    {
+      "team": "Batman's Kitchen",
+      "pos": 113,
+      "score": 1,
+      "id": 25,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633194335
+        }
+      }
+    },
+    {
+      "team": "sh1yo's team",
+      "pos": 114,
+      "score": 1,
+      "id": 515,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633194399
+        }
+      }
+    },
+    {
+      "team": "aug",
+      "pos": 115,
+      "score": 1,
+      "id": 526,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633195183
+        }
+      }
+    },
+    {
+      "team": "RTFM",
+      "pos": 116,
+      "score": 1,
+      "id": 140,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633196523
+        }
+      }
+    },
+    {
+      "team": "1mp3n3tr4bl3",
+      "pos": 117,
+      "score": 1,
+      "id": 70,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633197880
+        }
+      }
+    },
+    {
+      "team": "Xpoma9_/\\0waDb",
+      "pos": 118,
+      "score": 1,
+      "id": 534,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633198127
+        }
+      }
+    },
+    {
+      "team": "0xDEADF0015",
+      "pos": 119,
+      "score": 1,
+      "id": 353,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633199757
+        }
+      }
+    },
+    {
+      "team": "neversaydie",
+      "pos": 120,
+      "score": 1,
+      "id": 240,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633200238
+        }
+      }
+    },
+    {
+      "team": "HelloW0rld666",
+      "pos": 121,
+      "score": 1,
+      "id": 550,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633200361
+        }
+      }
+    },
+    {
+      "team": "l33t turtles",
+      "pos": 122,
+      "score": 1,
+      "id": 183,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633200595
+        }
+      }
+    },
+    {
+      "team": "ex3x",
+      "pos": 123,
+      "score": 1,
+      "id": 18,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633200674
+        }
+      }
+    },
+    {
+      "team": "USB [Unknown Siberian Bros]",
+      "pos": 124,
+      "score": 1,
+      "id": 339,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633201268
+        }
+      }
+    },
+    {
+      "team": "f",
+      "pos": 125,
+      "score": 1,
+      "id": 559,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633202008
+        }
+      }
+    },
+    {
+      "team": "1t'5_n0t_fla9",
+      "pos": 126,
+      "score": 1,
+      "id": 563,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633202834
+        }
+      }
+    },
+    {
+      "team": "Tinfoil Hats",
+      "pos": 127,
+      "score": 1,
+      "id": 60,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633202878
+        }
+      }
+    },
+    {
+      "team": "thirt33n",
+      "pos": 128,
+      "score": 1,
+      "id": 522,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633204443
+        }
+      }
+    },
+    {
+      "team": "OwTheEdge",
+      "pos": 129,
+      "score": 1,
+      "id": 561,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633207783
+        }
+      }
+    },
+    {
+      "team": "mdw",
+      "pos": 130,
+      "score": 1,
+      "id": 583,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633208042
+        }
+      }
+    },
+    {
+      "team": "Str8toshell",
+      "pos": 131,
+      "score": 1,
+      "id": 562,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633208418
+        }
+      }
+    },
+    {
+      "team": "EndlessPwn",
+      "pos": 132,
+      "score": 1,
+      "id": 586,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633209650
+        }
+      }
+    },
+    {
+      "team": "REVvolute",
+      "pos": 133,
+      "score": 1,
+      "id": 519,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633211849
+        }
+      }
+    },
+    {
+      "team": "snocc",
+      "pos": 134,
+      "score": 1,
+      "id": 592,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633211867
+        }
+      }
+    },
+    {
+      "team": "_hotelnull",
+      "pos": 135,
+      "score": 1,
+      "id": 261,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633213579
+        }
+      }
+    },
+    {
+      "team": "moonstone",
+      "pos": 136,
+      "score": 1,
+      "id": 387,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633219488
+        }
+      }
+    },
+    {
+      "team": "AmTra1n",
+      "pos": 137,
+      "score": 1,
+      "id": 599,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633219488
+        }
+      }
+    },
+    {
+      "team": "Signal-9",
+      "pos": 138,
+      "score": 1,
+      "id": 602,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633219941
+        }
+      }
+    },
+    {
+      "team": "aestetix",
+      "pos": 139,
+      "score": 1,
+      "id": 613,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633223492
+        }
+      }
+    },
+    {
+      "team": "Itakaka",
+      "pos": 140,
+      "score": 1,
+      "id": 611,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633223592
+        }
+      }
+    },
+    {
+      "team": "secret_squirrels",
+      "pos": 141,
+      "score": 1,
+      "id": 99,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633224517
+        }
+      }
+    },
+    {
+      "team": "ZYYYeYYYZy\\",
+      "pos": 142,
+      "score": 1,
+      "id": 604,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633225152
+        }
+      }
+    },
+    {
+      "team": "uhhhhhfuck69",
+      "pos": 143,
+      "score": 1,
+      "id": 607,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633225207
+        }
+      }
+    },
+    {
+      "team": "bon",
+      "pos": 144,
+      "score": 1,
+      "id": 622,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633226211
+        }
+      }
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 145,
+      "score": 1,
+      "id": 209,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633227218
+        }
+      }
+    },
+    {
+      "team": "NoSuchAgency",
+      "pos": 146,
+      "score": 1,
+      "id": 626,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633229566
+        }
+      }
+    },
+    {
+      "team": "homesarr",
+      "pos": 147,
+      "score": 1,
+      "id": 117,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633231080
+        }
+      }
+    },
+    {
+      "team": "Lunar_r3d",
+      "pos": 148,
+      "score": 1,
+      "id": 9,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633232605
+        }
+      }
+    },
+    {
+      "team": "AAAAAAAAAA",
+      "pos": 149,
+      "score": 1,
+      "id": 654,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633238807
+        }
+      }
+    },
+    {
+      "team": "5upernova",
+      "pos": 150,
+      "score": 1,
+      "id": 14,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633244802
+        }
+      }
+    },
+    {
+      "team": "eunphi",
+      "pos": 151,
+      "score": 1,
+      "id": 670,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633245172
+        }
+      }
+    },
+    {
+      "team": "16bit",
+      "pos": 152,
+      "score": 1,
+      "id": 74,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633245720
+        }
+      }
+    },
+    {
+      "team": "frapesaxtypytosmegala",
+      "pos": 153,
+      "score": 1,
+      "id": 692,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633249292
+        }
+      }
+    },
+    {
+      "team": "SJCTF",
+      "pos": 154,
+      "score": 1,
+      "id": 694,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633250024
+        }
+      }
+    },
+    {
+      "team": "God_in_my_team",
+      "pos": 155,
+      "score": 1,
+      "id": 697,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633251026
+        }
+      }
+    },
+    {
+      "team": "P0H3k",
+      "pos": 156,
+      "score": 1,
+      "id": 521,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633252622
+        }
+      }
+    },
+    {
+      "team": "Solo Player",
+      "pos": 157,
+      "score": 1,
+      "id": 715,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633256535
+        }
+      }
+    },
+    {
+      "team": "secsyst",
+      "pos": 158,
+      "score": 1,
+      "id": 716,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633256648
+        }
+      }
+    },
+    {
+      "team": "Pw1d",
+      "pos": 159,
+      "score": 1,
+      "id": 713,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633258237
+        }
+      }
+    },
+    {
+      "team": "Kv0th3",
+      "pos": 160,
+      "score": 1,
+      "id": 726,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633263120
+        }
+      }
+    },
+    {
+      "team": "keksd0se",
+      "pos": 161,
+      "score": 1,
+      "id": 606,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633263561
+        }
+      }
+    },
+    {
+      "team": "idekJT",
+      "pos": 162,
+      "score": 1,
+      "id": 377,
+      "taskStats": {
+        "[misc] Sanity": {
+          "points": 1,
+          "time": 1633265872
+        }
+      }
+    }
+  ],
+  "date": 1633100400,
+  "name": "TastelessCTF 2021"
+}
