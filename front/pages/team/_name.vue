@@ -9,6 +9,7 @@
                 <th>Rank</th>
                 <th>Performance</th>
                 <th>Rating</th>
+                <th>AHC Rating <fa icon="question-circle" title="AHC Rating is based on rating system of AtCoder Heuristic Contest" /></th>
             </tr>
         </thead>
         <tbody>
@@ -23,6 +24,7 @@
                 <td>{{ ev.rank }}</td>
                 <td><ratecolor :rating="ev.perf">{{ ev.perf }}</ratecolor></td>
                 <td><ratecolor :rating="ev.rating">{{ round(ev.rating, 2) }}</ratecolor></td>
+                <td><ratecolor :rating="ev.ahc_rating">{{ round(ev.ahc_rating, 2) }}</ratecolor></td>
             </tr>
         </tbody>
         </table>

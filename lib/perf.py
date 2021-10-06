@@ -3,20 +3,20 @@ from typing import List
 
 INITIAL_PERF = 1200.0
 
-def _avg_perf(perfs: List[float]) -> float:
+def avg_perf(perfs: List[float]) -> float:
     """
     get average of past perfomances
     """
     if len(perfs) == 0:
         perfs = [INITIAL_PERF]
-    return sum([p*0.9**(i+1) for i, p in enumerate(perfs)]) / sum(0.9**(i+1) for i in range(len(perfs)))
+    return sum([p*0.9**(i+1) for i, p in enumerate(reversed(perfs))]) / sum(0.9**(i+1) for i in range(len(perfs)))
 
 def calc_performance(team_perfs: List[List[float]]) -> List[float]:
     """
     team_perfs: 参加したチームの過去のパフォーマンス。今回の順位に昇順にソートされている
-    avg_perfs = [_avg_perf(p) for t in team_perfs]
+    各チームの過去のパフォーマンスは時刻に昇順になっている
     """
-    avg_perfs = [_avg_perf(p) for p in team_perfs]
+    avg_perfs = [avg_perf(p) for p in team_perfs]
     def f(x: int) -> float:
         """
         あるチームがi位のとき、 f(x) = i - 0.5 を満たすxがそのチームのパフォーマンス
@@ -63,4 +63,24 @@ def calc_new_rating(past_perfs: List[float], perf: float) -> float:
     exp_perf_sum = sum(2.0 ** (p / 800) * 0.9**(i+1) for i, p in enumerate([perf] + past_perfs))
     rating = 800 * math.log2(exp_perf_sum / sum(0.9**(i+1) for i in range(n)))
     return adjust(rating, n)
+
+def calc_new_ahc_rating(past_perfs: List[float], perf: float) -> float:
+    """
+    AHCに沿ってレーティングを求める (https://www.dropbox.com/s/ne358pdixfafppm/AHC_rating.pdf?dl=0)
+    past_perfs: 過去のパフォーマンス
+    perf: 今回のパフォーマンス
+    returns: new rating
+    """
+    R = 0.8271973364
+    S = 724.4744301
+    Q = sorted([p - S*math.log(j) for p in past_perfs + [perf] for j in range(1, 101)], reverse=True)
+    numerator = sum([Q[i-1]*R**i for i in range(1, 101)])
+    denominator = sum([R**i for i in range(1, 101)])
+    r = numerator / denominator
+
+    if r >= 400:
+        return r
+    else:
+        return 400 / math.exp((400 - r) / 400.0)
+
 

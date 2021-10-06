@@ -1,5 +1,5 @@
 import json
-from lib.perf import calc_performance, calc_new_rating
+from lib.perf import calc_performance, calc_new_rating, calc_new_ahc_rating
 from lib.difficulty import calc_difficulty
 from lib.types import Team, History, Event
 from pathlib import Path
@@ -55,13 +55,24 @@ for e in es:
         t = e["standings"][i]
         index = team_index[ t["team"] ]
         rating = calc_new_rating(team_perfs[i], perfs[i])
-        teams[index].history.append(History(e["name"], i+1, perfs[i], rating, list(t["taskStats"].keys())))
+        ahc_rating = calc_new_ahc_rating(team_perfs[i], perfs[i])
+        teams[index].history.append(History(
+            e["name"],
+            i+1,
+            perfs[i],
+            rating,
+            list(t["taskStats"].keys()),
+            ahc_rating,
+        ))
 
     # calc challenge difficulties
     tasks = []
     for task in e["tasks"]:
-        solve_team_perfs = [perfs[i] for i in range(len(e["standings"])) if task in e["standings"][i]["taskStats"]]
-        unsolve_team_perfs = [perfs[i] for i in range(len(e["standings"])) if task not in e["standings"][i]["taskStats"]]
+        solve_teams = [e["standings"][i]["team"] for i in range(len(e["standings"])) if task in e["standings"][i]["taskStats"]]
+        solve_team_perfs = [teams[team_index[t]].aperf() for t in solve_teams]
+        unsolve_team_perfs = [e["standings"][i]["team"] for i in range(len(e["standings"])) if task not in e["standings"][i]["taskStats"]]
+        unsolve_team_perfs = [teams[team_index[t]].aperf() for t in unsolve_team_perfs]
+
         diff = calc_difficulty(solve_team_perfs, unsolve_team_perfs)
         tasks.append({"name": task, "difficulty": diff})
 

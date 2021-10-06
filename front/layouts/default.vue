@@ -1,8 +1,13 @@
 <template>
-    <div style="height: 100%; display: flex; flex-direction: column;">
+    <div style="height: 100%;">
         <header>
-            <div><NuxtLink :to="{name: 'index'}">CTF-Ratings</NuxtLink></div>
-            <div><NuxtLink :to="{name: 'events'}">events</NuxtLink></div>
+            <div>
+                <div><NuxtLink :to="{name: 'index'}">CTF-Ratings</NuxtLink></div>
+                <div><NuxtLink :to="{name: 'events'}">events</NuxtLink></div>
+            </div>
+            <div>
+                <div><a href="https://github.com/theoremoon/ctf-ratings">GitHub Repository</a></div>
+            </div>
         </header>
         <main>
             <Nuxt />
@@ -16,11 +21,14 @@
 <style>
 header {
     display: flex;
+    justify-content: space-between;
+    width: 100%;
     padding: 0.5rem 1rem;
     background-color: #eeeeee;
     border-bottom: 2px solid #333333;
 }
-header>div {
+header div {
+    display: flex;
     margin-right: 1rem;
 }
 main {
