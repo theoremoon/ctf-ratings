@@ -57,8 +57,7 @@ def calc_new_rating(past_perfs: List[float], perf: float) -> float:
         f_n = ((1 - 0.81 ** n) ** 0.5) / ((19 ** 0.5) * (1 - 0.9 ** n))
         return rating - (f_n - f_inf) / (f_1 - f_inf) * 1200
 
-    if len(past_perfs) == 0:
-        past_perfs = [INITIAL_PERF]
+    past_perfs = past_perfs[::-1]
     n = len(past_perfs) + 1
     exp_perf_sum = sum(2.0 ** (p / 800) * 0.9**(i+1) for i, p in enumerate([perf] + past_perfs))
     rating = 800 * math.log2(exp_perf_sum / sum(0.9**(i+1) for i in range(n)))
