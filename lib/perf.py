@@ -1,8 +1,7 @@
 import math
-from typing import List, Dict
-from lib.types import Team
+from typing import List
 
-INITIAL_PERF = 1000.0
+INITIAL_PERF = 1200.0
 
 def _avg_perf(perfs: List[float]) -> float:
     """
@@ -14,7 +13,7 @@ def _avg_perf(perfs: List[float]) -> float:
 
 def calc_performance(team_perfs: List[List[float]]) -> List[float]:
     """
-    teams: 参加したチームの過去のパフォーマンス。今回の順位に昇順にソートされている
+    team_perfs: 参加したチームの過去のパフォーマンス。今回の順位に昇順にソートされている
     avg_perfs = [_avg_perf(p) for t in team_perfs]
     """
     avg_perfs = [_avg_perf(p) for p in team_perfs]
