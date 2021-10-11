@@ -1,0 +1,4468 @@
+{
+  "tasks": [
+    "LLLattice",
+    "catharsis",
+    "Mail Tester",
+    "memefd",
+    "Advancement",
+    "TBDXSS",
+    "GoodHash",
+    "Not Password",
+    "BTLE",
+    "Access Key",
+    "baby kernel",
+    "Is that your packet?",
+    "Coqroach",
+    "Out of Order",
+    "In The End",
+    "Binary Tree",
+    "Seed Me",
+    "Steroid Stream",
+    "Serenity Broowser",
+    "WYSIWYG",
+    "Secure Jython Sandbox",
+    "Alkaloid Stream",
+    "Switching it up",
+    "Nightclub",
+    "Yet Another RSA",
+    "Yet Another PRNG",
+    "J U S T",
+    "Lord of The Flag: The Unfinished Chat",
+    "Cosmo",
+    "Ghost writer",
+    "Vault"
+  ],
+  "standings": [
+    {
+      "team": "DiceGang",
+      "pos": 1,
+      "score": 5299,
+      "id": 465,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633739108
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633742850
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633742936
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633743998
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633745956
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633753618
+        },
+        "J U S T": {
+          "points": 383,
+          "time": 1633756696
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633788084
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633808714
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633810697
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633813268
+        },
+        "Vault": {
+          "points": 353,
+          "time": 1633830588
+        },
+        "Nightclub": {
+          "points": 353,
+          "time": 1633838956
+        },
+        "Not Password": {
+          "points": 470,
+          "time": 1633845145
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633853816
+        },
+        "Coqroach": {
+          "points": 443,
+          "time": 1633873159
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633892854
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633900929
+        },
+        "catharsis": {
+          "points": 420,
+          "time": 1633910063
+        }
+      }
+    },
+    {
+      "team": "Super Guessers",
+      "pos": 2,
+      "score": 4815,
+      "id": 438,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633739268
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633756352
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633759384
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633771146
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633772950
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633777502
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633781724
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633791234
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633820718
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633832311
+        },
+        "Nightclub": {
+          "points": 353,
+          "time": 1633844647
+        },
+        "Vault": {
+          "points": 353,
+          "time": 1633850372
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633855700
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633869952
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633879497
+        },
+        "WYSIWYG": {
+          "points": 443,
+          "time": 1633909784
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633910016
+        },
+        "In The End": {
+          "points": 470,
+          "time": 1633910180
+        }
+      }
+    },
+    {
+      "team": "organizers",
+      "pos": 3,
+      "score": 4482,
+      "id": 644,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633740088
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633743731
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633751873
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633753417
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633754738
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633784344
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633784422
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633790225
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633793309
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633795152
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633797063
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633807004
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633860781
+        },
+        "catharsis": {
+          "points": 420,
+          "time": 1633888031
+        },
+        "Nightclub": {
+          "points": 353,
+          "time": 1633891151
+        },
+        "Not Password": {
+          "points": 470,
+          "time": 1633893719
+        },
+        "J U S T": {
+          "points": 383,
+          "time": 1633904248
+        }
+      }
+    },
+    {
+      "team": "zwnj",
+      "pos": 4,
+      "score": 4392,
+      "id": 516,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633743045
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633749808
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633754457
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633762367
+        },
+        "Coqroach": {
+          "points": 443,
+          "time": 1633765256
+        },
+        "baby kernel": {
+          "points": 400,
+          "time": 1633769675
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633773068
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633811893
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633816581
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633827531
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633833778
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633845371
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633857313
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633857961
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633901641
+        },
+        "Vault": {
+          "points": 353,
+          "time": 1633905404
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633906835
+        }
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 5,
+      "score": 4214,
+      "id": 588,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633745351
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633748871
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633749682
+        },
+        "Nightclub": {
+          "points": 353,
+          "time": 1633750098
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633766936
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633768739
+        },
+        "Vault": {
+          "points": 353,
+          "time": 1633769017
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633781368
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633789961
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633798921
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633843056
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633845761
+        },
+        "In The End": {
+          "points": 470,
+          "time": 1633850657
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633851968
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633861921
+        },
+        "Serenity Broowser": {
+          "points": 470,
+          "time": 1633886003
+        }
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 6,
+      "score": 4153,
+      "id": 587,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633741873
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633742115
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633784275
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633803776
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633804475
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633806530
+        },
+        "Nightclub": {
+          "points": 353,
+          "time": 1633816573
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633819052
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633819569
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633829314
+        },
+        "J U S T": {
+          "points": 383,
+          "time": 1633829684
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633873323
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633878335
+        },
+        "Out of Order": {
+          "points": 500,
+          "time": 1633887073
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633891798
+        },
+        "Vault": {
+          "points": 353,
+          "time": 1633893957
+        }
+      }
+    },
+    {
+      "team": "Water Paddler",
+      "pos": 7,
+      "score": 3377,
+      "id": 21,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633740599
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633741675
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633753494
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633772312
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633778021
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633805321
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633812810
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633832982
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633843207
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633851770
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633852124
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633854760
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633884589
+        },
+        "Secure Jython Sandbox": {
+          "points": 500,
+          "time": 1633888737
+        }
+      }
+    },
+    {
+      "team": "Black Bauhinia",
+      "pos": 8,
+      "score": 2824,
+      "id": 251,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633739706
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633741080
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633752560
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633752998
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633762719
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633771140
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633778041
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633783356
+        },
+        "WYSIWYG": {
+          "points": 443,
+          "time": 1633787142
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633800848
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633833937
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633856690
+        }
+      }
+    },
+    {
+      "team": "ALLES!",
+      "pos": 9,
+      "score": 2706,
+      "id": 1051,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633770173
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633779465
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633782027
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633782287
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633789032
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633800191
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633807492
+        },
+        "Serenity Broowser": {
+          "points": 470,
+          "time": 1633885260
+        },
+        "WYSIWYG": {
+          "points": 443,
+          "time": 1633891965
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633899716
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633906273
+        }
+      }
+    },
+    {
+      "team": "More Smoked Leet Chicken",
+      "pos": 10,
+      "score": 2700,
+      "id": 777,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633739723
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633744206
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633761733
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633765627
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633796047
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633836601
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633840858
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633847350
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633864034
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633894340
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633903938
+        },
+        "J U S T": {
+          "points": 383,
+          "time": 1633907211
+        }
+      }
+    },
+    {
+      "team": "The Flat Network Society",
+      "pos": 11,
+      "score": 2676,
+      "id": 706,
+      "taskStats": {
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633779948
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633783087
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633790194
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633798403
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633805731
+        },
+        "baby kernel": {
+          "points": 400,
+          "time": 1633805996
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633811786
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633822426
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633823720
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633838514
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633867570
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633872072
+        }
+      }
+    },
+    {
+      "team": "0daysober",
+      "pos": 12,
+      "score": 2125,
+      "id": 20,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633763374
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633763645
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633785409
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633792488
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633817515
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633838189
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633849915
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633885113
+        },
+        "catharsis": {
+          "points": 420,
+          "time": 1633907649
+        }
+      }
+    },
+    {
+      "team": "WreckTheLine",
+      "pos": 13,
+      "score": 2021,
+      "id": 269,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633742789
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633747855
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633771190
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633784145
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633786009
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633800300
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633808854
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633837161
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633852409
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633859633
+        }
+      }
+    },
+    {
+      "team": "Maple Bacon",
+      "pos": 14,
+      "score": 1999,
+      "id": 277,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633743284
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633745627
+        },
+        "J U S T": {
+          "points": 383,
+          "time": 1633765514
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633788529
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633802299
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633814421
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633820483
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633825102
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633879509
+        }
+      }
+    },
+    {
+      "team": "nyahello",
+      "pos": 15,
+      "score": 1793,
+      "id": 645,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633762494
+        },
+        "Vault": {
+          "points": 353,
+          "time": 1633769546
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633774911
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633783632
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633787120
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633843720
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633871468
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633883872
+        }
+      }
+    },
+    {
+      "team": "greunion",
+      "pos": 16,
+      "score": 1733,
+      "id": 707,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633779247
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633800095
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633802175
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633820478
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633873818
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633882210
+        },
+        "J U S T": {
+          "points": 383,
+          "time": 1633891066
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633902572
+        }
+      }
+    },
+    {
+      "team": "0ops",
+      "pos": 17,
+      "score": 1660,
+      "id": 513,
+      "taskStats": {
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633758487
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633758529
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633768434
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633769302
+        },
+        "Nightclub": {
+          "points": 353,
+          "time": 1633781291
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633836913
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633856465
+        }
+      }
+    },
+    {
+      "team": "H4K47L4N1M",
+      "pos": 18,
+      "score": 1656,
+      "id": 767,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633743104
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633766756
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633771644
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633786334
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633800538
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633806939
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633901671
+        },
+        "baby kernel": {
+          "points": 400,
+          "time": 1633903622
+        }
+      }
+    },
+    {
+      "team": "mode13h",
+      "pos": 19,
+      "score": 1530,
+      "id": 1037,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633774156
+        },
+        "catharsis": {
+          "points": 420,
+          "time": 1633861968
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633867411
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633868773
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633882273
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633903775
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633908727
+        }
+      }
+    },
+    {
+      "team": "httpizza",
+      "pos": 20,
+      "score": 1529,
+      "id": 1095,
+      "taskStats": {
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633784065
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633796142
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633802717
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633823425
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633832470
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633879151
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633880894
+        }
+      }
+    },
+    {
+      "team": "TSG",
+      "pos": 21,
+      "score": 1336,
+      "id": 189,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633741797
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633743609
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633747800
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633796691
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633852662
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633852677
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633859034
+        }
+      }
+    },
+    {
+      "team": "hxp",
+      "pos": 22,
+      "score": 1334,
+      "id": 620,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633757224
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633774440
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633786831
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633805046
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633840819
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633851082
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633868421
+        }
+      }
+    },
+    {
+      "team": "Dragon Sector",
+      "pos": 23,
+      "score": 1333,
+      "id": 840,
+      "taskStats": {
+        "Nightclub": {
+          "points": 353,
+          "time": 1633804509
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633830768
+        },
+        "Access Key": {
+          "points": 500,
+          "time": 1633902322
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633904163
+        }
+      }
+    },
+    {
+      "team": "C4T BuT S4D",
+      "pos": 24,
+      "score": 1297,
+      "id": 555,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633757769
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633760744
+        },
+        "Nightclub": {
+          "points": 353,
+          "time": 1633789275
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633790303
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633792807
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633846811
+        }
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 25,
+      "score": 1288,
+      "id": 455,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633745643
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633747614
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633750625
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633767843
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633849048
+        },
+        "baby kernel": {
+          "points": 400,
+          "time": 1633900098
+        }
+      }
+    },
+    {
+      "team": "IrisSec",
+      "pos": 26,
+      "score": 1268,
+      "id": 78,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633748552
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633820505
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633821371
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633839677
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633844269
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633855167
+        }
+      }
+    },
+    {
+      "team": "xtal",
+      "pos": 27,
+      "score": 1260,
+      "id": 103,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633770094
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633772499
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633811149
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633857112
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633866432
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633889376
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633904540
+        }
+      }
+    },
+    {
+      "team": "UCASers",
+      "pos": 28,
+      "score": 1179,
+      "id": 610,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633747049
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633748200
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633762671
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633791497
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633806145
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633877148
+        }
+      }
+    },
+    {
+      "team": "./Vespiary",
+      "pos": 29,
+      "score": 1066,
+      "id": 283,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633777337
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633782004
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633787490
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633790236
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633814671
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633881876
+        }
+      }
+    },
+    {
+      "team": "LosFuzzys",
+      "pos": 30,
+      "score": 1056,
+      "id": 1221,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633793030
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633794823
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633801620
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633804552
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633818721
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633890842
+        }
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 31,
+      "score": 1056,
+      "id": 775,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633741649
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633743085
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633746891
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633794825
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633884530
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633901088
+        }
+      }
+    },
+    {
+      "team": "Social Engineering Experts",
+      "pos": 32,
+      "score": 1016,
+      "id": 323,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633754321
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633776417
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633778435
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633793623
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633846994
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633892530
+        }
+      }
+    },
+    {
+      "team": "14 message",
+      "pos": 33,
+      "score": 1012,
+      "id": 711,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633740384
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633747456
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633828522
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633866116
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633888422
+        }
+      }
+    },
+    {
+      "team": "m0unt41n",
+      "pos": 34,
+      "score": 919,
+      "id": 471,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633778743
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633783163
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633785878
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633793628
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633807508
+        }
+      }
+    },
+    {
+      "team": "Bushwhackers",
+      "pos": 35,
+      "score": 918,
+      "id": 617,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633775172
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633814042
+        },
+        "Advancement": {
+          "points": 340,
+          "time": 1633824004
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633854508
+        }
+      }
+    },
+    {
+      "team": "Syclover",
+      "pos": 36,
+      "score": 892,
+      "id": 293,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633753365
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633769365
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633769391
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633788329
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633856637
+        }
+      }
+    },
+    {
+      "team": "PPP",
+      "pos": 37,
+      "score": 887,
+      "id": 484,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633741699
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633748352
+        },
+        "Coqroach": {
+          "points": 443,
+          "time": 1633814459
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633892442
+        }
+      }
+    },
+    {
+      "team": "MikeCAT",
+      "pos": 38,
+      "score": 880,
+      "id": 739,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633739119
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633754895
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633816932
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633824367
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633869838
+        }
+      }
+    },
+    {
+      "team": "Utaha",
+      "pos": 39,
+      "score": 862,
+      "id": 651,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633797891
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633833142
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633877793
+        },
+        "Yet Another PRNG": {
+          "points": 292,
+          "time": 1633899493
+        }
+      }
+    },
+    {
+      "team": "TowerOfHanoi",
+      "pos": 40,
+      "score": 824,
+      "id": 1005,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633780699
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633803710
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633814608
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633817904
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633852282
+        }
+      }
+    },
+    {
+      "team": "paulhuang",
+      "pos": 41,
+      "score": 824,
+      "id": 546,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633740816
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633748120
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633774131
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633785433
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633855882
+        }
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 42,
+      "score": 820,
+      "id": 787,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633760187
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633767193
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633827339
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633845228
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633855377
+        }
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 43,
+      "score": 820,
+      "id": 525,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633756761
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633765791
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633769334
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633809189
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633870476
+        }
+      }
+    },
+    {
+      "team": "TheTeamless",
+      "pos": 44,
+      "score": 811,
+      "id": 688,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633755238
+        },
+        "Yet Another RSA": {
+          "points": 309,
+          "time": 1633811506
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633813622
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633890641
+        }
+      }
+    },
+    {
+      "team": "FAUST",
+      "pos": 45,
+      "score": 797,
+      "id": 335,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633776492
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633814034
+        },
+        "Vault": {
+          "points": 353,
+          "time": 1633814594
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633860592
+        }
+      }
+    },
+    {
+      "team": "bawolff",
+      "pos": 46,
+      "score": 743,
+      "id": 833,
+      "taskStats": {
+        "Vault": {
+          "points": 353,
+          "time": 1633858894
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633871785
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633879264
+        }
+      }
+    },
+    {
+      "team": "ffffx00000",
+      "pos": 47,
+      "score": 690,
+      "id": 755,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633766279
+        },
+        "baby kernel": {
+          "points": 400,
+          "time": 1633898882
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633899472
+        }
+      }
+    },
+    {
+      "team": "SDD",
+      "pos": 48,
+      "score": 654,
+      "id": 417,
+      "taskStats": {
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633796279
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633806860
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633874860
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633880493
+        }
+      }
+    },
+    {
+      "team": "sln.1550",
+      "pos": 49,
+      "score": 654,
+      "id": 298,
+      "taskStats": {
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633815827
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633822967
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633853265
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633890133
+        }
+      }
+    },
+    {
+      "team": "RugessNome",
+      "pos": 50,
+      "score": 642,
+      "id": 559,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633770187
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633785912
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633805616
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633874503
+        }
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 51,
+      "score": 629,
+      "id": 714,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633761514
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633814971
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633819508
+        }
+      }
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 52,
+      "score": 629,
+      "id": 480,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633741486
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633764097
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633827428
+        }
+      }
+    },
+    {
+      "team": "F03v3ryY0ung",
+      "pos": 53,
+      "score": 628,
+      "id": 505,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633753880
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633760884
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633785180
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633845580
+        }
+      }
+    },
+    {
+      "team": "or4nge",
+      "pos": 54,
+      "score": 618,
+      "id": 329,
+      "taskStats": {
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633795514
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633835472
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633861019
+        }
+      }
+    },
+    {
+      "team": "pwnagaukar",
+      "pos": 55,
+      "score": 616,
+      "id": 54,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633744726
+        },
+        "Switching it up": {
+          "points": 238,
+          "time": 1633898943
+        },
+        "Seed Me": {
+          "points": 238,
+          "time": 1633907522
+        }
+      }
+    },
+    {
+      "team": "5upernova",
+      "pos": 56,
+      "score": 600,
+      "id": 541,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633832162
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633859594
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633862864
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633868067
+        }
+      }
+    },
+    {
+      "team": "room2042",
+      "pos": 57,
+      "score": 600,
+      "id": 1077,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633789172
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633790909
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633793858
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633880689
+        }
+      }
+    },
+    {
+      "team": "w",
+      "pos": 58,
+      "score": 593,
+      "id": 841,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633749869
+        },
+        "Is that your packet?": {
+          "points": 319,
+          "time": 1633829011
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633892405
+        }
+      }
+    },
+    {
+      "team": "kernelarmy",
+      "pos": 59,
+      "score": 550,
+      "id": 904,
+      "taskStats": {
+        "GoodHash": {
+          "points": 218,
+          "time": 1633782948
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633803113
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633819215
+        }
+      }
+    },
+    {
+      "team": "HNN4ABO",
+      "pos": 60,
+      "score": 550,
+      "id": 249,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633746778
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633794621
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633838939
+        }
+      }
+    },
+    {
+      "team": "JustMe2",
+      "pos": 61,
+      "score": 550,
+      "id": 472,
+      "taskStats": {
+        "GoodHash": {
+          "points": 218,
+          "time": 1633818140
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633827844
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633843762
+        }
+      }
+    },
+    {
+      "team": "TechSec",
+      "pos": 62,
+      "score": 520,
+      "id": 704,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633877854
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633886064
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633907167
+        }
+      }
+    },
+    {
+      "team": "/upb/hack",
+      "pos": 63,
+      "score": 492,
+      "id": 447,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633779044
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633795285
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633898328
+        }
+      }
+    },
+    {
+      "team": "chtwi",
+      "pos": 64,
+      "score": 472,
+      "id": 579,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633768693
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633774706
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633782658
+        }
+      }
+    },
+    {
+      "team": "Balsn",
+      "pos": 65,
+      "score": 472,
+      "id": 425,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633798518
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633803109
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633809051
+        }
+      }
+    },
+    {
+      "team": "hut8",
+      "pos": 66,
+      "score": 472,
+      "id": 512,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633747120
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633766782
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633841438
+        }
+      }
+    },
+    {
+      "team": "traP",
+      "pos": 67,
+      "score": 472,
+      "id": 595,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633762304
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633771731
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633871977
+        }
+      }
+    },
+    {
+      "team": "VTeam",
+      "pos": 68,
+      "score": 466,
+      "id": 661,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633766943
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633774156
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633789461
+        }
+      }
+    },
+    {
+      "team": "yanee",
+      "pos": 69,
+      "score": 444,
+      "id": 586,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633750344
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633763860
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633781571
+        }
+      }
+    },
+    {
+      "team": "m3ow",
+      "pos": 70,
+      "score": 444,
+      "id": 558,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633760339
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633771208
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633791524
+        }
+      }
+    },
+    {
+      "team": "SupremeOwls",
+      "pos": 71,
+      "score": 444,
+      "id": 798,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633786250
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633791828
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633801915
+        }
+      }
+    },
+    {
+      "team": "sentry.io",
+      "pos": 72,
+      "score": 444,
+      "id": 334,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633784841
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633788432
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633804952
+        }
+      }
+    },
+    {
+      "team": "Pynard",
+      "pos": 73,
+      "score": 444,
+      "id": 1115,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633781402
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633796856
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633862430
+        }
+      }
+    },
+    {
+      "team": "Team-0x7",
+      "pos": 74,
+      "score": 444,
+      "id": 992,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633776962
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633799448
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633894686
+        }
+      }
+    },
+    {
+      "team": "r3kapig",
+      "pos": 75,
+      "score": 430,
+      "id": 110,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633764766
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633768115
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633773511
+        }
+      }
+    },
+    {
+      "team": "f*",
+      "pos": 76,
+      "score": 430,
+      "id": 1209,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633790687
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633794582
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633803573
+        }
+      }
+    },
+    {
+      "team": "0x5450",
+      "pos": 77,
+      "score": 430,
+      "id": 1056,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633788461
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633791900
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633876209
+        }
+      }
+    },
+    {
+      "team": "Samurai",
+      "pos": 78,
+      "score": 378,
+      "id": 624,
+      "taskStats": {
+        "Switching it up": {
+          "points": 238,
+          "time": 1633856836
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633872070
+        }
+      }
+    },
+    {
+      "team": "Underrated",
+      "pos": 79,
+      "score": 376,
+      "id": 573,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633786915
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633863398
+        }
+      }
+    },
+    {
+      "team": "UIT.W3",
+      "pos": 80,
+      "score": 376,
+      "id": 520,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633774885
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633898094
+        }
+      }
+    },
+    {
+      "team": "yesman",
+      "pos": 81,
+      "score": 364,
+      "id": 1342,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633810571
+        },
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633899971
+        }
+      }
+    },
+    {
+      "team": "WE_0WN_Y0U",
+      "pos": 82,
+      "score": 360,
+      "id": 810,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633808067
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633822468
+        }
+      }
+    },
+    {
+      "team": "WolvSec",
+      "pos": 83,
+      "score": 354,
+      "id": 745,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633759954
+        },
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633813366
+        }
+      }
+    },
+    {
+      "team": "[  ]",
+      "pos": 84,
+      "score": 352,
+      "id": 250,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633761199
+        },
+        "GoodHash": {
+          "points": 218,
+          "time": 1633843324
+        }
+      }
+    },
+    {
+      "team": "dqi",
+      "pos": 85,
+      "score": 332,
+      "id": 788,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633747112
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633806075
+        }
+      }
+    },
+    {
+      "team": "ThereIsNoInfoRoma",
+      "pos": 86,
+      "score": 332,
+      "id": 641,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633753087
+        },
+        "Steroid Stream": {
+          "points": 198,
+          "time": 1633865101
+        }
+      }
+    },
+    {
+      "team": "Kernel Sanders",
+      "pos": 87,
+      "score": 326,
+      "id": 906,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633812828
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633884381
+        }
+      }
+    },
+    {
+      "team": "softshell",
+      "pos": 88,
+      "score": 310,
+      "id": 1199,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633789689
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633793308
+        }
+      }
+    },
+    {
+      "team": "pumpkinchunker",
+      "pos": 89,
+      "score": 310,
+      "id": 774,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633750975
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633794021
+        }
+      }
+    },
+    {
+      "team": "Hacktimel",
+      "pos": 90,
+      "score": 310,
+      "id": 1188,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633788849
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633876908
+        }
+      }
+    },
+    {
+      "team": "HuntsvilleTechSupport",
+      "pos": 91,
+      "score": 304,
+      "id": 365,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633758779
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633886011
+        }
+      }
+    },
+    {
+      "team": "Phat Cow High",
+      "pos": 92,
+      "score": 304,
+      "id": 364,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633814529
+        },
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633899904
+        }
+      }
+    },
+    {
+      "team": "Shellphish Sashimi",
+      "pos": 93,
+      "score": 296,
+      "id": 749,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633827404
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633830948
+        }
+      }
+    },
+    {
+      "team": "noteamname",
+      "pos": 94,
+      "score": 296,
+      "id": 1367,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633827193
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633832317
+        }
+      }
+    },
+    {
+      "team": "Emocat",
+      "pos": 95,
+      "score": 296,
+      "id": 1389,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633847645
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633853872
+        }
+      }
+    },
+    {
+      "team": "ST4RT",
+      "pos": 96,
+      "score": 296,
+      "id": 163,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633868370
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633898968
+        }
+      }
+    },
+    {
+      "team": "Porg Pwn Platoon",
+      "pos": 97,
+      "score": 296,
+      "id": 719,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633815157
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633904889
+        }
+      }
+    },
+    {
+      "team": "kiona",
+      "pos": 98,
+      "score": 290,
+      "id": 865,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633749424
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633769112
+        }
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 99,
+      "score": 290,
+      "id": 761,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633744495
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633795405
+        }
+      }
+    },
+    {
+      "team": "Moondo",
+      "pos": 100,
+      "score": 290,
+      "id": 647,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633834139
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633884195
+        }
+      }
+    },
+    {
+      "team": "Sp33d_0f_T1m3",
+      "pos": 101,
+      "score": 290,
+      "id": 534,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633778942
+        },
+        "Cosmo": {
+          "points": 156,
+          "time": 1633891526
+        }
+      }
+    },
+    {
+      "team": "SHA-5010",
+      "pos": 102,
+      "score": 274,
+      "id": 808,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633743339
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633756703
+        }
+      }
+    },
+    {
+      "team": "ctfChallengers",
+      "pos": 103,
+      "score": 274,
+      "id": 531,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633760438
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633767815
+        }
+      }
+    },
+    {
+      "team": "0x62EEN7EA",
+      "pos": 104,
+      "score": 274,
+      "id": 851,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633749748
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633771635
+        }
+      }
+    },
+    {
+      "team": "DLC",
+      "pos": 105,
+      "score": 274,
+      "id": 132,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633788260
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633791890
+        }
+      }
+    },
+    {
+      "team": "hydroelectricities",
+      "pos": 106,
+      "score": 274,
+      "id": 783,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633780075
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633794670
+        }
+      }
+    },
+    {
+      "team": "nico",
+      "pos": 107,
+      "score": 274,
+      "id": 691,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633769570
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633798151
+        }
+      }
+    },
+    {
+      "team": "shanks",
+      "pos": 108,
+      "score": 274,
+      "id": 1127,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633809139
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633816207
+        }
+      }
+    },
+    {
+      "team": "m1t0",
+      "pos": 109,
+      "score": 274,
+      "id": 297,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633813196
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633839882
+        }
+      }
+    },
+    {
+      "team": "Bit data",
+      "pos": 110,
+      "score": 274,
+      "id": 479,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633825099
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633845851
+        }
+      }
+    },
+    {
+      "team": "damjan",
+      "pos": 111,
+      "score": 274,
+      "id": 1040,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633769643
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633855760
+        }
+      }
+    },
+    {
+      "team": "COMPASS",
+      "pos": 112,
+      "score": 274,
+      "id": 981,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633855411
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633855943
+        }
+      }
+    },
+    {
+      "team": "cyber-monkeys",
+      "pos": 113,
+      "score": 274,
+      "id": 701,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633788680
+        },
+        "BTLE": {
+          "points": 140,
+          "time": 1633877554
+        }
+      }
+    },
+    {
+      "team": "PLUS",
+      "pos": 114,
+      "score": 274,
+      "id": 90,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633876389
+        },
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633886338
+        }
+      }
+    },
+    {
+      "team": "rik",
+      "pos": 115,
+      "score": 224,
+      "id": 847,
+      "taskStats": {
+        "Binary Tree": {
+          "points": 224,
+          "time": 1633841607
+        }
+      }
+    },
+    {
+      "team": "undefined",
+      "pos": 116,
+      "score": 220,
+      "id": 394,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633753450
+        }
+      }
+    },
+    {
+      "team": "e^iπ+1day",
+      "pos": 117,
+      "score": 220,
+      "id": 842,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633859420
+        }
+      }
+    },
+    {
+      "team": "dtro",
+      "pos": 118,
+      "score": 220,
+      "id": 424,
+      "taskStats": {
+        "TBDXSS": {
+          "points": 220,
+          "time": 1633889439
+        }
+      }
+    },
+    {
+      "team": "UOKIN",
+      "pos": 119,
+      "score": 170,
+      "id": 109,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633755463
+        }
+      }
+    },
+    {
+      "team": "Fish'); DROP TABLE users;--",
+      "pos": 120,
+      "score": 170,
+      "id": 698,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633773989
+        }
+      }
+    },
+    {
+      "team": "h4tum",
+      "pos": 121,
+      "score": 170,
+      "id": 1084,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633794951
+        }
+      }
+    },
+    {
+      "team": "g0_d4u_kh04_tr3n",
+      "pos": 122,
+      "score": 170,
+      "id": 569,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633799540
+        }
+      }
+    },
+    {
+      "team": "<script>alert(\"Ping\")</script>",
+      "pos": 123,
+      "score": 170,
+      "id": 1257,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633817977
+        }
+      }
+    },
+    {
+      "team": "Error404",
+      "pos": 124,
+      "score": 170,
+      "id": 492,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633842731
+        }
+      }
+    },
+    {
+      "team": "Cornflags",
+      "pos": 125,
+      "score": 170,
+      "id": 436,
+      "taskStats": {
+        "Ghost writer": {
+          "points": 170,
+          "time": 1633864878
+        }
+      }
+    },
+    {
+      "team": "Lonely_Gang",
+      "pos": 126,
+      "score": 156,
+      "id": 596,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633759728
+        }
+      }
+    },
+    {
+      "team": "C0nn3R",
+      "pos": 127,
+      "score": 156,
+      "id": 309,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633764256
+        }
+      }
+    },
+    {
+      "team": "noob",
+      "pos": 128,
+      "score": 156,
+      "id": 975,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633765596
+        }
+      }
+    },
+    {
+      "team": "Msk_lol",
+      "pos": 129,
+      "score": 156,
+      "id": 625,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633776846
+        }
+      }
+    },
+    {
+      "team": "retirees",
+      "pos": 130,
+      "score": 156,
+      "id": 1081,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633777670
+        }
+      }
+    },
+    {
+      "team": "flash",
+      "pos": 131,
+      "score": 156,
+      "id": 612,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633779131
+        }
+      }
+    },
+    {
+      "team": "flib",
+      "pos": 132,
+      "score": 156,
+      "id": 1046,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633780449
+        }
+      }
+    },
+    {
+      "team": "Mas0n",
+      "pos": 133,
+      "score": 156,
+      "id": 1129,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633781184
+        }
+      }
+    },
+    {
+      "team": "BIT CRIMINALS",
+      "pos": 134,
+      "score": 156,
+      "id": 686,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633795437
+        }
+      }
+    },
+    {
+      "team": "Contrail",
+      "pos": 135,
+      "score": 156,
+      "id": 1050,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633799372
+        }
+      }
+    },
+    {
+      "team": "AvenaQuaker",
+      "pos": 136,
+      "score": 156,
+      "id": 363,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633810487
+        }
+      }
+    },
+    {
+      "team": "noteam",
+      "pos": 137,
+      "score": 156,
+      "id": 1123,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633813619
+        }
+      }
+    },
+    {
+      "team": "Ashes",
+      "pos": 138,
+      "score": 156,
+      "id": 1399,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633835648
+        }
+      }
+    },
+    {
+      "team": "phuonghoang",
+      "pos": 139,
+      "score": 156,
+      "id": 940,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633835826
+        }
+      }
+    },
+    {
+      "team": "BamBOo",
+      "pos": 140,
+      "score": 156,
+      "id": 446,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633844308
+        }
+      }
+    },
+    {
+      "team": "adam",
+      "pos": 141,
+      "score": 156,
+      "id": 1423,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633849027
+        }
+      }
+    },
+    {
+      "team": "dasda",
+      "pos": 142,
+      "score": 156,
+      "id": 1434,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633854740
+        }
+      }
+    },
+    {
+      "team": "xisop",
+      "pos": 143,
+      "score": 156,
+      "id": 1448,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633858557
+        }
+      }
+    },
+    {
+      "team": "下水道马里奥",
+      "pos": 144,
+      "score": 156,
+      "id": 419,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633861483
+        }
+      }
+    },
+    {
+      "team": "PFS",
+      "pos": 145,
+      "score": 156,
+      "id": 1192,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633876095
+        }
+      }
+    },
+    {
+      "team": "efiens",
+      "pos": 146,
+      "score": 156,
+      "id": 565,
+      "taskStats": {
+        "Cosmo": {
+          "points": 156,
+          "time": 1633886285
+        }
+      }
+    },
+    {
+      "team": "guitared solo",
+      "pos": 147,
+      "score": 140,
+      "id": 905,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633754269
+        }
+      }
+    },
+    {
+      "team": "ratedQ",
+      "pos": 148,
+      "score": 140,
+      "id": 740,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633757810
+        }
+      }
+    },
+    {
+      "team": "Red0",
+      "pos": 149,
+      "score": 140,
+      "id": 826,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633758331
+        }
+      }
+    },
+    {
+      "team": "TangLangTech",
+      "pos": 150,
+      "score": 140,
+      "id": 984,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633764187
+        }
+      }
+    },
+    {
+      "team": "merope",
+      "pos": 151,
+      "score": 140,
+      "id": 568,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633765875
+        }
+      }
+    },
+    {
+      "team": "Mayas",
+      "pos": 152,
+      "score": 140,
+      "id": 709,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633769511
+        }
+      }
+    },
+    {
+      "team": "Jump2Flag",
+      "pos": 153,
+      "score": 140,
+      "id": 599,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633770386
+        }
+      }
+    },
+    {
+      "team": "0xef00",
+      "pos": 154,
+      "score": 140,
+      "id": 693,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633779937
+        }
+      }
+    },
+    {
+      "team": "ivachyou",
+      "pos": 155,
+      "score": 140,
+      "id": 932,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633779989
+        }
+      }
+    },
+    {
+      "team": "havce",
+      "pos": 156,
+      "score": 140,
+      "id": 1096,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633781521
+        }
+      }
+    },
+    {
+      "team": "skateboarding dog",
+      "pos": 157,
+      "score": 140,
+      "id": 863,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633782979
+        }
+      }
+    },
+    {
+      "team": "crayontheft",
+      "pos": 158,
+      "score": 140,
+      "id": 1075,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633784169
+        }
+      }
+    },
+    {
+      "team": "KITCTF",
+      "pos": 159,
+      "score": 140,
+      "id": 336,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633787158
+        }
+      }
+    },
+    {
+      "team": "0x4B1D",
+      "pos": 160,
+      "score": 140,
+      "id": 236,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633792918
+        }
+      }
+    },
+    {
+      "team": "Kits",
+      "pos": 161,
+      "score": 140,
+      "id": 1334,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633813696
+        }
+      }
+    },
+    {
+      "team": "Lost Boys",
+      "pos": 162,
+      "score": 140,
+      "id": 45,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633814390
+        }
+      }
+    },
+    {
+      "team": "TEAM0001",
+      "pos": 163,
+      "score": 140,
+      "id": 234,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633814776
+        }
+      }
+    },
+    {
+      "team": "cuccs",
+      "pos": 164,
+      "score": 140,
+      "id": 1430,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633854162
+        }
+      }
+    },
+    {
+      "team": "Raise the Flag",
+      "pos": 165,
+      "score": 140,
+      "id": 957,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633868904
+        }
+      }
+    },
+    {
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "pos": 166,
+      "score": 140,
+      "id": 126,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633878461
+        }
+      }
+    },
+    {
+      "team": "SolarCat",
+      "pos": 167,
+      "score": 140,
+      "id": 1506,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633887849
+        }
+      }
+    },
+    {
+      "team": "ID-IoT",
+      "pos": 168,
+      "score": 140,
+      "id": 252,
+      "taskStats": {
+        "BTLE": {
+          "points": 140,
+          "time": 1633891457
+        }
+      }
+    },
+    {
+      "team": "1t'5_n0t_fla9",
+      "pos": 169,
+      "score": 134,
+      "id": 632,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633744120
+        }
+      }
+    },
+    {
+      "team": "Ph0t1n1a",
+      "pos": 170,
+      "score": 134,
+      "id": 514,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633746659
+        }
+      }
+    },
+    {
+      "team": "gin",
+      "pos": 171,
+      "score": 134,
+      "id": 533,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633748733
+        }
+      }
+    },
+    {
+      "team": "Underwriters",
+      "pos": 172,
+      "score": 134,
+      "id": 642,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633749579
+        }
+      }
+    },
+    {
+      "team": "Haar",
+      "pos": 173,
+      "score": 134,
+      "id": 744,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633750888
+        }
+      }
+    },
+    {
+      "team": "(mendung)10^6",
+      "pos": 174,
+      "score": 134,
+      "id": 881,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633754166
+        }
+      }
+    },
+    {
+      "team": "SIGPwny",
+      "pos": 175,
+      "score": 134,
+      "id": 818,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633759275
+        }
+      }
+    },
+    {
+      "team": "n0n$la$",
+      "pos": 176,
+      "score": 134,
+      "id": 916,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633761854
+        }
+      }
+    },
+    {
+      "team": "IIT(BHU)CyberSec",
+      "pos": 177,
+      "score": 134,
+      "id": 946,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633765664
+        }
+      }
+    },
+    {
+      "team": "InfoSecIITR",
+      "pos": 178,
+      "score": 134,
+      "id": 976,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633766569
+        }
+      }
+    },
+    {
+      "team": "tmp",
+      "pos": 179,
+      "score": 134,
+      "id": 449,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633766761
+        }
+      }
+    },
+    {
+      "team": "BambooShoots",
+      "pos": 180,
+      "score": 134,
+      "id": 675,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633768020
+        }
+      }
+    },
+    {
+      "team": "nitrow",
+      "pos": 181,
+      "score": 134,
+      "id": 1029,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633768785
+        }
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 182,
+      "score": 134,
+      "id": 281,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633768944
+        }
+      }
+    },
+    {
+      "team": "Em0t3t",
+      "pos": 183,
+      "score": 134,
+      "id": 518,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633769905
+        }
+      }
+    },
+    {
+      "team": "ROIS",
+      "pos": 184,
+      "score": 134,
+      "id": 14,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633770663
+        }
+      }
+    },
+    {
+      "team": "RootMeUpBeforeYouGoGo",
+      "pos": 185,
+      "score": 134,
+      "id": 669,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633772581
+        }
+      }
+    },
+    {
+      "team": "2Fast4U",
+      "pos": 186,
+      "score": 134,
+      "id": 685,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633780582
+        }
+      }
+    },
+    {
+      "team": "Curious Tourists",
+      "pos": 187,
+      "score": 134,
+      "id": 123,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633785178
+        }
+      }
+    },
+    {
+      "team": "tbizp",
+      "pos": 188,
+      "score": 134,
+      "id": 1175,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633785885
+        }
+      }
+    },
+    {
+      "team": "g4f",
+      "pos": 189,
+      "score": 134,
+      "id": 503,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633788943
+        }
+      }
+    },
+    {
+      "team": "Wanna.One",
+      "pos": 190,
+      "score": 134,
+      "id": 600,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633789408
+        }
+      }
+    },
+    {
+      "team": "dr00py",
+      "pos": 191,
+      "score": 134,
+      "id": 1244,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633789948
+        }
+      }
+    },
+    {
+      "team": "anh_ban_a`",
+      "pos": 192,
+      "score": 134,
+      "id": 1111,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633790920
+        }
+      }
+    },
+    {
+      "team": "pantun",
+      "pos": 193,
+      "score": 134,
+      "id": 1038,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633795613
+        }
+      }
+    },
+    {
+      "team": "naul",
+      "pos": 194,
+      "score": 134,
+      "id": 1088,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633798841
+        }
+      }
+    },
+    {
+      "team": "ret2school",
+      "pos": 195,
+      "score": 134,
+      "id": 429,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633800125
+        }
+      }
+    },
+    {
+      "team": "she",
+      "pos": 196,
+      "score": 134,
+      "id": 1189,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633804437
+        }
+      }
+    },
+    {
+      "team": "dau_phai_4rt",
+      "pos": 197,
+      "score": 134,
+      "id": 919,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633805950
+        }
+      }
+    },
+    {
+      "team": "BlueHole",
+      "pos": 198,
+      "score": 134,
+      "id": 977,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633810002
+        }
+      }
+    },
+    {
+      "team": "cheriPI",
+      "pos": 199,
+      "score": 134,
+      "id": 768,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633816215
+        }
+      }
+    },
+    {
+      "team": "HackademINT",
+      "pos": 200,
+      "score": 134,
+      "id": 1276,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633818505
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 201,
+      "score": 134,
+      "id": 517,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633818538
+        }
+      }
+    },
+    {
+      "team": "Look! A Three-Headed Monkey!",
+      "pos": 202,
+      "score": 134,
+      "id": 928,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633839925
+        }
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 203,
+      "score": 134,
+      "id": 584,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633841265
+        }
+      }
+    },
+    {
+      "team": "sleep",
+      "pos": 204,
+      "score": 134,
+      "id": 991,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633851211
+        }
+      }
+    },
+    {
+      "team": "loool",
+      "pos": 205,
+      "score": 134,
+      "id": 598,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633852935
+        }
+      }
+    },
+    {
+      "team": "ToInfinityAndBeYANd",
+      "pos": 206,
+      "score": 134,
+      "id": 963,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633854410
+        }
+      }
+    },
+    {
+      "team": "stackunderflow",
+      "pos": 207,
+      "score": 134,
+      "id": 387,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633856797
+        }
+      }
+    },
+    {
+      "team": "MExP",
+      "pos": 208,
+      "score": 134,
+      "id": 1240,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633873201
+        }
+      }
+    },
+    {
+      "team": "TwentyFive",
+      "pos": 209,
+      "score": 134,
+      "id": 654,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633888362
+        }
+      }
+    },
+    {
+      "team": "dk krew",
+      "pos": 210,
+      "score": 134,
+      "id": 1372,
+      "taskStats": {
+        "Alkaloid Stream": {
+          "points": 134,
+          "time": 1633896408
+        }
+      }
+    }
+  ],
+  "taskinfo": {
+    "Alkaloid Stream": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "BTLE": {
+      "category": "Misc",
+      "tags": []
+    },
+    "Cosmo": {
+      "category": "Reverse",
+      "tags": [
+        {
+          "value": "baby"
+        }
+      ]
+    },
+    "Ghost writer": {
+      "category": "Misc",
+      "tags": []
+    },
+    "Steroid Stream": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "GoodHash": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "TBDXSS": {
+      "category": "Web",
+      "tags": []
+    },
+    "Binary Tree": {
+      "category": "Reverse",
+      "tags": []
+    },
+    "Switching it up": {
+      "category": "Reverse",
+      "tags": [
+        {
+          "value": "baby"
+        }
+      ]
+    },
+    "Seed Me": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "Yet Another PRNG": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "Yet Another RSA": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "Is that your packet?": {
+      "category": "Misc",
+      "tags": []
+    },
+    "Advancement": {
+      "category": "Web",
+      "tags": [
+        {
+          "value": "pb2own"
+        }
+      ]
+    },
+    "Nightclub": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "Vault": {
+      "category": "Web",
+      "tags": []
+    },
+    "J U S T": {
+      "category": "Reverse",
+      "tags": [
+        {
+          "value": "crypto?"
+        }
+      ]
+    },
+    "baby kernel": {
+      "category": "Pwn",
+      "tags": [
+        {
+          "value": "windows"
+        },
+        {
+          "value": "pb2own"
+        }
+      ]
+    },
+    "catharsis": {
+      "category": "Reverse",
+      "tags": [
+        {
+          "value": "windows"
+        }
+      ]
+    },
+    "Coqroach": {
+      "category": "Misc",
+      "tags": []
+    },
+    "WYSIWYG": {
+      "category": "Web",
+      "tags": [
+        {
+          "value": "pb2own"
+        }
+      ]
+    },
+    "Serenity Broowser": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "In The End": {
+      "category": "Web",
+      "tags": [
+        {
+          "value": "pb2own"
+        },
+        {
+          "value": "pwn?"
+        },
+        {
+          "value": "⚛️"
+        }
+      ]
+    },
+    "Not Password": {
+      "category": "Reverse",
+      "tags": []
+    },
+    "LLLattice": {
+      "category": "Reverse",
+      "tags": [
+        {
+          "value": "Hardware"
+        },
+        {
+          "value": "🔥"
+        }
+      ]
+    },
+    "Access Key": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "Out of Order": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "Secure Jython Sandbox": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "memefd": {
+      "category": "Misc",
+      "tags": []
+    },
+    "Mail Tester": {
+      "category": "Web",
+      "tags": []
+    },
+    "Lord of The Flag: The Unfinished Chat": {
+      "category": "Web",
+      "tags": [
+        {
+          "value": "⚛️"
+        },
+        {
+          "value": "🔥"
+        }
+      ]
+    }
+  },
+  "date": 1633705200,
+  "name": "pbctf 2021"
+}
