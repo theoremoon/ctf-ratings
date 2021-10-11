@@ -61,7 +61,7 @@ class CTFdScraper():
         r.raise_for_status()
         data = r.json()["data"]
         logger.warning("done")
-        return [task["name"] for task in data]
+        return data
 
     def scoreboard(self):
         logger.warning("getting scoreboard...")
@@ -70,7 +70,8 @@ class CTFdScraper():
         data = r.json()["data"]
         logger.warning("done")
 
-        tasks = set(self._tasks())
+        tasks = self._tasks()
+        taskNames = set([task["name"] for task in tasks])
         standings = []
         for team in tqdm(data):
             taskStats = self._team_solves(team["account_id"])
@@ -81,5 +82,11 @@ class CTFdScraper():
                 "id": team["account_id"],
                 "taskStats": taskStats,
             })
-            tasks.update(taskStats.keys())
-        return {"tasks": list(tasks), "standings": standings}
+            taskNames.update(taskStats.keys())
+        return {"tasks": list(taskNames), "standings": standings, "taskinfo": {
+            task["name"]:{
+                "category": task["category"],
+                "tags": task["tags"],
+            }
+            for task in tasks
+        }}
