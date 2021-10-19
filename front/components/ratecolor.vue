@@ -22,7 +22,7 @@ export default {
             if (rating < 2000) {
                 return '#0000ff';
             }
-            if (rating < 2300) {
+            if (rating < 2400) {
                 return '#c0c000';
             }
             if (rating < 2800) {
