@@ -37,7 +37,7 @@ class AsisCTFScraper():
 
         # parse thead
         tasks = soup.select("thead tr th")[4:]  # skip #, Team, Points, Country
-        tasks = [t.text.strip() for t in tasks]
+        tasks = [t.string.strip() for t in tasks]
 
         # parse tbody
         standings = []
