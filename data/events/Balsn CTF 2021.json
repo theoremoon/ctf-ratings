@@ -1,0 +1,4158 @@
+{
+  "tasks": [
+    "STACK",
+    "1337 pins",
+    "unicorn’s aisle ~postlude~",
+    "The g++ VM 2",
+    "dlog",
+    "4pple Music",
+    "trinity",
+    "metaeasy",
+    "Cheater",
+    "NoteEdit",
+    "Elf Fortress",
+    "2linephp",
+    "Baby Welcome",
+    "House of Cats",
+    "unicorn’s aisle ~prelude~",
+    "Futex",
+    "or⊕w",
+    "unicorn's aisle ~interlude~",
+    "IEAIE",
+    "ML",
+    "Draupnir",
+    "0linephp",
+    "The g++ VM 1",
+    "Dark Knight",
+    "aeshash",
+    "Proxy",
+    "Kawaii Note"
+  ],
+  "standings": [
+    {
+      "team": "Water Paddler",
+      "pos": 1,
+      "score": 4758,
+      "id": 22,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373975
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637382112
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637390991
+        },
+        "0linephp": {
+          "points": 407,
+          "time": 1637407875
+        },
+        "Cheater": {
+          "points": 407,
+          "time": 1637453450
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637458709
+        },
+        "The g++ VM 1": {
+          "points": 393,
+          "time": 1637465126
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637477014
+        },
+        "1337 pins": {
+          "points": 422,
+          "time": 1637481656
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637483860
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637484914
+        },
+        "The g++ VM 2": {
+          "points": 407,
+          "time": 1637486180
+        },
+        "4pple Music": {
+          "points": 477,
+          "time": 1637504038
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637516984
+        }
+      }
+    },
+    {
+      "team": "10sec",
+      "pos": 2,
+      "score": 3952,
+      "id": 100,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637375457
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637395790
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637425163
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637425256
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637434142
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637466112
+        },
+        "0linephp": {
+          "points": 407,
+          "time": 1637476237
+        },
+        "The g++ VM 1": {
+          "points": 393,
+          "time": 1637490998
+        },
+        "Cheater": {
+          "points": 407,
+          "time": 1637498790
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637499492
+        },
+        "unicorn's aisle ~interlude~": {
+          "points": 500,
+          "time": 1637525538
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637536926
+        }
+      }
+    },
+    {
+      "team": "Goburin'",
+      "pos": 3,
+      "score": 3859,
+      "id": 167,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373734
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637397353
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637407404
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637417340
+        },
+        "0linephp": {
+          "points": 407,
+          "time": 1637427764
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637431146
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637437079
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637448449
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637464222
+        },
+        "The g++ VM 1": {
+          "points": 393,
+          "time": 1637498658
+        },
+        "Cheater": {
+          "points": 407,
+          "time": 1637514283
+        },
+        "The g++ VM 2": {
+          "points": 407,
+          "time": 1637544912
+        }
+      }
+    },
+    {
+      "team": "zwnj",
+      "pos": 4,
+      "score": 3631,
+      "id": 221,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637380666
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637386590
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637403757
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637409125
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637447499
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637460581
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637482384
+        },
+        "The g++ VM 1": {
+          "points": 393,
+          "time": 1637532955
+        },
+        "1337 pins": {
+          "points": 422,
+          "time": 1637537468
+        },
+        "Cheater": {
+          "points": 407,
+          "time": 1637538913
+        },
+        "dlog": {
+          "points": 477,
+          "time": 1637538938
+        }
+      }
+    },
+    {
+      "team": "Black Bauhinia",
+      "pos": 5,
+      "score": 3608,
+      "id": 102,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373623
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637392927
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637412863
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637433538
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637434496
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637443406
+        },
+        "1337 pins": {
+          "points": 422,
+          "time": 1637447388
+        },
+        "0linephp": {
+          "points": 407,
+          "time": 1637467572
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637470217
+        },
+        "The g++ VM 1": {
+          "points": 393,
+          "time": 1637514230
+        },
+        "The g++ VM 2": {
+          "points": 407,
+          "time": 1637529383
+        }
+      }
+    },
+    {
+      "team": "BambooFox",
+      "pos": 6,
+      "score": 3536,
+      "id": 62,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374398
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637389460
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637429845
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637475620
+        },
+        "0linephp": {
+          "points": 407,
+          "time": 1637476856
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637492243
+        },
+        "dlog": {
+          "points": 477,
+          "time": 1637493124
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637499864
+        },
+        "Cheater": {
+          "points": 407,
+          "time": 1637525704
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637526166
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637536197
+        }
+      }
+    },
+    {
+      "team": "NTUC513Bo8",
+      "pos": 7,
+      "score": 2271,
+      "id": 84,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373974
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637396138
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637420062
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637424155
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637433089
+        },
+        "The g++ VM 2": {
+          "points": 407,
+          "time": 1637495489
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637503372
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637528432
+        }
+      }
+    },
+    {
+      "team": "FrenchRoomba",
+      "pos": 8,
+      "score": 2211,
+      "id": 246,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373691
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637384849
+        },
+        "4pple Music": {
+          "points": 477,
+          "time": 1637464067
+        },
+        "0linephp": {
+          "points": 407,
+          "time": 1637470008
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637473729
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637478430
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637531770
+        }
+      }
+    },
+    {
+      "team": "火腿三明治加冬瓜鮮奶佐雞塊",
+      "pos": 9,
+      "score": 1353,
+      "id": 149,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373713
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637437760
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637440899
+        },
+        "The g++ VM 2": {
+          "points": 407,
+          "time": 1637520422
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637530139
+        }
+      }
+    },
+    {
+      "team": "PLUS",
+      "pos": 10,
+      "score": 1202,
+      "id": 169,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374616
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637438934
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637490741
+        },
+        "Kawaii Note": {
+          "points": 500,
+          "time": 1637524008
+        }
+      }
+    },
+    {
+      "team": "Samurai",
+      "pos": 11,
+      "score": 946,
+      "id": 211,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373732
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637385860
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637393122
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637431376
+        }
+      }
+    },
+    {
+      "team": "(ง•̀_•́)ง",
+      "pos": 12,
+      "score": 946,
+      "id": 11,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373705
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637427499
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637486131
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637493641
+        }
+      }
+    },
+    {
+      "team": "bitsforeveryone",
+      "pos": 13,
+      "score": 921,
+      "id": 163,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637407580
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637434530
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637435731
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637447359
+        }
+      }
+    },
+    {
+      "team": "0daysober",
+      "pos": 14,
+      "score": 824,
+      "id": 44,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637405782
+        },
+        "2linephp": {
+          "points": 381,
+          "time": 1637439999
+        },
+        "The g++ VM 1": {
+          "points": 393,
+          "time": 1637488406
+        }
+      }
+    },
+    {
+      "team": "buttf14g",
+      "pos": 15,
+      "score": 800,
+      "id": 514,
+      "taskStats": {
+        "Cheater": {
+          "points": 407,
+          "time": 1637445812
+        },
+        "The g++ VM 1": {
+          "points": 393,
+          "time": 1637464264
+        }
+      }
+    },
+    {
+      "team": "Only me",
+      "pos": 16,
+      "score": 738,
+      "id": 81,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374648
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637415235
+        },
+        "1337 pins": {
+          "points": 422,
+          "time": 1637524492
+        }
+      }
+    },
+    {
+      "team": "Inner Savages",
+      "pos": 17,
+      "score": 680,
+      "id": 234,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637380915
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637415319
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637527009
+        }
+      }
+    },
+    {
+      "team": "TeamDelta",
+      "pos": 18,
+      "score": 655,
+      "id": 63,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373771
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637413026
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637432141
+        }
+      }
+    },
+    {
+      "team": "KITCTF",
+      "pos": 19,
+      "score": 655,
+      "id": 121,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374006
+        },
+        "unicorn’s aisle ~prelude~": {
+          "points": 339,
+          "time": 1637435871
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637459268
+        }
+      }
+    },
+    {
+      "team": "Team Enu",
+      "pos": 20,
+      "score": 629,
+      "id": 179,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374137
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637417694
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637442233
+        }
+      }
+    },
+    {
+      "team": "ffffx00000",
+      "pos": 21,
+      "score": 629,
+      "id": 182,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374181
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637454791
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637505825
+        }
+      }
+    },
+    {
+      "team": "The Pentagon",
+      "pos": 22,
+      "score": 629,
+      "id": 181,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637379837
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637506750
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637506768
+        }
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 23,
+      "score": 629,
+      "id": 219,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637380149
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637455153
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637522173
+        }
+      }
+    },
+    {
+      "team": "Ashes",
+      "pos": 24,
+      "score": 629,
+      "id": 690,
+      "taskStats": {
+        "ML": {
+          "points": 266,
+          "time": 1637519399
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637523759
+        },
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637523916
+        }
+      }
+    },
+    {
+      "team": "摸頭還要哭",
+      "pos": 25,
+      "score": 607,
+      "id": 159,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373750
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637419944
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637472048
+        }
+      }
+    },
+    {
+      "team": "CrackTheFirewall",
+      "pos": 26,
+      "score": 607,
+      "id": 70,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374127
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637506961
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637538483
+        }
+      }
+    },
+    {
+      "team": "化け物みたいな劣等感",
+      "pos": 27,
+      "score": 582,
+      "id": 236,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381979
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637409997
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637427494
+        }
+      }
+    },
+    {
+      "team": "onepunchpwn",
+      "pos": 28,
+      "score": 582,
+      "id": 632,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637488274
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637505741
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637518292
+        }
+      }
+    },
+    {
+      "team": "我不能打",
+      "pos": 29,
+      "score": 472,
+      "id": 46,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637413738
+        },
+        "1337 pins": {
+          "points": 422,
+          "time": 1637462410
+        }
+      }
+    },
+    {
+      "team": "Teams :(",
+      "pos": 30,
+      "score": 407,
+      "id": 587,
+      "taskStats": {
+        "The g++ VM 2": {
+          "points": 407,
+          "time": 1637541003
+        }
+      }
+    },
+    {
+      "team": "CubeMastery",
+      "pos": 31,
+      "score": 389,
+      "id": 140,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373654
+        },
+        "Dark Knight": {
+          "points": 339,
+          "time": 1637452598
+        }
+      }
+    },
+    {
+      "team": "uetctf",
+      "pos": 32,
+      "score": 363,
+      "id": 205,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374973
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637414203
+        }
+      }
+    },
+    {
+      "team": "u0k++",
+      "pos": 33,
+      "score": 363,
+      "id": 213,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637386109
+        },
+        "or⊕w": {
+          "points": 313,
+          "time": 1637423559
+        }
+      }
+    },
+    {
+      "team": "百家姓戰隊",
+      "pos": 34,
+      "score": 341,
+      "id": 174,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637379393
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637419861
+        }
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 35,
+      "score": 341,
+      "id": 113,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378936
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637475585
+        }
+      }
+    },
+    {
+      "team": "OSAZ",
+      "pos": 36,
+      "score": 341,
+      "id": 114,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637471790
+        },
+        "Proxy": {
+          "points": 291,
+          "time": 1637496781
+        }
+      }
+    },
+    {
+      "team": "PPP",
+      "pos": 37,
+      "score": 316,
+      "id": 145,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378122
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637388164
+        }
+      }
+    },
+    {
+      "team": "y011d4",
+      "pos": 38,
+      "score": 316,
+      "id": 269,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637375338
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637391840
+        }
+      }
+    },
+    {
+      "team": "Azure Assassin Alliance",
+      "pos": 39,
+      "score": 316,
+      "id": 422,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637403452
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637421617
+        }
+      }
+    },
+    {
+      "team": "SIGFLAG",
+      "pos": 40,
+      "score": 316,
+      "id": 239,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637410070
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637421841
+        }
+      }
+    },
+    {
+      "team": "Singapore",
+      "pos": 41,
+      "score": 316,
+      "id": 173,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373780
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637448375
+        }
+      }
+    },
+    {
+      "team": "TokyoWesterns",
+      "pos": 42,
+      "score": 316,
+      "id": 270,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637401444
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637465226
+        }
+      }
+    },
+    {
+      "team": "richyliu",
+      "pos": 43,
+      "score": 316,
+      "id": 245,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374021
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637474103
+        }
+      }
+    },
+    {
+      "team": "Ph0en1x",
+      "pos": 44,
+      "score": 316,
+      "id": 111,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637421274
+        },
+        "metaeasy": {
+          "points": 266,
+          "time": 1637478433
+        }
+      }
+    },
+    {
+      "team": "brainee",
+      "pos": 45,
+      "score": 316,
+      "id": 125,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373804
+        },
+        "ML": {
+          "points": 266,
+          "time": 1637515082
+        }
+      }
+    },
+    {
+      "team": "Armitage",
+      "pos": 46,
+      "score": 313,
+      "id": 616,
+      "taskStats": {
+        "or⊕w": {
+          "points": 313,
+          "time": 1637501059
+        }
+      }
+    },
+    {
+      "team": "xof5566",
+      "pos": 47,
+      "score": 291,
+      "id": 261,
+      "taskStats": {
+        "Proxy": {
+          "points": 291,
+          "time": 1637399099
+        }
+      }
+    },
+    {
+      "team": "ByteBandits",
+      "pos": 48,
+      "score": 266,
+      "id": 543,
+      "taskStats": {
+        "ML": {
+          "points": 266,
+          "time": 1637445351
+        }
+      }
+    },
+    {
+      "team": "CommandMaster",
+      "pos": 49,
+      "score": 266,
+      "id": 608,
+      "taskStats": {
+        "metaeasy": {
+          "points": 266,
+          "time": 1637476102
+        }
+      }
+    },
+    {
+      "team": "XBin",
+      "pos": 50,
+      "score": 50,
+      "id": 258,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373640
+        }
+      }
+    },
+    {
+      "team": "Th3_N00B5",
+      "pos": 51,
+      "score": 50,
+      "id": 15,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373653
+        }
+      }
+    },
+    {
+      "team": "w0t",
+      "pos": 52,
+      "score": 50,
+      "id": 262,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373653
+        }
+      }
+    },
+    {
+      "team": "Signal9",
+      "pos": 53,
+      "score": 50,
+      "id": 223,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373683
+        }
+      }
+    },
+    {
+      "team": "D4nnyLee",
+      "pos": 54,
+      "score": 50,
+      "id": 255,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373689
+        }
+      }
+    },
+    {
+      "team": "CPHViking",
+      "pos": 55,
+      "score": 50,
+      "id": 260,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373754
+        }
+      }
+    },
+    {
+      "team": "kirito",
+      "pos": 56,
+      "score": 50,
+      "id": 156,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373820
+        }
+      }
+    },
+    {
+      "team": "424275team",
+      "pos": 57,
+      "score": 50,
+      "id": 266,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373885
+        }
+      }
+    },
+    {
+      "team": "nlnlOeO",
+      "pos": 58,
+      "score": 50,
+      "id": 88,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637373968
+        }
+      }
+    },
+    {
+      "team": "锟斤拷烫烫烫",
+      "pos": 59,
+      "score": 50,
+      "id": 267,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374000
+        }
+      }
+    },
+    {
+      "team": "FreshGuy",
+      "pos": 60,
+      "score": 50,
+      "id": 184,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374006
+        }
+      }
+    },
+    {
+      "team": "Binary Banditz",
+      "pos": 61,
+      "score": 50,
+      "id": 108,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374010
+        }
+      }
+    },
+    {
+      "team": "kgrzk",
+      "pos": 62,
+      "score": 50,
+      "id": 67,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374179
+        }
+      }
+    },
+    {
+      "team": "simple_tuck",
+      "pos": 63,
+      "score": 50,
+      "id": 256,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374288
+        }
+      }
+    },
+    {
+      "team": "Mr.csb",
+      "pos": 64,
+      "score": 50,
+      "id": 5,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374294
+        }
+      }
+    },
+    {
+      "team": "13Drones",
+      "pos": 65,
+      "score": 50,
+      "id": 109,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374341
+        }
+      }
+    },
+    {
+      "team": "Em0t3t",
+      "pos": 66,
+      "score": 50,
+      "id": 277,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374395
+        }
+      }
+    },
+    {
+      "team": "Xp0int",
+      "pos": 67,
+      "score": 50,
+      "id": 154,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374431
+        }
+      }
+    },
+    {
+      "team": "HITCON GIRLS x Nemo x FPS",
+      "pos": 68,
+      "score": 50,
+      "id": 14,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374553
+        }
+      }
+    },
+    {
+      "team": "Escal8",
+      "pos": 69,
+      "score": 50,
+      "id": 8,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374623
+        }
+      }
+    },
+    {
+      "team": "20%",
+      "pos": 70,
+      "score": 50,
+      "id": 206,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374659
+        }
+      }
+    },
+    {
+      "team": "PIS",
+      "pos": 71,
+      "score": 50,
+      "id": 75,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374798
+        }
+      }
+    },
+    {
+      "team": "C8763",
+      "pos": 72,
+      "score": 50,
+      "id": 65,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374809
+        }
+      }
+    },
+    {
+      "team": "DiceGang",
+      "pos": 73,
+      "score": 50,
+      "id": 243,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374812
+        }
+      }
+    },
+    {
+      "team": "mmkk",
+      "pos": 74,
+      "score": 50,
+      "id": 188,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374813
+        }
+      }
+    },
+    {
+      "team": "APersonMan",
+      "pos": 75,
+      "score": 50,
+      "id": 21,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374843
+        }
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 76,
+      "score": 50,
+      "id": 144,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637374901
+        }
+      }
+    },
+    {
+      "team": "redblaze",
+      "pos": 77,
+      "score": 50,
+      "id": 291,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637375279
+        }
+      }
+    },
+    {
+      "team": "easy_p",
+      "pos": 78,
+      "score": 50,
+      "id": 293,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637375309
+        }
+      }
+    },
+    {
+      "team": "VN_MSEC",
+      "pos": 79,
+      "score": 50,
+      "id": 285,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637375383
+        }
+      }
+    },
+    {
+      "team": "Atlas9",
+      "pos": 80,
+      "score": 50,
+      "id": 39,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637375440
+        }
+      }
+    },
+    {
+      "team": "wd.im",
+      "pos": 81,
+      "score": 50,
+      "id": 294,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637375651
+        }
+      }
+    },
+    {
+      "team": "PU",
+      "pos": 82,
+      "score": 50,
+      "id": 242,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376036
+        }
+      }
+    },
+    {
+      "team": "xxcj",
+      "pos": 83,
+      "score": 50,
+      "id": 265,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376098
+        }
+      }
+    },
+    {
+      "team": "wesserboy",
+      "pos": 84,
+      "score": 50,
+      "id": 287,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376130
+        }
+      }
+    },
+    {
+      "team": "Dense Eclipse",
+      "pos": 85,
+      "score": 50,
+      "id": 297,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376184
+        }
+      }
+    },
+    {
+      "team": "wsmwason",
+      "pos": 86,
+      "score": 50,
+      "id": 34,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376189
+        }
+      }
+    },
+    {
+      "team": "HollyBug",
+      "pos": 87,
+      "score": 50,
+      "id": 274,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376291
+        }
+      }
+    },
+    {
+      "team": "ADY19",
+      "pos": 88,
+      "score": 50,
+      "id": 298,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376407
+        }
+      }
+    },
+    {
+      "team": "YabbaDoo",
+      "pos": 89,
+      "score": 50,
+      "id": 301,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376415
+        }
+      }
+    },
+    {
+      "team": "Project Sekai",
+      "pos": 90,
+      "score": 50,
+      "id": 77,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376517
+        }
+      }
+    },
+    {
+      "team": "idk",
+      "pos": 91,
+      "score": 50,
+      "id": 195,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637376692
+        }
+      }
+    },
+    {
+      "team": "0x4vian",
+      "pos": 92,
+      "score": 50,
+      "id": 170,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637377026
+        }
+      }
+    },
+    {
+      "team": "404 Not Found",
+      "pos": 93,
+      "score": 50,
+      "id": 96,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637377555
+        }
+      }
+    },
+    {
+      "team": "Try A9ain",
+      "pos": 94,
+      "score": 50,
+      "id": 305,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637377610
+        }
+      }
+    },
+    {
+      "team": "CSALab_Sec",
+      "pos": 95,
+      "score": 50,
+      "id": 4,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378132
+        }
+      }
+    },
+    {
+      "team": "AnGry_BirDs_ReL0aDed",
+      "pos": 96,
+      "score": 50,
+      "id": 124,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378133
+        }
+      }
+    },
+    {
+      "team": "LYB",
+      "pos": 97,
+      "score": 50,
+      "id": 160,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378228
+        }
+      }
+    },
+    {
+      "team": "ARCSIN",
+      "pos": 98,
+      "score": 50,
+      "id": 37,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378551
+        }
+      }
+    },
+    {
+      "team": "think",
+      "pos": 99,
+      "score": 50,
+      "id": 313,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378567
+        }
+      }
+    },
+    {
+      "team": "zonda",
+      "pos": 100,
+      "score": 50,
+      "id": 314,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637378839
+        }
+      }
+    },
+    {
+      "team": "Pandahat",
+      "pos": 101,
+      "score": 50,
+      "id": 209,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637379040
+        }
+      }
+    },
+    {
+      "team": "Ec",
+      "pos": 102,
+      "score": 50,
+      "id": 318,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637379495
+        }
+      }
+    },
+    {
+      "team": "MacacaHub",
+      "pos": 103,
+      "score": 50,
+      "id": 177,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637379699
+        }
+      }
+    },
+    {
+      "team": "G00dM0rn1ng",
+      "pos": 104,
+      "score": 50,
+      "id": 106,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637380223
+        }
+      }
+    },
+    {
+      "team": "h3ck3r_4nd_b3lug4",
+      "pos": 105,
+      "score": 50,
+      "id": 330,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637380689
+        }
+      }
+    },
+    {
+      "team": "777",
+      "pos": 106,
+      "score": 50,
+      "id": 329,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637380897
+        }
+      }
+    },
+    {
+      "team": "CultOfNull",
+      "pos": 107,
+      "score": 50,
+      "id": 107,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381062
+        }
+      }
+    },
+    {
+      "team": "1=1--##",
+      "pos": 108,
+      "score": 50,
+      "id": 31,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381204
+        }
+      }
+    },
+    {
+      "team": "just2checkin",
+      "pos": 109,
+      "score": 50,
+      "id": 334,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381338
+        }
+      }
+    },
+    {
+      "team": "Dumb_bots",
+      "pos": 110,
+      "score": 50,
+      "id": 248,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381499
+        }
+      }
+    },
+    {
+      "team": "Project Abyss",
+      "pos": 111,
+      "score": 50,
+      "id": 89,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381666
+        }
+      }
+    },
+    {
+      "team": "Pwners",
+      "pos": 112,
+      "score": 50,
+      "id": 308,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381668
+        }
+      }
+    },
+    {
+      "team": "shitposting-team",
+      "pos": 113,
+      "score": 50,
+      "id": 259,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381750
+        }
+      }
+    },
+    {
+      "team": "T3N4CI0US",
+      "pos": 114,
+      "score": 50,
+      "id": 338,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637381810
+        }
+      }
+    },
+    {
+      "team": "sense",
+      "pos": 115,
+      "score": 50,
+      "id": 322,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637382098
+        }
+      }
+    },
+    {
+      "team": "anobnym",
+      "pos": 116,
+      "score": 50,
+      "id": 339,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637382116
+        }
+      }
+    },
+    {
+      "team": "SaturnX",
+      "pos": 117,
+      "score": 50,
+      "id": 117,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637382258
+        }
+      }
+    },
+    {
+      "team": "YunNet",
+      "pos": 118,
+      "score": 50,
+      "id": 153,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637382339
+        }
+      }
+    },
+    {
+      "team": "CrazySharks",
+      "pos": 119,
+      "score": 50,
+      "id": 136,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637383337
+        }
+      }
+    },
+    {
+      "team": "Vegvisir",
+      "pos": 120,
+      "score": 50,
+      "id": 162,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637383345
+        }
+      }
+    },
+    {
+      "team": "SkyMas",
+      "pos": 121,
+      "score": 50,
+      "id": 316,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637383376
+        }
+      }
+    },
+    {
+      "team": "CapekSolo",
+      "pos": 122,
+      "score": 50,
+      "id": 128,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637383486
+        }
+      }
+    },
+    {
+      "team": "aayoNepal",
+      "pos": 123,
+      "score": 50,
+      "id": 171,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637384351
+        }
+      }
+    },
+    {
+      "team": "str1",
+      "pos": 124,
+      "score": 50,
+      "id": 158,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637384359
+        }
+      }
+    },
+    {
+      "team": "popo",
+      "pos": 125,
+      "score": 50,
+      "id": 328,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637384800
+        }
+      }
+    },
+    {
+      "team": "heabi",
+      "pos": 126,
+      "score": 50,
+      "id": 28,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637384808
+        }
+      }
+    },
+    {
+      "team": "wackers",
+      "pos": 127,
+      "score": 50,
+      "id": 348,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637384928
+        }
+      }
+    },
+    {
+      "team": "KXTI_MAKHUS",
+      "pos": 128,
+      "score": 50,
+      "id": 203,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637385230
+        }
+      }
+    },
+    {
+      "team": "drdoctor",
+      "pos": 129,
+      "score": 50,
+      "id": 351,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637385409
+        }
+      }
+    },
+    {
+      "team": "H25",
+      "pos": 130,
+      "score": 50,
+      "id": 6,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637386029
+        }
+      }
+    },
+    {
+      "team": "12thman",
+      "pos": 131,
+      "score": 50,
+      "id": 26,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637386609
+        }
+      }
+    },
+    {
+      "team": "TIFAC-CYBER",
+      "pos": 132,
+      "score": 50,
+      "id": 183,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637387328
+        }
+      }
+    },
+    {
+      "team": "ROOKIE",
+      "pos": 133,
+      "score": 50,
+      "id": 355,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637387357
+        }
+      }
+    },
+    {
+      "team": "CFH4CK",
+      "pos": 134,
+      "score": 50,
+      "id": 41,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637387835
+        }
+      }
+    },
+    {
+      "team": "itzjusthetz",
+      "pos": 135,
+      "score": 50,
+      "id": 356,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637387876
+        }
+      }
+    },
+    {
+      "team": "PissedEmu",
+      "pos": 136,
+      "score": 50,
+      "id": 357,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637387956
+        }
+      }
+    },
+    {
+      "team": "MIsutgaRU",
+      "pos": 137,
+      "score": 50,
+      "id": 361,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637389024
+        }
+      }
+    },
+    {
+      "team": "Linwebs",
+      "pos": 138,
+      "score": 50,
+      "id": 364,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637389812
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 139,
+      "score": 50,
+      "id": 45,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637391793
+        }
+      }
+    },
+    {
+      "team": "S70rmtr00pers",
+      "pos": 140,
+      "score": 50,
+      "id": 230,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637392048
+        }
+      }
+    },
+    {
+      "team": "JJJJJJJJJJJJJJJJJang",
+      "pos": 141,
+      "score": 50,
+      "id": 378,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637392390
+        }
+      }
+    },
+    {
+      "team": "b00t_Error1890",
+      "pos": 142,
+      "score": 50,
+      "id": 215,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637392458
+        }
+      }
+    },
+    {
+      "team": "SHAOCHI LU",
+      "pos": 143,
+      "score": 50,
+      "id": 379,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637392838
+        }
+      }
+    },
+    {
+      "team": "ByteBandits2",
+      "pos": 144,
+      "score": 50,
+      "id": 369,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637393867
+        }
+      }
+    },
+    {
+      "team": "saskeh",
+      "pos": 145,
+      "score": 50,
+      "id": 381,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637394536
+        }
+      }
+    },
+    {
+      "team": "poigiatre",
+      "pos": 146,
+      "score": 50,
+      "id": 385,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637394608
+        }
+      }
+    },
+    {
+      "team": "TCFSH69",
+      "pos": 147,
+      "score": 50,
+      "id": 10,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637394882
+        }
+      }
+    },
+    {
+      "team": "dbytes",
+      "pos": 148,
+      "score": 50,
+      "id": 387,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637395023
+        }
+      }
+    },
+    {
+      "team": "Untitled",
+      "pos": 149,
+      "score": 50,
+      "id": 64,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637396997
+        }
+      }
+    },
+    {
+      "team": "123",
+      "pos": 150,
+      "score": 50,
+      "id": 403,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637397992
+        }
+      }
+    },
+    {
+      "team": "Ridiculous Burping Trumpets",
+      "pos": 151,
+      "score": 50,
+      "id": 30,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637399227
+        }
+      }
+    },
+    {
+      "team": "dvirel",
+      "pos": 152,
+      "score": 50,
+      "id": 405,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637399247
+        }
+      }
+    },
+    {
+      "team": "SpoonZ",
+      "pos": 153,
+      "score": 50,
+      "id": 141,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637399307
+        }
+      }
+    },
+    {
+      "team": "TheCluelessOnes",
+      "pos": 154,
+      "score": 50,
+      "id": 118,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637399583
+        }
+      }
+    },
+    {
+      "team": "buddiesss",
+      "pos": 155,
+      "score": 50,
+      "id": 73,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637399852
+        }
+      }
+    },
+    {
+      "team": "FCU_NEKO_DAISUKI",
+      "pos": 156,
+      "score": 50,
+      "id": 150,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637400147
+        }
+      }
+    },
+    {
+      "team": "Octet Mignonne",
+      "pos": 157,
+      "score": 50,
+      "id": 123,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637401957
+        }
+      }
+    },
+    {
+      "team": "We_0wn_Y0u",
+      "pos": 158,
+      "score": 50,
+      "id": 315,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637402104
+        }
+      }
+    },
+    {
+      "team": "M3di0cr3s",
+      "pos": 159,
+      "score": 50,
+      "id": 415,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637402157
+        }
+      }
+    },
+    {
+      "team": "arancinHaCK",
+      "pos": 160,
+      "score": 50,
+      "id": 417,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637402418
+        }
+      }
+    },
+    {
+      "team": "asd123",
+      "pos": 161,
+      "score": 50,
+      "id": 418,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637402534
+        }
+      }
+    },
+    {
+      "team": "Tower of Hanoi",
+      "pos": 162,
+      "score": 50,
+      "id": 187,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637402726
+        }
+      }
+    },
+    {
+      "team": "NewLine",
+      "pos": 163,
+      "score": 50,
+      "id": 220,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637403258
+        }
+      }
+    },
+    {
+      "team": "BinaryBearsJunior",
+      "pos": 164,
+      "score": 50,
+      "id": 139,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637403517
+        }
+      }
+    },
+    {
+      "team": "BackMoon",
+      "pos": 165,
+      "score": 50,
+      "id": 426,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637403754
+        }
+      }
+    },
+    {
+      "team": "9945",
+      "pos": 166,
+      "score": 50,
+      "id": 43,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637404025
+        }
+      }
+    },
+    {
+      "team": "huongntl31",
+      "pos": 167,
+      "score": 50,
+      "id": 352,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637404068
+        }
+      }
+    },
+    {
+      "team": "FAUST",
+      "pos": 168,
+      "score": 50,
+      "id": 127,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637404348
+        }
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 169,
+      "score": 50,
+      "id": 428,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637404391
+        }
+      }
+    },
+    {
+      "team": "League of Shadows",
+      "pos": 170,
+      "score": 50,
+      "id": 202,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637404507
+        }
+      }
+    },
+    {
+      "team": "flag{}___Orz",
+      "pos": 171,
+      "score": 50,
+      "id": 432,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637404952
+        }
+      }
+    },
+    {
+      "team": "9SEC",
+      "pos": 172,
+      "score": 50,
+      "id": 146,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637405686
+        }
+      }
+    },
+    {
+      "team": "micmic",
+      "pos": 173,
+      "score": 50,
+      "id": 436,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637405804
+        }
+      }
+    },
+    {
+      "team": "Capture the Swag",
+      "pos": 174,
+      "score": 50,
+      "id": 97,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637405982
+        }
+      }
+    },
+    {
+      "team": "fjellape",
+      "pos": 175,
+      "score": 50,
+      "id": 409,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637406008
+        }
+      }
+    },
+    {
+      "team": "0xSAZZAD",
+      "pos": 176,
+      "score": 50,
+      "id": 438,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637406304
+        }
+      }
+    },
+    {
+      "team": "Stack",
+      "pos": 177,
+      "score": 50,
+      "id": 359,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637407049
+        }
+      }
+    },
+    {
+      "team": "5gg",
+      "pos": 178,
+      "score": 50,
+      "id": 134,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637407386
+        }
+      }
+    },
+    {
+      "team": "5upernova",
+      "pos": 179,
+      "score": 50,
+      "id": 186,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637407737
+        }
+      }
+    },
+    {
+      "team": "W0lFr3v0",
+      "pos": 180,
+      "score": 50,
+      "id": 197,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637407818
+        }
+      }
+    },
+    {
+      "team": "SubUrban",
+      "pos": 181,
+      "score": 50,
+      "id": 449,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637408676
+        }
+      }
+    },
+    {
+      "team": "Pa0x73cal",
+      "pos": 182,
+      "score": 50,
+      "id": 454,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637409196
+        }
+      }
+    },
+    {
+      "team": "pwnk1d113",
+      "pos": 183,
+      "score": 50,
+      "id": 460,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637410385
+        }
+      }
+    },
+    {
+      "team": "c0r3dump",
+      "pos": 184,
+      "score": 50,
+      "id": 461,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637410535
+        }
+      }
+    },
+    {
+      "team": "Les_team",
+      "pos": 185,
+      "score": 50,
+      "id": 464,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637411239
+        }
+      }
+    },
+    {
+      "team": "datsoa",
+      "pos": 186,
+      "score": 50,
+      "id": 373,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637411854
+        }
+      }
+    },
+    {
+      "team": "BlazerKun",
+      "pos": 187,
+      "score": 50,
+      "id": 462,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637412082
+        }
+      }
+    },
+    {
+      "team": "Team_Matrix",
+      "pos": 188,
+      "score": 50,
+      "id": 214,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637412125
+        }
+      }
+    },
+    {
+      "team": "Rlh4mM0h",
+      "pos": 189,
+      "score": 50,
+      "id": 471,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637412547
+        }
+      }
+    },
+    {
+      "team": "8J5qRuyXb3",
+      "pos": 190,
+      "score": 50,
+      "id": 468,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637413130
+        }
+      }
+    },
+    {
+      "team": "Gh0xE9",
+      "pos": 191,
+      "score": 50,
+      "id": 120,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637413426
+        }
+      }
+    },
+    {
+      "team": "VTeam",
+      "pos": 192,
+      "score": 50,
+      "id": 175,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637415288
+        }
+      }
+    },
+    {
+      "team": "hacker_is_here",
+      "pos": 193,
+      "score": 50,
+      "id": 478,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637415684
+        }
+      }
+    },
+    {
+      "team": "JinniL",
+      "pos": 194,
+      "score": 50,
+      "id": 92,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637416025
+        }
+      }
+    },
+    {
+      "team": "here_by_mistake_:(",
+      "pos": 195,
+      "score": 50,
+      "id": 17,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637417237
+        }
+      }
+    },
+    {
+      "team": "KLegion",
+      "pos": 196,
+      "score": 50,
+      "id": 384,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637419543
+        }
+      }
+    },
+    {
+      "team": "Akatsuki",
+      "pos": 197,
+      "score": 50,
+      "id": 482,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637420282
+        }
+      }
+    },
+    {
+      "team": "rezareza",
+      "pos": 198,
+      "score": 50,
+      "id": 486,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637420365
+        }
+      }
+    },
+    {
+      "team": "retirees",
+      "pos": 199,
+      "score": 50,
+      "id": 487,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637420434
+        }
+      }
+    },
+    {
+      "team": "twoply",
+      "pos": 200,
+      "score": 50,
+      "id": 491,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637421694
+        }
+      }
+    },
+    {
+      "team": "Kaparkung",
+      "pos": 201,
+      "score": 50,
+      "id": 490,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637421781
+        }
+      }
+    },
+    {
+      "team": "zxd7190",
+      "pos": 202,
+      "score": 50,
+      "id": 23,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637421894
+        }
+      }
+    },
+    {
+      "team": "BitsOffTheRecord",
+      "pos": 203,
+      "score": 50,
+      "id": 494,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637422270
+        }
+      }
+    },
+    {
+      "team": "Rasser",
+      "pos": 204,
+      "score": 50,
+      "id": 495,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637422501
+        }
+      }
+    },
+    {
+      "team": "worriors",
+      "pos": 205,
+      "score": 50,
+      "id": 226,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637423991
+        }
+      }
+    },
+    {
+      "team": "WhiteCat",
+      "pos": 206,
+      "score": 50,
+      "id": 501,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637424544
+        }
+      }
+    },
+    {
+      "team": "GIsTooFar",
+      "pos": 207,
+      "score": 50,
+      "id": 503,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637424607
+        }
+      }
+    },
+    {
+      "team": "Vincent",
+      "pos": 208,
+      "score": 50,
+      "id": 504,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637425303
+        }
+      }
+    },
+    {
+      "team": "Slab Allocator",
+      "pos": 209,
+      "score": 50,
+      "id": 143,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637425912
+        }
+      }
+    },
+    {
+      "team": "be",
+      "pos": 210,
+      "score": 50,
+      "id": 99,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637426486
+        }
+      }
+    },
+    {
+      "team": "Himitsu",
+      "pos": 211,
+      "score": 50,
+      "id": 502,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637426805
+        }
+      }
+    },
+    {
+      "team": "sbstm",
+      "pos": 212,
+      "score": 50,
+      "id": 518,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637428350
+        }
+      }
+    },
+    {
+      "team": "Quack",
+      "pos": 213,
+      "score": 50,
+      "id": 522,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637428576
+        }
+      }
+    },
+    {
+      "team": "RimaL878",
+      "pos": 214,
+      "score": 50,
+      "id": 512,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637429958
+        }
+      }
+    },
+    {
+      "team": "dau_phai_4rt",
+      "pos": 215,
+      "score": 50,
+      "id": 530,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637430469
+        }
+      }
+    },
+    {
+      "team": "upbhack",
+      "pos": 216,
+      "score": 50,
+      "id": 532,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637431817
+        }
+      }
+    },
+    {
+      "team": "Yupsilon",
+      "pos": 217,
+      "score": 50,
+      "id": 533,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637432801
+        }
+      }
+    },
+    {
+      "team": "DU4L-SH3LL",
+      "pos": 218,
+      "score": 50,
+      "id": 138,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637433352
+        }
+      }
+    },
+    {
+      "team": "CyberSpace",
+      "pos": 219,
+      "score": 50,
+      "id": 535,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637434846
+        }
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 220,
+      "score": 50,
+      "id": 148,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637435440
+        }
+      }
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 221,
+      "score": 50,
+      "id": 232,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637436417
+        }
+      }
+    },
+    {
+      "team": "SpicyPotatoes",
+      "pos": 222,
+      "score": 50,
+      "id": 541,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637436707
+        }
+      }
+    },
+    {
+      "team": "More Smoked Leet Chicken",
+      "pos": 223,
+      "score": 50,
+      "id": 506,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637438596
+        }
+      }
+    },
+    {
+      "team": "ToInfinityAndBeYANd",
+      "pos": 224,
+      "score": 50,
+      "id": 544,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637439789
+        }
+      }
+    },
+    {
+      "team": "tofhacker",
+      "pos": 225,
+      "score": 50,
+      "id": 548,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637441063
+        }
+      }
+    },
+    {
+      "team": "UTDLonghorngaming",
+      "pos": 226,
+      "score": 50,
+      "id": 147,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637441567
+        }
+      }
+    },
+    {
+      "team": "asasasas",
+      "pos": 227,
+      "score": 50,
+      "id": 68,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637442516
+        }
+      }
+    },
+    {
+      "team": "Diligenza",
+      "pos": 228,
+      "score": 50,
+      "id": 556,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637443709
+        }
+      }
+    },
+    {
+      "team": "0x$",
+      "pos": 229,
+      "score": 50,
+      "id": 558,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637443827
+        }
+      }
+    },
+    {
+      "team": "PatagoniaHack",
+      "pos": 230,
+      "score": 50,
+      "id": 66,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637449852
+        }
+      }
+    },
+    {
+      "team": "dregorius",
+      "pos": 231,
+      "score": 50,
+      "id": 566,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637450619
+        }
+      }
+    },
+    {
+      "team": "filipedias321@gmail.com",
+      "pos": 232,
+      "score": 50,
+      "id": 575,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637451954
+        }
+      }
+    },
+    {
+      "team": "sysengineer2",
+      "pos": 233,
+      "score": 50,
+      "id": 122,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637451989
+        }
+      }
+    },
+    {
+      "team": "pakekoding",
+      "pos": 234,
+      "score": 50,
+      "id": 196,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637452428
+        }
+      }
+    },
+    {
+      "team": "SPbCTF",
+      "pos": 235,
+      "score": 50,
+      "id": 540,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637452740
+        }
+      }
+    },
+    {
+      "team": "underoverflow10",
+      "pos": 236,
+      "score": 50,
+      "id": 582,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637461126
+        }
+      }
+    },
+    {
+      "team": "TeamH4C",
+      "pos": 237,
+      "score": 50,
+      "id": 193,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637461675
+        }
+      }
+    },
+    {
+      "team": "Thunder",
+      "pos": 238,
+      "score": 50,
+      "id": 577,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637464231
+        }
+      }
+    },
+    {
+      "team": "tt",
+      "pos": 239,
+      "score": 50,
+      "id": 588,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637464525
+        }
+      }
+    },
+    {
+      "team": "<script>alert(\"Ping\")</script>",
+      "pos": 240,
+      "score": 50,
+      "id": 586,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637464535
+        }
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 241,
+      "score": 50,
+      "id": 166,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637465113
+        }
+      }
+    },
+    {
+      "team": "Compot",
+      "pos": 242,
+      "score": 50,
+      "id": 591,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637465420
+        }
+      }
+    },
+    {
+      "team": "WaterDrop",
+      "pos": 243,
+      "score": 50,
+      "id": 596,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637468330
+        }
+      }
+    },
+    {
+      "team": "hogehoge",
+      "pos": 244,
+      "score": 50,
+      "id": 600,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637469124
+        }
+      }
+    },
+    {
+      "team": "simurgh",
+      "pos": 245,
+      "score": 50,
+      "id": 602,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637471148
+        }
+      }
+    },
+    {
+      "team": "ri5e",
+      "pos": 246,
+      "score": 50,
+      "id": 112,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637474907
+        }
+      }
+    },
+    {
+      "team": "zer0",
+      "pos": 247,
+      "score": 50,
+      "id": 613,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637475480
+        }
+      }
+    },
+    {
+      "team": "⧸⎩⎠⎞͏(・∀・)⎛͏⎝⎭⧹",
+      "pos": 248,
+      "score": 50,
+      "id": 9,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637475481
+        }
+      }
+    },
+    {
+      "team": "All Your Flags",
+      "pos": 249,
+      "score": 50,
+      "id": 612,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637475551
+        }
+      }
+    },
+    {
+      "team": "esfpi",
+      "pos": 250,
+      "score": 50,
+      "id": 614,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637476186
+        }
+      }
+    },
+    {
+      "team": "Cla55N0tF0und",
+      "pos": 251,
+      "score": 50,
+      "id": 611,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637476784
+        }
+      }
+    },
+    {
+      "team": "Hacklabor",
+      "pos": 252,
+      "score": 50,
+      "id": 208,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637480427
+        }
+      }
+    },
+    {
+      "team": "SAS_CTF",
+      "pos": 253,
+      "score": 50,
+      "id": 489,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637482406
+        }
+      }
+    },
+    {
+      "team": "Kenzn2",
+      "pos": 254,
+      "score": 50,
+      "id": 622,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637482940
+        }
+      }
+    },
+    {
+      "team": "p4n1c",
+      "pos": 255,
+      "score": 50,
+      "id": 624,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637484279
+        }
+      }
+    },
+    {
+      "team": "MOCTF",
+      "pos": 256,
+      "score": 50,
+      "id": 132,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637486952
+        }
+      }
+    },
+    {
+      "team": "fzhshzh",
+      "pos": 257,
+      "score": 50,
+      "id": 32,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637487170
+        }
+      }
+    },
+    {
+      "team": "Sync0p",
+      "pos": 258,
+      "score": 50,
+      "id": 631,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637488125
+        }
+      }
+    },
+    {
+      "team": "gladiator",
+      "pos": 259,
+      "score": 50,
+      "id": 523,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637490785
+        }
+      }
+    },
+    {
+      "team": "R&D_CCA",
+      "pos": 260,
+      "score": 50,
+      "id": 645,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637492607
+        }
+      }
+    },
+    {
+      "team": "PashaEme EME",
+      "pos": 261,
+      "score": 50,
+      "id": 646,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637493271
+        }
+      }
+    },
+    {
+      "team": "現代人的迷思",
+      "pos": 262,
+      "score": 50,
+      "id": 36,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637494045
+        }
+      }
+    },
+    {
+      "team": "khata_to_kholo",
+      "pos": 263,
+      "score": 50,
+      "id": 649,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637494073
+        }
+      }
+    },
+    {
+      "team": "Unicorns of Security",
+      "pos": 264,
+      "score": 50,
+      "id": 652,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637495258
+        }
+      }
+    },
+    {
+      "team": "AccesDenieD",
+      "pos": 265,
+      "score": 50,
+      "id": 648,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637495913
+        }
+      }
+    },
+    {
+      "team": "Eyetravaganze",
+      "pos": 266,
+      "score": 50,
+      "id": 643,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637496236
+        }
+      }
+    },
+    {
+      "team": "Luai Luna",
+      "pos": 267,
+      "score": 50,
+      "id": 164,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637497023
+        }
+      }
+    },
+    {
+      "team": "Cyber_Fra",
+      "pos": 268,
+      "score": 50,
+      "id": 664,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637502164
+        }
+      }
+    },
+    {
+      "team": "jimchen5209",
+      "pos": 269,
+      "score": 50,
+      "id": 661,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637502713
+        }
+      }
+    },
+    {
+      "team": "Nupakachi",
+      "pos": 270,
+      "score": 50,
+      "id": 597,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637504331
+        }
+      }
+    },
+    {
+      "team": "th31nk",
+      "pos": 271,
+      "score": 50,
+      "id": 673,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637505001
+        }
+      }
+    },
+    {
+      "team": "it-sec.fail",
+      "pos": 272,
+      "score": 50,
+      "id": 682,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637508929
+        }
+      }
+    },
+    {
+      "team": "Interlude",
+      "pos": 273,
+      "score": 50,
+      "id": 155,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637510228
+        }
+      }
+    },
+    {
+      "team": "first_time",
+      "pos": 274,
+      "score": 50,
+      "id": 686,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637511776
+        }
+      }
+    },
+    {
+      "team": "MTMzN25vb2Jz",
+      "pos": 275,
+      "score": 50,
+      "id": 687,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637513951
+        }
+      }
+    },
+    {
+      "team": "Reloaded",
+      "pos": 276,
+      "score": 50,
+      "id": 688,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637516465
+        }
+      }
+    },
+    {
+      "team": "Blue",
+      "pos": 277,
+      "score": 50,
+      "id": 691,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637518937
+        }
+      }
+    },
+    {
+      "team": "o--o",
+      "pos": 278,
+      "score": 50,
+      "id": 697,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637527123
+        }
+      }
+    },
+    {
+      "team": "TeachME",
+      "pos": 279,
+      "score": 50,
+      "id": 412,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637527302
+        }
+      }
+    },
+    {
+      "team": "n3rdh3rd",
+      "pos": 280,
+      "score": 50,
+      "id": 699,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637529146
+        }
+      }
+    },
+    {
+      "team": "ariscv",
+      "pos": 281,
+      "score": 50,
+      "id": 702,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637537971
+        }
+      }
+    },
+    {
+      "team": "killZone",
+      "pos": 282,
+      "score": 50,
+      "id": 671,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637540799
+        }
+      }
+    },
+    {
+      "team": "SXCTC",
+      "pos": 283,
+      "score": 50,
+      "id": 706,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637544577
+        }
+      }
+    },
+    {
+      "team": "pureSec",
+      "pos": 284,
+      "score": 50,
+      "id": 82,
+      "taskStats": {
+        "Baby Welcome": {
+          "points": 50,
+          "time": 1637545485
+        }
+      }
+    }
+  ],
+  "taskinfo": {
+    "House of Cats": {
+      "category": "Homework",
+      "tags": [
+        {
+          "value": "Pwn"
+        }
+      ]
+    },
+    "IEAIE": {
+      "category": "Homework",
+      "tags": [
+        {
+          "value": "Crypto"
+        }
+      ]
+    },
+    "STACK": {
+      "category": "Homework",
+      "tags": [
+        {
+          "value": "Pwn"
+        }
+      ]
+    },
+    "aeshash": {
+      "category": "Homework",
+      "tags": [
+        {
+          "value": "Crypto"
+        }
+      ]
+    },
+    "Baby Welcome": {
+      "category": "Misc",
+      "tags": []
+    },
+    "ML": {
+      "category": "Rev",
+      "tags": []
+    },
+    "metaeasy": {
+      "category": "Misc",
+      "tags": []
+    },
+    "Proxy": {
+      "category": "Web",
+      "tags": []
+    },
+    "or⊕w": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "unicorn’s aisle ~prelude~": {
+      "category": "Misc",
+      "tags": []
+    },
+    "Dark Knight": {
+      "category": "Misc",
+      "tags": []
+    },
+    "2linephp": {
+      "category": "Web",
+      "tags": []
+    },
+    "The g++ VM 1": {
+      "category": "Rev",
+      "tags": []
+    },
+    "Cheater": {
+      "category": "Rev",
+      "tags": []
+    },
+    "0linephp": {
+      "category": "Web",
+      "tags": []
+    },
+    "The g++ VM 2": {
+      "category": "Rev",
+      "tags": []
+    },
+    "1337 pins": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "dlog": {
+      "category": "Crypto",
+      "tags": []
+    },
+    "4pple Music": {
+      "category": "Web",
+      "tags": [
+        {
+          "value": "pentesting"
+        }
+      ]
+    },
+    "Futex": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "Kawaii Note": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "trinity": {
+      "category": "Crypto",
+      "tags": [
+        {
+          "value": "ppc"
+        }
+      ]
+    },
+    "Draupnir": {
+      "category": "Smart Contract",
+      "tags": [
+        {
+          "value": "misc"
+        },
+        {
+          "value": "not smartcontract"
+        }
+      ]
+    },
+    "unicorn's aisle ~interlude~": {
+      "category": "Sandbox",
+      "tags": [
+        {
+          "value": "sandbox"
+        },
+        {
+          "value": "pwn"
+        }
+      ]
+    },
+    "unicorn’s aisle ~postlude~": {
+      "category": "Sandbox",
+      "tags": [
+        {
+          "value": "sandbox"
+        },
+        {
+          "value": "pwn"
+        }
+      ]
+    },
+    "NoteEdit": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "Elf Fortress": {
+      "category": "Sandbox",
+      "tags": [
+        {
+          "value": "sandbox"
+        }
+      ]
+    }
+  },
+  "date": 1637334000,
+  "name": "Balsn CTF 2021"
+}
