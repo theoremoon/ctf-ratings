@@ -22,7 +22,6 @@ jobs:
           path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
           key: yarn-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
       - run: yarn
-        if: steps.cache-yarn.outputs.cache-hit != 'true'
         working-directory: ./front
       - run: yarn build && yarn generate
         working-directory: ./front
