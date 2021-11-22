@@ -1,0 +1,2091 @@
+{
+  "tasks": [
+    "Darknet Club",
+    "Door (un)Locked",
+    "Digging session",
+    "Flag Vault",
+    "Keep Safe",
+    "Careers",
+    "Hyper Jump",
+    "sigNULL",
+    "Scadomware",
+    "Mass Notes",
+    "No Identity For You",
+    "Pattern Institute",
+    "The Dark Side of the Fuzz",
+    "Etulosba",
+    "Electron",
+    "BTC",
+    "ReturnMeFast",
+    "GraphiCS",
+    "SANSA",
+    "1337RFCs",
+    "SCADA Memories"
+  ],
+  "standings": [
+    {
+      "team": "bootplug",
+      "pos": 1,
+      "score": 4750,
+      "id": 190,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636823796
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636824500
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636826136
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636826583
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636830839
+        },
+        "Scadomware": {
+          "points": 300,
+          "time": 1636832454
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636836775
+        },
+        "1337RFCs": {
+          "points": 250,
+          "time": 1636838280
+        },
+        "Keep Safe": {
+          "points": 200,
+          "time": 1636843842
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636848101
+        },
+        "SCADA Memories": {
+          "points": 300,
+          "time": 1636854067
+        },
+        "ReturnMeFast": {
+          "points": 150,
+          "time": 1636854777
+        },
+        "BTC": {
+          "points": 150,
+          "time": 1636860427
+        },
+        "The Dark Side of the Fuzz": {
+          "points": 400,
+          "time": 1636888041
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636890012
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636894208
+        },
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636894344
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636899936
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636908516
+        },
+        "sigNULL": {
+          "points": 550,
+          "time": 1636908737
+        }
+      }
+    },
+    {
+      "team": "JCTF",
+      "pos": 2,
+      "score": 4350,
+      "id": 44,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636827809
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636830113
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636837577
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636838436
+        },
+        "ReturnMeFast": {
+          "points": 150,
+          "time": 1636839228
+        },
+        "1337RFCs": {
+          "points": 250,
+          "time": 1636840658
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636841159
+        },
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636841438
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636843513
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636878699
+        },
+        "SCADA Memories": {
+          "points": 300,
+          "time": 1636891411
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636894824
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636896561
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636902075
+        },
+        "Keep Safe": {
+          "points": 200,
+          "time": 1636902839
+        },
+        "Scadomware": {
+          "points": 300,
+          "time": 1636905855
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636910742
+        },
+        "sigNULL": {
+          "points": 550,
+          "time": 1636929688
+        },
+        "BTC": {
+          "points": 150,
+          "time": 1636960272
+        }
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 3,
+      "score": 4150,
+      "id": 186,
+      "taskStats": {
+        "ReturnMeFast": {
+          "points": 150,
+          "time": 1636830189
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636830317
+        },
+        "BTC": {
+          "points": 150,
+          "time": 1636839733
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636839907
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636840715
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636858888
+        },
+        "Scadomware": {
+          "points": 300,
+          "time": 1636862000
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636864476
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636865523
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636869371
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636879654
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636884667
+        },
+        "sigNULL": {
+          "points": 550,
+          "time": 1636891414
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636892913
+        },
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636908835
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636916806
+        },
+        "SCADA Memories": {
+          "points": 300,
+          "time": 1636961384
+        },
+        "1337RFCs": {
+          "points": 250,
+          "time": 1636980349
+        }
+      }
+    },
+    {
+      "team": "AmpunBangJago",
+      "pos": 4,
+      "score": 3350,
+      "id": 135,
+      "taskStats": {
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636858546
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636883557
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636886793
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636887679
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636890191
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636891781
+        },
+        "ReturnMeFast": {
+          "points": 150,
+          "time": 1636903036
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636904874
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636909798
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636910232
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636910875
+        },
+        "SCADA Memories": {
+          "points": 300,
+          "time": 1636922051
+        },
+        "sigNULL": {
+          "points": 550,
+          "time": 1636990903
+        }
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 5,
+      "score": 3100,
+      "id": 233,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636833140
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636877038
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636883419
+        },
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636884944
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636892852
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636897560
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636901023
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636902455
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636915583
+        },
+        "Scadomware": {
+          "points": 300,
+          "time": 1636916774
+        },
+        "ReturnMeFast": {
+          "points": 150,
+          "time": 1636927790
+        },
+        "1337RFCs": {
+          "points": 250,
+          "time": 1636938532
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636938559
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636938826
+        },
+        "Keep Safe": {
+          "points": 200,
+          "time": 1636947662
+        }
+      }
+    },
+    {
+      "team": "pingCTF",
+      "pos": 6,
+      "score": 2650,
+      "id": 228,
+      "taskStats": {
+        "sigNULL": {
+          "points": 550,
+          "time": 1636835208
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636836068
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636837002
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636838353
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636841321
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636847629
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636850107
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636907967
+        },
+        "BTC": {
+          "points": 150,
+          "time": 1636935357
+        },
+        "1337RFCs": {
+          "points": 250,
+          "time": 1636947597
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636952598
+        },
+        "Scadomware": {
+          "points": 300,
+          "time": 1636953313
+        },
+        "ReturnMeFast": {
+          "points": 150,
+          "time": 1636954194
+        }
+      }
+    },
+    {
+      "team": "DirtyTAU",
+      "pos": 7,
+      "score": 2200,
+      "id": 159,
+      "taskStats": {
+        "Electron": {
+          "points": 50,
+          "time": 1636832142
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636835603
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636837111
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636841400
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636843704
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636848744
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636871165
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636892786
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636893415
+        },
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636920256
+        }
+      }
+    },
+    {
+      "team": "havce",
+      "pos": 8,
+      "score": 2050,
+      "id": 28,
+      "taskStats": {
+        "Electron": {
+          "points": 50,
+          "time": 1636825578
+        },
+        "Scadomware": {
+          "points": 300,
+          "time": 1636840252
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636888299
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636891236
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636894709
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636895400
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636902923
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636912108
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636913174
+        },
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636922527
+        }
+      }
+    },
+    {
+      "team": "WreckTheLine",
+      "pos": 9,
+      "score": 1800,
+      "id": 338,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636830708
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636831739
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636831974
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636832824
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636838174
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636898650
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636902394
+        },
+        "sigNULL": {
+          "points": 550,
+          "time": 1636909556
+        }
+      }
+    },
+    {
+      "team": "the3000",
+      "pos": 10,
+      "score": 1800,
+      "id": 239,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636829358
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636834003
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636843660
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636844734
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636889349
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636901130
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636901832
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636925587
+        },
+        "SCADA Memories": {
+          "points": 300,
+          "time": 1636995197
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636995457
+        }
+      }
+    },
+    {
+      "team": "aba",
+      "pos": 11,
+      "score": 1500,
+      "id": 619,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636902425
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636903966
+        },
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636916506
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636984988
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636989405
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636993154
+        }
+      }
+    },
+    {
+      "team": "onepunchpwn",
+      "pos": 12,
+      "score": 1350,
+      "id": 483,
+      "taskStats": {
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636869718
+        },
+        "Hyper Jump": {
+          "points": 450,
+          "time": 1636878687
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636895609
+        },
+        "1337RFCs": {
+          "points": 250,
+          "time": 1636963936
+        }
+      }
+    },
+    {
+      "team": "wesserboy",
+      "pos": 13,
+      "score": 1300,
+      "id": 174,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636844651
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636847471
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636849070
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636853868
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636900552
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636908177
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636981834
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636983981
+        }
+      }
+    },
+    {
+      "team": "Red Knights",
+      "pos": 14,
+      "score": 1250,
+      "id": 456,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636893631
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636894201
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636896753
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636896984
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636905609
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636918327
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636926583
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636981144
+        }
+      }
+    },
+    {
+      "team": "DarkArmy",
+      "pos": 15,
+      "score": 1200,
+      "id": 593,
+      "taskStats": {
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636921999
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636922902
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636923876
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636926903
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636929773
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636931380
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636934637
+        }
+      }
+    },
+    {
+      "team": "Neptunians",
+      "pos": 16,
+      "score": 1100,
+      "id": 590,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636900430
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636902381
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636976392
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636988515
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636992636
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636994874
+        }
+      }
+    },
+    {
+      "team": "GG",
+      "pos": 17,
+      "score": 1000,
+      "id": 350,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636844788
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636846399
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636852364
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636854615
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636899959
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636912617
+        }
+      }
+    },
+    {
+      "team": "\\/(54",
+      "pos": 18,
+      "score": 1000,
+      "id": 127,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636856171
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636873959
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636881927
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636885179
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636906884
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636940093
+        }
+      }
+    },
+    {
+      "team": "Kaito",
+      "pos": 19,
+      "score": 900,
+      "id": 309,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636830650
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636834646
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636882726
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636888190
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636903528
+        }
+      }
+    },
+    {
+      "team": "1337 KH",
+      "pos": 20,
+      "score": 800,
+      "id": 655,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636949742
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636953305
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636954205
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636966976
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636969748
+        }
+      }
+    },
+    {
+      "team": "easy_p",
+      "pos": 21,
+      "score": 750,
+      "id": 75,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636837110
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636845235
+        },
+        "Keep Safe": {
+          "points": 200,
+          "time": 1636852101
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636893623
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636900786
+        }
+      }
+    },
+    {
+      "team": "bbees",
+      "pos": 22,
+      "score": 750,
+      "id": 101,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636829108
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636838695
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636839458
+        },
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636843586
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636982561
+        }
+      }
+    },
+    {
+      "team": "iWanFlagz",
+      "pos": 23,
+      "score": 650,
+      "id": 54,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636872967
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636876043
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636887500
+        },
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636909860
+        }
+      }
+    },
+    {
+      "team": "Yupsilon",
+      "pos": 24,
+      "score": 600,
+      "id": 47,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636897196
+        },
+        "ReturnMeFast": {
+          "points": 150,
+          "time": 1636928708
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636977628
+        }
+      }
+    },
+    {
+      "team": "PwnProphecy",
+      "pos": 25,
+      "score": 550,
+      "id": 187,
+      "taskStats": {
+        "Darknet Club": {
+          "points": 200,
+          "time": 1636829099
+        },
+        "Mass Notes": {
+          "points": 250,
+          "time": 1636834387
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636888095
+        }
+      }
+    },
+    {
+      "team": "flaggermeister",
+      "pos": 26,
+      "score": 550,
+      "id": 51,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636906181
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636907060
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636907692
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636929293
+        }
+      }
+    },
+    {
+      "team": "Unicorns of Security",
+      "pos": 27,
+      "score": 500,
+      "id": 112,
+      "taskStats": {
+        "Keep Safe": {
+          "points": 200,
+          "time": 1636949520
+        },
+        "Scadomware": {
+          "points": 300,
+          "time": 1636994244
+        }
+      }
+    },
+    {
+      "team": "k",
+      "pos": 28,
+      "score": 450,
+      "id": 322,
+      "taskStats": {
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636831353
+        }
+      }
+    },
+    {
+      "team": "The Maccabees",
+      "pos": 29,
+      "score": 450,
+      "id": 292,
+      "taskStats": {
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636875673
+        }
+      }
+    },
+    {
+      "team": "Letter 'U'",
+      "pos": 30,
+      "score": 450,
+      "id": 31,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636854926
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636879928
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636881851
+        }
+      }
+    },
+    {
+      "team": "asdasd123",
+      "pos": 31,
+      "score": 450,
+      "id": 429,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636889067
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636889886
+        },
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636896634
+        }
+      }
+    },
+    {
+      "team": "hehe",
+      "pos": 32,
+      "score": 450,
+      "id": 675,
+      "taskStats": {
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636936687
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636937797
+        }
+      }
+    },
+    {
+      "team": "AmTra1n",
+      "pos": 33,
+      "score": 450,
+      "id": 677,
+      "taskStats": {
+        "Pattern Institute": {
+          "points": 450,
+          "time": 1636971252
+        }
+      }
+    },
+    {
+      "team": "Zax",
+      "pos": 34,
+      "score": 450,
+      "id": 526,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636892634
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636921183
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636990003
+        }
+      }
+    },
+    {
+      "team": "itsus",
+      "pos": 35,
+      "score": 400,
+      "id": 393,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636846946
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636876726
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636912409
+        }
+      }
+    },
+    {
+      "team": "CyberSlacker",
+      "pos": 36,
+      "score": 400,
+      "id": 60,
+      "taskStats": {
+        "Scadomware": {
+          "points": 300,
+          "time": 1636962122
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636978959
+        }
+      }
+    },
+    {
+      "team": "METUNCC",
+      "pos": 37,
+      "score": 400,
+      "id": 160,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636945944
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636952434
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636982244
+        }
+      }
+    },
+    {
+      "team": "codenames",
+      "pos": 38,
+      "score": 350,
+      "id": 199,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636827045
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636829169
+        }
+      }
+    },
+    {
+      "team": "banana",
+      "pos": 39,
+      "score": 350,
+      "id": 154,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636902391
+        },
+        "Flag Vault": {
+          "points": 250,
+          "time": 1636982922
+        }
+      }
+    },
+    {
+      "team": "Checkout",
+      "pos": 40,
+      "score": 300,
+      "id": 49,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636837025
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636846708
+        }
+      }
+    },
+    {
+      "team": "Digital Overdose",
+      "pos": 41,
+      "score": 300,
+      "id": 85,
+      "taskStats": {
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636892016
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636904168
+        }
+      }
+    },
+    {
+      "team": "Shiny Jigglypuff",
+      "pos": 42,
+      "score": 300,
+      "id": 50,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636844037
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636909405
+        }
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 43,
+      "score": 300,
+      "id": 337,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636910189
+        },
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636921450
+        }
+      }
+    },
+    {
+      "team": "Corax",
+      "pos": 44,
+      "score": 300,
+      "id": 596,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636917268
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636922566
+        }
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 45,
+      "score": 300,
+      "id": 39,
+      "taskStats": {
+        "Scadomware": {
+          "points": 300,
+          "time": 1636928702
+        }
+      }
+    },
+    {
+      "team": "ArtAttHack",
+      "pos": 46,
+      "score": 300,
+      "id": 623,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636902750
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636916226
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636989571
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636991986
+        }
+      }
+    },
+    {
+      "team": ":wq",
+      "pos": 47,
+      "score": 250,
+      "id": 215,
+      "taskStats": {
+        "Electron": {
+          "points": 50,
+          "time": 1636883223
+        },
+        "Etulosba": {
+          "points": 200,
+          "time": 1636897011
+        }
+      }
+    },
+    {
+      "team": "Basin",
+      "pos": 48,
+      "score": 250,
+      "id": 709,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636958209
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636967911
+        }
+      }
+    },
+    {
+      "team": "RezFun",
+      "pos": 49,
+      "score": 250,
+      "id": 329,
+      "taskStats": {
+        "1337RFCs": {
+          "points": 250,
+          "time": 1636980292
+        }
+      }
+    },
+    {
+      "team": "Psyber",
+      "pos": 50,
+      "score": 250,
+      "id": 100,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636877155
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636987863
+        }
+      }
+    },
+    {
+      "team": "cr4ck/y0ur/s3cr3t",
+      "pos": 51,
+      "score": 250,
+      "id": 169,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636837680
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636989237
+        }
+      }
+    },
+    {
+      "team": "123456",
+      "pos": 52,
+      "score": 200,
+      "id": 256,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636827198
+        }
+      }
+    },
+    {
+      "team": "RedHorizon",
+      "pos": 53,
+      "score": 200,
+      "id": 34,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636827692
+        }
+      }
+    },
+    {
+      "team": "Baldoni",
+      "pos": 54,
+      "score": 200,
+      "id": 240,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636828310
+        }
+      }
+    },
+    {
+      "team": "nnewram",
+      "pos": 55,
+      "score": 200,
+      "id": 213,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636830883
+        }
+      }
+    },
+    {
+      "team": "d0gg0",
+      "pos": 56,
+      "score": 200,
+      "id": 300,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636828106
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636834414
+        }
+      }
+    },
+    {
+      "team": "acr0nym",
+      "pos": 57,
+      "score": 200,
+      "id": 280,
+      "taskStats": {
+        "No Identity For You": {
+          "points": 200,
+          "time": 1636834742
+        }
+      }
+    },
+    {
+      "team": "UTDLonghornGaming",
+      "pos": 58,
+      "score": 200,
+      "id": 139,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636835170
+        }
+      }
+    },
+    {
+      "team": "Mc",
+      "pos": 59,
+      "score": 200,
+      "id": 336,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636835214
+        }
+      }
+    },
+    {
+      "team": "sinaloa ayayai",
+      "pos": 60,
+      "score": 200,
+      "id": 204,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636837858
+        }
+      }
+    },
+    {
+      "team": "NewBie22",
+      "pos": 61,
+      "score": 200,
+      "id": 437,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636857385
+        }
+      }
+    },
+    {
+      "team": "__n00b3r__",
+      "pos": 62,
+      "score": 200,
+      "id": 518,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636880366
+        }
+      }
+    },
+    {
+      "team": "ROSS",
+      "pos": 63,
+      "score": 200,
+      "id": 547,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636881277
+        }
+      }
+    },
+    {
+      "team": "YATMAL",
+      "pos": 64,
+      "score": 200,
+      "id": 368,
+      "taskStats": {
+        "Etulosba": {
+          "points": 200,
+          "time": 1636910737
+        }
+      }
+    },
+    {
+      "team": "zloyshprot",
+      "pos": 65,
+      "score": 200,
+      "id": 662,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636926899
+        },
+        "Careers": {
+          "points": 100,
+          "time": 1636978285
+        }
+      }
+    },
+    {
+      "team": "0ldd4ve",
+      "pos": 66,
+      "score": 150,
+      "id": 222,
+      "taskStats": {
+        "GraphiCS": {
+          "points": 150,
+          "time": 1636845017
+        }
+      }
+    },
+    {
+      "team": "letmein",
+      "pos": 67,
+      "score": 150,
+      "id": 117,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636901441
+        },
+        "Electron": {
+          "points": 50,
+          "time": 1636902816
+        }
+      }
+    },
+    {
+      "team": "SOT",
+      "pos": 68,
+      "score": 150,
+      "id": 314,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636883817
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636969282
+        }
+      }
+    },
+    {
+      "team": "1nf1n1ty",
+      "pos": 69,
+      "score": 150,
+      "id": 203,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636902557
+        },
+        "Digging session": {
+          "points": 50,
+          "time": 1636992760
+        }
+      }
+    },
+    {
+      "team": "Cybertricks",
+      "pos": 70,
+      "score": 100,
+      "id": 266,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636832518
+        }
+      }
+    },
+    {
+      "team": "OP Teamovate",
+      "pos": 71,
+      "score": 100,
+      "id": 241,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636832728
+        }
+      }
+    },
+    {
+      "team": "Underdog",
+      "pos": 72,
+      "score": 100,
+      "id": 340,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636837096
+        }
+      }
+    },
+    {
+      "team": "M4CUN41M4",
+      "pos": 73,
+      "score": 100,
+      "id": 305,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636856354
+        }
+      }
+    },
+    {
+      "team": "scrupble",
+      "pos": 74,
+      "score": 100,
+      "id": 457,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636897186
+        }
+      }
+    },
+    {
+      "team": "vulf",
+      "pos": 75,
+      "score": 100,
+      "id": 491,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636899523
+        }
+      }
+    },
+    {
+      "team": "T0t0r0",
+      "pos": 76,
+      "score": 100,
+      "id": 653,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636918753
+        }
+      }
+    },
+    {
+      "team": "cybtn",
+      "pos": 77,
+      "score": 100,
+      "id": 355,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636919238
+        }
+      }
+    },
+    {
+      "team": "mal01",
+      "pos": 78,
+      "score": 100,
+      "id": 236,
+      "taskStats": {
+        "Door (un)Locked": {
+          "points": 100,
+          "time": 1636921982
+        }
+      }
+    },
+    {
+      "team": "PwsecTeam",
+      "pos": 79,
+      "score": 100,
+      "id": 654,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636924868
+        }
+      }
+    },
+    {
+      "team": "evyatar9",
+      "pos": 80,
+      "score": 100,
+      "id": 372,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636929229
+        }
+      }
+    },
+    {
+      "team": "ntdll",
+      "pos": 81,
+      "score": 100,
+      "id": 679,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636944445
+        }
+      }
+    },
+    {
+      "team": "underoverflow",
+      "pos": 82,
+      "score": 100,
+      "id": 481,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636965624
+        }
+      }
+    },
+    {
+      "team": "L0neW0lf",
+      "pos": 83,
+      "score": 100,
+      "id": 736,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636981685
+        }
+      }
+    },
+    {
+      "team": "vitevom362",
+      "pos": 84,
+      "score": 100,
+      "id": 527,
+      "taskStats": {
+        "Careers": {
+          "points": 100,
+          "time": 1636988112
+        }
+      }
+    },
+    {
+      "team": "MAC",
+      "pos": 85,
+      "score": 50,
+      "id": 268,
+      "taskStats": {
+        "Electron": {
+          "points": 50,
+          "time": 1636825916
+        }
+      }
+    },
+    {
+      "team": "MatTeam",
+      "pos": 86,
+      "score": 50,
+      "id": 232,
+      "taskStats": {
+        "Electron": {
+          "points": 50,
+          "time": 1636838490
+        }
+      }
+    },
+    {
+      "team": "quill",
+      "pos": 87,
+      "score": 50,
+      "id": 560,
+      "taskStats": {
+        "Electron": {
+          "points": 50,
+          "time": 1636913296
+        }
+      }
+    },
+    {
+      "team": "KUICS",
+      "pos": 88,
+      "score": 50,
+      "id": 649,
+      "taskStats": {
+        "Electron": {
+          "points": 50,
+          "time": 1636923659
+        }
+      }
+    },
+    {
+      "team": "Capture the Swag",
+      "pos": 89,
+      "score": 50,
+      "id": 57,
+      "taskStats": {
+        "Digging session": {
+          "points": 50,
+          "time": 1636965521
+        }
+      }
+    }
+  ],
+  "taskinfo": {
+    "Digging session": {
+      "category": "Forensics",
+      "tags": []
+    },
+    "Electron": {
+      "category": "Bot",
+      "tags": []
+    },
+    "Door (un)Locked": {
+      "category": "Web",
+      "tags": []
+    },
+    "Careers": {
+      "category": "Web",
+      "tags": []
+    },
+    "BTC": {
+      "category": "Misc",
+      "tags": []
+    },
+    "ReturnMeFast": {
+      "category": "Misc",
+      "tags": []
+    },
+    "GraphiCS": {
+      "category": "Web",
+      "tags": []
+    },
+    "Keep Safe": {
+      "category": "Misc",
+      "tags": []
+    },
+    "Etulosba": {
+      "category": "Web",
+      "tags": []
+    },
+    "No Identity For You": {
+      "category": "SCADA",
+      "tags": []
+    },
+    "Darknet Club": {
+      "category": "Web",
+      "tags": []
+    },
+    "1337RFCs": {
+      "category": "RE",
+      "tags": []
+    },
+    "Flag Vault": {
+      "category": "Web",
+      "tags": []
+    },
+    "Mass Notes": {
+      "category": "Web",
+      "tags": []
+    },
+    "SCADA Memories": {
+      "category": "SCADA",
+      "tags": []
+    },
+    "Scadomware": {
+      "category": "RE",
+      "tags": []
+    },
+    "The Dark Side of the Fuzz": {
+      "category": "RE",
+      "tags": []
+    },
+    "Pattern Institute": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "Hyper Jump": {
+      "category": "Pwn",
+      "tags": []
+    },
+    "sigNULL": {
+      "category": "Web",
+      "tags": []
+    },
+    "SANSA": {
+      "category": "Crypto",
+      "tags": []
+    }
+  },
+  "date": 1636815600,
+  "name": "Intent CTF 2021"
+}
