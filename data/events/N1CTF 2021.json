@@ -1,0 +1,5864 @@
+{
+  "tasks": [
+    "house_of_tataru",
+    "QQQueryyy all the things",
+    "signin",
+    "easyre",
+    "hacker vs hacker",
+    "collision",
+    "exp's OJ",
+    "checkin",
+    "n1token1",
+    "n1ogin",
+    "welcome",
+    "easyphp",
+    "BabyDefi",
+    "hello",
+    "babyFMT",
+    "funny_web",
+    "babyrust",
+    "ctfhub",
+    "n1token2",
+    "ctfhub2",
+    "easyx11",
+    "MissingFunction",
+    "screened",
+    "Nu1L Hotel Checkin",
+    "Jerry",
+    "baby_guess",
+    "tornado",
+    "funny_misc",
+    "oh my flag",
+    "py"
+  ],
+  "standings": [
+    {
+      "team": "Super Guesser",
+      "pos": 1,
+      "score": 9863,
+      "id": 452,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "checkin": null,
+        "babyFMT": null,
+        "n1token2": null,
+        "QQQueryyy all the things": null,
+        "babyrust": null,
+        "n1ogin": null,
+        "n1token1": null,
+        "easyphp": null,
+        "house_of_tataru": null,
+        "ctfhub2": null,
+        "BabyDefi": null,
+        "Jerry": null,
+        "baby_guess": null,
+        "funny_web": null
+      }
+    },
+    {
+      "team": "r3kapig",
+      "pos": 2,
+      "score": 8226,
+      "id": 8,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyFMT": null,
+        "babyrust": null,
+        "easyre": null,
+        "QQQueryyy all the things": null,
+        "easyphp": null,
+        "funny_web": null,
+        "hello": null,
+        "tornado": null,
+        "Jerry": null,
+        "MissingFunction": null,
+        "py": null,
+        "house_of_tataru": null
+      }
+    },
+    {
+      "team": "0ops",
+      "pos": 3,
+      "score": 6919,
+      "id": 337,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "checkin": null,
+        "n1ogin": null,
+        "BabyDefi": null,
+        "babyrust": null,
+        "n1token2": null,
+        "n1token1": null,
+        "exp's OJ": null,
+        "babyFMT": null,
+        "hello": null,
+        "easyre": null
+      }
+    },
+    {
+      "team": "W&M",
+      "pos": 4,
+      "score": 6308,
+      "id": 754,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "QQQueryyy all the things": null,
+        "easyphp": null,
+        "babyrust": null,
+        "hacker vs hacker": null,
+        "MissingFunction": null,
+        "funny_web": null,
+        "tornado": null,
+        "n1ogin": null,
+        "funny_misc": null
+      }
+    },
+    {
+      "team": "OSUSEC",
+      "pos": 5,
+      "score": 4400,
+      "id": 642,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "n1token1": null,
+        "babyrust": null,
+        "n1token2": null,
+        "easyphp": null,
+        "checkin": null,
+        "funny_web": null,
+        "n1ogin": null
+      }
+    },
+    {
+      "team": "诶诶诶",
+      "pos": 6,
+      "score": 4152,
+      "id": 698,
+      "taskStats": {
+        "signin": null,
+        "welcome": null,
+        "babyrust": null,
+        "babyFMT": null,
+        "easyre": null,
+        "BabyDefi": null,
+        "py": null,
+        "easyphp": null,
+        "MissingFunction": null
+      }
+    },
+    {
+      "team": "./Vespiary",
+      "pos": 7,
+      "score": 3103,
+      "id": 423,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "checkin": null,
+        "babyFMT": null,
+        "babyrust": null,
+        "collision": null,
+        "house_of_tataru": null
+      }
+    },
+    {
+      "team": "Nebula",
+      "pos": 8,
+      "score": 2339,
+      "id": 557,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "BabyDefi": null,
+        "babyrust": null,
+        "hello": null,
+        "babyFMT": null
+      }
+    },
+    {
+      "team": "retirees",
+      "pos": 9,
+      "score": 1664,
+      "id": 350,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "MissingFunction": null,
+        "QQQueryyy all the things": null
+      }
+    },
+    {
+      "team": "Balsn",
+      "pos": 10,
+      "score": 1478,
+      "id": 552,
+      "taskStats": {
+        "signin": null,
+        "welcome": null,
+        "collision": null,
+        "easyphp": null
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 11,
+      "score": 1403,
+      "id": 536,
+      "taskStats": {
+        "babyFMT": null,
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "easyre": null
+      }
+    },
+    {
+      "team": "ROIS",
+      "pos": 12,
+      "score": 1383,
+      "id": 352,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "easyphp": null,
+        "babyrust": null,
+        "QQQueryyy all the things": null
+      }
+    },
+    {
+      "team": "thehackerscrew",
+      "pos": 13,
+      "score": 1383,
+      "id": 938,
+      "taskStats": {
+        "welcome": null,
+        "easyphp": null,
+        "signin": null,
+        "babyrust": null,
+        "QQQueryyy all the things": null
+      }
+    },
+    {
+      "team": "L",
+      "pos": 14,
+      "score": 1361,
+      "id": 260,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "babyFMT": null,
+        "n1ogin": null
+      }
+    },
+    {
+      "team": "B3f0re",
+      "pos": 15,
+      "score": 1341,
+      "id": 257,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "easyphp": null,
+        "babyrust": null,
+        "n1ogin": null
+      }
+    },
+    {
+      "team": "ID-10-T",
+      "pos": 16,
+      "score": 1117,
+      "id": 588,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null,
+        "signin": null,
+        "py": null
+      }
+    },
+    {
+      "team": "Digital Overdose",
+      "pos": 17,
+      "score": 1045,
+      "id": 254,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "baby_guess": null
+      }
+    },
+    {
+      "team": "DAWN",
+      "pos": 18,
+      "score": 998,
+      "id": 738,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "MissingFunction": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "网安第一深情",
+      "pos": 19,
+      "score": 969,
+      "id": 304,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "Jerry": null
+      }
+    },
+    {
+      "team": "CNSS",
+      "pos": 20,
+      "score": 950,
+      "id": 186,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "easyre": null
+      }
+    },
+    {
+      "team": "mode13h",
+      "pos": 21,
+      "score": 909,
+      "id": 743,
+      "taskStats": {
+        "funny_misc": null
+      }
+    },
+    {
+      "team": "w1re_t",
+      "pos": 22,
+      "score": 908,
+      "id": 244,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "n1ogin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "warlock_rootx",
+      "pos": 23,
+      "score": 760,
+      "id": 736,
+      "taskStats": {
+        "welcome": null,
+        "checkin": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "NaN",
+      "pos": 24,
+      "score": 737,
+      "id": 315,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "babyFMT": null
+      }
+    },
+    {
+      "team": "SUS",
+      "pos": 25,
+      "score": 737,
+      "id": 148,
+      "taskStats": {
+        "welcome": null,
+        "babyFMT": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "Xp0int",
+      "pos": 26,
+      "score": 737,
+      "id": 480,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "babyFMT": null
+      }
+    },
+    {
+      "team": "STT",
+      "pos": 27,
+      "score": 737,
+      "id": 639,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "babyFMT": null
+      }
+    },
+    {
+      "team": "打CTF有意思吗？嗯？",
+      "pos": 28,
+      "score": 734,
+      "id": 285,
+      "taskStats": {
+        "easyre": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "siusiaczki",
+      "pos": 29,
+      "score": 717,
+      "id": 613,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null,
+        "easyphp": null
+      }
+    },
+    {
+      "team": "posix",
+      "pos": 30,
+      "score": 717,
+      "id": 1081,
+      "taskStats": {
+        "signin": null,
+        "welcome": null,
+        "babyrust": null,
+        "easyphp": null
+      }
+    },
+    {
+      "team": "WolvSec",
+      "pos": 31,
+      "score": 717,
+      "id": 582,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "easyphp": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "The Pentagon",
+      "pos": 32,
+      "score": 692,
+      "id": 1007,
+      "taskStats": {
+        "welcome": null,
+        "checkin": null
+      }
+    },
+    {
+      "team": "abcdefghijk",
+      "pos": 33,
+      "score": 692,
+      "id": 1122,
+      "taskStats": {
+        "checkin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 34,
+      "score": 569,
+      "id": 547,
+      "taskStats": {
+        "signin": null,
+        "welcome": null,
+        "easyphp": null
+      }
+    },
+    {
+      "team": "MIsutgaRU",
+      "pos": 35,
+      "score": 521,
+      "id": 822,
+      "taskStats": {
+        "welcome": null,
+        "babyFMT": null
+      }
+    },
+    {
+      "team": "AFKL",
+      "pos": 36,
+      "score": 501,
+      "id": 1072,
+      "taskStats": {
+        "signin": null,
+        "easyphp": null
+      }
+    },
+    {
+      "team": "Ph0t1n1a",
+      "pos": 37,
+      "score": 284,
+      "id": 156,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "TRX",
+      "pos": 38,
+      "score": 284,
+      "id": 454,
+      "taskStats": {
+        "signin": null,
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "Scavenger Security",
+      "pos": 39,
+      "score": 284,
+      "id": 565,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "fjellape",
+      "pos": 40,
+      "score": 284,
+      "id": 900,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "<script>alert(\"Ping\")</script>",
+      "pos": 41,
+      "score": 284,
+      "id": 676,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "xSTF",
+      "pos": 42,
+      "score": 284,
+      "id": 322,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "这flag保熟吗",
+      "pos": 43,
+      "score": 284,
+      "id": 335,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "onepunchpwn",
+      "pos": 44,
+      "score": 284,
+      "id": 618,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "xtal",
+      "pos": 45,
+      "score": 284,
+      "id": 390,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "wesserboy",
+      "pos": 46,
+      "score": 284,
+      "id": 606,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "miboux",
+      "pos": 47,
+      "score": 284,
+      "id": 1037,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "DarkChangeMD5",
+      "pos": 48,
+      "score": 284,
+      "id": 521,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "N3X",
+      "pos": 49,
+      "score": 284,
+      "id": 176,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Pacific Bit Rim",
+      "pos": 50,
+      "score": 284,
+      "id": 339,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "Qin",
+      "pos": 51,
+      "score": 284,
+      "id": 993,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "ch3cke@XM",
+      "pos": 52,
+      "score": 284,
+      "id": 1001,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Flaggermeister",
+      "pos": 53,
+      "score": 284,
+      "id": 326,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Vidar-Team",
+      "pos": 54,
+      "score": 284,
+      "id": 5,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "ELT",
+      "pos": 55,
+      "score": 284,
+      "id": 144,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "9soc",
+      "pos": 56,
+      "score": 284,
+      "id": 1073,
+      "taskStats": {
+        "signin": null,
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "AFNOM",
+      "pos": 57,
+      "score": 284,
+      "id": 324,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "Cáerme",
+      "pos": 58,
+      "score": 284,
+      "id": 399,
+      "taskStats": {
+        "welcome": null,
+        "signin": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "N!CTF2020 User",
+      "pos": 59,
+      "score": 216,
+      "id": 66,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "sln.1550",
+      "pos": 60,
+      "score": 216,
+      "id": 155,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "DC8044",
+      "pos": 61,
+      "score": 216,
+      "id": 223,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "efiens",
+      "pos": 62,
+      "score": 216,
+      "id": 570,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "awsome-red",
+      "pos": 63,
+      "score": 216,
+      "id": 596,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "U0k++",
+      "pos": 64,
+      "score": 216,
+      "id": 703,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "flag{}___Orz",
+      "pos": 65,
+      "score": 216,
+      "id": 45,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "Can'hack",
+      "pos": 66,
+      "score": 216,
+      "id": 297,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "Ridge Racer",
+      "pos": 67,
+      "score": 216,
+      "id": 974,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "Ph0en1x",
+      "pos": 68,
+      "score": 216,
+      "id": 371,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "扫黄打非中央督导组",
+      "pos": 69,
+      "score": 216,
+      "id": 67,
+      "taskStats": {
+        "welcome": null,
+        "babyrust": null
+      }
+    },
+    {
+      "team": "ARESx",
+      "pos": 70,
+      "score": 148,
+      "id": 920,
+      "taskStats": {
+        "babyrust": null
+      }
+    },
+    {
+      "team": "0RAYS",
+      "pos": 71,
+      "score": 136,
+      "id": 161,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Em0t3t",
+      "pos": 72,
+      "score": 136,
+      "id": 598,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "DROPSEC",
+      "pos": 73,
+      "score": 136,
+      "id": 118,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "TTT-team",
+      "pos": 74,
+      "score": 136,
+      "id": 385,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Maple Bacon",
+      "pos": 75,
+      "score": 136,
+      "id": 397,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "STeam",
+      "pos": 76,
+      "score": 136,
+      "id": 671,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "00sec Team",
+      "pos": 77,
+      "score": 136,
+      "id": 672,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Do you know BTS?",
+      "pos": 78,
+      "score": 136,
+      "id": 236,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Zzzzzz",
+      "pos": 79,
+      "score": 136,
+      "id": 525,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Merlin",
+      "pos": 80,
+      "score": 136,
+      "id": 567,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "R0LLT1DE",
+      "pos": 81,
+      "score": 136,
+      "id": 475,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "game team",
+      "pos": 82,
+      "score": 136,
+      "id": 667,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "00mm_cafebabe",
+      "pos": 83,
+      "score": 136,
+      "id": 419,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "way to love",
+      "pos": 84,
+      "score": 136,
+      "id": 603,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "soloq",
+      "pos": 85,
+      "score": 136,
+      "id": 645,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "xsteam",
+      "pos": 86,
+      "score": 136,
+      "id": 730,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "n00b3r",
+      "pos": 87,
+      "score": 136,
+      "id": 768,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "za102",
+      "pos": 88,
+      "score": 136,
+      "id": 60,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Zach",
+      "pos": 89,
+      "score": 136,
+      "id": 214,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "UCASers",
+      "pos": 90,
+      "score": 136,
+      "id": 418,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "zh3r0",
+      "pos": 91,
+      "score": 136,
+      "id": 601,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "Polaris",
+      "pos": 92,
+      "score": 136,
+      "id": 505,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "CL0WN",
+      "pos": 93,
+      "score": 136,
+      "id": 266,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "NBD",
+      "pos": 94,
+      "score": 136,
+      "id": 443,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "anhackle",
+      "pos": 95,
+      "score": 136,
+      "id": 647,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "jx_getflag",
+      "pos": 96,
+      "score": 136,
+      "id": 512,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 97,
+      "score": 136,
+      "id": 660,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "bawolff",
+      "pos": 98,
+      "score": 136,
+      "id": 805,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "Ultraman",
+      "pos": 99,
+      "score": 136,
+      "id": 545,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "\\/(54",
+      "pos": 100,
+      "score": 136,
+      "id": 621,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "维克托",
+      "pos": 101,
+      "score": 136,
+      "id": 551,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "MiniNep",
+      "pos": 102,
+      "score": 136,
+      "id": 196,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Alex",
+      "pos": 103,
+      "score": 136,
+      "id": 212,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "NISA-WHYSOSERIOUS",
+      "pos": 104,
+      "score": 136,
+      "id": 62,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "JXQH",
+      "pos": 105,
+      "score": 136,
+      "id": 806,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Sentry",
+      "pos": 106,
+      "score": 136,
+      "id": 21,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "X1cT34m",
+      "pos": 107,
+      "score": 136,
+      "id": 20,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "cdusec2",
+      "pos": 108,
+      "score": 136,
+      "id": 792,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "#WYE#",
+      "pos": 109,
+      "score": 136,
+      "id": 189,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "yeeb0iz",
+      "pos": 110,
+      "score": 136,
+      "id": 840,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "RRRR",
+      "pos": 111,
+      "score": 136,
+      "id": 143,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "afcj",
+      "pos": 112,
+      "score": 136,
+      "id": 701,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Red Knights",
+      "pos": 113,
+      "score": 136,
+      "id": 875,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "badcodebuilder",
+      "pos": 114,
+      "score": 136,
+      "id": 375,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "SkyMas",
+      "pos": 115,
+      "score": 136,
+      "id": 607,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Z-OWorld",
+      "pos": 116,
+      "score": 136,
+      "id": 477,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "ujs",
+      "pos": 117,
+      "score": 136,
+      "id": 608,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "hack4tum",
+      "pos": 118,
+      "score": 136,
+      "id": 468,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "SXCTC",
+      "pos": 119,
+      "score": 136,
+      "id": 766,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "KungPaoChicken",
+      "pos": 120,
+      "score": 136,
+      "id": 914,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "just seesee",
+      "pos": 121,
+      "score": 136,
+      "id": 758,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Yupsilon",
+      "pos": 122,
+      "score": 136,
+      "id": 540,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "pwnthenope",
+      "pos": 123,
+      "score": 136,
+      "id": 274,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "traP",
+      "pos": 124,
+      "score": 136,
+      "id": 554,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "A1natas",
+      "pos": 125,
+      "score": 136,
+      "id": 17,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "Venom",
+      "pos": 126,
+      "score": 136,
+      "id": 307,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "KUICS",
+      "pos": 127,
+      "score": 136,
+      "id": 919,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "ROSS",
+      "pos": 128,
+      "score": 136,
+      "id": 296,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "gum3ng",
+      "pos": 129,
+      "score": 136,
+      "id": 841,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "EDI",
+      "pos": 130,
+      "score": 136,
+      "id": 215,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Threonine",
+      "pos": 131,
+      "score": 136,
+      "id": 906,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "AloneInTheCTF",
+      "pos": 132,
+      "score": 136,
+      "id": 946,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "merlion_gang",
+      "pos": 133,
+      "score": 136,
+      "id": 300,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "fulbright",
+      "pos": 134,
+      "score": 136,
+      "id": 250,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "JDI",
+      "pos": 135,
+      "score": 136,
+      "id": 917,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "iamlonely",
+      "pos": 136,
+      "score": 136,
+      "id": 1009,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "sabR",
+      "pos": 137,
+      "score": 136,
+      "id": 688,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Thundernerds",
+      "pos": 138,
+      "score": 136,
+      "id": 270,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 139,
+      "score": 136,
+      "id": 510,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Michigan Hackers",
+      "pos": 140,
+      "score": 136,
+      "id": 275,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "ItsNotGoodName",
+      "pos": 141,
+      "score": 136,
+      "id": 1026,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "Balberg Flagg & Service AS",
+      "pos": 142,
+      "score": 136,
+      "id": 591,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "50MB",
+      "pos": 143,
+      "score": 136,
+      "id": 145,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "TimelineSec",
+      "pos": 144,
+      "score": 136,
+      "id": 224,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "ezzzz",
+      "pos": 145,
+      "score": 136,
+      "id": 705,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "403",
+      "pos": 146,
+      "score": 136,
+      "id": 344,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "Deylol",
+      "pos": 147,
+      "score": 136,
+      "id": 1038,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "limzy",
+      "pos": 148,
+      "score": 136,
+      "id": 252,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Dipy7",
+      "pos": 149,
+      "score": 136,
+      "id": 520,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "AmTrain",
+      "pos": 150,
+      "score": 136,
+      "id": 134,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "D",
+      "pos": 151,
+      "score": 136,
+      "id": 739,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "or4nge",
+      "pos": 152,
+      "score": 136,
+      "id": 532,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "NGT",
+      "pos": 153,
+      "score": 136,
+      "id": 301,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Q.Q",
+      "pos": 154,
+      "score": 136,
+      "id": 370,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "foxy_eyes",
+      "pos": 155,
+      "score": 136,
+      "id": 625,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "zxd7190",
+      "pos": 156,
+      "score": 136,
+      "id": 1110,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "DL",
+      "pos": 157,
+      "score": 136,
+      "id": 25,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "Aurea_Pocula",
+      "pos": 158,
+      "score": 136,
+      "id": 1115,
+      "taskStats": {
+        "signin": null,
+        "welcome": null
+      }
+    },
+    {
+      "team": "Buchholzians",
+      "pos": 159,
+      "score": 136,
+      "id": 208,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "fu_rer4ank",
+      "pos": 160,
+      "score": 136,
+      "id": 137,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "WeNeedXMR",
+      "pos": 161,
+      "score": 136,
+      "id": 1144,
+      "taskStats": {
+        "welcome": null,
+        "signin": null
+      }
+    },
+    {
+      "team": "PwnProphecy",
+      "pos": 162,
+      "score": 68,
+      "id": 562,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "F14Sec",
+      "pos": 163,
+      "score": 68,
+      "id": 407,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Hacklabor",
+      "pos": 164,
+      "score": 68,
+      "id": 609,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "functiOn",
+      "pos": 165,
+      "score": 68,
+      "id": 63,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "喵喵干饭",
+      "pos": 166,
+      "score": 68,
+      "id": 346,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "binarybee",
+      "pos": 167,
+      "score": 68,
+      "id": 631,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Lavabo",
+      "pos": 168,
+      "score": 68,
+      "id": 264,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 169,
+      "score": 68,
+      "id": 466,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "maoliaoiwanna",
+      "pos": 170,
+      "score": 68,
+      "id": 580,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Rud3b0y$",
+      "pos": 171,
+      "score": 68,
+      "id": 637,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "van",
+      "pos": 172,
+      "score": 68,
+      "id": 649,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "APersonMan",
+      "pos": 173,
+      "score": 68,
+      "id": 28,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "鸿鹄LAB",
+      "pos": 174,
+      "score": 68,
+      "id": 55,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "F111ag",
+      "pos": 175,
+      "score": 68,
+      "id": 343,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "IceHot1",
+      "pos": 176,
+      "score": 68,
+      "id": 640,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 177,
+      "score": 68,
+      "id": 632,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "EQkws",
+      "pos": 178,
+      "score": 68,
+      "id": 381,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Sieberrsec",
+      "pos": 179,
+      "score": 68,
+      "id": 652,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "burner_herz0g",
+      "pos": 180,
+      "score": 68,
+      "id": 457,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "kukainis",
+      "pos": 181,
+      "score": 68,
+      "id": 255,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "UofATGuys",
+      "pos": 182,
+      "score": 68,
+      "id": 528,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "耗子尾汁",
+      "pos": 183,
+      "score": 68,
+      "id": 48,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "printf-XXX2",
+      "pos": 184,
+      "score": 68,
+      "id": 654,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Dumb_bots",
+      "pos": 185,
+      "score": 68,
+      "id": 653,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "yahahaha",
+      "pos": 186,
+      "score": 68,
+      "id": 284,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "kgrzk",
+      "pos": 187,
+      "score": 68,
+      "id": 157,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Printf-XXX",
+      "pos": 188,
+      "score": 68,
+      "id": 174,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "T3N4CI0US",
+      "pos": 189,
+      "score": 68,
+      "id": 657,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "sbqjh",
+      "pos": 190,
+      "score": 68,
+      "id": 656,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CriminalX",
+      "pos": 191,
+      "score": 68,
+      "id": 47,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "basidi",
+      "pos": 192,
+      "score": 68,
+      "id": 659,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "secret_squirrels",
+      "pos": 193,
+      "score": 68,
+      "id": 473,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CMBlueForce",
+      "pos": 194,
+      "score": 68,
+      "id": 556,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "14 message",
+      "pos": 195,
+      "score": 68,
+      "id": 648,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "SpicyPotatoes",
+      "pos": 196,
+      "score": 68,
+      "id": 641,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Team_Matrix",
+      "pos": 197,
+      "score": 68,
+      "id": 614,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Security Networks Attack Force Unlimited",
+      "pos": 198,
+      "score": 68,
+      "id": 172,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "hackUnicorns",
+      "pos": 199,
+      "score": 68,
+      "id": 600,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "m1z0r3",
+      "pos": 200,
+      "score": 68,
+      "id": 494,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "P@ss_1oN",
+      "pos": 201,
+      "score": 68,
+      "id": 44,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "schen only one",
+      "pos": 202,
+      "score": 68,
+      "id": 664,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "bugg",
+      "pos": 203,
+      "score": 68,
+      "id": 356,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Th3ee",
+      "pos": 204,
+      "score": 68,
+      "id": 438,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "pomp",
+      "pos": 205,
+      "score": 68,
+      "id": 367,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Armitage",
+      "pos": 206,
+      "score": 68,
+      "id": 599,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Peters",
+      "pos": 207,
+      "score": 68,
+      "id": 665,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "windtalkers",
+      "pos": 208,
+      "score": 68,
+      "id": 655,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "phish4sudo",
+      "pos": 209,
+      "score": 68,
+      "id": 429,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "supss",
+      "pos": 210,
+      "score": 68,
+      "id": 553,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "锟斤拷烫烫烫",
+      "pos": 211,
+      "score": 68,
+      "id": 239,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Return_0",
+      "pos": 212,
+      "score": 68,
+      "id": 188,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "HackinTN",
+      "pos": 213,
+      "score": 68,
+      "id": 220,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "YabbaDoo",
+      "pos": 214,
+      "score": 68,
+      "id": 595,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CSS",
+      "pos": 215,
+      "score": 68,
+      "id": 166,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "mo0n",
+      "pos": 216,
+      "score": 68,
+      "id": 432,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Qui3t0wL",
+      "pos": 217,
+      "score": 68,
+      "id": 638,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Purple-Team",
+      "pos": 218,
+      "score": 68,
+      "id": 442,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "4v1d",
+      "pos": 219,
+      "score": 68,
+      "id": 180,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "C521",
+      "pos": 220,
+      "score": 68,
+      "id": 669,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "bbb",
+      "pos": 221,
+      "score": 68,
+      "id": 41,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "001team",
+      "pos": 222,
+      "score": 68,
+      "id": 666,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "TCTN",
+      "pos": 223,
+      "score": 68,
+      "id": 571,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "d0cker",
+      "pos": 224,
+      "score": 68,
+      "id": 673,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "coybi",
+      "pos": 225,
+      "score": 68,
+      "id": 674,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Ju3t4Fun",
+      "pos": 226,
+      "score": 68,
+      "id": 658,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Idleless",
+      "pos": 227,
+      "score": 68,
+      "id": 679,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "tt67z",
+      "pos": 228,
+      "score": 68,
+      "id": 405,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "OyuSec",
+      "pos": 229,
+      "score": 68,
+      "id": 678,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "nanye",
+      "pos": 230,
+      "score": 68,
+      "id": 278,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "00mm",
+      "pos": 231,
+      "score": 68,
+      "id": 663,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Yeeky",
+      "pos": 232,
+      "score": 68,
+      "id": 683,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "B1T5crew",
+      "pos": 233,
+      "score": 68,
+      "id": 332,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "cmcc-js",
+      "pos": 234,
+      "score": 68,
+      "id": 90,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Chickenhens",
+      "pos": 235,
+      "score": 68,
+      "id": 538,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "T4ng0_t34m",
+      "pos": 236,
+      "score": 68,
+      "id": 684,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "NAC",
+      "pos": 237,
+      "score": 68,
+      "id": 517,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "qqq",
+      "pos": 238,
+      "score": 68,
+      "id": 548,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Fl@g",
+      "pos": 239,
+      "score": 68,
+      "id": 412,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PWN1010",
+      "pos": 240,
+      "score": 68,
+      "id": 233,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "nuc_volcano",
+      "pos": 241,
+      "score": 68,
+      "id": 690,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "f1ying_pi9eon",
+      "pos": 242,
+      "score": 68,
+      "id": 54,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Plu3",
+      "pos": 243,
+      "score": 68,
+      "id": 455,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "EagleSec",
+      "pos": 244,
+      "score": 68,
+      "id": 396,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "霧",
+      "pos": 245,
+      "score": 68,
+      "id": 56,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Panic-404",
+      "pos": 246,
+      "score": 68,
+      "id": 694,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "德丽莎世界第一可爱",
+      "pos": 247,
+      "score": 68,
+      "id": 204,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "EMP",
+      "pos": 248,
+      "score": 68,
+      "id": 680,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "gaodes",
+      "pos": 249,
+      "score": 68,
+      "id": 695,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "zwhubuntu",
+      "pos": 250,
+      "score": 68,
+      "id": 175,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "WHdsm",
+      "pos": 251,
+      "score": 68,
+      "id": 277,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ttss",
+      "pos": 252,
+      "score": 68,
+      "id": 349,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Team-0x7",
+      "pos": 253,
+      "score": 68,
+      "id": 587,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "hacking with stupidity",
+      "pos": 254,
+      "score": 68,
+      "id": 461,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CultOfNull",
+      "pos": 255,
+      "score": 68,
+      "id": 403,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "F03v3ryY0ung",
+      "pos": 256,
+      "score": 68,
+      "id": 230,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "曲奇小队",
+      "pos": 257,
+      "score": 68,
+      "id": 530,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Arc",
+      "pos": 258,
+      "score": 68,
+      "id": 699,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Over yourself",
+      "pos": 259,
+      "score": 68,
+      "id": 153,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Duo",
+      "pos": 260,
+      "score": 68,
+      "id": 704,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "SoloTeam",
+      "pos": 261,
+      "score": 68,
+      "id": 700,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "qiaodaoteam",
+      "pos": 262,
+      "score": 68,
+      "id": 373,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ppp",
+      "pos": 263,
+      "score": 68,
+      "id": 708,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "bt",
+      "pos": 264,
+      "score": 68,
+      "id": 430,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "NeSL",
+      "pos": 265,
+      "score": 68,
+      "id": 706,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "XP",
+      "pos": 266,
+      "score": 68,
+      "id": 707,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Orionis",
+      "pos": 267,
+      "score": 68,
+      "id": 499,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Hashlib",
+      "pos": 268,
+      "score": 68,
+      "id": 590,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Simple_tuck",
+      "pos": 269,
+      "score": 68,
+      "id": 709,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "StudentUnion",
+      "pos": 270,
+      "score": 68,
+      "id": 310,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "APT2048",
+      "pos": 271,
+      "score": 68,
+      "id": 316,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "RobynPlayingSolo",
+      "pos": 272,
+      "score": 68,
+      "id": 624,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "呱呱叽呱",
+      "pos": 273,
+      "score": 68,
+      "id": 173,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "NatureSec",
+      "pos": 274,
+      "score": 68,
+      "id": 712,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "jianhao",
+      "pos": 275,
+      "score": 68,
+      "id": 416,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "s0u1",
+      "pos": 276,
+      "score": 68,
+      "id": 713,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "啊对对对",
+      "pos": 277,
+      "score": 68,
+      "id": 717,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CAT-Security",
+      "pos": 278,
+      "score": 68,
+      "id": 486,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "N9",
+      "pos": 279,
+      "score": 68,
+      "id": 513,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "嘉然",
+      "pos": 280,
+      "score": 68,
+      "id": 535,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "easy_p",
+      "pos": 281,
+      "score": 68,
+      "id": 715,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "easn",
+      "pos": 282,
+      "score": 68,
+      "id": 534,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "look_look_big_old",
+      "pos": 283,
+      "score": 68,
+      "id": 726,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "南极星",
+      "pos": 284,
+      "score": 68,
+      "id": 727,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "W1tch2r",
+      "pos": 285,
+      "score": 68,
+      "id": 65,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ANDERS0N",
+      "pos": 286,
+      "score": 68,
+      "id": 692,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "APLUS",
+      "pos": 287,
+      "score": 68,
+      "id": 374,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "XR_CTF",
+      "pos": 288,
+      "score": 68,
+      "id": 718,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "n0啥几把战队",
+      "pos": 289,
+      "score": 68,
+      "id": 729,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "kirito",
+      "pos": 290,
+      "score": 68,
+      "id": 76,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "not a team",
+      "pos": 291,
+      "score": 68,
+      "id": 483,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "扫黑小组",
+      "pos": 292,
+      "score": 68,
+      "id": 437,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CyberSpace",
+      "pos": 293,
+      "score": 68,
+      "id": 724,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Sweety",
+      "pos": 294,
+      "score": 68,
+      "id": 53,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "J0ker",
+      "pos": 295,
+      "score": 68,
+      "id": 314,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Have_fun",
+      "pos": 296,
+      "score": 68,
+      "id": 97,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "蓝色空间",
+      "pos": 297,
+      "score": 68,
+      "id": 735,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Rootkit",
+      "pos": 298,
+      "score": 68,
+      "id": 744,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "B F",
+      "pos": 299,
+      "score": 68,
+      "id": 728,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Aleeeeeee",
+      "pos": 300,
+      "score": 68,
+      "id": 745,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "kkkkkk",
+      "pos": 301,
+      "score": 68,
+      "id": 235,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "city of sky",
+      "pos": 302,
+      "score": 68,
+      "id": 384,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "WYE",
+      "pos": 303,
+      "score": 68,
+      "id": 102,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "雨",
+      "pos": 304,
+      "score": 68,
+      "id": 746,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "BinX",
+      "pos": 305,
+      "score": 68,
+      "id": 24,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "born2scan",
+      "pos": 306,
+      "score": 68,
+      "id": 697,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "TeamShakti",
+      "pos": 307,
+      "score": 68,
+      "id": 323,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "k4ge",
+      "pos": 308,
+      "score": 68,
+      "id": 593,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "GCsec",
+      "pos": 309,
+      "score": 68,
+      "id": 433,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "VN_MSEC",
+      "pos": 310,
+      "score": 68,
+      "id": 747,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "rgb",
+      "pos": 311,
+      "score": 68,
+      "id": 731,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Moba",
+      "pos": 312,
+      "score": 68,
+      "id": 544,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "aaa",
+      "pos": 313,
+      "score": 68,
+      "id": 11,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "菜刀队",
+      "pos": 314,
+      "score": 68,
+      "id": 368,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "重铸lu0sf荣光，我辈义不容辞",
+      "pos": 315,
+      "score": 68,
+      "id": 361,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CyberSlacker",
+      "pos": 316,
+      "score": 68,
+      "id": 142,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Chilkat",
+      "pos": 317,
+      "score": 68,
+      "id": 750,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "hunziTeam",
+      "pos": 318,
+      "score": 68,
+      "id": 689,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "一个都不会",
+      "pos": 319,
+      "score": 68,
+      "id": 177,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": " Learners_",
+      "pos": 320,
+      "score": 68,
+      "id": 610,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "AnGry_BirDs_ReL0aDed",
+      "pos": 321,
+      "score": 68,
+      "id": 295,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "摸鱼TEAM",
+      "pos": 322,
+      "score": 68,
+      "id": 445,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "MuRKuo",
+      "pos": 323,
+      "score": 68,
+      "id": 231,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "JaVer",
+      "pos": 324,
+      "score": 68,
+      "id": 755,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "dddd",
+      "pos": 325,
+      "score": 68,
+      "id": 192,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "caiji",
+      "pos": 326,
+      "score": 68,
+      "id": 198,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "NuclearOption",
+      "pos": 327,
+      "score": 68,
+      "id": 759,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "q27;F+#b]%_;'v",
+      "pos": 328,
+      "score": 68,
+      "id": 721,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Sloth",
+      "pos": 329,
+      "score": 68,
+      "id": 193,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "s3cur3_sh3ll",
+      "pos": 330,
+      "score": 68,
+      "id": 762,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "峡谷催眠师",
+      "pos": 331,
+      "score": 68,
+      "id": 70,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "test12358",
+      "pos": 332,
+      "score": 68,
+      "id": 764,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Cat Training Force",
+      "pos": 333,
+      "score": 68,
+      "id": 449,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "idekJT",
+      "pos": 334,
+      "score": 68,
+      "id": 634,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "题目做不队",
+      "pos": 335,
+      "score": 68,
+      "id": 767,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Kni9ht",
+      "pos": 336,
+      "score": 68,
+      "id": 769,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "xiofee",
+      "pos": 337,
+      "score": 68,
+      "id": 362,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "文法",
+      "pos": 338,
+      "score": 68,
+      "id": 33,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "DLUT-SSS",
+      "pos": 339,
+      "score": 68,
+      "id": 283,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "h4ckx0r5",
+      "pos": 340,
+      "score": 68,
+      "id": 490,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "阿尔卑斯狗",
+      "pos": 341,
+      "score": 68,
+      "id": 581,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "web Little gb",
+      "pos": 342,
+      "score": 68,
+      "id": 489,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ctfChallengers",
+      "pos": 343,
+      "score": 68,
+      "id": 561,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "think",
+      "pos": 344,
+      "score": 68,
+      "id": 771,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "sh4ring4ng",
+      "pos": 345,
+      "score": 68,
+      "id": 488,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "P4y1oad",
+      "pos": 346,
+      "score": 68,
+      "id": 775,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Zero",
+      "pos": 347,
+      "score": 68,
+      "id": 474,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "All Your Flags",
+      "pos": 348,
+      "score": 68,
+      "id": 280,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Vlect",
+      "pos": 349,
+      "score": 68,
+      "id": 263,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "H3I10_W0r1d",
+      "pos": 350,
+      "score": 68,
+      "id": 428,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "nosi",
+      "pos": 351,
+      "score": 68,
+      "id": 776,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ducks0ci3ty",
+      "pos": 352,
+      "score": 68,
+      "id": 615,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Inner Savages",
+      "pos": 353,
+      "score": 68,
+      "id": 635,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "kisaragi",
+      "pos": 354,
+      "score": 68,
+      "id": 782,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Easter Eggs",
+      "pos": 355,
+      "score": 68,
+      "id": 787,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "DreamZz",
+      "pos": 356,
+      "score": 68,
+      "id": 788,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "h3ck3r_4nd_b3lug4",
+      "pos": 357,
+      "score": 68,
+      "id": 791,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Polaris One",
+      "pos": 358,
+      "score": 68,
+      "id": 794,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "SoloLeveling",
+      "pos": 359,
+      "score": 68,
+      "id": 780,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Cyber0ids",
+      "pos": 360,
+      "score": 68,
+      "id": 801,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "中路没闪",
+      "pos": 361,
+      "score": 68,
+      "id": 23,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Wani Hackase",
+      "pos": 362,
+      "score": 68,
+      "id": 439,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "404adm1n",
+      "pos": 363,
+      "score": 68,
+      "id": 420,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "is07king",
+      "pos": 364,
+      "score": 68,
+      "id": 803,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CTF Party",
+      "pos": 365,
+      "score": 68,
+      "id": 563,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "B3bieSec",
+      "pos": 366,
+      "score": 68,
+      "id": 261,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "0x325",
+      "pos": 367,
+      "score": 68,
+      "id": 751,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "among us gaming",
+      "pos": 368,
+      "score": 68,
+      "id": 508,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "0xK1",
+      "pos": 369,
+      "score": 68,
+      "id": 3,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ST4RT",
+      "pos": 370,
+      "score": 68,
+      "id": 247,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 371,
+      "score": 68,
+      "id": 807,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Youth",
+      "pos": 372,
+      "score": 68,
+      "id": 292,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CreateRemoteThread",
+      "pos": 373,
+      "score": 68,
+      "id": 809,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "5upernova",
+      "pos": 374,
+      "score": 68,
+      "id": 559,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "one_people",
+      "pos": 375,
+      "score": 68,
+      "id": 377,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "🐀🐀",
+      "pos": 376,
+      "score": 68,
+      "id": 815,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "drdoctor",
+      "pos": 377,
+      "score": 68,
+      "id": 817,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Bokm",
+      "pos": 378,
+      "score": 68,
+      "id": 813,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Lunar_r3d",
+      "pos": 379,
+      "score": 68,
+      "id": 814,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "right right right",
+      "pos": 380,
+      "score": 68,
+      "id": 34,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "签到就算成功",
+      "pos": 381,
+      "score": 68,
+      "id": 32,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "KXTI_MAKHUS",
+      "pos": 382,
+      "score": 68,
+      "id": 597,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "12thman",
+      "pos": 383,
+      "score": 68,
+      "id": 232,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "IN Flag Predators🏴‍☠️🇮🇳🖥",
+      "pos": 384,
+      "score": 68,
+      "id": 812,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "tessa",
+      "pos": 385,
+      "score": 68,
+      "id": 823,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ctf_n00bz",
+      "pos": 386,
+      "score": 68,
+      "id": 448,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Trick",
+      "pos": 387,
+      "score": 68,
+      "id": 826,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "珠江新城有套房",
+      "pos": 388,
+      "score": 68,
+      "id": 158,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "notyuhouse",
+      "pos": 389,
+      "score": 68,
+      "id": 501,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Doremon",
+      "pos": 390,
+      "score": 68,
+      "id": 810,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Krn",
+      "pos": 391,
+      "score": 68,
+      "id": 799,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "HearLaker",
+      "pos": 392,
+      "score": 68,
+      "id": 168,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "花果山",
+      "pos": 393,
+      "score": 68,
+      "id": 831,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ariana",
+      "pos": 394,
+      "score": 68,
+      "id": 774,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "poigiatre",
+      "pos": 395,
+      "score": 68,
+      "id": 526,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "F1301 Circus",
+      "pos": 396,
+      "score": 68,
+      "id": 836,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "The Few Chosen",
+      "pos": 397,
+      "score": 68,
+      "id": 838,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "bredang",
+      "pos": 398,
+      "score": 68,
+      "id": 839,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "bl4sph3my",
+      "pos": 399,
+      "score": 68,
+      "id": 636,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "123s",
+      "pos": 400,
+      "score": 68,
+      "id": 837,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "The Umbrella Group",
+      "pos": 401,
+      "score": 68,
+      "id": 287,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "j1nj1",
+      "pos": 402,
+      "score": 68,
+      "id": 681,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "dig.flag",
+      "pos": 403,
+      "score": 68,
+      "id": 843,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "b00t_Error1890",
+      "pos": 404,
+      "score": 68,
+      "id": 308,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "极光",
+      "pos": 405,
+      "score": 68,
+      "id": 441,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Stack overflow",
+      "pos": 406,
+      "score": 68,
+      "id": 626,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Nupakachi",
+      "pos": 407,
+      "score": 68,
+      "id": 611,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "RedCube",
+      "pos": 408,
+      "score": 68,
+      "id": 341,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "XinAnZzz",
+      "pos": 409,
+      "score": 68,
+      "id": 80,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Town",
+      "pos": 410,
+      "score": 68,
+      "id": 847,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "zak0",
+      "pos": 411,
+      "score": 68,
+      "id": 845,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "The_Apocalypse",
+      "pos": 412,
+      "score": 68,
+      "id": 852,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Powerpuffgirls💪🏼",
+      "pos": 413,
+      "score": 68,
+      "id": 178,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "A5una",
+      "pos": 414,
+      "score": 68,
+      "id": 846,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "tofpie",
+      "pos": 415,
+      "score": 68,
+      "id": 205,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "code_sole",
+      "pos": 416,
+      "score": 68,
+      "id": 853,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "code_solo",
+      "pos": 417,
+      "score": 68,
+      "id": 860,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "XE",
+      "pos": 418,
+      "score": 68,
+      "id": 213,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "TeamH4C",
+      "pos": 419,
+      "score": 68,
+      "id": 579,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Crowd",
+      "pos": 420,
+      "score": 68,
+      "id": 46,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "nijiyon",
+      "pos": 421,
+      "score": 68,
+      "id": 865,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "su",
+      "pos": 422,
+      "score": 68,
+      "id": 857,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "啦啦队",
+      "pos": 423,
+      "score": 68,
+      "id": 30,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "lalaland",
+      "pos": 424,
+      "score": 68,
+      "id": 868,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "SOT",
+      "pos": 425,
+      "score": 68,
+      "id": 496,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "V0ZTeam",
+      "pos": 426,
+      "score": 68,
+      "id": 870,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "randoms",
+      "pos": 427,
+      "score": 68,
+      "id": 873,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "TheHun",
+      "pos": 428,
+      "score": 68,
+      "id": 877,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "T3ns0r",
+      "pos": 429,
+      "score": 68,
+      "id": 876,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PWlD",
+      "pos": 430,
+      "score": 68,
+      "id": 253,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "星火",
+      "pos": 431,
+      "score": 68,
+      "id": 108,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "TLT",
+      "pos": 432,
+      "score": 68,
+      "id": 871,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "菜鸟小分队",
+      "pos": 433,
+      "score": 68,
+      "id": 879,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "oneshot",
+      "pos": 434,
+      "score": 68,
+      "id": 881,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "tapochek_net",
+      "pos": 435,
+      "score": 68,
+      "id": 463,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "LetsGooo",
+      "pos": 436,
+      "score": 68,
+      "id": 884,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": " B4shH4g",
+      "pos": 437,
+      "score": 68,
+      "id": 465,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "风信子",
+      "pos": 438,
+      "score": 68,
+      "id": 120,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": " black-commando",
+      "pos": 439,
+      "score": 68,
+      "id": 778,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Kaczuszki",
+      "pos": 440,
+      "score": 68,
+      "id": 460,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "一",
+      "pos": 441,
+      "score": 68,
+      "id": 511,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "dvirel",
+      "pos": 442,
+      "score": 68,
+      "id": 887,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "====>",
+      "pos": 443,
+      "score": 68,
+      "id": 518,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "dbytes",
+      "pos": 444,
+      "score": 68,
+      "id": 861,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "AUZ1",
+      "pos": 445,
+      "score": 68,
+      "id": 456,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Lilac",
+      "pos": 446,
+      "score": 68,
+      "id": 258,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "舔狗",
+      "pos": 447,
+      "score": 68,
+      "id": 896,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Christina",
+      "pos": 448,
+      "score": 68,
+      "id": 515,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "NewLine",
+      "pos": 449,
+      "score": 68,
+      "id": 467,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "rundragon",
+      "pos": 450,
+      "score": 68,
+      "id": 333,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "锦旗飘飘",
+      "pos": 451,
+      "score": 68,
+      "id": 447,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ttttest",
+      "pos": 452,
+      "score": 68,
+      "id": 904,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ababab3",
+      "pos": 453,
+      "score": 68,
+      "id": 903,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "BackMoon",
+      "pos": 454,
+      "score": 68,
+      "id": 905,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "tt",
+      "pos": 455,
+      "score": 68,
+      "id": 907,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "CTF{Runn3rs}",
+      "pos": 456,
+      "score": 68,
+      "id": 912,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Capture the Swag",
+      "pos": 457,
+      "score": 68,
+      "id": 357,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "冲鸭冲鸭冲鸭",
+      "pos": 458,
+      "score": 68,
+      "id": 915,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Solo",
+      "pos": 459,
+      "score": 68,
+      "id": 867,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "菜鸟摸鱼划水休闲团队",
+      "pos": 460,
+      "score": 68,
+      "id": 916,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "D@rk$h3ll",
+      "pos": 461,
+      "score": 68,
+      "id": 622,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "0xSAZZAD",
+      "pos": 462,
+      "score": 68,
+      "id": 923,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "0xbin",
+      "pos": 463,
+      "score": 68,
+      "id": 795,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "webdog",
+      "pos": 464,
+      "score": 68,
+      "id": 886,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "11111",
+      "pos": 465,
+      "score": 68,
+      "id": 925,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "初中生团队",
+      "pos": 466,
+      "score": 68,
+      "id": 929,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "emt",
+      "pos": 467,
+      "score": 68,
+      "id": 126,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Stack",
+      "pos": 468,
+      "score": 68,
+      "id": 830,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "D1n0",
+      "pos": 469,
+      "score": 68,
+      "id": 933,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "mikejam",
+      "pos": 470,
+      "score": 68,
+      "id": 221,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "emaker",
+      "pos": 471,
+      "score": 68,
+      "id": 388,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ohno",
+      "pos": 472,
+      "score": 68,
+      "id": 936,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "GHHC_Mango_People",
+      "pos": 473,
+      "score": 68,
+      "id": 318,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 474,
+      "score": 68,
+      "id": 259,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "co0per4tion",
+      "pos": 475,
+      "score": 68,
+      "id": 160,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "YAYA",
+      "pos": 476,
+      "score": 68,
+      "id": 940,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "KLegion",
+      "pos": 477,
+      "score": 68,
+      "id": 863,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "HASH-TEAM",
+      "pos": 478,
+      "score": 68,
+      "id": 154,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ssdad",
+      "pos": 479,
+      "score": 68,
+      "id": 943,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "3mp4n4d45",
+      "pos": 480,
+      "score": 68,
+      "id": 627,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "xzzjnu_milk",
+      "pos": 481,
+      "score": 68,
+      "id": 944,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Wefal1",
+      "pos": 482,
+      "score": 68,
+      "id": 109,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Conq",
+      "pos": 483,
+      "score": 68,
+      "id": 248,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "3l3v3n$",
+      "pos": 484,
+      "score": 68,
+      "id": 947,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "TeamGipsy",
+      "pos": 485,
+      "score": 68,
+      "id": 106,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "fantacoladisco",
+      "pos": 486,
+      "score": 68,
+      "id": 949,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "广外幽灵",
+      "pos": 487,
+      "score": 68,
+      "id": 58,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Try A9ain",
+      "pos": 488,
+      "score": 68,
+      "id": 714,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "F4TH1N_ST0P",
+      "pos": 489,
+      "score": 68,
+      "id": 389,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ccc4",
+      "pos": 490,
+      "score": 68,
+      "id": 955,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "geprekmumbul",
+      "pos": 491,
+      "score": 68,
+      "id": 426,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "GhostOneHack",
+      "pos": 492,
+      "score": 68,
+      "id": 958,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PingTrip",
+      "pos": 493,
+      "score": 68,
+      "id": 226,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Hydra",
+      "pos": 494,
+      "score": 68,
+      "id": 965,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "上海探花",
+      "pos": 495,
+      "score": 68,
+      "id": 125,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "H4PuM",
+      "pos": 496,
+      "score": 68,
+      "id": 964,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "XNOR",
+      "pos": 497,
+      "score": 68,
+      "id": 558,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "@wak3",
+      "pos": 498,
+      "score": 68,
+      "id": 329,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "May4th",
+      "pos": 499,
+      "score": 68,
+      "id": 509,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Y&M",
+      "pos": 500,
+      "score": 68,
+      "id": 39,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "hhh",
+      "pos": 501,
+      "score": 68,
+      "id": 167,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "7R4C3R",
+      "pos": 502,
+      "score": 68,
+      "id": 479,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Jongko_JoyoBoyo",
+      "pos": 503,
+      "score": 68,
+      "id": 973,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "WWWwwwWWW",
+      "pos": 504,
+      "score": 68,
+      "id": 71,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "D@T@C0RrUpT10#",
+      "pos": 505,
+      "score": 68,
+      "id": 978,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "BBQ",
+      "pos": 506,
+      "score": 68,
+      "id": 303,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Wearebad",
+      "pos": 507,
+      "score": 68,
+      "id": 981,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ZSO",
+      "pos": 508,
+      "score": 68,
+      "id": 380,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 509,
+      "score": 68,
+      "id": 577,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "AnKang-Team",
+      "pos": 510,
+      "score": 68,
+      "id": 331,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "RTown",
+      "pos": 511,
+      "score": 68,
+      "id": 988,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "RimaL878",
+      "pos": 512,
+      "score": 68,
+      "id": 286,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PTITA",
+      "pos": 513,
+      "score": 68,
+      "id": 685,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "AccessDenied",
+      "pos": 514,
+      "score": 68,
+      "id": 200,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "nosl33p",
+      "pos": 515,
+      "score": 68,
+      "id": 994,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "sazouki",
+      "pos": 516,
+      "score": 68,
+      "id": 990,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "why are we still here? just to suffer?",
+      "pos": 517,
+      "score": 68,
+      "id": 183,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Slab Allocator",
+      "pos": 518,
+      "score": 68,
+      "id": 464,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "EnigmaMinds",
+      "pos": 519,
+      "score": 68,
+      "id": 249,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "NIS",
+      "pos": 520,
+      "score": 68,
+      "id": 1002,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "n00bsCTF",
+      "pos": 521,
+      "score": 68,
+      "id": 497,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "WonderChinchilla's Team",
+      "pos": 522,
+      "score": 68,
+      "id": 1000,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ZorBor",
+      "pos": 523,
+      "score": 68,
+      "id": 1005,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "WaterDrop",
+      "pos": 524,
+      "score": 68,
+      "id": 1006,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "DhalasV",
+      "pos": 525,
+      "score": 68,
+      "id": 989,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "DATDA",
+      "pos": 526,
+      "score": 68,
+      "id": 476,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "OPC",
+      "pos": 527,
+      "score": 68,
+      "id": 302,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "acr0nym",
+      "pos": 528,
+      "score": 68,
+      "id": 1014,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "limitados lda",
+      "pos": 529,
+      "score": 68,
+      "id": 1019,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Krys4k solo",
+      "pos": 530,
+      "score": 68,
+      "id": 612,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "LalaG3r4k",
+      "pos": 531,
+      "score": 68,
+      "id": 644,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "0x$",
+      "pos": 532,
+      "score": 68,
+      "id": 1025,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "A2CTF",
+      "pos": 533,
+      "score": 68,
+      "id": 1028,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ToInfinityAndBeYANd",
+      "pos": 534,
+      "score": 68,
+      "id": 1034,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "DU4L-SH3LL",
+      "pos": 535,
+      "score": 68,
+      "id": 1041,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Shades",
+      "pos": 536,
+      "score": 68,
+      "id": 1033,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "Serenity",
+      "pos": 537,
+      "score": 68,
+      "id": 1012,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "DecorousDromedary",
+      "pos": 538,
+      "score": 68,
+      "id": 1046,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ctf-m",
+      "pos": 539,
+      "score": 68,
+      "id": 1040,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "root-you",
+      "pos": 540,
+      "score": 68,
+      "id": 643,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "n1kt0",
+      "pos": 541,
+      "score": 68,
+      "id": 1050,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ru7ynk4",
+      "pos": 542,
+      "score": 68,
+      "id": 1051,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "omggg",
+      "pos": 543,
+      "score": 68,
+      "id": 1055,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Wutang",
+      "pos": 544,
+      "score": 68,
+      "id": 1044,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "CSAX",
+      "pos": 545,
+      "score": 68,
+      "id": 206,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "k@LL",
+      "pos": 546,
+      "score": 68,
+      "id": 345,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Corrian",
+      "pos": 547,
+      "score": 68,
+      "id": 1057,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PastaOverflow",
+      "pos": 548,
+      "score": 68,
+      "id": 1022,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "NCTOP",
+      "pos": 549,
+      "score": 68,
+      "id": 1060,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "karzan",
+      "pos": 550,
+      "score": 68,
+      "id": 1062,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "4837",
+      "pos": 551,
+      "score": 68,
+      "id": 770,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "xxx",
+      "pos": 552,
+      "score": 68,
+      "id": 1066,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Auturora",
+      "pos": 553,
+      "score": 68,
+      "id": 682,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "L6",
+      "pos": 554,
+      "score": 68,
+      "id": 99,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "0neP@adding",
+      "pos": 555,
+      "score": 68,
+      "id": 594,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "simurgh",
+      "pos": 556,
+      "score": 68,
+      "id": 1078,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "做不出来",
+      "pos": 557,
+      "score": 68,
+      "id": 1079,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ego",
+      "pos": 558,
+      "score": 68,
+      "id": 956,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "445 murder",
+      "pos": 559,
+      "score": 68,
+      "id": 1076,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "Caraba",
+      "pos": 560,
+      "score": 68,
+      "id": 495,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "_attack",
+      "pos": 561,
+      "score": 68,
+      "id": 1089,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "ITUS",
+      "pos": 562,
+      "score": 68,
+      "id": 342,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "fzhshzh",
+      "pos": 563,
+      "score": 68,
+      "id": 237,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "大肌趴队",
+      "pos": 564,
+      "score": 68,
+      "id": 242,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "蓝翔技校电竞学院",
+      "pos": 565,
+      "score": 68,
+      "id": 165,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "demonshuraisha",
+      "pos": 566,
+      "score": 68,
+      "id": 1093,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "505sec",
+      "pos": 567,
+      "score": 68,
+      "id": 107,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "setbit",
+      "pos": 568,
+      "score": 68,
+      "id": 503,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Porg Pwn Platoon",
+      "pos": 569,
+      "score": 68,
+      "id": 1096,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "craneqwq",
+      "pos": 570,
+      "score": 68,
+      "id": 985,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "sommergewitter",
+      "pos": 571,
+      "score": 68,
+      "id": 1095,
+      "taskStats": {
+        "signin": null
+      }
+    },
+    {
+      "team": "Nxe",
+      "pos": 572,
+      "score": 68,
+      "id": 1102,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Big&Bird",
+      "pos": 573,
+      "score": 68,
+      "id": 133,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "宫方特妖战队",
+      "pos": 574,
+      "score": 68,
+      "id": 1103,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "gladiator",
+      "pos": 575,
+      "score": 68,
+      "id": 1011,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "电闪雷鸣队",
+      "pos": 576,
+      "score": 68,
+      "id": 402,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "allen",
+      "pos": 577,
+      "score": 68,
+      "id": 4,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "(l00p3r1n0;cat) > fs0c13ty",
+      "pos": 578,
+      "score": 68,
+      "id": 1108,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "SPbCTF",
+      "pos": 579,
+      "score": 68,
+      "id": 1020,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "HeyWorld",
+      "pos": 580,
+      "score": 68,
+      "id": 1111,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PeiQi",
+      "pos": 581,
+      "score": 68,
+      "id": 1112,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "PawnWits",
+      "pos": 582,
+      "score": 68,
+      "id": 434,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "johnsleep",
+      "pos": 583,
+      "score": 68,
+      "id": 1113,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "climber",
+      "pos": 584,
+      "score": 68,
+      "id": 241,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "AccesDenieD",
+      "pos": 585,
+      "score": 68,
+      "id": 1114,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "one-shot",
+      "pos": 586,
+      "score": 68,
+      "id": 1118,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": ":3",
+      "pos": 587,
+      "score": 68,
+      "id": 1120,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Lf5.Paradise",
+      "pos": 588,
+      "score": 68,
+      "id": 35,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "h4r4",
+      "pos": 589,
+      "score": 68,
+      "id": 569,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "LifeError",
+      "pos": 590,
+      "score": 68,
+      "id": 564,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Polymero",
+      "pos": 591,
+      "score": 68,
+      "id": 1129,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Allein",
+      "pos": 592,
+      "score": 68,
+      "id": 1130,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "123456",
+      "pos": 593,
+      "score": 68,
+      "id": 1131,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "zarekoto",
+      "pos": 594,
+      "score": 68,
+      "id": 293,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Heisenburger ",
+      "pos": 595,
+      "score": 68,
+      "id": 942,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "boat",
+      "pos": 596,
+      "score": 68,
+      "id": 1139,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "0x00_8",
+      "pos": 597,
+      "score": 68,
+      "id": 191,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Babylon",
+      "pos": 598,
+      "score": 68,
+      "id": 1140,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "[HD]course",
+      "pos": 599,
+      "score": 68,
+      "id": 575,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "n3rdh3rd",
+      "pos": 600,
+      "score": 68,
+      "id": 1146,
+      "taskStats": {
+        "welcome": null
+      }
+    },
+    {
+      "team": "Weasels",
+      "pos": 601,
+      "score": 68,
+      "id": 1149,
+      "taskStats": {
+        "welcome": null
+      }
+    }
+  ],
+  "taskinfo": {
+    "house_of_tataru": {
+      "category": "pwn",
+      "tags": []
+    },
+    "QQQueryyy all the things": {
+      "category": "web",
+      "tags": []
+    },
+    "signin": {
+      "category": "web",
+      "tags": []
+    },
+    "easyre": {
+      "category": "rev",
+      "tags": []
+    },
+    "hacker vs hacker": {
+      "category": "misc",
+      "tags": []
+    },
+    "collision": {
+      "category": "misc",
+      "tags": []
+    },
+    "exp's OJ": {
+      "category": "misc",
+      "tags": []
+    },
+    "checkin": {
+      "category": "crypto",
+      "tags": []
+    },
+    "n1token1": {
+      "category": "crypto",
+      "tags": []
+    },
+    "n1ogin": {
+      "category": "crypto",
+      "tags": []
+    },
+    "welcome": {
+      "category": "misc",
+      "tags": []
+    },
+    "easyphp": {
+      "category": "web",
+      "tags": []
+    },
+    "BabyDefi": {
+      "category": "blockchain",
+      "tags": []
+    },
+    "hello": {
+      "category": "rev",
+      "tags": []
+    },
+    "babyFMT": {
+      "category": "pwn",
+      "tags": []
+    },
+    "funny_web": {
+      "category": "web",
+      "tags": []
+    },
+    "babyrust": {
+      "category": "rev",
+      "tags": []
+    },
+    "ctfhub": {
+      "category": "misc",
+      "tags": []
+    },
+    "n1token2": {
+      "category": "crypto",
+      "tags": []
+    },
+    "ctfhub2": {
+      "category": "pwn",
+      "tags": []
+    },
+    "easyx11": {
+      "category": "pwn",
+      "tags": []
+    },
+    "MissingFunction": {
+      "category": "misc",
+      "tags": []
+    },
+    "screened": {
+      "category": "misc",
+      "tags": []
+    },
+    "Nu1L Hotel Checkin": {
+      "category": "rev",
+      "tags": []
+    },
+    "Jerry": {
+      "category": "pwn",
+      "tags": []
+    },
+    "baby_guess": {
+      "category": "pwn",
+      "tags": []
+    },
+    "tornado": {
+      "category": "web",
+      "tags": []
+    },
+    "funny_misc": {
+      "category": "misc",
+      "tags": []
+    },
+    "oh my flag": {
+      "category": "crypto",
+      "tags": []
+    },
+    "py": {
+      "category": "rev",
+      "tags": []
+    }
+  },
+  "date": 1637334000,
+  "name": "N1CTF 2021"
+}

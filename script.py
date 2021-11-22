@@ -20,8 +20,9 @@ from lib.scraper.rctf import RCTFScraper
 from lib.scraper.tctf import TCTFScraper
 from lib.scraper.imaginaryctf import ImaginaryCTFScraper
 from lib.scraper.hacklu import HackluScraper
+from lib.scraper.n1ctf import N1CTFScraper
 
-PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper, "3kctf": The3000CTFScraper, "p4": p4CTFScraper, "bcactf": BCACTFScraper, "rctf": RCTFScraper, "tctf": TCTFScraper, "imaginaryctf": ImaginaryCTFScraper, "hacklu": HackluScraper}
+PLATFORMS = {"bsidessf": BSidesSFScraper, "d3ctf": D3CTFScraper, "ctfd-legacy": LegacyCTFdScraper, "ctfd": CTFdScraper, "ctfx": CTFxScraper, "angstrom": AngstromCTFScraper, "midnightsun": MidnightsunScraper, "plaidctf": PlaidCTFScraper, "asis": AsisCTFScraper, "defcon": DEFCONScraper, "3kctf": The3000CTFScraper, "p4": p4CTFScraper, "bcactf": BCACTFScraper, "rctf": RCTFScraper, "tctf": TCTFScraper, "imaginaryctf": ImaginaryCTFScraper, "hacklu": HackluScraper, "n1ctf": N1CTFScraper}
 
 def main():
     parser = argparse.ArgumentParser()
