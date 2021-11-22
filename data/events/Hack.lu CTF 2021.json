@@ -1,0 +1,4385 @@
+{
+  "tasks": [
+    "atareee",
+    "Tenbagger",
+    "trading-api",
+    "Market Maker",
+    "UnsAFe",
+    "Silver Water Industries",
+    "OLLVM Crypt",
+    "Stonks Socket",
+    "OLLVM",
+    "Emergency Operations",
+    "Bookmarker",
+    "PYCOIN",
+    "Touchy Logger",
+    "Diamond Safe",
+    "Cloudinspect",
+    "secure-prototype",
+    "lwsr",
+    "faas 1",
+    "NodeNB",
+    "faas 2",
+    "WhatTheHecc",
+    "SeekingExploits",
+    "Responsible Disclosure"
+  ],
+  "standings": [
+    {
+      "team": "organizers",
+      "pos": 1,
+      "score": 5559,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "UnsAFe": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "Market Maker": null,
+        "OLLVM": null,
+        "OLLVM Crypt": null,
+        "Silver Water Industries": null,
+        "faas 1": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "Super Guesser",
+      "pos": 2,
+      "score": 5345,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "UnsAFe": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "OLLVM": null,
+        "OLLVM Crypt": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "SeekingExploits": null,
+        "Emergency Operations": null
+      }
+    },
+    {
+      "team": "perfect blue",
+      "pos": 3,
+      "score": 5039,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "UnsAFe": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "OLLVM": null,
+        "OLLVM Crypt": null,
+        "Silver Water Industries": null,
+        "faas 1": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "Kalmarunionen",
+      "pos": 4,
+      "score": 3563,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "r3kapig",
+      "pos": 5,
+      "score": 3407,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "UnsAFe": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "OLLVM": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "More Smoked Leet Chicken",
+      "pos": 6,
+      "score": 3330,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "SeekingExploits": null,
+        "Emergency Operations": null
+      }
+    },
+    {
+      "team": "OSUSEC",
+      "pos": 7,
+      "score": 3259,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "UnsAFe": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Team Croissant au Beurre",
+      "pos": 8,
+      "score": 3226,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Cloudinspect": null,
+        "OLLVM": null,
+        "OLLVM Crypt": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "DiceGang",
+      "pos": 9,
+      "score": 2995,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "The Flat Network Society",
+      "pos": 10,
+      "score": 2925,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "trading-api": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "Nep",
+      "pos": 11,
+      "score": 2792,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "Responsible Disclosure": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "./Vespiary",
+      "pos": 12,
+      "score": 2746,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "Emergency Operations": null
+      }
+    },
+    {
+      "team": "ALLES!",
+      "pos": 13,
+      "score": 2640,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "UnsAFe": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "Dragon Sector",
+      "pos": 14,
+      "score": 2578,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "ELT",
+      "pos": 15,
+      "score": 2510,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "KUDoS",
+      "pos": 16,
+      "score": 2510,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Black Bauhinia",
+      "pos": 17,
+      "score": 2457,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "Water Paddler",
+      "pos": 18,
+      "score": 2090,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "bi0s",
+      "pos": 19,
+      "score": 2072,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Cloudinspect": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "Bookmarker": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "KITCTF",
+      "pos": 20,
+      "score": 2069,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "UnsAFe": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Albsociety",
+      "pos": 21,
+      "score": 1880,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null,
+        "Emergency Operations": null
+      }
+    },
+    {
+      "team": "Synacktiv⛩️",
+      "pos": 22,
+      "score": 1759,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "ID-10-T",
+      "pos": 23,
+      "score": 1694,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Maple Bacon",
+      "pos": 24,
+      "score": 1673,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "HacknamStyle",
+      "pos": 25,
+      "score": 1607,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "Bookmarker": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "idek",
+      "pos": 26,
+      "score": 1475,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "SPRUSH",
+      "pos": 27,
+      "score": 1464,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "OLLVM": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Ridge Racer",
+      "pos": 28,
+      "score": 1427,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "0ops",
+      "pos": 29,
+      "score": 1426,
+      "taskStats": {
+        "secure-prototype": null,
+        "UnsAFe": null,
+        "Cloudinspect": null,
+        "Stonks Socket": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "WE_0WN_Y0U",
+      "pos": 30,
+      "score": 1409,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "eee",
+      "pos": 31,
+      "score": 1295,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "NodeNB": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "STT",
+      "pos": 32,
+      "score": 1208,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "WeAreScientists",
+      "pos": 33,
+      "score": 1190,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "traP",
+      "pos": 34,
+      "score": 1187,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "polaris",
+      "pos": 35,
+      "score": 1124,
+      "taskStats": {
+        "Diamond Safe": null,
+        "trading-api": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "Made In MIM",
+      "pos": 36,
+      "score": 1123,
+      "taskStats": {
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "PYCOIN": null,
+        "Emergency Operations": null
+      }
+    },
+    {
+      "team": "Gratin",
+      "pos": 37,
+      "score": 1097,
+      "taskStats": {
+        "Tenbagger": null,
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "xtal",
+      "pos": 38,
+      "score": 1065,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "atareee": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Team Enu",
+      "pos": 39,
+      "score": 1041,
+      "taskStats": {
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "Stonks Socket": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Scavenger Security",
+      "pos": 40,
+      "score": 1031,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "flagless flag stealers",
+      "pos": 41,
+      "score": 1030,
+      "taskStats": {
+        "Diamond Safe": null,
+        "trading-api": null,
+        "NodeNB": null,
+        "SeekingExploits": null
+      }
+    },
+    {
+      "team": "dnr_sscniv",
+      "pos": 42,
+      "score": 1013,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Lights of Pineapples",
+      "pos": 43,
+      "score": 1013,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Sp33d_0f_T1m3",
+      "pos": 44,
+      "score": 1010,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Underrated",
+      "pos": 45,
+      "score": 992,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "3k",
+      "pos": 46,
+      "score": 989,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "VTeam",
+      "pos": 47,
+      "score": 989,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Lorem Ipsec",
+      "pos": 48,
+      "score": 989,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "y011d4",
+      "pos": 49,
+      "score": 948,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null
+      }
+    },
+    {
+      "team": "S. L.",
+      "pos": 50,
+      "score": 944,
+      "taskStats": {
+        "OLLVM": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Nupakachi",
+      "pos": 51,
+      "score": 868,
+      "taskStats": {
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Darkside",
+      "pos": 52,
+      "score": 830,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "NodeNB": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Saint Technics",
+      "pos": 53,
+      "score": 812,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "bluehens",
+      "pos": 54,
+      "score": 812,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Knightsec",
+      "pos": 55,
+      "score": 809,
+      "taskStats": {
+        "Tenbagger": null,
+        "secure-prototype": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "xSTF",
+      "pos": 56,
+      "score": 791,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "NodeNB": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "blackpinker",
+      "pos": 57,
+      "score": 791,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "hswaw",
+      "pos": 58,
+      "score": 775,
+      "taskStats": {
+        "Tenbagger": null,
+        "Touchy Logger": null,
+        "Emergency Operations": null
+      }
+    },
+    {
+      "team": "bawolff",
+      "pos": 59,
+      "score": 700,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "NodeNB": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "cheriPI",
+      "pos": 60,
+      "score": 698,
+      "taskStats": {
+        "Tenbagger": null,
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "C4T BuT S4D",
+      "pos": 61,
+      "score": 691,
+      "taskStats": {
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Polyhx",
+      "pos": 62,
+      "score": 663,
+      "taskStats": {
+        "Diamond Safe": null,
+        "secure-prototype": null,
+        "trading-api": null
+      }
+    },
+    {
+      "team": "Letzpwn",
+      "pos": 63,
+      "score": 648,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "pastabase64",
+      "pos": 64,
+      "score": 648,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "/upb/hack",
+      "pos": 65,
+      "score": 632,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "smol.ppt",
+      "pos": 66,
+      "score": 632,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "atareee": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "kasiatutej",
+      "pos": 67,
+      "score": 629,
+      "taskStats": {
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null
+      }
+    },
+    {
+      "team": "techsec",
+      "pos": 68,
+      "score": 629,
+      "taskStats": {
+        "lwsr": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null
+      }
+    },
+    {
+      "team": "woyouyizhixiaomaol",
+      "pos": 69,
+      "score": 614,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "warlock_rootx",
+      "pos": 70,
+      "score": 611,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "pwnthenope",
+      "pos": 71,
+      "score": 611,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "WhatTheHecc": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "CubeMastery",
+      "pos": 72,
+      "score": 593,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Spotless",
+      "pos": 73,
+      "score": 593,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "zer0pts",
+      "pos": 74,
+      "score": 542,
+      "taskStats": {
+        "UnsAFe": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "n00b3r",
+      "pos": 75,
+      "score": 499,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "NodeNB": null
+      }
+    },
+    {
+      "team": "Robot Mafia",
+      "pos": 76,
+      "score": 486,
+      "taskStats": {
+        "Tenbagger": null,
+        "atareee": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "flib",
+      "pos": 77,
+      "score": 486,
+      "taskStats": {
+        "Tenbagger": null,
+        "atareee": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "FAUST",
+      "pos": 78,
+      "score": 472,
+      "taskStats": {
+        "Diamond Safe": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "PWr Synt@x Err0r",
+      "pos": 79,
+      "score": 468,
+      "taskStats": {
+        "Tenbagger": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "c0r3dump",
+      "pos": 80,
+      "score": 468,
+      "taskStats": {
+        "Tenbagger": null,
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Kernel Sanders",
+      "pos": 81,
+      "score": 468,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "4nSicks",
+      "pos": 82,
+      "score": 465,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "NodeNB": null
+      }
+    },
+    {
+      "team": "Thehackerscrew",
+      "pos": 83,
+      "score": 447,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "ID-IoT",
+      "pos": 84,
+      "score": 413,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "onepunchpwn",
+      "pos": 85,
+      "score": 413,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Martial_Law_Enforcer",
+      "pos": 86,
+      "score": 413,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "dcua",
+      "pos": 87,
+      "score": 413,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "JustMe",
+      "pos": 88,
+      "score": 413,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "pic0wn",
+      "pos": 89,
+      "score": 399,
+      "taskStats": {
+        "Touchy Logger": null,
+        "NodeNB": null
+      }
+    },
+    {
+      "team": "e^iπ+1day",
+      "pos": 90,
+      "score": 378,
+      "taskStats": {
+        "Diamond Safe": null,
+        "NodeNB": null
+      }
+    },
+    {
+      "team": "ROIS",
+      "pos": 91,
+      "score": 378,
+      "taskStats": {
+        "Diamond Safe": null,
+        "NodeNB": null
+      }
+    },
+    {
+      "team": "hxp",
+      "pos": 92,
+      "score": 347,
+      "taskStats": {
+        "PYCOIN": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "J08nY",
+      "pos": 93,
+      "score": 344,
+      "taskStats": {
+        "Silver Water Industries": null,
+        "WhatTheHecc": null
+      }
+    },
+    {
+      "team": "uiop",
+      "pos": 94,
+      "score": 344,
+      "taskStats": {
+        "Silver Water Industries": null,
+        "WhatTheHecc": null
+      }
+    },
+    {
+      "team": "HNN4ABO",
+      "pos": 95,
+      "score": 344,
+      "taskStats": {
+        "Silver Water Industries": null,
+        "NodeNB": null
+      }
+    },
+    {
+      "team": "lanleft",
+      "pos": 96,
+      "score": 344,
+      "taskStats": {
+        "Silver Water Industries": null,
+        "secure-prototype": null
+      }
+    },
+    {
+      "team": "archiveer",
+      "pos": 97,
+      "score": 344,
+      "taskStats": {
+        "secure-prototype": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "ksociety",
+      "pos": 98,
+      "score": 344,
+      "taskStats": {
+        "NodeNB": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "\\/(54",
+      "pos": 99,
+      "score": 326,
+      "taskStats": {
+        "PYCOIN": null,
+        "Diamond Safe": null
+      }
+    },
+    {
+      "team": "Spritzers",
+      "pos": 100,
+      "score": 326,
+      "taskStats": {
+        "Diamond Safe": null,
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "sybvious",
+      "pos": 101,
+      "score": 322,
+      "taskStats": {
+        "Tenbagger": null,
+        "Touchy Logger": null
+      }
+    },
+    {
+      "team": "Tower of Hanoi",
+      "pos": 102,
+      "score": 319,
+      "taskStats": {
+        "Tenbagger": null,
+        "NodeNB": null
+      }
+    },
+    {
+      "team": "Marmiton",
+      "pos": 103,
+      "score": 301,
+      "taskStats": {
+        "Tenbagger": null,
+        "Diamond Safe": null
+      }
+    },
+    {
+      "team": "b01lers",
+      "pos": 104,
+      "score": 292,
+      "taskStats": {
+        "Silver Water Industries": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "LosFuzzys",
+      "pos": 105,
+      "score": 267,
+      "taskStats": {
+        "Tenbagger": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "N30Z30N",
+      "pos": 106,
+      "score": 267,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "havce",
+      "pos": 107,
+      "score": 267,
+      "taskStats": {
+        "Tenbagger": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Rolandas",
+      "pos": 108,
+      "score": 267,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "meh",
+      "pos": 109,
+      "score": 267,
+      "taskStats": {
+        "Tenbagger": null,
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "Tinfoilhatz",
+      "pos": 110,
+      "score": 267,
+      "taskStats": {
+        "Tenbagger": null,
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "PIS",
+      "pos": 111,
+      "score": 198,
+      "taskStats": {
+        "secure-prototype": null
+      }
+    },
+    {
+      "team": "nyancat0131",
+      "pos": 112,
+      "score": 198,
+      "taskStats": {
+        "secure-prototype": null
+      }
+    },
+    {
+      "team": "EchoSec",
+      "pos": 113,
+      "score": 198,
+      "taskStats": {
+        "secure-prototype": null
+      }
+    },
+    {
+      "team": "maratang",
+      "pos": 114,
+      "score": 180,
+      "taskStats": {
+        "Diamond Safe": null
+      }
+    },
+    {
+      "team": "Neptunians",
+      "pos": 115,
+      "score": 180,
+      "taskStats": {
+        "Diamond Safe": null
+      }
+    },
+    {
+      "team": "TeamWBH",
+      "pos": 116,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "Chovid99",
+      "pos": 117,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "Acceleration",
+      "pos": 118,
+      "score": 146,
+      "taskStats": {
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "noraneco",
+      "pos": 119,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "Wunderleth",
+      "pos": 120,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "!Ceasy",
+      "pos": 121,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "acdwas",
+      "pos": 122,
+      "score": 146,
+      "taskStats": {
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "BH",
+      "pos": 123,
+      "score": 146,
+      "taskStats": {
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "Day Day Up",
+      "pos": 124,
+      "score": 146,
+      "taskStats": {
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "weishenmebubanmengma",
+      "pos": 125,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "threat.club",
+      "pos": 126,
+      "score": 146,
+      "taskStats": {
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "TSG",
+      "pos": 127,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "IIT(BHU)CyberSec",
+      "pos": 128,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "stankc",
+      "pos": 129,
+      "score": 146,
+      "taskStats": {
+        "PYCOIN": null
+      }
+    },
+    {
+      "team": "CyberSlacker",
+      "pos": 130,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "Maas-terMinds",
+      "pos": 131,
+      "score": 146,
+      "taskStats": {
+        "Silver Water Industries": null
+      }
+    },
+    {
+      "team": "P4H",
+      "pos": 132,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "DeCi",
+      "pos": 133,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "exitzero",
+      "pos": 134,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "secuRED",
+      "pos": 135,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "DC8044",
+      "pos": 136,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "L0ptr",
+      "pos": 137,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Cyber Pig Security",
+      "pos": 138,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "FluxRookies",
+      "pos": 139,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "AntiBuddies",
+      "pos": 140,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Yesman",
+      "pos": 141,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Koffiedrinker",
+      "pos": 142,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Salmon",
+      "pos": 143,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "PPP",
+      "pos": 144,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "sudoutopia",
+      "pos": 145,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Cyb3rduck",
+      "pos": 146,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "tovask",
+      "pos": 147,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "xorisar",
+      "pos": 148,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "r5",
+      "pos": 149,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Porg Pwn Platoon",
+      "pos": 150,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "EeverseRngineers",
+      "pos": 151,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Defenit",
+      "pos": 152,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Flaggermeister",
+      "pos": 153,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "MQCybersec",
+      "pos": 154,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "cryp71x3rz",
+      "pos": 155,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "ekawa",
+      "pos": 156,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "MoeCafe",
+      "pos": 157,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Neya",
+      "pos": 158,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "TheForgottenBits",
+      "pos": 159,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Capture The Swag",
+      "pos": 160,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "xXxpassword123xXx",
+      "pos": 161,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "ducks0ci3ty",
+      "pos": 162,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "ret2school",
+      "pos": 163,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Optifusion",
+      "pos": 164,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "kgrzk",
+      "pos": 165,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "TEAM0001",
+      "pos": 166,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "CyberFault",
+      "pos": 167,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "DeltaHeap",
+      "pos": 168,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "ZorBor",
+      "pos": 169,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "OstropestTeam",
+      "pos": 170,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Trailer Trash",
+      "pos": 171,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "vikrantbatra05",
+      "pos": 172,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "qwerpoiuq1",
+      "pos": 173,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "huskies",
+      "pos": 174,
+      "score": 121,
+      "taskStats": {
+        "Tenbagger": null
+      }
+    },
+    {
+      "team": "Ju3tForFun",
+      "pos": 175,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "r888800009",
+      "pos": 176,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Hungry",
+      "pos": 177,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "njarreb",
+      "pos": 178,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "jorgectf",
+      "pos": 179,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "s3gfau|t__part!zan3s_",
+      "pos": 180,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "typeA",
+      "pos": 181,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "nvm",
+      "pos": 182,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ootsubo",
+      "pos": 183,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "zh3r0",
+      "pos": 184,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ffffx00000",
+      "pos": 185,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bebek balap",
+      "pos": 186,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "your crush",
+      "pos": 187,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Quack",
+      "pos": 188,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "s3cur3_sh3ll",
+      "pos": 189,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "RightSenders",
+      "pos": 190,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "iiiiii",
+      "pos": 191,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Debily",
+      "pos": 192,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "锟斤拷烫烫烫",
+      "pos": 193,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "5upernova",
+      "pos": 194,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "thr0waway",
+      "pos": 195,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "PwN_3v3rY7h1nG",
+      "pos": 196,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "BlazerKun",
+      "pos": 197,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Merkur",
+      "pos": 198,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "strange_uncle",
+      "pos": 199,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "DoomHack",
+      "pos": 200,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "tyulpan",
+      "pos": 201,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "e=mc**2",
+      "pos": 202,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "hb_sk",
+      "pos": 203,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "JCPwn",
+      "pos": 204,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Momento",
+      "pos": 205,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "test123456",
+      "pos": 206,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "m1t0",
+      "pos": 207,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "UAC",
+      "pos": 208,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "teamName",
+      "pos": 209,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "beerpwn",
+      "pos": 210,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "s4m4n",
+      "pos": 211,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Stamplo",
+      "pos": 212,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "n3rdh3rd",
+      "pos": 213,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "אלוף",
+      "pos": 214,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "sant268-solo",
+      "pos": 215,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Ktk",
+      "pos": 216,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "technic",
+      "pos": 217,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "e4hyweh",
+      "pos": 218,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "C0ra1",
+      "pos": 219,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "CRUSADERS",
+      "pos": 220,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bruh",
+      "pos": 221,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "deptraithimoiconhieuduayeu",
+      "pos": 222,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "practice_mode: on",
+      "pos": 223,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Evar",
+      "pos": 224,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "test123812930",
+      "pos": 225,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "qwerty",
+      "pos": 226,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "taurus",
+      "pos": 227,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ToE42",
+      "pos": 228,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "alina",
+      "pos": 229,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "sysengineer2",
+      "pos": 230,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "vip-kazakh-homunculus",
+      "pos": 231,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "FluxFingers",
+      "pos": 232,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "tryagainDZ",
+      "pos": 233,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "realpwn",
+      "pos": 234,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "fzhshzh",
+      "pos": 235,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "EntrePlicas",
+      "pos": 236,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "LoLoLoshka",
+      "pos": 237,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Cyber Cadet Yes Unit",
+      "pos": 238,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "jsutset",
+      "pos": 239,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dark0rder",
+      "pos": 240,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "devme4f",
+      "pos": 241,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "w00t",
+      "pos": 242,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "something clever",
+      "pos": 243,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "werwer",
+      "pos": 244,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "The Peach Garden",
+      "pos": 245,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "tenten",
+      "pos": 246,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "BR1G4D4",
+      "pos": 247,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "BrOctopus",
+      "pos": 248,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "UDOM CYBER CLUB",
+      "pos": 249,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "SSAT",
+      "pos": 250,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "stdnoerr",
+      "pos": 251,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ath",
+      "pos": 252,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "hswaw 0x2",
+      "pos": 253,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "rainin",
+      "pos": 254,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "malfog",
+      "pos": 255,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dudeNumberOne",
+      "pos": 256,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "teamname",
+      "pos": 257,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "OrangeStar",
+      "pos": 258,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Soloitidi",
+      "pos": 259,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "PersianCats",
+      "pos": 260,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Buyabez",
+      "pos": 261,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Shyok",
+      "pos": 262,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "PARTAI SHAUN",
+      "pos": 263,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "helloworlds",
+      "pos": 264,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Team Schooboo",
+      "pos": 265,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Emotz",
+      "pos": 266,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "gladiator",
+      "pos": 267,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "PwnFlag",
+      "pos": 268,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "waike",
+      "pos": 269,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bogota",
+      "pos": 270,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "AUZ1",
+      "pos": 271,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "xxxx",
+      "pos": 272,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "yeeeee",
+      "pos": 273,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Z3Ro",
+      "pos": 274,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Cyber0ids",
+      "pos": 275,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "caseau",
+      "pos": 276,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "zbiber",
+      "pos": 277,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "lululu",
+      "pos": 278,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Anony",
+      "pos": 279,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "K1mCh1W@rr10r",
+      "pos": 280,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "h1nter_r3w3",
+      "pos": 281,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ricoha8028",
+      "pos": 282,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "WW5KallnPT0",
+      "pos": 283,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "MTMzN25vb2Jz",
+      "pos": 284,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "OnlyFeet",
+      "pos": 285,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "LeBarbareSoft",
+      "pos": 286,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "「」",
+      "pos": 287,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "cr4ck//y0ur//s3cr3t",
+      "pos": 288,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "qwe",
+      "pos": 289,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "haxx0r",
+      "pos": 290,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "13laze",
+      "pos": 291,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "thenoob",
+      "pos": 292,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "SauerkrautAP",
+      "pos": 293,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bantian",
+      "pos": 294,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Carcangiuregna",
+      "pos": 295,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "404team",
+      "pos": 296,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "tessa",
+      "pos": 297,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Redbud",
+      "pos": 298,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "msimonelli",
+      "pos": 299,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "fibonhack",
+      "pos": 300,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Slab Allocator",
+      "pos": 301,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "woot",
+      "pos": 302,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ICU",
+      "pos": 303,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "becauseno",
+      "pos": 304,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "LalaG3r4k",
+      "pos": 305,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "node_modules",
+      "pos": 306,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "tea",
+      "pos": 307,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "anat0my",
+      "pos": 308,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "laughingcata",
+      "pos": 309,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Dbytes",
+      "pos": 310,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "neppy",
+      "pos": 311,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ITSNOTAGAME",
+      "pos": 312,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "lulzash",
+      "pos": 313,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "b0b",
+      "pos": 314,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Infinite loop",
+      "pos": 315,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "gigglemugs",
+      "pos": 316,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "\\o_",
+      "pos": 317,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Alone in the dark",
+      "pos": 318,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "SkyMas",
+      "pos": 319,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "m3ow",
+      "pos": 320,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "noyou",
+      "pos": 321,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "barbarossa",
+      "pos": 322,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Ali Tolga Dinçer",
+      "pos": 323,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "labadaluba",
+      "pos": 324,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "lost+found",
+      "pos": 325,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "V0W",
+      "pos": 326,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "archemi",
+      "pos": 327,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Sepi",
+      "pos": 328,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "sysc4lls",
+      "pos": 329,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "skrillex69",
+      "pos": 330,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "AlcoholForce",
+      "pos": 331,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dozybrit",
+      "pos": 332,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "PTIT.ChickChick",
+      "pos": 333,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "XBin",
+      "pos": 334,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bet75",
+      "pos": 335,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "J93",
+      "pos": 336,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "0xdecafbad",
+      "pos": 337,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "phulelouch",
+      "pos": 338,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Noname00",
+      "pos": 339,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ST4RT",
+      "pos": 340,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "vfsrfs",
+      "pos": 341,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "G6",
+      "pos": 342,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "s0ciety",
+      "pos": 343,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "whatever",
+      "pos": 344,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "SBGs",
+      "pos": 345,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "X3eRo0",
+      "pos": 346,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dokko",
+      "pos": 347,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "fake_faker",
+      "pos": 348,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "watevr",
+      "pos": 349,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Meow",
+      "pos": 350,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "K33P_Qu!34",
+      "pos": 351,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "C4C",
+      "pos": 352,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "TQI",
+      "pos": 353,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "CTF{Runn3rs}",
+      "pos": 354,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "MLGeoff",
+      "pos": 355,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Lunar_r3d_",
+      "pos": 356,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "mrpvr",
+      "pos": 357,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "t3mp3st",
+      "pos": 358,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "killswitch",
+      "pos": 359,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "undefined",
+      "pos": 360,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "BIT CRIMINALS",
+      "pos": 361,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "4141414141",
+      "pos": 362,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Kadavul",
+      "pos": 363,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "BrickDroppers",
+      "pos": 364,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "DragonSec SI",
+      "pos": 365,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "KXTI_SSGS",
+      "pos": 366,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Red Knights",
+      "pos": 367,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "farwan",
+      "pos": 368,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ch3cke",
+      "pos": 369,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Clsec",
+      "pos": 370,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "HackyCLub",
+      "pos": 371,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "4B1DD3N",
+      "pos": 372,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "DigitalSquare",
+      "pos": 373,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "curveball",
+      "pos": 374,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "S0l0",
+      "pos": 375,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "krzysztof1222",
+      "pos": 376,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Rabbits",
+      "pos": 377,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ylz_16j",
+      "pos": 378,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "NAZCA",
+      "pos": 379,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "gruf",
+      "pos": 380,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "HellForge",
+      "pos": 381,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "PsychoKid",
+      "pos": 382,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "mahfuz",
+      "pos": 383,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "SummerJedi",
+      "pos": 384,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "OurHeung",
+      "pos": 385,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ahengers",
+      "pos": 386,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "khant",
+      "pos": 387,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Cla55N0tF0und",
+      "pos": 388,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Lone Soldier",
+      "pos": 389,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "escaleira",
+      "pos": 390,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Devnull01;",
+      "pos": 391,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "NGA",
+      "pos": 392,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "KXTI_MAKHUS",
+      "pos": 393,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Shamiya",
+      "pos": 394,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "jotaro kujo",
+      "pos": 395,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "0xSAZZAD",
+      "pos": 396,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "phantom",
+      "pos": 397,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Siscakohl",
+      "pos": 398,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "NICHTS?",
+      "pos": 399,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "RPCA Cyber Club",
+      "pos": 400,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "rolling",
+      "pos": 401,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "JCPeas",
+      "pos": 402,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "badwolf",
+      "pos": 403,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "0xMohammed",
+      "pos": 404,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "syan",
+      "pos": 405,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Hidden Issue",
+      "pos": 406,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Oelewappers",
+      "pos": 407,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ggoverflow",
+      "pos": 408,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "TheMythologist",
+      "pos": 409,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "justice",
+      "pos": 410,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "jojo123",
+      "pos": 411,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "0xGodson",
+      "pos": 412,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "brian kamikaze",
+      "pos": 413,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Schwaadnet",
+      "pos": 414,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "T35H",
+      "pos": 415,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "cole_sole",
+      "pos": 416,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "k0",
+      "pos": 417,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "g5s6n3yi8z7g08cs",
+      "pos": 418,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "acr0nym",
+      "pos": 419,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "botnet_",
+      "pos": 420,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "waihu",
+      "pos": 421,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "h3ck3r_4nd_b3lug4",
+      "pos": 422,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Serenity",
+      "pos": 423,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Link54",
+      "pos": 424,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "SiliconBits",
+      "pos": 425,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "AmineRETCHAK",
+      "pos": 426,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "admin1",
+      "pos": 427,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "405 Not Found",
+      "pos": 428,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ahaha",
+      "pos": 429,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "etoyoc",
+      "pos": 430,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "D4mianWayne",
+      "pos": 431,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Simple_tuck",
+      "pos": 432,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Domin0",
+      "pos": 433,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Rasser",
+      "pos": 434,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Underwriters",
+      "pos": 435,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ne0",
+      "pos": 436,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Cannot be bl4nk",
+      "pos": 437,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "awawa",
+      "pos": 438,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "EvilBunnyWrote",
+      "pos": 439,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "StrixGoldhorn",
+      "pos": 440,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Theoretical",
+      "pos": 441,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "0xm41w4r3",
+      "pos": 442,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "TamanduaCapoeirista",
+      "pos": 443,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "SXCTC",
+      "pos": 444,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "psych3",
+      "pos": 445,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "asdf",
+      "pos": 446,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "cyberbangla1",
+      "pos": 447,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Flash_News",
+      "pos": 448,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ravin",
+      "pos": 449,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ru7ynk4",
+      "pos": 450,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "thewiz",
+      "pos": 451,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "All Your Flags",
+      "pos": 452,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "kolder",
+      "pos": 453,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "JCPeas1",
+      "pos": 454,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "hamayanhamayan",
+      "pos": 455,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Pengg0damn",
+      "pos": 456,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "105",
+      "pos": 457,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "GrtSevenup",
+      "pos": 458,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "s3qu3nc3",
+      "pos": 459,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Testing",
+      "pos": 460,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "time-smith",
+      "pos": 461,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Raise the Flag",
+      "pos": 462,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Friendly Hacks",
+      "pos": 463,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "H0psGang",
+      "pos": 464,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Kaer",
+      "pos": 465,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "PatagoniaHack",
+      "pos": 466,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "DeCi2",
+      "pos": 467,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dvirel",
+      "pos": 468,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dark warrior",
+      "pos": 469,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Pwntastic Four",
+      "pos": 470,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Leak Challenge",
+      "pos": 471,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "zarekoto",
+      "pos": 472,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "KXTI_LND",
+      "pos": 473,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "h4xt3r_Offici4l",
+      "pos": 474,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "u1ma",
+      "pos": 475,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "hackUnicorns",
+      "pos": 476,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Kenji",
+      "pos": 477,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "datsoa",
+      "pos": 478,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "GanSw",
+      "pos": 479,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "setup",
+      "pos": 480,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Jump2Flag",
+      "pos": 481,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dobob",
+      "pos": 482,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "kingerbans",
+      "pos": 483,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "NOb0dy",
+      "pos": 484,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "dtl",
+      "pos": 485,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "4dr15hy4",
+      "pos": 486,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Hacky Easter",
+      "pos": 487,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Alone wolf",
+      "pos": 488,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "TCTN",
+      "pos": 489,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "underoverflow",
+      "pos": 490,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "qweqwer",
+      "pos": 491,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "NiebelungenOne",
+      "pos": 492,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Karpaty",
+      "pos": 493,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "salman abulatif",
+      "pos": 494,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "jb",
+      "pos": 495,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "IITBreachers",
+      "pos": 496,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "DoggoDev",
+      "pos": 497,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Bey0nd0range",
+      "pos": 498,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "_",
+      "pos": 499,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "blanc.",
+      "pos": 500,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "HalfEatenApple",
+      "pos": 501,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "gignagerti@yevme.com",
+      "pos": 502,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "HotNum",
+      "pos": 503,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "sudo_team",
+      "pos": 504,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "kuli moshi",
+      "pos": 505,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "AccesDenieD",
+      "pos": 506,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Shell_hunters",
+      "pos": 507,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "DRAgON",
+      "pos": 508,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "phish4sudo",
+      "pos": 509,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "N0000B",
+      "pos": 510,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "saluu",
+      "pos": 511,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "xSpark",
+      "pos": 512,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "byc_404",
+      "pos": 513,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "DSGS4T",
+      "pos": 514,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "test",
+      "pos": 515,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "anakta",
+      "pos": 516,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "seed2",
+      "pos": 517,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "RimaL878",
+      "pos": 518,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "h4kr_f0r3v3r",
+      "pos": 519,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Just for random things",
+      "pos": 520,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "popo",
+      "pos": 521,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "rm -r /",
+      "pos": 522,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "B3bieSec",
+      "pos": 523,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "N0Named",
+      "pos": 524,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "starPt",
+      "pos": 525,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "cew",
+      "pos": 526,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "rrrr",
+      "pos": 527,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bady",
+      "pos": 528,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bruhbruh",
+      "pos": 529,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "wit",
+      "pos": 530,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Mo0n",
+      "pos": 531,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Team_Matrix",
+      "pos": 532,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Cl0ud1T",
+      "pos": 533,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "BootLoader",
+      "pos": 534,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "CyberSpace",
+      "pos": 535,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "mikejam",
+      "pos": 536,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "jw3",
+      "pos": 537,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Red Team Lounge",
+      "pos": 538,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Kp",
+      "pos": 539,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Witcher",
+      "pos": 540,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Pixels",
+      "pos": 541,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "5Years",
+      "pos": 542,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "HighPull1",
+      "pos": 543,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Pigeon Squad",
+      "pos": 544,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Kaotik",
+      "pos": 545,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "abrxs",
+      "pos": 546,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "bolaisochungmayquaco",
+      "pos": 547,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "xwanan",
+      "pos": 548,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "ATMteam",
+      "pos": 549,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "NoObnOobFly",
+      "pos": 550,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "seta",
+      "pos": 551,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "pwnk1d113",
+      "pos": 552,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "TryAgainDz",
+      "pos": 553,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Nightraid",
+      "pos": 554,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": ".",
+      "pos": 555,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Chriskz",
+      "pos": 556,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "r29er",
+      "pos": 557,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "Bin",
+      "pos": 558,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "huytm",
+      "pos": 559,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "asdfasdf",
+      "pos": 560,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "BarnyardSlob",
+      "pos": 561,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "r00t",
+      "pos": 562,
+      "score": 0,
+      "taskStats": {}
+    },
+    {
+      "team": "123keepitup",
+      "pos": 563,
+      "score": 0,
+      "taskStats": {}
+    }
+  ],
+  "taskinfo": {
+    "atareee": {
+      "category": "rev",
+      "tags": []
+    },
+    "Tenbagger": {
+      "category": "misc",
+      "tags": []
+    },
+    "trading-api": {
+      "category": "web",
+      "tags": []
+    },
+    "Market Maker": {
+      "category": "rev",
+      "tags": []
+    },
+    "UnsAFe": {
+      "category": "pwn",
+      "tags": []
+    },
+    "Silver Water Industries": {
+      "category": "crypto",
+      "tags": []
+    },
+    "OLLVM Crypt": {
+      "category": "rev, crypto",
+      "tags": []
+    },
+    "Stonks Socket": {
+      "category": "pwn",
+      "tags": []
+    },
+    "OLLVM": {
+      "category": "rev",
+      "tags": []
+    },
+    "Emergency Operations": {
+      "category": "misc",
+      "tags": []
+    },
+    "Bookmarker": {
+      "category": "web",
+      "tags": []
+    },
+    "PYCOIN": {
+      "category": "rev",
+      "tags": []
+    },
+    "Touchy Logger": {
+      "category": "misc",
+      "tags": []
+    },
+    "Diamond Safe": {
+      "category": "web",
+      "tags": []
+    },
+    "Cloudinspect": {
+      "category": "pwn",
+      "tags": []
+    },
+    "secure-prototype": {
+      "category": "pwn",
+      "tags": []
+    },
+    "lwsr": {
+      "category": "crypto",
+      "tags": []
+    },
+    "faas 1": {
+      "category": "pwn",
+      "tags": []
+    },
+    "NodeNB": {
+      "category": "web",
+      "tags": []
+    },
+    "faas 2": {
+      "category": "pwn",
+      "tags": []
+    },
+    "WhatTheHecc": {
+      "category": "crypto",
+      "tags": []
+    },
+    "SeekingExploits": {
+      "category": "web",
+      "tags": []
+    },
+    "Responsible Disclosure": {
+      "category": "misc",
+      "tags": []
+    }
+  },
+  "date": 1635519600,
+  "name": "Hack.lu CTF 2021"
+}
