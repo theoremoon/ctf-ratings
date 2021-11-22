@@ -22,7 +22,7 @@ jobs:
           path: .venv
           key: venv-${{ runner.os }}-${{ hashFiles('**/poetry.lock') }}
       - run: poetry install 
-        if: steps.cache-venv.outputs.cache-hit != 'true'
+        # if: steps.cache-venv.outputs.cache-hit != 'true'
       - run: poetry run python makedb.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         if: success()
